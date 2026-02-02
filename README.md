@@ -2,11 +2,10 @@
 
 <div align="center">
 <a href="https://github.com/WangShao2000/Wiki_Live_Challenge/blob/main/LICENSE"><img src="https://img.shields.io/badge/Code_License-MIT-blue" alt="license"></a>
-<a href="http://101.132.131.78/benchmarks/wiki-live-challenge/index.html#home"><img src="https://img.shields.io/badge/Website-Wiki Live Challenge-green" alt="website"></a>
-<!-- <a href="https://huggingface.co/datasets/muset-ai/DeepResearch-Bench-Dataset"><img alt="Dataset" src="https://img.shields.io/badge/🤗%20Dataset-orange?color=FF6F00"></a>
-<a href="https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard"><img alt="Leaderboard" src="https://img.shields.io/badge/🏆%20Leaderboard-yellow?color=FFD700"></a>
-<a href="https://huggingface.co/spaces/Ayanami0730/DeepResearch-Leaderboard"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?color=8A2BE2"></a>
-<a href="https://arxiv.org/abs/2506.11763" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a> -->
+<a href="http://agentresearchlab.org/benchmarks/wiki-live-challenge/index.html#home"><img src="https://img.shields.io/badge/Website-Wiki Live Challenge-green" alt="website"></a>
+<a href="https://huggingface.co/datasets/muset-ai/Wiki_Live_Challenge"><img alt="Dataset" src="https://img.shields.io/badge/🤗%20Dataset-orange?color=FF6F00"></a>
+<a href="https://huggingface.co/spaces/muset-ai/Wiki-Live-Challenge-Leaderboard"><img alt="Leaderboard" src="https://img.shields.io/badge/🏆%20Leaderboard-yellow?color=FFD700"></a>
+<!-- <a href="https://arxiv.org/abs/2506.11763" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a> -->
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
