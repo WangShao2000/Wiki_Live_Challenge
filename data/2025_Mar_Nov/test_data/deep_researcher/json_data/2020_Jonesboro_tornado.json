@@ -1,0 +1,101 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "76393036": {
+        "pageid": 76393036,
+        "ns": 0,
+        "title": "2020_Jonesboro_tornado",
+        "extract": "The 2020 Jonesboro tornado, an EF3 tornado with winds up to 140 miles per hour, struck Jonesboro, Arkansas on March 28, 2020, causing substantial damage and injuring 22 people. The tornado, which was on the ground for 16 minutes and tracked for 12.55 miles (20.20 km), impacted the eastern portions of Jonesboro, a city in Craighead County, Arkansas. It damaged approximately 300 buildings and left many residents without a home.\n\nOn the afternoon of March 28, 2020, a large and intense tornado moved through Craighead County, Arkansas, United States, striking the eastern portions of Jonesboro. The tornado was classified as an EF3 by the National Weather Service, with winds reaching up to 140 miles per hour. The tornado was on the ground for 16 minutes and tracked for 12.55 miles (20.20 km).\n\nThe tornado caused substantial damage to the community, affecting approximately 300 buildings. Many residents were left without a home, and 22 people were injured as a result of the storm. The tornado particularly impacted the eastern parts of Jonesboro, where it damaged homes, businesses, and infrastructure, including the Mall at Turtle Creek, a major shopping center in the city.\n\nIn the aftermath of the tornado, emergency personnel and community organizations rallied to provide assistance to those affected. Aid efforts included search and rescue operations, medical care for the injured, and support for displaced residents. The local community and various organizations worked together to provide relief and initiate recovery efforts, including providing temporary housing and rebuilding damaged structures.\n\nThe 2020 Jonesboro tornado, although destructive, was a reminder of the importance of preparedness and community resilience. While the tornado caused significant damage and injuries, the community responded with solidarity and determination to rebuild and recover.",
+        "extract_with_citations": "The 2020 Jonesboro tornado, an EF3 tornado with winds up to 140 miles per hour, struck Jonesboro, Arkansas on March 28, 2020, causing substantial damage and injuring 22 people. The tornado, which was on the ground for 16 minutes and tracked for 12.55 miles (20.20 km), impacted the eastern portions of Jonesboro, a city in Craighead County, Arkansas. It damaged approximately 300 buildings and left many residents without a home.\n\nOn the afternoon of March 28, 2020, a large and intense tornado moved through Craighead County, Arkansas, United States, striking the eastern portions of Jonesboro. The tornado was classified as an EF3 by the National Weather Service, with winds reaching up to 140 miles per hour. The tornado was on the ground for 16 minutes and tracked for 12.55 miles (20.20 km).\n\nThe tornado caused substantial damage to the community, affecting approximately 300 buildings. Many residents were left without a home, and 22 people were injured as a result of the storm. The tornado particularly impacted the eastern parts of Jonesboro, where it damaged homes, businesses, and infrastructure, including the Mall at Turtle Creek, a major shopping center in the city.\n\nIn the aftermath of the tornado, emergency personnel and community organizations rallied to provide assistance to those affected. Aid efforts included search and rescue operations, medical care for the injured, and support for displaced residents. The local community and various organizations worked together to provide relief and initiate recovery efforts, including providing temporary housing and rebuilding damaged structures.\n\nThe 2020 Jonesboro tornado, although destructive, was a reminder of the importance of preparedness and community resilience. While the tornado caused significant damage and injuries, the community responded with solidarity and determination to rebuild and recover.",
+        "citation_urls": {},
+        "lead_content": "The 2020 Jonesboro tornado, an EF3 tornado with winds up to 140 miles per hour, struck Jonesboro, Arkansas on March 28, 2020, causing substantial damage and injuring 22 people. The tornado, which was on the ground for 16 minutes and tracked for 12.55 miles (20.20 km), impacted the eastern portions of Jonesboro, a city in Craighead County, Arkansas. It damaged approximately 300 buildings and left many residents without a home.",
+        "statements": [
+          {
+            "statement": "The 2020 Jonesboro tornado, an EF3 tornado with winds up to 140 miles per hour, struck Jonesboro, Arkansas on March 28, 2020, causing substantial damage and injuring 22 people."
+          },
+          {
+            "statement": "The tornado, which was on the ground for 16 minutes and tracked for 12.55 miles (20.20 km), impacted the eastern portions of Jonesboro, a city in Craighead County, Arkansas."
+          },
+          {
+            "statement": "It damaged approximately 300 buildings and left many residents without a home."
+          },
+          {
+            "statement": "On the afternoon of March 28, 2020, a large and intense tornado moved through Craighead County, Arkansas, United States, striking the eastern portions of Jonesboro."
+          },
+          {
+            "statement": "The tornado was classified as an EF3 by the National Weather Service, with winds reaching up to 140 miles per hour."
+          },
+          {
+            "statement": "The tornado was on the ground for 16 minutes and tracked for 12.55 miles (20.20 km)."
+          },
+          {
+            "statement": "The tornado caused substantial damage to the community, affecting approximately 300 buildings."
+          },
+          {
+            "statement": "Many residents were left without a home, and 22 people were injured as a result of the storm."
+          },
+          {
+            "statement": "The tornado particularly impacted the eastern parts of Jonesboro, where it damaged homes, businesses, and infrastructure, including the Mall at Turtle Creek, a major shopping center in the city."
+          },
+          {
+            "statement": "In the aftermath of the tornado, emergency personnel and community organizations rallied to provide assistance to those affected."
+          },
+          {
+            "statement": "Aid efforts included search and rescue operations, medical care for the injured, and support for displaced residents."
+          },
+          {
+            "statement": "The local community and various organizations worked together to provide relief and initiate recovery efforts, including providing temporary housing and rebuilding damaged structures."
+          },
+          {
+            "statement": "The tornado caused significant damage and injuries."
+          },
+          {
+            "statement": "The community responded with solidarity and determination to rebuild and recover."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "2020_Jonesboro_tornado",
+    "sections": [
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Path and Intensity",
+        "number": "1",
+        "index": "1",
+        "anchor": "Path_and_Intensity"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Impact on the Community",
+        "number": "2",
+        "index": "2",
+        "anchor": "Impact_on_the_Community"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Response and Recovery",
+        "number": "3",
+        "index": "3",
+        "anchor": "Response_and_Recovery"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Conclusion",
+        "number": "4",
+        "index": "4",
+        "anchor": "Conclusion"
+      }
+    ]
+  },
+  "fetched_at": 1766315432,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/2020_Jonesboro_tornado.md",
+  "source_org": "deep_researcher"
+}

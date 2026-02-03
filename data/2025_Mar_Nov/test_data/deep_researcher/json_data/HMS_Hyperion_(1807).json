@@ -1,0 +1,74 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "87183569": {
+        "pageid": 87183569,
+        "ns": 0,
+        "title": "HMS_Hyperion_(1807)",
+        "extract": "HMS Hyperion (1807) was a 32-gun frigate of the Royal Navy, copied from the design of the French frigate Magicienne. Commissioned in 1808, she served in various capacities during the Napoleonic Wars and the War of 1812. Notably, in 1818, HMS Hyperion was involved in the capture of the Rattlesnake after a 48-hour chase. The ship was broken up in 1833 after a relatively short career.\n\nThe lead section would be written as follows:\n\nHMS Hyperion (1807) was a 32-gun frigate of the Royal Navy, commissioned in 1808. During her service, she participated in various missions, including escorting convoys and patrolling the Caribbean. Notable during her career was the capture of the Rattlesnake in 1818. Despite her contributions, she was broken up in 1833.\n\nThe article will cover the following sections:\n1. Introduction\n2. Construction and Design\n3. Service and Missions\n4. Notable Events\n5. Aftermath and Legacy\n\nEach section will be written in a clear and concise manner, without using any of the words to watch and maintaining a neutral tone. Citations will be included at the end of the article.",
+        "extract_with_citations": "HMS Hyperion (1807) was a 32-gun frigate of the Royal Navy, copied from the design of the French frigate Magicienne. Commissioned in 1808, she served in various capacities during the Napoleonic Wars and the War of 1812. Notably, in 1818, HMS Hyperion was involved in the capture of the Rattlesnake after a 48-hour chase. The ship was broken up in 1833 after a relatively short career.\n\nThe lead section would be written as follows:\n\nHMS Hyperion (1807) was a 32-gun frigate of the Royal Navy, commissioned in 1808. During her service, she participated in various missions, including escorting convoys and patrolling the Caribbean. Notable during her career was the capture of the Rattlesnake in 1818. Despite her contributions, she was broken up in 1833.\n\nThe article will cover the following sections:\n1. Introduction\n2. Construction and Design\n3. Service and Missions\n4. Notable Events\n5. Aftermath and Legacy\n\nEach section will be written in a clear and concise manner, without using any of the words to watch and maintaining a neutral tone. Citations will be included at the end of the article.",
+        "citation_urls": {},
+        "lead_content": "HMS Hyperion (1807) was a 32-gun frigate of the Royal Navy, copied from the design of the French frigate Magicienne. Commissioned in 1808, she served in various capacities during the Napoleonic Wars and the War of 1812. Notably, in 1818, HMS Hyperion was involved in the capture of the Rattlesnake after a 48-hour chase. The ship was broken up in 1833 after a relatively short career.\n\nThe lead section would be written as follows:\n\nHMS Hyperion (1807) was a 32-gun frigate of the Royal Navy, commissioned in 1808. During her service, she participated in various missions, including escorting convoys and patrolling the Caribbean. Notable during her career was the capture of the Rattlesnake in 1818. Despite her contributions, she was broken up in 1833.\n\nThe article will cover the following sections:\n1. Introduction\n2. Construction and Design\n3. Service and Missions\n4. Notable Events\n5. Aftermath and Legacy\n\nEach section will be written in a clear and concise manner, without using any of the words to watch and maintaining a neutral tone. Citations will be included at the end of the article.",
+        "statements": [
+          {
+            "statement": "HMS Hyperion (1807) was a 32-gun frigate of the Royal Navy."
+          },
+          {
+            "statement": "HMS Hyperion (1807) was copied from the design of the French frigate Magicienne."
+          },
+          {
+            "statement": "HMS Hyperion (1807) was commissioned in 1808."
+          },
+          {
+            "statement": "HMS Hyperion (1807) served in various capacities during the Napoleonic Wars."
+          },
+          {
+            "statement": "HMS Hyperion (1807) served in various capacities during the War of 1812."
+          },
+          {
+            "statement": "In 1818, HMS Hyperion was involved in the capture of the Rattlesnake."
+          },
+          {
+            "statement": "The capture of the Rattlesnake occurred after a 48-hour chase."
+          },
+          {
+            "statement": "HMS Hyperion (1807) was broken up in 1833."
+          },
+          {
+            "statement": "HMS Hyperion (1807) had a relatively short career."
+          },
+          {
+            "statement": "HMS Hyperion (1807) was a 32-gun frigate of the Royal Navy."
+          },
+          {
+            "statement": "HMS Hyperion (1807) was commissioned in 1808."
+          },
+          {
+            "statement": "During her service, HMS Hyperion (1807) participated in various missions."
+          },
+          {
+            "statement": "HMS Hyperion (1807)'s missions included escorting convoys."
+          },
+          {
+            "statement": "HMS Hyperion (1807)'s missions included patrolling the Caribbean."
+          },
+          {
+            "statement": "The capture of the Rattlesnake in 1818 was notable during HMS Hyperion (1807)'s career."
+          },
+          {
+            "statement": "HMS Hyperion (1807) was broken up in 1833."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "HMS_Hyperion_(1807)",
+    "sections": []
+  },
+  "fetched_at": 1766315477,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/HMS_Hyperion_(1807).md",
+  "source_org": "deep_researcher"
+}

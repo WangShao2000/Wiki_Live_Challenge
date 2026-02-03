@@ -1,0 +1,11 @@
+# National_Geographic_Society_Headquarters
+
+The National Geographic Society Headquarters is an iconic site located in Washington, D.C., which has been the center of the organization's operations since its establishment in 1888. The headquarters underwent significant changes and expansions over the years, reflecting the evolving needs and growth of the organization. The location at 17th and M Streets, NW, has been home to the Society's headquarters since the 1904 construction of the first purpose-built building, Hubbard Hall. This two-story structure was designed by Hornblower & Hamilton and served as the home of the Society's museum and offices.
+
+Over the years, the headquarters has undergone several expansions and renovations. A second multifunctional building, completed in the 1980s, added a 400-seat theater and expanded the public space. The headquarters now consists of a ten-story, mid-century modern office building located at 1145 17th Street NW. This building's architecture is distinguished by its hipped roof with terracotta tiles, large arched windows, and a stone surround.
+
+The headquarters is not only a significant architectural landmark but also holds great historical and cultural significance. It has been the home of the Society's Explorers and center of operations for staff since 1888. The building's design encourages interaction and reflects the organization's commitment to exploration and discovery.
+
+In recent years, the Society has worked on expanding and enhancing the headquarters. Weiss/Manfredi's planning work offers a sophisticated and elegant approach, with buildings that encourage interaction while rooted in a larger urban context. The headquarters serves as a hub for the organization's global initiatives and has been a source of inspiration for many.
+
+The National Geographic Society Headquarters is a vital part of the organization's identity and continues to play a crucial role in supporting the Society's mission of exploration, research, and storytelling.

@@ -1,0 +1,63 @@
+# Assassination of George Lincoln Rockwell
+
+George Lincoln Rockwell, the founder and leader of the American Nazi Party, was assassinated on August 25, 1967, in Arlington County, Virginia. The shooting occurred just before noon as Rockwell left a local laundromat situated in the Dominion Hills shopping center on Wilson Boulevard. Within moments of departing the facility, two shots were fired from the roof of a nearby building—a beauty salon—by a sniper. Both bullets penetrated the windshield of Rockwell’s car, striking him in the head and chest. He died at the scene and was pronounced dead shortly thereafter.
+
+### Background
+
+George Lincoln Rockwell was born in Illinois in 1918 and became widely known as a controversial political figure. During World War II, he served in the United States Navy as a pilot. In 1959, he established the American Nazi Party, originally named the World Union of Free Enterprise and National Socialists. Rockwell garnered national attention for his antisemitic, racist, and neo-Nazi rhetoric. He advocated for the deportation of African Americans to Africa and the dispossession and sterilization of Jews. His activities frequently led to fines and prison sentences for violating laws against hate speech and public disturbance. Over the next several years, Rockwell and his followers routinely appeared at civil rights meetings and demonstrations, stoking controversy across the United States.
+
+### The Assassination
+
+On the day of his death, Rockwell was seen exiting the coin-operated laundry of the Dominion Hills shopping center. Witnesses reported seeing him back his blue-and-white Chevrolet out of a parking space when gunshots rang out from the adjacent beauty salon roof. Two bullets passed through the vehicle’s windshield and hit him in the chest and head. Rockwell was fatally wounded almost instantly, falling beside his car amid the debris of his laundry box and newspaper.
+
+Eyewitness accounts confirmed the manner of the attack: Rockwell stumbled out of his car on the passenger side and collapsed onto the ground as onlookers attempted to administer aid. Emergency responders arrived soon afterward, but declared him dead at the scene.
+
+### Investigation and Arrest
+
+Within minutes of the shooting, police launched an investigation and mobilized resources throughout the neighborhood. Reports indicated that a "young, slim man in dark clothing" had been seen fleeing along the shopping center’s roof, scaling fences, and disappearing into the surrounding residential yards. Police quickly arrested John Patler, a 29-year-old New York native, approximately half an hour later near a bus stop on Washington Boulevard—about three-quarters of a mile from the crime scene. Patler was known as a "captain" in Rockwell's Storm Troopers, the party's paramilitary wing, and had been dismissed from the organization in April 1967 following disputes with Rockwell.
+
+During interrogation, Patler was sweating heavily and exhibited signs of agitation: his trousers were wet to above the knees, his shirt damp on the back, and he was wearing a towel around his neck. Though he denied possession of a weapon at the time of arrest, the actual murder firearm—a German Mauser semiautomatic pistol chambered in 7.63 mm—was discovered abandoned nearby in Four Mile Run, a small stream in Bon Air Park. Ballistic testing matched the recovered firearm to the shell casings found on the roof of the beauty salon, providing crucial physical evidence linking Patler to the crime.
+
+### Motive
+
+John Patler’s motive centered on internal party strife and escalating personal animosity toward Rockwell. Years prior to the assassination, Patler rose through the ranks of the American Nazi Party, but their relationship deteriorated amid increasingly heated arguments about ideology, membership, and party direction. By March 1967, Rockwell relieved Patler of his duties as editor of the party’s magazine, “The Storm Trooper.” A month later, Patler was summarily expelled from the organization. Throughout these conflicts, Patler made repeated statements—such as “Rockwell is an evil genius and he must be stopped”—to other party members about his intentions to oppose or eliminate Rockwell. These statements contributed to the prosecution’s argument that patel harbored a deliberate intent to harm his former leader.
+
+### Trial and Sentencing
+
+Patler’s trial opened in December 1967 before an Arlington County jury. Prosecutors presented both direct and circumstantial evidence, including eyewitness testimony identifying Patler near the escape route, ballistics linking his stolen Mauser pistol to the crime, and documentation of his distinctive attire and physical characteristics. Defense witnesses attempted to establish that Patler was elsewhere at the time of the shooting, but the jury found these claims inconsistent with available evidence.
+
+On December 15, 1967, after just four hours of deliberation, the jury convicted Patler of first-degree murder. He was sentenced to 20 years in prison. Patler’s appeal argued insufficient evidence, but the judgment was affirmed by the Virginia Supreme Court in 1970, citing the overwhelming weight of the physical and testimonial record. The U.S. Supreme Court subsequently denied his petition for further review.
+
+Patler began serving his sentence in a state correctional facility in Virginia. He was paroled in 1975, though subsequent parole violations resulted in additional periods of incarceration into the early 1980s. After release, he reverted to his original Greek surname and moved away from public life.
+
+### Aftermath and Legacy
+
+The immediate aftermath of Rockwell’s assassination saw a leadership vacuum within the American Nazi Party. Matt Koehl, previously second-in-command, assumed control and guided the party’s operations. Attempts to continue Rockwell’s legacy were hampered by division, decreased influence, and ongoing infighting. The party’s flagship activities dwindled significantly in the years following the assassination, although splinter groups maintained a presence.
+
+Rockwell’s death also triggered complex negotiations over his burial. The Pentagon refused permission for his remains to be interred in Culpeper National Cemetery because party members wore swastika armbands at funeral services. His body was instead secretly disposed of at party headquarters in Arlington.
+
+The assassination remains a notable example of intra-extremist violence and factionalism within radical right-wing movements in the United States. The killer, John Patler, became emblematic of internal ideological disputes and power struggles among white supremacist organizations. Rockwell’s assassination drew national and international attention to the volatile nature of extremist politics and underscored how ideological conflict can escalate to lethal extremes.
+
+### Key Facts Table
+
+| Aspect                 | Detail                                                                                       |
+|------------------------|---------------------------------------------------------------------------------------------|
+| Date                   | August 25, 1967                                                                             |
+| Location               | Dominion Hills shopping center, Arlington County, Virginia                                  |
+| Victim                 | George Lincoln Rockwell                                                                     |
+| Shooter                | John Patler (born John C. Patsalos)                                                         |
+| Weapon                 | German Mauser semiautomatic pistol (7.63 mm)                                                |
+| Motive                 | Internal party disagreement, expulsion, personal animosity                                   |
+| Arrest                 | Approximately 30 minutes after shooting at a bus stop near Washington Boulevard              |
+| Conviction             | First-degree murder (jury verdict)                                                          |
+| Sentence               | 20 years imprisonment                                                                       |
+| Trial                  | December 1967, affirmed on appeal (Virginia Supreme Court, 1970; U.S. Supreme Court denied review) |
+| Leadership Transition  | Matt Koehl succeeded as leader of the American Nazi Party                                   |
+
+### References
+
+1. The New York Times. “Rockwell U.S. Nazi Slain; Ex-Aide Is Held as Sniper.”  
+2. BBC News. “‘American Hitler’ shot dead,” On This Day, August 25, 1967.  
+3. Arlington Historical Society. “The Assassination of an Arlington Nazi.”  
+4. Patler v. Commonwealth, 211 Va. 448 (1970).  
+5. Patler v. Commonwealth, 503 F.2d 472 (4th Cir. 1974).

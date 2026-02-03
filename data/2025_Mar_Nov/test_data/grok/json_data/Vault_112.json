@@ -1,0 +1,641 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "11097897": {
+        "pageid": 11097897,
+        "ns": 0,
+        "title": "Vault_112",
+        "extract": "### Background\nVault-Tec Corporation, a pre-war contractor for the United States government, built a network of 122 public vaults across the country, each with a stated goal of preserving human life during nuclear armageddon. In reality, many incorporated social or scientific experiments to gather data for Vault-Tec's Societal Preservation Program. Vault 112 fits this pattern, with construction documented as starting in November 2068 and completing in June 2074, making it one of the later vaults finished before the Great War on October 23, 2077. It was sealed around 2075, based on in-game robotic dialogue noting arrivals as approximately 202 years overdue in the year 2277. \n\nThe facility was designed with a capacity for 85 occupants, though accounts show only a fraction in use. Its primary function was to house and support Dr. Stanislaus Braun, who directed the experiment. Braun, a German-born inventor known for the G.E.C.K.—a device capable of terraforming irradiated landscapes—chose Vault 112 as his personal retreat. Equipped with advanced virtual reality systems, the vault allowed for indefinite suspension of residents in simulated worlds, isolated from the external wasteland. Geothermal power from brands like Sure Power ensured self-sufficiency, while a Think Machine 3600r mainframe managed both vault operations and simulation controls. Unlike typical vaults focused on population survival or behavioral studies, Vault 112 emphasized individual psychological endurance in virtual settings.\n\n### Location and Layout\nVault 112 is situated in the southwestern portion of the Capital Wasteland, the game's setting encompassing the ruins of Washington, D.C., and surrounding areas. It is hidden beneath Smith Casey's Garage, a pre-war automotive repair shop located west of Evergreen Mills and south of a structure known as the Charnel House. Surface access involves entering the garage, which may contain low-level threats such as radroaches (mutated cockroaches) and mole rats (burrowing rodents adapted to radiation). A switch inside the garage reveals a descending staircase leading to a hatch and passageway, culminating at the vault's blast door.\n\nThe interior layout is compact compared to other vaults, reflecting its specialized design. The entrance airlock connects to a main hall featuring 12 Tranquility Loungers—stasis pods arranged around a central pillar, each wired to terminals monitoring vital signs and stress levels. Ten of these are occupied by residents, one is damaged, and two are available for temporary use. South of the hall lies the overseer's office, containing an additional lounger for Braun. An eastern medical unit provides basic facilities, while the geothermal turbine level remains inaccessible. The vault is maintained by 12 non-hostile Robobrains—humanoid robots with organic brains, lacking combat inhibitors but programmed for caretaking. No elevators or multi-level living quarters are present, emphasizing functionality over communal space. Storage includes lockers with items like Vault 112 jumpsuits, which residents must wear for pod entry, though exceptions occur in gameplay.\n\n| Area | Description | Key Features |\n|------|-------------|--------------|\n| Surface Garage | Entry point with minor environmental hazards | Switch-activated staircase; radroaches and mole rats |\n| Entrance Passage | Connecting tunnel to vault door | Basic corridor; no notable threats |\n| Main Hall | Central chamber for simulations | 12 Tranquility Loungers; monitoring terminals; Robobrain patrols |\n| Overseer's Office | Southern annex | Additional lounger; administrative controls |\n| Medical Unit | Eastern room | Health monitoring equipment; storage |\n| Geothermal Level | Inaccessible power source | Primary and secondary geothermal units |\n\n### Experiment\nThe vault's experiment centered on virtual reality suspension, where occupants entered stasis pods linked to simulations via Visiontron technology. Initially, Braun created utopian environments to provide escape from post-war reality, with residents unaware of the external world. However, Braun's isolation led to boredom, prompting him to alter simulations for entertainment. He repeatedly killed virtual avatars, erased memories, and resurrected participants, turning the experiment into a cycle of torment. Terminal entries detail failed scenarios, such as \"Toucan Lagoon,\" where residents were devoured by sharks, and \"Slalom Chalet,\" involving fatal accidents in a snowy landscape. The final simulation, Tranquility Lane, depicted a 1950s-style American suburb inspired by Braun's hometown of Kronach, Germany. Within it, Braun assumed the form of a young girl named Betty, assigning disturbing tasks to inhabitants.\n\nSources indicate the experiment's success depends on perspective: it achieved indefinite suspension but failed as a haven due to Braun's actions. One resident, referred to as Old Lady Dithers, detected anomalies like vital sign irregularities, suggesting partial awareness among subjects. The setup's vulnerabilities include an internal failsafe—a puzzle involving a musical sequence in an abandoned virtual house—and external options like disrupting geothermal power. These features made the system susceptible to outside interference, as noted in analyses of the vault's lore.\n\n| Simulation Name | Description | Outcome |\n|-----------------|-------------|---------|\n| Toucan Lagoon | Tropical paradise with hidden dangers | Residents devoured by virtual sharks; abandoned due to boredom |\n| Slalom Chalet | Winter alpine setting | Fatal impalement incident; simulation terminated |\n| Tranquility Lane | Suburban neighborhood | Ongoing torment; includes disguised overseer and player tasks |\n\n### Role in Fallout 3\nIn *Fallout 3*, Vault 112 is integral to the main questline. The player character, known as the Lone Wanderer, arrives seeking their father, James, who entered the vault during \"Scientific Pursuits.\" Upon entry, a Robobrain provides a jumpsuit and directs the player to a lounger, initiating the Tranquility Lane quest. Within the simulation, the player must navigate Braun's directives or activate the failsafe, which ends the program but leaves Braun trapped. This sequence affects player morality, with compliant actions reducing karma. Discussions among players highlight the vault as a potential point for sequence-breaking, allowing skips in earlier quests by direct access. Post-quest, the vault remains explorable, with residents freed or deceased depending on choices.\n\n### Appearances\nVault 112 appears in *Fallout 3* as a visitable location. It also features in *Fallout Shelter Online* (2019), a mobile spin-off, though in a limited capacity. No other mainline entries in the series include it.\n\n### Development\nThe vault's layout was designed by level artist Jesse Tucker at Bethesda Game Studios. In-game terminals, such as those in the Citadel (a Brotherhood of Steel base), provide construction details and Vault-Tec listings. References to a stolen memory chip from the vault appear in Rivet City logs, tying into side quests involving androids.\n\n## References:\n- https://fallout.wiki/wiki/Vault_112\n- https://fallout.fandom.com/wiki/Vault_112\n- https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/\n- https://gamefaqs.gamespot.com/ps3/939932-fallout-3/answers/21445-where-the-hell-is-vault-112-\n- https://www.reddit.com/r/Fallout/comments/152nbv5/what_is_vault_112/",
+        "citation_urls": {},
+        "statements": [
+          {
+            "fact": "Vault 112 is a fictional underground shelter in the *Fallout* video game series, primarily appearing in *Fallout 3* (2008).",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112, constructed by Vault-Tec Corporation as part of a broader network of vaults meant to preserve human life during nuclear apocalypse, instead functioned as the site of a long-term virtual reality experiment.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Overseer Stanislaus Braun, a prominent scientist, used Vault 112 to suspend residents in simulated environments, where he exercised control over their experiences for centuries.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Research indicates Vault 112's design prioritized simulation technology over standard survival features, making it one of the smaller and more specialized vaults in the series.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 features in key quests, highlighting themes of isolation, power, and ethical boundaries in post-apocalyptic settings.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Evidence suggests Vault 112 was built between 2068 and 2074, with a stated capacity for 85 occupants, though fewer appear in active use.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "The experiment involved placing residents in virtual reality pods, intended for indefinite suspension, but it devolved into repeated cycles of simulated death and memory erasure under Braun's direction.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 is located in the Capital Wasteland region of *Fallout 3*.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 is accessed through a surface garage and maintained by robotic caretakers.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 serves a pivotal role in the game's narrative, involving player interaction with the simulation to advance the story.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Sources describe Vault 112 as intact and radiation-free, unlike many others in the series.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112's security measures have been noted as relatively accessible.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Records from in-game terminals show Vault 112's construction began in November 2068 and ended in June 2074, predating the Great War of 2077.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 was equipped with geothermal power and virtual reality systems to house Braun and test prolonged simulation effects.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "While officially part of Vault-Tec's preservation program, Vault 112 prioritized Braun's research, including the development of environments where occupants lived unaware of their true circumstances.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 is situated southwest in the Capital Wasteland, beneath Smith Casey's Garage, near areas like Evergreen Mills.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Entry to Vault 112 requires navigating minor threats such as radroaches and mole rats on the surface, then activating a hidden mechanism to descend.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "The interior of Vault 112 remains operational, powered by geothermal sources.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 is one of the few vaults free from radiation or mutations.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "In *Fallout 3*, Vault 112 is encountered during main quests like \"Scientific Pursuits,\" where players enter to locate a missing character.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Interaction in Vault 112 involves donning a jumpsuit, entering a pod, and navigating a simulation called Tranquility Lane—a suburban setting where Braun, disguised as a child, assigns tasks.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Options in the Tranquility Lane simulation include complying with directives or activating a failsafe, affecting player karma and outcomes.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Sources note this sequence allows for potential sequence-breaking, enabling early access to later story elements.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 uses Robobrain robots for maintenance, a unique choice among Capital Wasteland vaults.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112's experiment raises questions about vulnerability.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Accounts describe a simple puzzle-based failsafe within the simulation and external power disruptions as ways to interfere with Vault 112's experiment.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "While praised for narrative depth, some discussions highlight inconsistencies in Vault 112, such as the gap between stated capacity and observed pods.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 is a fictional underground bunker in the *Fallout* video game series, developed by Bethesda Game Studios.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 appears primarily in the role-playing game *Fallout 3* (2008), set in a post-apocalyptic world following a nuclear war in 2077.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "As one of the Vault-Tec Corporation's experimental facilities, Vault 112 was ostensibly designed to shelter a small population from the fallout of atomic conflict.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Like many vaults in the series, Vault 112 served a hidden purpose: to facilitate a long-term psychological study using virtual reality technology.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Under the direction of its overseer, Dr. Stanislaus Braun—a scientist credited with inventing the Garden of Eden Creation Kit (G.E.C.K.)—Vault 112's residents were placed in stasis pods connected to simulations.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Over more than two centuries, Braun manipulated these environments, subjecting occupants to repeated cycles of virtual death, resurrection, and memory wipes to alleviate his boredom.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112's narrative explores themes of control, isolation, and the ethical implications of advanced technology in a dystopian society.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 is encountered in *Fallout 3*'s main storyline, where it plays a central role in quests involving family reunion and scientific pursuit.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Sources describe Vault 112 as one of the smallest and most intact vaults, powered by geothermal energy and maintained by robots, distinguishing it from others ravaged by radiation or experiments gone awry.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault-Tec Corporation, a pre-war contractor for the United States government, built a network of 122 public vaults across the country, each with a stated goal of preserving human life during nuclear armageddon.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Many vaults incorporated social or scientific experiments to gather data for Vault-Tec's Societal Preservation Program.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 fits this pattern, with construction documented as starting in November 2068 and completing in June 2074, making it one of the later vaults finished before the Great War on October 23, 2077.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 was sealed around 2075, based on in-game robotic dialogue noting arrivals as approximately 202 years overdue in the year 2277.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "The facility was designed with a capacity for 85 occupants, though accounts show only a fraction in use.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112",
+              "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+            ]
+          },
+          {
+            "fact": "Vault 112's primary function was to house and support Dr. Stanislaus Braun, who directed the experiment.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "Braun, a German-born inventor known for the G.E.C.K.—a device capable of terraforming irradiated landscapes—chose Vault 112 as his personal retreat.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "Equipped with advanced virtual reality systems, Vault 112 allowed for indefinite suspension of residents in simulated worlds, isolated from the external wasteland.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "Geothermal power from brands like Sure Power ensured self-sufficiency in Vault 112.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "A Think Machine 3600r mainframe managed both vault operations and simulation controls in Vault 112.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Unlike typical vaults focused on population survival or behavioral studies, Vault 112 emphasized individual psychological endurance in virtual settings.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 is situated in the southwestern portion of the Capital Wasteland, the game's setting encompassing the ruins of Washington, D.C., and surrounding areas.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112",
+              "https://gamefaqs.gamespot.com/ps3/939932-fallout-3/answers/21445-where-the-hell-is-vault-112-"
+            ]
+          },
+          {
+            "fact": "Vault 112 is hidden beneath Smith Casey's Garage, a pre-war automotive repair shop located west of Evergreen Mills and south of a structure known as the Charnel House.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112",
+              "https://gamefaqs.gamespot.com/ps3/939932-fallout-3/answers/21445-where-the-hell-is-vault-112-"
+            ]
+          },
+          {
+            "fact": "Surface access to Vault 112 involves entering the garage, which may contain low-level threats such as radroaches (mutated cockroaches) and mole rats (burrowing rodents adapted to radiation).",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "A switch inside the garage reveals a descending staircase leading to a hatch and passageway, culminating at the vault's blast door.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "The interior layout of Vault 112 is compact compared to other vaults, reflecting its specialized design.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "The entrance airlock connects to a main hall featuring 12 Tranquility Loungers—stasis pods arranged around a central pillar, each wired to terminals monitoring vital signs and stress levels.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Ten of the Tranquility Loungers are occupied by residents, one is damaged, and two are available for temporary use.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "South of the main hall lies the overseer's office, containing an additional lounger for Braun.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "An eastern medical unit provides basic facilities in Vault 112.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "The geothermal turbine level remains inaccessible in Vault 112.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 is maintained by 12 non-hostile Robobrains—humanoid robots with organic brains, lacking combat inhibitors but programmed for caretaking.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "No elevators or multi-level living quarters are present in Vault 112, emphasizing functionality over communal space.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Storage in Vault 112 includes lockers with items like Vault 112 jumpsuits, which residents must wear for pod entry, though exceptions occur in gameplay.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "The vault's experiment centered on virtual reality suspension, where occupants entered stasis pods linked to simulations via Visiontron technology.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112",
+              "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+            ]
+          },
+          {
+            "fact": "Initially, Braun created utopian environments to provide escape from post-war reality, with residents unaware of the external world.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "Braun's isolation led to boredom, prompting him to alter simulations for entertainment.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "Braun repeatedly killed virtual avatars, erased memories, and resurrected participants, turning the experiment into a cycle of torment.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "Terminal entries detail failed scenarios, such as \"Toucan Lagoon,\" where residents were devoured by sharks, and \"Slalom Chalet,\" involving fatal accidents in a snowy landscape.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "The final simulation, Tranquility Lane, depicted a 1950s-style American suburb inspired by Braun's hometown of Kronach, Germany.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "Within Tranquility Lane, Braun assumed the form of a young girl named Betty, assigning disturbing tasks to inhabitants.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "Sources indicate the experiment's success depends on perspective: it achieved indefinite suspension but failed as a haven due to Braun's actions.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "One resident, referred to as Old Lady Dithers, detected anomalies like vital sign irregularities, suggesting partial awareness among subjects.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "The setup's vulnerabilities include an internal failsafe—a puzzle involving a musical sequence in an abandoned virtual house—and external options like disrupting geothermal power.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "These features made the system susceptible to outside interference, as noted in analyses of the vault's lore.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "In *Fallout 3*, Vault 112 is integral to the main questline.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "The player character, known as the Lone Wanderer, arrives seeking their father, James, who entered Vault 112 during \"Scientific Pursuits.\"",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Upon entry, a Robobrain provides a jumpsuit and directs the player to a lounger, initiating the Tranquility Lane quest.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Within the simulation, the player must navigate Braun's directives or activate the failsafe, which ends the program but leaves Braun trapped.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112",
+              "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+            ]
+          },
+          {
+            "fact": "This sequence affects player morality, with compliant actions reducing karma.",
+            "ref_idx": null,
+            "url": "https://gamerant.com/fallout-3-vault-112-vr-experiment-hijack-easy-reason-lore-explained/"
+          },
+          {
+            "fact": "Discussions among players highlight Vault 112 as a potential point for sequence-breaking, allowing skips in earlier quests by direct access.",
+            "ref_idx": null,
+            "url": "https://www.reddit.com/r/Fallout/comments/152nbv5/what_is_vault_112/"
+          },
+          {
+            "fact": "Post-quest, Vault 112 remains explorable, with residents freed or deceased depending on choices.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 appears in *Fallout 3* as a visitable location.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          },
+          {
+            "fact": "Vault 112 also features in *Fallout Shelter Online* (2019), a mobile spin-off, though in a limited capacity.",
+            "ref_idx": null,
+            "url": "https://fallout.wiki/wiki/Vault_112"
+          },
+          {
+            "fact": "No other mainline entries in the series include Vault 112.",
+            "ref_idx": null,
+            "url": "https://fallout.wiki/wiki/Vault_112"
+          },
+          {
+            "fact": "The vault's layout was designed by level artist Jesse Tucker at Bethesda Game Studios.",
+            "ref_idx": null,
+            "url": "https://fallout.fandom.com/wiki/Vault_112"
+          },
+          {
+            "fact": "In-game terminals, such as those in the Citadel (a Brotherhood of Steel base), provide construction details and Vault-Tec listings for Vault 112.",
+            "ref_idx": null,
+            "url": "https://fallout.wiki/wiki/Vault_112"
+          },
+          {
+            "fact": "References to a stolen memory chip from Vault 112 appear in Rivet City logs, tying into side quests involving androids.",
+            "ref_idx": null,
+            "url": [
+              "https://fallout.wiki/wiki/Vault_112",
+              "https://fallout.fandom.com/wiki/Vault_112"
+            ]
+          }
+        ],
+        "citation_contents": {},
+        "source_file": "grok/md_data/Vault_112.md"
+      }
+    }
+  }
+}

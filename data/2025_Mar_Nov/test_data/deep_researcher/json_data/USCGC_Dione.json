@@ -1,0 +1,76 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "78450325": {
+        "pageid": 78450325,
+        "ns": 0,
+        "title": "USCGC_Dione",
+        "extract": "The USCGC Dione (WPC-107) was a patrol vessel of the Thetis-class operated by the United States Coast Guard from 1934 to 1963. It was built by Manitowoc Shipbuilding Co. in 1934 and served in various capacities, including enforcing prohibition and stopping alcohol smuggling. During World War II, the Dione participated in the Second Happy Time, a period when German U-boats were particularly active in the Atlantic. The ship was decommissioned in 1963 and sold in 1964.\n\nUSCGC Dione was 165 feet long, with a maximum beam of 25 feet 3 inches and a draft of 9 feet 6 inches. It had a speed of 16 knots and was designed to serve as a patrol vessel. The ship was capable of carrying two 3-inch/50 caliber deck guns, two 20mm anti-aircraft guns, and two depth charge tracks.\n\nDuring its service, the USCGC Dione participated in various missions, including the rescue of survivors from torpedoed ships. In April 1942, the Dione picked up one survivor from an oil tanker that was torpedoed. The ship also played a role in the Second Happy Time, a period during World War II when German U-boats were particularly active in the Atlantic. In one notable event, the Dione became the only large ship in the Fifth Naval District capable of opposing German U-boats.",
+        "extract_with_citations": "The USCGC Dione (WPC-107) was a patrol vessel of the Thetis-class operated by the United States Coast Guard from 1934 to 1963. It was built by Manitowoc Shipbuilding Co. in 1934 and served in various capacities, including enforcing prohibition and stopping alcohol smuggling. During World War II, the Dione participated in the Second Happy Time, a period when German U-boats were particularly active in the Atlantic. The ship was decommissioned in 1963 and sold in 1964.\n\nUSCGC Dione was 165 feet long, with a maximum beam of 25 feet 3 inches and a draft of 9 feet 6 inches. It had a speed of 16 knots and was designed to serve as a patrol vessel. The ship was capable of carrying two 3-inch/50 caliber deck guns, two 20mm anti-aircraft guns, and two depth charge tracks.\n\nDuring its service, the USCGC Dione participated in various missions, including the rescue of survivors from torpedoed ships. In April 1942, the Dione picked up one survivor from an oil tanker that was torpedoed. The ship also played a role in the Second Happy Time, a period during World War II when German U-boats were particularly active in the Atlantic. In one notable event, the Dione became the only large ship in the Fifth Naval District capable of opposing German U-boats.",
+        "citation_urls": {},
+        "lead_content": "The USCGC Dione (WPC-107) was a patrol vessel of the Thetis-class operated by the United States Coast Guard from 1934 to 1963. It was built by Manitowoc Shipbuilding Co. in 1934 and served in various capacities, including enforcing prohibition and stopping alcohol smuggling. During World War II, the Dione participated in the Second Happy Time, a period when German U-boats were particularly active in the Atlantic. The ship was decommissioned in 1963 and sold in 1964.",
+        "statements": [
+          {
+            "statement": "The USCGC Dione (WPC-107) was a patrol vessel of the Thetis-class operated by the United States Coast Guard from 1934 to 1963."
+          },
+          {
+            "statement": "It was built by Manitowoc Shipbuilding Co. in 1934 and served in various capacities, including enforcing prohibition and stopping alcohol smuggling."
+          },
+          {
+            "statement": "During World War II, the Dione participated in the Second Happy Time, a period when German U-boats were particularly active in the Atlantic."
+          },
+          {
+            "statement": "The ship was decommissioned in 1963 and sold in 1964."
+          },
+          {
+            "statement": "USCGC Dione was 165 feet long, with a maximum beam of 25 feet 3 inches and a draft of 9 feet 6 inches."
+          },
+          {
+            "statement": "It had a speed of 16 knots and was designed to serve as a patrol vessel."
+          },
+          {
+            "statement": "The ship was capable of carrying two 3-inch/50 caliber deck guns, two 20mm anti-aircraft guns, and two depth charge tracks."
+          },
+          {
+            "statement": "During its service, the USCGC Dione participated in various missions, including the rescue of survivors from torpedoed ships."
+          },
+          {
+            "statement": "In April 1942, the Dione picked up one survivor from an oil tanker that was torpedoed."
+          },
+          {
+            "statement": "The ship also played a role in the Second Happy Time, a period during World War II when German U-boats were particularly active in the Atlantic."
+          },
+          {
+            "statement": "In one notable event, the Dione became the only large ship in the Fifth Naval District capable of opposing German U-boats."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "USCGC_Dione",
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Specifications",
+        "number": "1",
+        "index": "1",
+        "anchor": "Specifications"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Notable Events",
+        "number": "2",
+        "index": "2",
+        "anchor": "Notable_Events"
+      }
+    ]
+  },
+  "fetched_at": 1766315531,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/USCGC_Dione.md",
+  "source_org": "deep_researcher"
+}

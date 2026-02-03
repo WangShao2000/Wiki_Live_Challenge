@@ -1,0 +1,96 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "98594309": {
+        "pageid": 98594309,
+        "ns": 0,
+        "title": "Dulles_International_Airport_Main_Terminal",
+        "extract": "The main terminal of Dulles International Airport is a significant structure in Northern Virginia, designed by renowned architect Eero Saarinen and completed in 1962. It was expanded in 1996 and 1997 to its current size of 1.1 million square feet, making it one of the largest airport terminals in the United States.\n\nThe construction of the airport started in 1958, with the first terminal being designed by Eero Saarinen. The original structure, 600 feet (180 m) long and 150 feet (46 m) wide, was completed in 1962. In 1966, a new midfield terminal was added to allow for more simultaneous operations. Further additions came in the 1970s. The terminal was extended in 1996 and 1997, doubling its original size to 1,240 feet in length and 1.1 million square feet in total area. The expansion was in line with the airport's growing passenger traffic.\n\nThe Dulles International Airport Main Terminal is located in Loudoun and Fairfax counties in Dulles, Virginia, United States. It is easily accessible via public transportation, including the Metro Silver Line, which connects the airport to the Washington, D.C. area.\n\nThe terminal, designed by Eero Saarinen, is known for its unique and iconic design. It spans 1.1 million square feet and is close to a quarter-mile in length. The interior features notable features such as escalators leading to the baggage claim area.\n\nSeveral major airlines operate out of the main terminal, including American Airlines, United Airlines, and Delta Air Lines. The terminal has also hosted numerous notable events, including the arrival of Air Force One and the departure of dignitaries and celebrities.",
+        "extract_with_citations": "The main terminal of Dulles International Airport is a significant structure in Northern Virginia, designed by renowned architect Eero Saarinen and completed in 1962. It was expanded in 1996 and 1997 to its current size of 1.1 million square feet, making it one of the largest airport terminals in the United States.\n\nThe construction of the airport started in 1958, with the first terminal being designed by Eero Saarinen. The original structure, 600 feet (180 m) long and 150 feet (46 m) wide, was completed in 1962. In 1966, a new midfield terminal was added to allow for more simultaneous operations. Further additions came in the 1970s. The terminal was extended in 1996 and 1997, doubling its original size to 1,240 feet in length and 1.1 million square feet in total area. The expansion was in line with the airport's growing passenger traffic.\n\nThe Dulles International Airport Main Terminal is located in Loudoun and Fairfax counties in Dulles, Virginia, United States. It is easily accessible via public transportation, including the Metro Silver Line, which connects the airport to the Washington, D.C. area.\n\nThe terminal, designed by Eero Saarinen, is known for its unique and iconic design. It spans 1.1 million square feet and is close to a quarter-mile in length. The interior features notable features such as escalators leading to the baggage claim area.\n\nSeveral major airlines operate out of the main terminal, including American Airlines, United Airlines, and Delta Air Lines. The terminal has also hosted numerous notable events, including the arrival of Air Force One and the departure of dignitaries and celebrities.",
+        "citation_urls": {},
+        "lead_content": "The main terminal of Dulles International Airport is a significant structure in Northern Virginia, designed by renowned architect Eero Saarinen and completed in 1962. It was expanded in 1996 and 1997 to its current size of 1.1 million square feet, making it one of the largest airport terminals in the United States.",
+        "statements": [
+          {
+            "statement": "The main terminal of Dulles International Airport is a significant structure in Northern Virginia, designed by renowned architect Eero Saarinen and completed in 1962."
+          },
+          {
+            "statement": "It was expanded in 1996 and 1997 to its current size of 1.1 million square feet, making it one of the largest airport terminals in the United States."
+          },
+          {
+            "statement": "The construction of the airport started in 1958, with the first terminal being designed by Eero Saarinen."
+          },
+          {
+            "statement": "The original structure, 600 feet (180 m) long and 150 feet (46 m) wide, was completed in 1962."
+          },
+          {
+            "statement": "In 1966, a new midfield terminal was added to allow for more simultaneous operations."
+          },
+          {
+            "statement": "Further additions came in the 1970s."
+          },
+          {
+            "statement": "The terminal was extended in 1996 and 1997, doubling its original size to 1,240 feet in length and 1.1 million square feet in total area."
+          },
+          {
+            "statement": "The expansion was in line with the airport's growing passenger traffic."
+          },
+          {
+            "statement": "The Dulles International Airport Main Terminal is located in Loudoun and Fairfax counties in Dulles, Virginia, United States."
+          },
+          {
+            "statement": "It is easily accessible via public transportation, including the Metro Silver Line, which connects the airport to the Washington, D.C. area."
+          },
+          {
+            "statement": "The terminal, designed by Eero Saarinen, is known for its unique and iconic design."
+          },
+          {
+            "statement": "It spans 1.1 million square feet and is close to a quarter-mile in length."
+          },
+          {
+            "statement": "The interior features notable features such as escalators leading to the baggage claim area."
+          },
+          {
+            "statement": "Several major airlines operate out of the main terminal, including American Airlines, United Airlines, and Delta Air Lines."
+          },
+          {
+            "statement": "The terminal has also hosted numerous notable events, including the arrival of Air Force One and the departure of dignitaries and celebrities."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Dulles_International_Airport_Main_Terminal",
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "History",
+        "number": "1",
+        "index": "1",
+        "anchor": "History"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Location and Facilities",
+        "number": "2",
+        "index": "2",
+        "anchor": "Location_and_Facilities"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Airlines and Notable Events",
+        "number": "3",
+        "index": "3",
+        "anchor": "Airlines_and_Notable_Events"
+      }
+    ]
+  },
+  "fetched_at": 1766315454,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Dulles_International_Airport_Main_Terminal.md",
+  "source_org": "deep_researcher"
+}

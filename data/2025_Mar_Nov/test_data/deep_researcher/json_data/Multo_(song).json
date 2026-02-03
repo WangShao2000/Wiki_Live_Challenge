@@ -1,0 +1,41 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "60566117": {
+        "pageid": 60566117,
+        "ns": 0,
+        "title": "Multo_(song)",
+        "extract": "Multo is a Filipino pop-rock song by Cup of Joe, released on September 14, 2024. It is a synth-pop ballad that explores themes of grief and nostalgia. The song is part of their debut album, Silakbo, which was released on January 17, 2025. 'Multo' has gained significant popularity, becoming one of the most streamed OPM songs on Spotify. The music video, released in March 2025, starred Elijah Canlas and Miles Ocampo.",
+        "extract_with_citations": "Multo is a Filipino pop-rock song by Cup of Joe, released on September 14, 2024. It is a synth-pop ballad that explores themes of grief and nostalgia. The song is part of their debut album, Silakbo, which was released on January 17, 2025. 'Multo' has gained significant popularity, becoming one of the most streamed OPM songs on Spotify. The music video, released in March 2025, starred Elijah Canlas and Miles Ocampo.",
+        "citation_urls": {},
+        "lead_content": "Multo is a Filipino pop-rock song by Cup of Joe, released on September 14, 2024. It is a synth-pop ballad that explores themes of grief and nostalgia. The song is part of their debut album, Silakbo, which was released on January 17, 2025. 'Multo' has gained significant popularity, becoming one of the most streamed OPM songs on Spotify. The music video, released in March 2025, starred Elijah Canlas and Miles Ocampo.",
+        "statements": [
+          {
+            "statement": "Multo is a Filipino pop-rock song by Cup of Joe, released on September 14, 2024."
+          },
+          {
+            "statement": "It is a synth-pop ballad that explores themes of grief and nostalgia."
+          },
+          {
+            "statement": "The song is part of their debut album, Silakbo, which was released on January 17, 2025."
+          },
+          {
+            "statement": "'Multo' has gained significant popularity, becoming one of the most streamed OPM songs on Spotify."
+          },
+          {
+            "statement": "The music video, released in March 2025, starred Elijah Canlas and Miles Ocampo."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Multo_(song)",
+    "sections": []
+  },
+  "fetched_at": 1766315485,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Multo_(song).md",
+  "source_org": "deep_researcher"
+}

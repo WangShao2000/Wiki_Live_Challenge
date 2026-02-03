@@ -1,0 +1,774 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "90458724": {
+        "pageid": 90458724,
+        "ns": 0,
+        "title": "Vorlesungen_über_die_Entwicklung_der_Mathematik_im_19._Jahrhundert",
+        "extract": "# Vorlesungen über die Entwicklung der Mathematik im 19. Jahrhundert\n\n**Vorlesungen über die Entwicklung der Mathematik im 19. Jahrhundert** (Lectures on the Development of Mathematics in the 19th Century) is a posthumously published work by the German mathematician Felix Klein (1849–1925) . The book was published in two volumes as volumes 24 and 25 of the Grundlehren der mathematischen Wissenschaften (Fundamental Principles of Mathematical Sciences) series in 1926 and 1927 by Julius Springer Verlag in Berlin . Based on lectures Klein delivered during World War I, the work provides his analysis of the development of mathematics in the 19th century, particularly regarding the rise of non-Euclidean geometries and the development of group theory .\n\n## 1. Background and Publication\n\n### 1.1 Felix Klein's Life and Work\n\nFelix Christian Klein was born on April 25, 1849, in Düsseldorf, Prussia (Germany), and died on June 22, 1925, in Göttingen, Germany . He was one of the most important mathematicians of the late 19th and early 20th centuries . Klein is best known for his Erlangen Program, which emphasized the use of groups in geometry . His contributions spanned multiple mathematical fields including geometry, group theory, and function theory .\n\nKlein studied at the University of Bonn, where he earned his Ph.D. in 1868 under the supervision of Julius Plücker . After Plücker's death, Klein worked with Alfred Clebsch at the University of Göttingen . In 1872, at the young age of 23, Klein was appointed professor at the University of Erlangen, where he developed his famous Erlangen Program . He later taught at the Institute of Technology in Munich (1875–80) and the University of Leipzig (1880–86) before moving to Göttingen in 1886, where he remained until his retirement in 1913 .\n\nAt Göttingen, Klein played a crucial role in establishing it as one of the world's leading mathematical research centers . He recruited David Hilbert to Göttingen in 1895, a decision that would prove pivotal for the development of 20th-century mathematics . Klein was also interested in the history of mathematics and purchased relevant books for the Göttingen library . One of his students, Conrad Müller, studied for a Ph.D. in the history of mathematics under Klein and later received the first habilitation degree in this field at Göttingen .\n\n### 1.2 The Genesis of the Lectures\n\nKlein had planned to lecture on the development of mathematics in the 19th century in the winter semesters of 1910/11 and 1912/13, but was unable to do so on both occasions . Instead, he taught these classes privately during World War I . The winter 1914/15 courses were not announced in the Vorlesungsverzeichnis (list of lectures), while the summer 1915 and winter 1915/16 courses were announced as \"privatissime and free of charge\" .\n\nThe first semester of lectures was attended by 24 people, including 13 male students, 9 faculty members, and 2 women . The women were Iris Runge and Klein's daughter Elisabeth Staiger . The first two semesters of lecture notes were edited and typed by the recently widowed Staiger, while the third course was worked on by Käthe Heinemann and Helene Stähelin .\n\nStarting in 1916, Klein taught his lectures in his own house to avoid having to walk to the university . The notes were taken by his assistant Walter Baade . Klein's lectures from 1916 onwards were concerned with relativity, and he postponed working on content regarding the works of Henri Poincaré and Sophus Lie . Klein sent a version of his summer 1917 lectures on general relativity to Albert Einstein, who dismissed the approach as overemphasizing the formal over the heuristic point of view .\n\n### 1.3 Editorial Process\n\nAfter Klein's death in 1925, the lecture notes were edited for publication . The first volume was edited by Richard Courant and Otto Neugebauer, while the second volume was edited by Courant and Stefan Cohn-Vossen . In their preface, the editors explained that they had changed as little as possible in the original text and admitted it was closer to a draft than to a thorough and balanced presentation of the history .\n\nThe editors noted that some content Klein had originally envisioned as part of the text was missing . Klein had planned to include full chapters on Poincaré and Sophus Lie, but these are absent from the published version . Additionally, he had planned to discuss set theory, the 1900 International Congress of Mathematicians, and Hilbert's problems .\n\n### 1.4 Publication Details\n\nThe first volume was published in 1926 with 386 pages (XIII + 385) . The second volume was published in 1927 . The work was published as part of the Grundlehren der mathematischen Wissenschaften series, which is commonly known as the \"yellow series\" due to its distinctive yellow covers .\n\nThe first volume was later reprinted in 1979 by Springer-Verlag Berlin with 594 pages (XXIV + 594) . This edition included a preface by Robert Hermann, who provided a lengthy appendix on \"Kleinian mathematics from an advanced standpoint\" .\n\n## 2. Content Overview\n\n### 2.1 Volume I: The Development of Mathematics in the 19th Century\n\nThe first volume is organized into eight chapters that provide a comprehensive overview of 19th-century mathematics :\n\n**Chapter 1: Gauss** - This chapter is concerned with the life and work of Carl Friedrich Gauss and is split into sections on applied and pure mathematics . Klein discusses Gauss's contributions to both applied mathematics (including astronomy, geodesy, and electromagnetism) and pure mathematics (including number theory, geometry, and analysis) .\n\n**Chapter 2: France and the École Polytechnique in the First Decades of the Nineteenth Century** - This chapter contains sections on mechanics and mathematical physics (including the work of Poisson, Fourier, and Cauchy), geometry (Monge and his followers), and analysis and algebra (focusing on Cauchy and Galois) . Klein examines how the École Polytechnique became a center for mathematical innovation in early 19th-century France .\n\n**Chapter 3: The Founding of Crelle's Journal and the Rise of Pure Mathematics in Germany** - This chapter is concerned with mathematicians connected to Crelle's Journal (the analysts Dirichlet, Abel, and Jacobi and the geometers Möbius, Plücker, and Steiner) . Klein discusses how the establishment of this journal helped foster the development of pure mathematics in Germany .\n\n**Chapter 4: The Development of Algebraic Geometry After Möbius, Plücker, and Steiner** - This chapter includes sections on projective geometry, invariant theory, and n-dimensional spaces and general complex numbers, including content on Grassmann and Hamilton . Klein traces the development of algebraic geometry from its origins to its more abstract forms .\n\n**Chapter 5: Mechanics and Mathematical Physics in Germany and England Until About 1880** - In this chapter, Klein discusses Hamilton's and Jacobi's works on mechanics and works of English mathematicians including Green, Stokes, and Maxwell . The chapter covers both theoretical mechanics and its applications to physics .\n\n**Chapter 6: The General Theory of Functions of Complex Variables According to Riemann and Weierstraß** - This chapter contrasts Riemann's approach to complex analysis with that of Weierstraß . Klein examines the two different philosophical approaches to complex function theory .\n\n**Chapter 7: Deeper Insight into the Nature of Algebraic Varieties and Structures** - This chapter discusses algebraic geometry (including contributions by Clebsch and Noether) and algebraic number theory (Kummer, Dedekind, and Hilbert, among others) . Klein explores the connections between different areas of mathematics .\n\n**Chapter 8: Group Theory and Function Theory; Automorphic Functions** - In this final chapter, Klein discusses group theory in connection with the works of Lagrange, Galois, and C. Jordan . In the section on automorphic forms, he treats hypergeometric functions, conformal mappings, the icosahedron, and elliptic functions, including a few pages on Poincaré .\n\n### 2.2 Volume II: The Fundamental Concepts of Invariant Theory and Their Infiltration into Mathematical Physics\n\nThe second volume is organized into three chapters with a more systematic and factual focus :\n\n**Chapter 1: Elementary Content Regarding the Fundamentals of Linear Invariant Theory** - This chapter is split into part A about general linear invariant theory and a \"freer\" part B about linear invariant theory including comments on the Erlangen Program and the development of vector and tensor analysis .\n\n**Chapter 2: The Special Theory of Relativity in Mechanics and Mathematical Physics** - This chapter has three parts: part A is concerned with classical celestial mechanics, part B with Maxwell's electrodynamics and the Lorentz group, while part C treats the adaptation of mechanics to the relativity theory of the Lorentz group .\n\n**Chapter 3: Transformation Groups on the Basis of a Quadratic Differential Form** - This chapter has five parts. Part A treats Lagrangian mechanics, part B the intrinsic differential geometry of surfaces following Gauss. The remaining parts are concerned with Riemannian geometry: part C contains the formal background of Riemannian manifolds, part D normal coordinates and geometric interpretations, and part E reports on the further development after the time of Riemann, including the work of Beltrami, Lipschitz, and Christoffel .\n\nA planned fourth chapter on the general theory of relativity and Hamiltonian mechanics with a focus on contact transformations and Lie groups was not finished . The editors stated that none of the existing drafts could have been turned into a printable form without adding an additional author's thoughts to Klein's approach .\n\n### 2.3 Notable Features and Absences\n\nKlein's approach to writing the history of mathematics is characterized by his personal connections to many of the mathematicians he discusses . As G.A. Miller noted in his review, Klein was \"the most eminent mathematician to write a general history\" and had personal acquaintance with most leading mathematicians .\n\nThe work contains many biographical and historical remarks, especially in the first volume . Klein discusses the work of prominent mathematicians of the time, including Riemann, Gauss, and Lobachevsky, and their contributions to the field . He also introduces the concept of the Erlangen Program, which is a framework for understanding the various geometries in terms of their underlying symmetries .\n\nHowever, the work has some notable absences. As mentioned earlier, Klein had planned to include full chapters on Poincaré and Sophus Lie, but these are missing . Additionally, he had planned to discuss set theory, the 1900 International Congress of Mathematicians, and Hilbert's problems .\n\n## 3. Reception and Legacy\n\n### 3.1 Contemporary Reviews\n\nThe books were received enthusiastically and especially the first volume has been widely celebrated . Contemporary reviews praised the work for its unique perspective and valuable insights:\n\nG.A. Miller, reviewing the first volume in Science, saw Klein as the most eminent mathematician to write a general history and found the \"extremely difficult task... well begun\" . Miller particularly praised Klein's personal acquaintance with most leading mathematicians .\n\nDavid Eugene Smith, writing for the Bulletin of the American Mathematical Society, called Klein a \"master\" and emphasized the lack of national prejudice in the work . This was particularly noteworthy given the patriotic atmosphere of the time.\n\nF.P. White's admiring review in the Mathematical Gazette called the book \"fascinating\" and mentioned several \"curious and entertaining\" episodes .\n\nJosef Lense's review praised the editors and found Klein the most suited person to the task .\n\nThe historian of mathematics Heinrich Wieleitner reviewed both volumes for ISIS. His review of the first volume warmly welcomed its publication and the information coming from Klein's personal involvement, but criticized some of Klein's methods as not up to the standards of scientific historiography . The overall verdict was that the book is \"eine sehr wertvolle Vorarbeit zu einer wirklichen Geschichte der Mathematik des 19. Jahrhunderts\" (a very valuable preliminary work for a true history of 19th-century mathematics) .\n\n### 3.2 Long-term Influence\n\nThe books had a great influence on Dirk Jan Struik, who had helped the editors in preparing the original manuscripts . In his later book A Concise History of Mathematics, Struik called them \"the best history of nineteenth century mathematics\" .\n\nThe Soviet mathematician Vladimir Arnold deeply valued the books and remarked in an interview that much of what he had learned about mathematics (\"one-half of the mathematics I know,\" in his own words) came through their study . He often recommended them to his students .\n\nThe work has been particularly influential in the development of the history of mathematics as a field. The books provide a unique perspective on 19th-century mathematics from someone who was personally connected to many of the key figures . The lectures give a highly personalized account of mathematical \"high culture\" .\n\n### 3.3 Modern Assessment\n\nModern reviews have acknowledged both the value and limitations of Klein's work. The French mathematician Jean Dieudonné, reviewing the English edition, praised the idea of a new edition and noted that Klein's book has long been the only one on its topic and still among the best . Nevertheless, he gave a long list of omissions and lamented the lack of an index .\n\nPierre Dugac, in a French review of the German reprint of both volumes, called the book \"irreplaceable\" and praised Klein's expressions of the \"mood\" of 19th-century mathematics, but criticized the lack of a modern introduction putting the book in context of newer historical works .\n\nHans Wussing, welcoming the reprint, called the book a part of the fundamental mathematical-historical literature, while noting that some of Klein's opinions are subjective and have been superseded .\n\nThe mathematician and historian Detlef Laugwitz quotes Klein's Vorlesungen in his book about Bernhard Riemann, calling Klein \"important as a witness of the effect of Riemann's ideas in the last decades of the 19th century\" .\n\nThe historian of mathematics David E. Rowe describes them as \"a highly personalized account of this period\" and notes that the original lecture notes \"were sometimes even more opinionated, expressing his misgivings about recent modernist trends toward abstraction and axiomatics\" .\n\n## 4. Translations\n\nThe work has been translated into several languages, indicating its international significance:\n\n### 4.1 Russian Translations\n\nThe book was translated into Russian twice, both times as \"Лекции о развитии математики в XIX столетии\" (Lectures on the Development of Mathematics in the 19th Century) .\n\nThe first Russian translation appeared in 1937 and was translated by B. Livshits, A. Lopshits, Y. Rabinovich, and L. Tumerman with a preface by the Soviet historian of mathematics Mark Vygodskii . However, this translation contained some errors. For example, it mistranslated Jacobi dying from \"blattern\" (smallpox) as dying in a place called \"Blattern\" .\n\nA second Russian translation appeared in 1989, translated by N.M. Nagorny and edited by M.M. Postnikov . In the preface, which builds on Vygodskii's, they noted that their main focus was to be as faithful as possible to Klein's thought and the spirit of his work .\n\nIn 2003, the second volume was also translated into Russian by V.A. Antonov and edited by B.P. Kondratyev .\n\n### 4.2 English Translation\n\nThe book was translated into English by M. Ackerman as Development of Mathematics in the 19th Century in 1979 . This edition was edited by Robert Hermann, who provided a lengthy appendix on \"Kleinian mathematics from an advanced standpoint\" .\n\n### 4.3 Chinese Translation\n\nBoth volumes have been translated into Chinese as \"数学在 19 世纪的发展\" (The Development of Mathematics in the 19th Century) as part of the \"数学翻译丛书\" (Mathematical Translations Series) edited by Shing-Tung Yau for Higher Education Press .\n\nThe first volume was published in 2010, translated by Qi Min You . The second volume was published in 2011, translated by Li Peilian . The first volume includes a translation into Chinese of Hermann's preface to the English translation .\n\n## 5. Legacy and Cultural Impact\n\n### 5.1 Historical Significance\n\nKlein's Vorlesungen represent a unique contribution to the history of mathematics. As one of the most prominent mathematicians of his time, Klein was in a unique position to provide an insider's perspective on the developments of 19th-century mathematics . His personal connections to many of the key figures of the era give the work a distinctive character that cannot be found in more modern historical treatments.\n\nThe work is particularly valuable for its emphasis on the interconnectedness of different areas of mathematics. Klein's Erlangen Program, which classified geometries according to their underlying transformation groups, exemplifies this unifying approach . This perspective is evident throughout the Vorlesungen, where Klein consistently emphasizes the relationships between different branches of mathematics.\n\n### 5.2 Educational Value\n\nThe books have had significant educational impact. Many mathematicians, including Vladimir Arnold and Dirk Struik, have credited them with shaping their understanding of mathematics . The work continues to be recommended as valuable reading for students and researchers interested in the history of mathematics.\n\nThe Chinese translation has made the work accessible to a large audience in China, where it has been used in mathematics education and research . The fact that the work has been translated into multiple languages and continues to be reprinted demonstrates its enduring educational value.\n\n### 5.3 Limitations and Criticisms\n\nDespite its many virtues, the work has some limitations. As noted by several reviewers, Klein's approach is highly personal and subjective . He sometimes expresses strong opinions about mathematical developments, particularly regarding modernist trends toward abstraction and axiomatics .\n\nThe work also has some notable gaps. Klein's failure to include chapters on Poincaré and Sophus Lie, despite planning to do so, is particularly regrettable given their importance to 19th-century mathematics . Additionally, the work focuses primarily on European mathematics, with little attention to developments in other parts of the world.\n\n### 5.4 Modern Relevance\n\nDespite these limitations, Klein's Vorlesungen remain relevant today. The work provides valuable insights into the historical development of many mathematical concepts that are still central to modern mathematics. The emphasis on the connections between different areas of mathematics is particularly relevant in an era when interdisciplinary approaches are increasingly valued.\n\nThe work also serves as a reminder of the importance of understanding the historical context of mathematical developments. In an age of rapid technological change, Klein's emphasis on the human side of mathematics—the personalities, the controversies, the gradual evolution of ideas—provides a valuable perspective.\n\n## 6. Conclusion\n\n**Vorlesungen über die Entwicklung der Mathematik im 19. Jahrhundert** stands as a landmark work in the history of mathematics literature. Written by one of the most prominent mathematicians of the era, Felix Klein, and based on lectures delivered during World War I, the work provides a unique insider's perspective on the mathematical developments of the 19th century .\n\nThe two-volume work, published posthumously in 1926 and 1927, covers a wide range of topics from the work of Gauss to the development of group theory and invariant theory . While the work has some limitations—including missing chapters on Poincaré and Lie and a highly personal perspective—it remains an invaluable resource for understanding the mathematical culture of the 19th century .\n\nThe enthusiastic reception of the work by contemporary reviewers and its lasting influence on subsequent generations of mathematicians, including figures like Dirk Struik and Vladimir Arnold, attest to its enduring value . The fact that the work has been translated into multiple languages, including Russian, English, and Chinese, demonstrates its international significance .\n\nIn conclusion, **Vorlesungen über die Entwicklung der Mathematik im 19. Jahrhundert** is not merely a historical document but a living contribution to our understanding of mathematics. As David E. Rowe notes, it provides \"a highly personalized account\" of a crucial period in mathematical history . For anyone interested in the development of modern mathematics, Klein's lectures remain an indispensable source.",
+        "citation_urls": {
+          "1": "https://www.britannica.com/biography/Felix-Klein?lang=it",
+          "2": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao",
+          "3": "https://www.ebsco.com/research-starters/history/felix-klein",
+          "4": "https://m.baike.com/wiki/%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0/5060464?baike_source=doubao",
+          "5": "https://www.worldcat.org/oclc/681477801",
+          "6": "https://www.science.org/doi/10.1126/science.65.1693.574.b",
+          "7": "https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert"
+        },
+        "statements": [
+          {
+            "fact": "Vorlesungen über die Entwicklung der Mathematik im 19. Jahrhundert (Lectures on the Development of Mathematics in the 19th Century) is a posthumously published work by the German mathematician Felix Klein (1849–1925).",
+            "ref_idx": "1",
+            "url": "https://www.britannica.com/biography/Felix-Klein?lang=it"
+          },
+          {
+            "fact": "The book was published in two volumes as volumes 24 and 25 of the Grundlehren der mathematischen Wissenschaften (Fundamental Principles of Mathematical Sciences) series in 1926 and 1927 by Julius Springer Verlag in Berlin.",
+            "ref_idx": "1",
+            "url": "https://www.britannica.com/biography/Felix-Klein?lang=it"
+          },
+          {
+            "fact": "Based on lectures Klein delivered during World War I, the work provides his analysis of the development of mathematics in the 19th century, particularly regarding the rise of non-Euclidean geometries and the development of group theory.",
+            "ref_idx": "1",
+            "url": "https://www.britannica.com/biography/Felix-Klein?lang=it"
+          },
+          {
+            "fact": "Felix Christian Klein was born on April 25, 1849, in Düsseldorf, Prussia (Germany), and died on June 22, 1925, in Göttingen, Germany.",
+            "ref_idx": "1",
+            "url": "https://www.britannica.com/biography/Felix-Klein?lang=it"
+          },
+          {
+            "fact": "Felix Christian Klein was one of the most important mathematicians of the late 19th and early 20th centuries.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein is best known for his Erlangen Program, which emphasized the use of groups in geometry.",
+            "ref_idx": "3",
+            "url": "https://www.ebsco.com/research-starters/history/felix-klein"
+          },
+          {
+            "fact": "Klein's contributions spanned multiple mathematical fields including geometry, group theory, and function theory.",
+            "ref_idx": "3",
+            "url": "https://www.ebsco.com/research-starters/history/felix-klein"
+          },
+          {
+            "fact": "Klein studied at the University of Bonn, where he earned his Ph.D. in 1868 under the supervision of Julius Plücker.",
+            "ref_idx": "4",
+            "url": "https://m.baike.com/wiki/%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0/5060464?baike_source=doubao"
+          },
+          {
+            "fact": "After Plücker's death, Klein worked with Alfred Clebsch at the University of Göttingen.",
+            "ref_idx": "4",
+            "url": "https://m.baike.com/wiki/%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0/5060464?baike_source=doubao"
+          },
+          {
+            "fact": "In 1872, at the young age of 23, Klein was appointed professor at the University of Erlangen, where he developed his famous Erlangen Program.",
+            "ref_idx": "4",
+            "url": "https://m.baike.com/wiki/%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0/5060464?baike_source=doubao"
+          },
+          {
+            "fact": "Klein later taught at the Institute of Technology in Munich (1875–80) and the University of Leipzig (1880–86) before moving to Göttingen in 1886, where he remained until his retirement in 1913.",
+            "ref_idx": "4",
+            "url": "https://m.baike.com/wiki/%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0/5060464?baike_source=doubao"
+          },
+          {
+            "fact": "At Göttingen, Klein played a crucial role in establishing it as one of the world's leading mathematical research centers.",
+            "ref_idx": "4",
+            "url": "https://m.baike.com/wiki/%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0/5060464?baike_source=doubao"
+          },
+          {
+            "fact": "Klein recruited David Hilbert to Göttingen in 1895, a decision that would prove pivotal for the development of 20th-century mathematics.",
+            "ref_idx": "4",
+            "url": "https://m.baike.com/wiki/%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0/5060464?baike_source=doubao"
+          },
+          {
+            "fact": "Klein was also interested in the history of mathematics and purchased relevant books for the Göttingen library.",
+            "ref_idx": "4",
+            "url": "https://m.baike.com/wiki/%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0/5060464?baike_source=doubao"
+          },
+          {
+            "fact": "One of Klein's students, Conrad Müller, studied for a Ph.D. in the history of mathematics under Klein and later received the first habilitation degree in this field at Göttingen.",
+            "ref_idx": "4",
+            "url": "https://m.baike.com/wiki/%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0/5060464?baike_source=doubao"
+          },
+          {
+            "fact": "Klein had planned to lecture on the development of mathematics in the 19th century in the winter semesters of 1910/11 and 1912/13, but was unable to do so on both occasions.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "Instead, Klein taught these classes privately during World War I.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "The winter 1914/15 courses were not announced in the Vorlesungsverzeichnis (list of lectures), while the summer 1915 and winter 1915/16 courses were announced as \"privatissime and free of charge\".",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "The first semester of lectures was attended by 24 people, including 13 male students, 9 faculty members, and 2 women.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "The women were Iris Runge and Klein's daughter Elisabeth Staiger.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "The first two semesters of lecture notes were edited and typed by the recently widowed Staiger, while the third course was worked on by Käthe Heinemann and Helene Stähelin.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "Starting in 1916, Klein taught his lectures in his own house to avoid having to walk to the university.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "The notes were taken by Klein's assistant Walter Baade.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "Klein's lectures from 1916 onwards were concerned with relativity, and he postponed working on content regarding the works of Henri Poincaré and Sophus Lie.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "Klein sent a version of his summer 1917 lectures on general relativity to Albert Einstein, who dismissed the approach as overemphasizing the formal over the heuristic point of view.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "After Klein's death in 1925, the lecture notes were edited for publication.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "The first volume was edited by Richard Courant and Otto Neugebauer, while the second volume was edited by Courant and Stefan Cohn-Vossen.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "In their preface, the editors explained that they had changed as little as possible in the original text and admitted it was closer to a draft than to a thorough and balanced presentation of the history.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "The editors noted that some content Klein had originally envisioned as part of the text was missing.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "Klein had planned to include full chapters on Poincaré and Sophus Lie, but these are absent from the published version.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "Additionally, Klein had planned to discuss set theory, the 1900 International Congress of Mathematicians, and Hilbert's problems.",
+            "ref_idx": "5",
+            "url": "https://www.worldcat.org/oclc/681477801"
+          },
+          {
+            "fact": "The first volume was published in 1926 with 386 pages (XIII + 385).",
+            "ref_idx": "6",
+            "url": "https://www.science.org/doi/10.1126/science.65.1693.574.b"
+          },
+          {
+            "fact": "The second volume was published in 1927.",
+            "ref_idx": "6",
+            "url": "https://www.science.org/doi/10.1126/science.65.1693.574.b"
+          },
+          {
+            "fact": "The work was published as part of the Grundlehren der mathematischen Wissenschaften series, which is commonly known as the \"yellow series\" due to its distinctive yellow covers.",
+            "ref_idx": "6",
+            "url": "https://www.science.org/doi/10.1126/science.65.1693.574.b"
+          },
+          {
+            "fact": "The first volume was later reprinted in 1979 by Springer-Verlag Berlin with 594 pages (XXIV + 594).",
+            "ref_idx": "7",
+            "url": "https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert"
+          },
+          {
+            "fact": "This edition included a preface by Robert Hermann, who provided a lengthy appendix on \"Kleinian mathematics from an advanced standpoint\".",
+            "ref_idx": "7",
+            "url": "https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert"
+          },
+          {
+            "fact": "The first volume is organized into eight chapters that provide a comprehensive overview of 19th-century mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Chapter 1: Gauss is concerned with the life and work of Carl Friedrich Gauss and is split into sections on applied and pure mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein discusses Gauss's contributions to both applied mathematics (including astronomy, geodesy, and electromagnetism) and pure mathematics (including number theory, geometry, and analysis).",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Chapter 2: France and the École Polytechnique in the First Decades of the Nineteenth Century contains sections on mechanics and mathematical physics (including the work of Poisson, Fourier, and Cauchy), geometry (Monge and his followers), and analysis and algebra (focusing on Cauchy and Galois).",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein examines how the École Polytechnique became a center for mathematical innovation in early 19th-century France.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Chapter 3: The Founding of Crelle's Journal and the Rise of Pure Mathematics in Germany is concerned with mathematicians connected to Crelle's Journal (the analysts Dirichlet, Abel, and Jacobi and the geometers Möbius, Plücker, and Steiner).",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein discusses how the establishment of Crelle's Journal helped foster the development of pure mathematics in Germany.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Chapter 4: The Development of Algebraic Geometry After Möbius, Plücker, and Steiner includes sections on projective geometry, invariant theory, and n-dimensional spaces and general complex numbers, including content on Grassmann and Hamilton.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein traces the development of algebraic geometry from its origins to its more abstract forms.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "In Chapter 5: Mechanics and Mathematical Physics in Germany and England Until About 1880, Klein discusses Hamilton's and Jacobi's works on mechanics and works of English mathematicians including Green, Stokes, and Maxwell.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Chapter 5 covers both theoretical mechanics and its applications to physics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Chapter 6: The General Theory of Functions of Complex Variables According to Riemann and Weierstraß contrasts Riemann's approach to complex analysis with that of Weierstraß.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein examines the two different philosophical approaches to complex function theory.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Chapter 7: Deeper Insight into the Nature of Algebraic Varieties and Structures discusses algebraic geometry (including contributions by Clebsch and Noether) and algebraic number theory (Kummer, Dedekind, and Hilbert, among others).",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein explores the connections between different areas of mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "In Chapter 8: Group Theory and Function Theory; Automorphic Functions, Klein discusses group theory in connection with the works of Lagrange, Galois, and C. Jordan.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "In the section on automorphic forms, Klein treats hypergeometric functions, conformal mappings, the icosahedron, and elliptic functions, including a few pages on Poincaré.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The second volume is organized into three chapters with a more systematic and factual focus.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Chapter 1: Elementary Content Regarding the Fundamentals of Linear Invariant Theory is split into part A about general linear invariant theory and a \"freer\" part B about linear invariant theory including comments on the Erlangen Program and the development of vector and tensor analysis.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Chapter 2: The Special Theory of Relativity in Mechanics and Mathematical Physics has three parts: part A is concerned with classical celestial mechanics, part B with Maxwell's electrodynamics and the Lorentz group, while part C treats the adaptation of mechanics to the relativity theory of the Lorentz group.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Chapter 3: Transformation Groups on the Basis of a Quadratic Differential Form has five parts.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Part A treats Lagrangian mechanics, part B the intrinsic differential geometry of surfaces following Gauss.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The remaining parts are concerned with Riemannian geometry: part C contains the formal background of Riemannian manifolds, part D normal coordinates and geometric interpretations, and part E reports on the further development after the time of Riemann, including the work of Beltrami, Lipschitz, and Christoffel.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "A planned fourth chapter on the general theory of relativity and Hamiltonian mechanics with a focus on contact transformations and Lie groups was not finished.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The editors stated that none of the existing drafts could have been turned into a printable form without adding an additional author's thoughts to Klein's approach.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein's approach to writing the history of mathematics is characterized by his personal connections to many of the mathematicians he discusses.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "As G.A. Miller noted in his review, Klein was \"the most eminent mathematician to write a general history\" and had personal acquaintance with most leading mathematicians.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The work contains many biographical and historical remarks, especially in the first volume.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein discusses the work of prominent mathematicians of the time, including Riemann, Gauss, and Lobachevsky, and their contributions to the field.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein also introduces the concept of the Erlangen Program, which is a framework for understanding the various geometries in terms of their underlying symmetries.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "However, the work has some notable absences.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "As mentioned earlier, Klein had planned to include full chapters on Poincaré and Sophus Lie, but these are missing.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Additionally, Klein had planned to discuss set theory, the 1900 International Congress of Mathematicians, and Hilbert's problems.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The books were received enthusiastically and especially the first volume has been widely celebrated.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Contemporary reviews praised the work for its unique perspective and valuable insights.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "G.A. Miller, reviewing the first volume in Science, saw Klein as the most eminent mathematician to write a general history and found the \"extremely difficult task... well begun\".",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Miller particularly praised Klein's personal acquaintance with most leading mathematicians.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "David Eugene Smith, writing for the Bulletin of the American Mathematical Society, called Klein a \"master\" and emphasized the lack of national prejudice in the work.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "This was particularly noteworthy given the patriotic atmosphere of the time.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "F.P. White's admiring review in the Mathematical Gazette called the book \"fascinating\" and mentioned several \"curious and entertaining\" episodes.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Josef Lense's review praised the editors and found Klein the most suited person to the task.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The historian of mathematics Heinrich Wieleitner reviewed both volumes for ISIS.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Wieleitner's review of the first volume warmly welcomed its publication and the information coming from Klein's personal involvement, but criticized some of Klein's methods as not up to the standards of scientific historiography.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The overall verdict was that the book is \"eine sehr wertvolle Vorarbeit zu einer wirklichen Geschichte der Mathematik des 19. Jahrhunderts\" (a very valuable preliminary work for a true history of 19th-century mathematics).",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The books had a great influence on Dirk Jan Struik, who had helped the editors in preparing the original manuscripts.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "In his later book A Concise History of Mathematics, Struik called them \"the best history of nineteenth century mathematics\".",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The Soviet mathematician Vladimir Arnold deeply valued the books and remarked in an interview that much of what he had learned about mathematics (\"one-half of the mathematics I know,\" in his own words) came through their study.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Arnold often recommended them to his students.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The work has been particularly influential in the development of the history of mathematics as a field.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The books provide a unique perspective on 19th-century mathematics from someone who was personally connected to many of the key figures.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The lectures give a highly personalized account of mathematical \"high culture\".",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Modern reviews have acknowledged both the value and limitations of Klein's work.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The French mathematician Jean Dieudonné, reviewing the English edition, praised the idea of a new edition and noted that Klein's book has long been the only one on its topic and still among the best.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Nevertheless, Dieudonné gave a long list of omissions and lamented the lack of an index.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Pierre Dugac, in a French review of the German reprint of both volumes, called the book \"irreplaceable\" and praised Klein's expressions of the \"mood\" of 19th-century mathematics, but criticized the lack of a modern introduction putting the book in context of newer historical works.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Hans Wussing, welcoming the reprint, called the book a part of the fundamental mathematical-historical literature, while noting that some of Klein's opinions are subjective and have been superseded.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The mathematician and historian Detlef Laugwitz quotes Klein's Vorlesungen in his book about Bernhard Riemann, calling Klein \"important as a witness of the effect of Riemann's ideas in the last decades of the 19th century\".",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The historian of mathematics David E. Rowe describes them as \"a highly personalized account of this period\" and notes that the original lecture notes \"were sometimes even more opinionated, expressing his misgivings about recent modernist trends toward abstraction and axiomatics\".",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The work has been translated into several languages, indicating its international significance.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The book was translated into Russian twice, both times as \"Лекции о развитии математики в XIX столетии\" (Lectures on the Development of Mathematics in the 19th Century).",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The first Russian translation appeared in 1937 and was translated by B. Livshits, A. Lopshits, Y. Rabinovich, and L. Tumerman with a preface by the Soviet historian of mathematics Mark Vygodskii.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "However, this translation contained some errors.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "For example, it mistranslated Jacobi dying from \"blattern\" (smallpox) as dying in a place called \"Blattern\".",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "A second Russian translation appeared in 1989, translated by N.M. Nagorny and edited by M.M. Postnikov.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "In the preface, which builds on Vygodskii's, Nagorny and Postnikov noted that their main focus was to be as faithful as possible to Klein's thought and the spirit of his work.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "In 2003, the second volume was also translated into Russian by V.A. Antonov and edited by B.P. Kondratyev.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The book was translated into English by M. Ackerman as Development of Mathematics in the 19th Century in 1979.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "This edition was edited by Robert Hermann, who provided a lengthy appendix on \"Kleinian mathematics from an advanced standpoint\".",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Both volumes have been translated into Chinese as \"数学在 19 世纪的发展\" (The Development of Mathematics in the 19th Century) as part of the \"数学翻译丛书\" (Mathematical Translations Series) edited by Shing-Tung Yau for Higher Education Press.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The first volume was published in 2010, translated by Qi Min You.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The second volume was published in 2011, translated by Li Peilian.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The first volume includes a translation into Chinese of Hermann's preface to the English translation.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein's Vorlesungen represent a unique contribution to the history of mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "As one of the most prominent mathematicians of his time, Klein was in a unique position to provide an insider's perspective on the developments of 19th-century mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein's personal connections to many of the key figures of the era give the work a distinctive character that cannot be found in more modern historical treatments.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The work is particularly valuable for its emphasis on the interconnectedness of different areas of mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein's Erlangen Program, which classified geometries according to their underlying transformation groups, exemplifies this unifying approach.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "This perspective is evident throughout the Vorlesungen, where Klein consistently emphasizes the relationships between different branches of mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The books have had significant educational impact.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Many mathematicians, including Vladimir Arnold and Dirk Struik, have credited them with shaping their understanding of mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The work continues to be recommended as valuable reading for students and researchers interested in the history of mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The Chinese translation has made the work accessible to a large audience in China, where it has been used in mathematics education and research.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The fact that the work has been translated into multiple languages and continues to be reprinted demonstrates its enduring educational value.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Despite its many virtues, the work has some limitations.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "As noted by several reviewers, Klein's approach is highly personal and subjective.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein sometimes expresses strong opinions about mathematical developments, particularly regarding modernist trends toward abstraction and axiomatics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The work also has some notable gaps.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Klein's failure to include chapters on Poincaré and Sophus Lie, despite planning to do so, is particularly regrettable given their importance to 19th-century mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Additionally, the work focuses primarily on European mathematics, with little attention to developments in other parts of the world.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Despite these limitations, Klein's Vorlesungen remain relevant today.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The work provides valuable insights into the historical development of many mathematical concepts that are still central to modern mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The emphasis on the connections between different areas of mathematics is particularly relevant in an era when interdisciplinary approaches are increasingly valued.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The work also serves as a reminder of the importance of understanding the historical context of mathematical developments.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "In an age of rapid technological change, Klein's emphasis on the human side of mathematics—the personalities, the controversies, the gradual evolution of ideas—provides a valuable perspective.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Vorlesungen über die Entwicklung der Mathematik im 19. Jahrhundert stands as a landmark work in the history of mathematics literature.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "Written by one of the most prominent mathematicians of the era, Felix Klein, and based on lectures delivered during World War I, the work provides a unique insider's perspective on the mathematical developments of the 19th century.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The two-volume work, published posthumously in 1926 and 1927, covers a wide range of topics from the work of Gauss to the development of group theory and invariant theory.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "While the work has some limitations—including missing chapters on Poincaré and Lie and a highly personal perspective—it remains an invaluable resource for understanding the mathematical culture of the 19th century.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The enthusiastic reception of the work by contemporary reviewers and its lasting influence on subsequent generations of mathematicians, including figures like Dirk Struik and Vladimir Arnold, attest to its enduring value.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "The fact that the work has been translated into multiple languages, including Russian, English, and Chinese, demonstrates its international significance.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "In conclusion, Vorlesungen über die Entwicklung der Mathematik im 19. Jahrhundert is not merely a historical document but a living contribution to our understanding of mathematics.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "As David E. Rowe notes, it provides \"a highly personalized account\" of a crucial period in mathematical history.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          },
+          {
+            "fact": "For anyone interested in the development of modern mathematics, Klein's lectures remain an indispensable source.",
+            "ref_idx": "2",
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao"
+          }
+        ],
+        "citation_contents": {
+          "5": {
+            "url": "https://www.worldcat.org/oclc/681477801",
+            "title": "Just a moment...",
+            "description": "",
+            "content": "search.worldcat.org\n-------------------\n\nVerify you are human by completing the action below.\n\nsearch.worldcat.org needs to review the security of your connection before proceeding.",
+            "publish_time": "unknown",
+            "fetched_by": "jina"
+          },
+          "7": {
+            "url": "https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert",
+            "title": "Vorlesungen über die Entwicklung der Mathematik im 19.… von Felix Klein | ISBN 978-3-540-09235-3 | Fachbuch online kaufen",
+            "description": "Vorlesungen über die Entwicklung der Mathematik im 19. Jahrhundert (ISBN 978-3-540-09235-3) bestellen. Schnelle Lieferung, auch auf Rechnung - lehmanns.de",
+            "content": "Vorlesungen über die Entwicklung der Mathematik im 19.… von Felix Klein | ISBN 978-3-540-09235-3 | Fachbuch online kaufen - Lehmanns.de\n===============\n\nUm unsere Webseiten für Sie optimal zu gestalten und fortlaufend zu verbessern, verwenden wir Cookies. Durch Bestätigen des Buttons »Akzeptieren« stimmen Sie der Verwendung zu. Über den Button »Einstellungen« können Sie auswählen, welche Cookies Sie zulassen wollen.\n\n[Akzeptieren](https://www.lehmanns.de/)[Einstellungen](https://www.lehmanns.de/)\n\n[Zum Hauptinhalt springen](https://www.lehmanns.de/#top)\n\n*   [Anmeldung](https://www.lehmanns.de/account/signin?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Mein Konto](https://www.lehmanns.de/account/show?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Merkzettel 0](https://www.lehmanns.de/leaflet?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Warenkorb 0](https://www.lehmanns.de/cart?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n![Image 1: A 47x46 small image, likely a logo, icon or avatar](blob:https://www.lehmanns.de/e1dbd30ba18b93623517938f57989c3d)[![Image 2: Lehmanns Logo](blob:https://www.lehmanns.de/1a6819eec34b476b7c5a36aaf9ee4d1e)](https://www.lehmanns.de/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)Toggle navigation\n\nalle Medien\n*   [alle Medien](https://www.lehmanns.de/#/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Bücher](https://www.lehmanns.de/#/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [eBooks](https://www.lehmanns.de/#/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Hörbücher](https://www.lehmanns.de/#/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Medical Equipment](https://www.lehmanns.de/#/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n![Image 3: Suche](blob:https://www.lehmanns.de/157a92d72e8b726b16d109f29c3f2f61)\n\n[Erweiterte Suche](https://www.lehmanns.de/search/extended?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[![Image 4: Warenkorb](blob:https://www.lehmanns.de/472e81d96994ef50ee32267b88c0f5dd)Ihr Warenkorb 0 Artikel](https://www.lehmanns.de/cart?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n*   [Bücher](https://www.lehmanns.de/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[**Ihre Basis für Rechtssicherheit: Der Grüneberg BGB 2026 auch als Chat-Book:**![Image 5: Teaserbild BÜCHER](https://www.lehmanns.de/media/121517035)](https://www.lehmanns.de/shop/recht-steuern/75940721-9783406836015-grueneberg-bgb-chat-book-2026?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n[Bücher](https://www.lehmanns.de/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n**Medizin & Psychologie**\n    *   [Medizin Studium](https://www.lehmanns.de/tab/buecher/medizin-psychologie/1-medizin-studium?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Medizin Studium\")\n    *   [Medizin Klinik & Praxis](https://www.lehmanns.de/tab/buecher/medizin-psychologie/24-medizin-klinik-praxis?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Medizin Klinik & Praxis\")\n    *   [Veterinärmedizin](https://www.lehmanns.de/tab/buecher/medizin-psychologie/2-veterinaermedizin?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Veterinärmedizin\")\n    *   [Psychologie](https://www.lehmanns.de/tab/buecher/medizin-psychologie/10-psychologie?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Psychologie\")\n\n**Technik & Naturwissenschaften**\n    *   [Naturwissenschaften](https://www.lehmanns.de/tab/buecher/technik-naturwissenschaften/3-naturwissenschaften?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Naturwissenschaften\")\n    *   [Mathematik](https://www.lehmanns.de/tab/buecher/technik-naturwissenschaften/4-mathematik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Mathematik\")\n    *   [Informatik](https://www.lehmanns.de/tab/buecher/technik-naturwissenschaften/5-informatik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Informatik\")\n    *   [Technik](https://www.lehmanns.de/tab/buecher/technik-naturwissenschaften/6-technik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Technik\")\n\n**Rechts-, Sozial- & Geisteswissenschaften**\n    *   [Recht / Steuern](https://www.lehmanns.de/tab/buecher/rechts-sozial-geisteswissenschaften/7-recht-steuern?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Recht / Steuern\")\n    *   [Wirtschaft](https://www.lehmanns.de/tab/buecher/rechts-sozial-geisteswissenschaften/8-wirtschaft?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Wirtschaft\")\n    *   [Geisteswissenschaften](https://www.lehmanns.de/tab/buecher/rechts-sozial-geisteswissenschaften/9-geisteswissenschaften?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Geisteswissenschaften\")\n    *   [Sozialwissenschaften](https://www.lehmanns.de/tab/buecher/rechts-sozial-geisteswissenschaften/11-sozialwissenschaften?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Sozialwissenschaften\")\n\n**Literatur & Sachbuch**\n    *   [Roman / Krimi](https://www.lehmanns.de/tab/buecher/literatur-sachbuch/12-roman-krimi?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Roman / Krimi\")\n    *   [Kinder- / Jugendbuch](https://www.lehmanns.de/tab/buecher/literatur-sachbuch/25-kinder-jugendbuch?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Kinder- / Jugendbuch\")\n    *   [Sachbuch / Ratgeber](https://www.lehmanns.de/tab/buecher/literatur-sachbuch/18-sachbuch-ratgeber?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Sachbuch / Ratgeber\")\n    *   [Reisen](https://www.lehmanns.de/tab/buecher/literatur-sachbuch/19-reisen?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Reisen\")\n\n**Aktuell**\n    *   [Fachbuch-Bestseller](https://www.lehmanns.de/page/fachbuchbestseller?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Top Vorbesteller](https://www.lehmanns.de/page/topvorbesteller?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Geschenke](https://www.lehmanns.de/page/geschenke?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Sonderangebote](https://www.lehmanns.de/tab/buecher/sonderangebote/30-sonderangebote?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [SPIEGEL-Bestseller](https://www.lehmanns.de/page/bestseller?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [100 gute Bücher](https://www.lehmanns.de/listing/5854-die-besten-buecher-des-jahrhunderts?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n**Services**\n    *   [Gutscheine](https://www.lehmanns.de/page/gutschein?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [PremiumCard](https://www.lehmanns.de/page/premiumcard?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Newsletter](https://www.lehmanns.de/account/mailinglists?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [WissensBox](https://www.lehmanns.de/tab/buecher/wissensbox/39-wissensbox?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n*   [eBooks](https://www.lehmanns.de/tab/ebooks?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[**Seit über 50 Jahren der Schlüssel zu erfolgreicher Tumortherapie & sicherer Prognose: als eBook jederzeit griffbereit!**![Image 6: Teaserbild eBOOKS](https://www.lehmanns.de/media/22895733/2)](https://www.lehmanns.de/shop/medizin-pharmazie/85493938-9783527855179-tnm-klassifikation-maligner-tumoren?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n[eBooks](https://www.lehmanns.de/tab/ebooks?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n**eBook Welten**\n    *   [Stöbern in eBook-Welten](https://www.lehmanns.de/page/ebookstoebern?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [tolino bei Thalia](https://www.thalia.de/ereader/tolino)\n    *   [Fragen & Antworten (FAQ)](https://www.lehmanns.de/page/ebookfaq?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Tipps & Tricks](https://www.lehmanns.de/page/ebooktipps?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [eBook Ratgeber](https://www.lehmanns.de/page/ebookratgeber2013?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n**Services**\n    *   [Gutscheine](https://www.lehmanns.de/page/gutschein?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [PremiumCard](https://www.lehmanns.de/page/premiumcard?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Newsletter](https://www.lehmanns.de/account/mailinglists?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [WissensBox](https://www.lehmanns.de/tab/buecher/wissensbox/39-wissensbox?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n*   [Hörbücher](https://www.lehmanns.de/tab/hoerbuecher?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[**Die grosse Geschichte unseres Planeten: Ungekürzte Lesung mit Frank Arnold**![Image 7: Teaserbild HÖRBÜCHER](https://www.lehmanns.de/media/121769815)](https://www.lehmanns.de/shop/naturwissenschaften/76457229-9783742436092-zwischen-urknall-und-apokalypse?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n[Hörbücher](https://www.lehmanns.de/tab/hoerbuecher?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n**SPIEGEL Bestseller**\n    *   [Hörbuch: Belletristik](https://www.lehmanns.de/listing/806-spiegel-bestseller-hoerbuecher-belletristik-sachbuch-37-2025?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Hörbuch: Kinder & Jugend](https://www.lehmanns.de/listing/807-spiegel-bestseller-hoerbuecher-kinder-jugendbuch-august-2025?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n**Hörbuch Welten**\n    *   [Romane](https://www.lehmanns.de/search/new?mediatype_id=1&category=10.55&PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Krimi / Thriller](https://www.lehmanns.de/search/new?mediatype_id=1&category=10.40&PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Fantasy / Science Fiction](https://www.lehmanns.de/search/new?mediatype_id=1&category=10.35&PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Historische Romane](https://www.lehmanns.de/search/new?mediatype_id=1&category=10.37&PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Kinder- / Jugendbuch](https://www.lehmanns.de/search/new?mediatype_id=1&category=25&PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Humor / Satire](https://www.lehmanns.de/search/new?mediatype_id=1&category=10.25&PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Lyrik / Dramatik](https://www.lehmanns.de/search/new?mediatype_id=1&category=10.45&PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Klassiker](https://www.lehmanns.de/search/new?mediatype_id=1&category=10.39&PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n**Services**\n    *   [Gutscheine](https://www.lehmanns.de/page/gutschein?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [PremiumCard](https://www.lehmanns.de/page/premiumcard?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Newsletter](https://www.lehmanns.de/account/mailinglists?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [WissensBox](https://www.lehmanns.de/tab/buecher/wissensbox/39-wissensbox?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n*   [Zeitschriften / Datenbanken](https://www.lehmanns.de/tab/zeitschriften?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[Zeitschriften / Datenbanken](https://www.lehmanns.de/tab/zeitschriften?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n**Zeitschriften Info**\n    *   [Kontakt](https://www.lehmanns.de/page/sizkontakt?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Services](https://www.lehmanns.de/page/sizservices?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Zeitschriften Portal](https://size.lehmanns.de/)\n\n**B2B Service**\n    *   [Bibliotheken](https://www.lehmanns.de/page/bibliothekhome?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Krankenhäuser](https://www.lehmanns.de/page/krankenhaushome?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Kanzleien](https://www.lehmanns.de/page/kanzleihome?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Unternehmen](https://www.lehmanns.de/page/b2b?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Öffentliche Hand](https://www.lehmanns.de/page/verwaltunghome?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Open Access](https://www.lehmannsoa.de/)\n\n**Services**\n    *   [Gutscheine](https://www.lehmanns.de/page/gutschein?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [PremiumCard](https://www.lehmanns.de/page/premiumcard?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Newsletter](https://www.lehmanns.de/account/mailinglists?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [WissensBox](https://www.lehmanns.de/tab/buecher/wissensbox/39-wissensbox?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n*   [B2B-Services](https://www.lehmanns.de/tab/b2b-services?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[B2B-Services](https://www.lehmanns.de/tab/b2b-services?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n**B2B Service**\n    *   [Bibliotheken](https://www.lehmanns.de/page/bibliothekhome?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Krankenhäuser](https://www.lehmanns.de/page/krankenhaushome?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Kanzleien](https://www.lehmanns.de/page/kanzleihome?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Unternehmen](https://www.lehmanns.de/page/b2b?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Öffentliche Hand](https://www.lehmanns.de/page/verwaltunghome?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Open Access](https://www.lehmannsoa.de/)\n\n**Services**\n    *   [Gutscheine](https://www.lehmanns.de/page/gutschein?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [PremiumCard](https://www.lehmanns.de/page/premiumcard?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Newsletter](https://www.lehmanns.de/account/mailinglists?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [WissensBox](https://www.lehmanns.de/tab/buecher/wissensbox/39-wissensbox?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n*   [Medshop](https://www.lehmanns.de/tab/med-shop?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[**Das passende Stethoskop finden:**![Image 8: Teaserbild MED-SHOP](https://www.lehmanns.de/media/70681919)](https://www.lehmanns.de/page/medshopstethoskope?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n[Medshop](https://www.lehmanns.de/tab/med-shop?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n**Diagnostik**\n    *   [Stethoskope](https://www.lehmanns.de/page/medshopstethoskope?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Zubehör: Stethoskope](https://www.lehmanns.de/page/medshopstethoskopersatz?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Reflexhämmer](https://www.lehmanns.de/page/medshophammer?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Diagnostiklampen](https://www.lehmanns.de/produktart/101-diagnostiklampen?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Blutdruckmesser](https://www.lehmanns.de/produktart/109-blutdruckmesser?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Diagnose- & Therapiegeräte](https://www.lehmanns.de/produktart/118-diagnose-und-therapiegeraete?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n**Praxis**\n    *   [Bekleidung](https://www.lehmanns.de/page/medshopbekleidung?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Arzttaschen & Ampullarien](https://www.lehmanns.de/produktart/108-arzttaschen-und-ampullarien?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Instrumente & Sterilisation](https://www.lehmanns.de/produktart/112-instrumente-und-sterilisatoren?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n**Modelle**\n    *   [Anatomische Modelle](https://www.lehmanns.de/listing/3010-anatomische-modelle-bei-lehmanns?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Somso-Modelle](https://www.lehmanns.de/listing/1618-hochwertige-anatomische-modelle?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n**Services**\n    *   [Gutscheine](https://www.lehmanns.de/page/gutschein?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [PremiumCard](https://www.lehmanns.de/page/premiumcard?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Newsletter](https://www.lehmanns.de/account/mailinglists?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [WissensBox](https://www.lehmanns.de/tab/buecher/wissensbox/39-wissensbox?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n*   [Verlag](https://www.lehmanns.de/tab/verlag?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[**Neu bei Lehmanns Media: Mach KI zu deiner Stärke und starte mit mehr Kompetenz, Kreativität und Gelassenheit in die KI-Ära!**![Image 9: Teaserbild VERLAG](https://www.lehmanns.de/media/125313474)](https://www.lehmanns.de/shop/wirtschaft/83968480-9783965436206-bereit-fuer-die-ki-aera?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n[Verlag](https://www.lehmanns.de/tab/verlag?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc) \n\n**Verlagsprogramm**\n    *   [Medizin Studium](https://www.lehmanns.de/listing/409-medizin-studium-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Medizin Praxis](https://www.lehmanns.de/listing/408-medizin-praxis-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Heilpraktiker](https://www.lehmanns.de/listing/410-naturheilkunde-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Veterinärmedizin](https://www.lehmanns.de/listing/418-tiermedizin-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Informatik](https://www.lehmanns.de/listing/412-informatik-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Naturwiss./Technik](https://www.lehmanns.de/listing/414-naturwissenschaft-technik-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Wirtschaft/Recht](https://www.lehmanns.de/listing/419-recht-wirtschaft-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Geisteswissenschaften](https://www.lehmanns.de/listing/411-geisteswissenschaften-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Pädagogik](https://www.lehmanns.de/listing/5157-paedagogik-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Sportwissenschaft](https://www.lehmanns.de/listing/417-sportwissenschaft-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Dissertation/Habil.](https://www.lehmanns.de/listing/407-dissertationen-habilitationen-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Lüneburger Schriften](https://www.lehmanns.de/listing/416-lueneburger-schriften-zur-sozialarbeit-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Romane / Sachbuch](https://www.lehmanns.de/listing/415-belletristik-sachbuch-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Kinderbücher](https://www.lehmanns.de/listing/413-kinder-jugendbuch-aus-dem-verlag-lehmanns-media?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n**Lehmanns Media**\n    *   [Über den Verlag](https://www.lehmanns.de/page/lmueberuns?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Für Autoren](https://www.lehmanns.de/page/fuerautoren?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Rezensionsexemplar?](https://www.lehmanns.de/page/lmrezension?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Verlagskontakte](https://www.lehmanns.de/page/lmkontakt?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Open Access Repository](https://oa.lehmanns.de/home)\n\n*   [Filialen](https://www.lehmanns.de/page/store/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n![Image 10: Vorlesungen über die Entwicklung der Mathematik im 19. Jahrhundert - Felix Klein](https://www.lehmanns.de/media/59423302)[Blick ins Buch](https://www.lehmanns.de/media/789431/1?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\nVorlesungen über die Entwicklung der Mathematik im 19. Jahrhundert\n==================================================================\n\n Teil I \n\n### [Felix Klein](https://www.lehmanns.de/search/new/author/Felix+Klein?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Nach Felix Klein suchen\") (Autor)\n\n Buch | Softcover\n\n XXIV, 594 Seiten\n\n 1979 \n\nSpringer Berlin (Verlag)\n\n978-3-540-09235-3 (ISBN)\n\n#### **Lese- und Medienproben**\n\n![Image 11: Vorlesungen über die Entwicklung der Mathematik im 19. Jahrhundert - Felix Klein](https://www.lehmanns.de/media/22612270)\n\n[Inhaltsverzeichnis (PDF)](https://www.lehmanns.de/media/789431/1?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n**84,99**€ inkl. MwSt\n\n![Image 12: in den Warenkorb](https://www.lehmanns.de/img/cart-icon.png) in den Warenkorb\n*   [Versand in 7-10 Tagen](https://www.lehmanns.de/page/overlaydelivery204?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Was bedeutet das?\")\n*   [Versandkostenfrei innerhalb Deutschlands](https://www.lehmanns.de/page/versandkostenoverlay/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Über unsere Versandkosten\")\n*   [Auch auf Rechnung](https://www.lehmanns.de/page/zahlartenoverlay/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Über die Zahlarten\")\n*   [Verfügbarkeit in der Filiale vor Ort prüfen](https://www.lehmanns.de/page/store/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc#kartefilialen \"Prüfen Sie die Verfügbarkeit in Ihrer Filiale vor Ort\")\n*   [Artikel merken](https://www.lehmanns.de/leaflet/add/title_id/2303600?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"auf den Merkzettel\")\n\n*   [Infos](https://www.lehmanns.de/#/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n    *   [Infos](https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc#tab-tab-info)\n    *   [Autor](https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc#tab-author)\n    *   [Inhalt](https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc#tab-content)\n    *   [Produkt-Details](https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc#tab-details)\n\n*   [Infos](https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc#tab-tab-info)\n*   [Autor](https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc#tab-author)\n*   [Inhalt](https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc#tab-content)\n*   [Produkt-Details](https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc#tab-details)\n\nKaum jemals wird tin Werk eines Historikers einen so starken Reiz tiben und so tiefe Einblicke in das Wesen der Geschichte offnen wie Gedanken und Erinnerungen eines groBen Staatsmannes, welcher selbst ein langes Leben hindurch an fUhrender Stelle in die Geschicke der Welt eingegriffen hat und eine tiberlegene geistige Per sonlichkeit mit der Kraft ktinstlerischer schriftstellerischer Gestaltung verbindet. Solchc Werke, schon fUr die politische Geschichte eine kostbare Seltenheit, sind fiir die Geschichte der exakten Wissenschaften bis her wohl kaum geschrieben worden. Urn so notwendiger erschien es, als Felix Klein vor Jahresfrist starb, mit der Herausgabe seiner Vor lesungen zur Geschichte der Mathematik und mathematischen Physik des 19. Jahrhunderts nicht zu zogern. Diese Vorlesungen sind die reife Frucht eines reichen Lebens in mitten der wissenschaftlichen Ereignisse, der Ausdruck tiberlegener Weisheit und tiefen historischen Sinnes, einer hohen menschlichen Kultur und einer meisterhaften Gestaltungskraft; sie werden sicherlich auf aIle Mathematiker und Physiker und weit tiber diesen Kreis hin aus eine groBe Wirkung austiben. In einer Zeit, wo der Blick der Menschen auch in der Wissenschaft allzusehr am Gegenwartigen hangt und das Einzelne in unnatiirlicher VergroBerung und iiber triebener Bedeutung gegentiber dem Ganzen zu betrachten pflegt, kann das Kleinsche Werk vielen die Augen wieder offnen fUr die Zusammenhange und Entwicklungslinien unserer Wissenschaft im GroBen.\n\nRichard Courant was born in 1888 in a small town of what is now Poland, and died in New Rochelle, N.Y. in 1972. He received his doctorate from the legendary David Hilbert in Göttingen, where later he founded and directed its famed mathematics Institute, a Mecca for mathematicians in the twenties. In 1933 the Nazi government dismissed Courant for being Jewish, and he emigrated to the United States. He found, in New York, what he called \"a reservoir of talent\" to be tapped. He built, at New York University, a new mathematical Sciences Institute that shares the philosophy of its illustrious predecessor and rivals it in worldwide influence. For Courant mathematics was an adventure, with applications forming a vital part.\n\nErstes Kapitel. Gauß.- Allgemeines.- Angewandte Mathematik.- Reine Mathematik.- Zweites Kapitel Frankreich und die École Polytechnique in den ersten Jahrzehnten des 19. Jahrhunderts.- Entstehung und Organisation der Schule.- Mechanik und mathematische Physik.- Geometrie.- Analysis und Algebra.- Drittes Kapitel Die Gründung des Crelleschen Journals und das Aufblühen der reinen Mathematik in Deutschland.- Allerlei Pläne in Berlin; Crelle.- Analytiker des Crelleschen Journals.- Geometer des Crelleschen Journals.- Viertes Kapitel. Die Entwicklung der algebraischen Geometrie über Moebius, Plücker und Steiner hinaus.- Herausarbeitung einer rein projektiven Geometrie.- Die parallellaufende Entwicklung der Algebra; die Invariantentheorie..- Der Raum von n Dimensionen und die allgemeinen komplexen Zahlen..- Fünftes Kapitel. Mechanik und mathematische Physik in Deutschland und England bis etwa 1880..- Mechanik..- Mathematische Physik.- Sechstes Kapitel. Die allgemeine Funktionentheorie komplexer Veränderlicher bei Riemann und Weierstraß.- Gegenüberstellung.- Bernhard Riemann.- Karl Weierstraß..- Siebentes Kapitel. Vertiefte Einsicht in das Wesen der algebraischen Gebilde..- Weiterführung der algebraischen Geometrie..- Von den algebraischen Zahlen und dem Parallelismus ihrer Theorie mit derjenigen der algebraischen Funktionen..- Achtes Kapitel. Gruppentheorie und Funktionentheorie, insbesondere automorphe Funktionen..- Gruppentheorie..- Automorphe Funktionen..- Namenverzeichnis.\n\n| Erscheint lt. Verlag | 1.3.1979 |\n| --- |\n| Reihe/Serie | Grundlehren der mathematischen Wissenschaften |\n| Überarbeitung | Richard Courant, Otto Neugebauer, Stefan Cohn-Vossen |\n| Zusatzinfo | XXIV, 594 S. |\n| Verlagsort | Berlin |\n| Sprache | deutsch |\n| Maße | 155 x 235 mm |\n| Gewicht | 930 g |\n| Themenwelt | [Mathematik / Informatik](https://www.lehmanns.de/fachgebiet/45-mathematik-informatik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Stöbern Sie jetzt: Mathematik / Informatik\")►[Mathematik](https://www.lehmanns.de/fachgebiet/45-mathematik-informatik/20-mathematik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Stöbern Sie jetzt: Mathematik\")►[Allgemeines / Lexika](https://www.lehmanns.de/fachgebiet/45-mathematik-informatik/20-mathematik/10-allgemeines-lexika?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Stöbern Sie jetzt: Allgemeines / Lexika\") |\n| [Mathematik / Informatik](https://www.lehmanns.de/fachgebiet/45-mathematik-informatik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Stöbern Sie jetzt: Mathematik / Informatik\")►[Mathematik](https://www.lehmanns.de/fachgebiet/45-mathematik-informatik/20-mathematik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Stöbern Sie jetzt: Mathematik\")►[Geschichte der Mathematik](https://www.lehmanns.de/fachgebiet/45-mathematik-informatik/20-mathematik/45-geschichte-der-mathematik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Stöbern Sie jetzt: Geschichte der Mathematik\") |\n| Schlagworte | Ableitung • Analysis • Angewandte Mathematik • Beweis • Differentialgleichung • Entwicklung • Funktionentheorie • Geometrie • Geschichte der Mathematik • Invariante • Lehrsatz • Mathematik • Mathematische Physik • Physiker • Transformationen • Variable |\n| ISBN-10 | 3-540-09235-8 / 3540092358 |\n| ISBN-13 | 978-3-540-09235-3 / 9783540092353 |\n| Zustand | Neuware |\n\n[Informationen gemäß Produktsicherheitsverordnung (GPSR)](https://www.lehmanns.de/#/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n[Haben Sie eine Frage zum Produkt?](https://www.lehmanns.de/formmail/titlequestion/title_id/2303600?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[Andere Ausgabe Buch | Hardcover (1979) 69,50 €](https://www.lehmanns.de/shop/mathematik-informatik/15560814-9783540092346-vorlesungen-uber-die-entwicklung-der-mathematik-im-19-jahrhundert?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n**Mehr entdecken**\n\naus dem Bereich\n\n[![Image 13: Vorkurs Mathematik - Michael Knorrenschild](https://www.lehmanns.de/media/108163097)](https://www.lehmanns.de/shop/mathematik-informatik/61491626-9783446475168-vorkurs-mathematik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[Vorkurs Mathematik](https://www.lehmanns.de/shop/mathematik-informatik/61491626-9783446475168-vorkurs-mathematik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Vorkurs Mathematik\")\n\nein Übungsbuch für Fachhochschulen\n\nvon Michael Knorrenschild\n\nBuch | Hardcover (2023)\n\n Carl Hanser (Verlag) \n\n**16,99**€\n\n[![Image 14: Spieltheorie für dummies - Erwin Amann](https://www.lehmanns.de/media/121744847)](https://www.lehmanns.de/shop/mathematik-informatik/76417545-9783527722075-spieltheorie-fuer-dummies?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[Spieltheorie für dummies](https://www.lehmanns.de/shop/mathematik-informatik/76417545-9783527722075-spieltheorie-fuer-dummies?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Spieltheorie für dummies\")\n\nvon Erwin Amann\n\nBuch | Softcover (2025)\n\n Wiley-VCH (Verlag) \n\n**22,00**€\n\n[![Image 15: Mathematik für Naturwissenschaftler - Thoralf Räsch; Deborah J. Rumsey; Mark Ryan](https://www.lehmanns.de/media/109313672)](https://www.lehmanns.de/shop/mathematik-informatik/61735815-9783527721023-mathematik-fuer-naturwissenschaftler?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n[Mathematik für Naturwissenschaftler](https://www.lehmanns.de/shop/mathematik-informatik/61735815-9783527721023-mathematik-fuer-naturwissenschaftler?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Mathematik für Naturwissenschaftler\")\n\nvon Thoralf Räsch; Deborah J. Rumsey; Mark Ryan\n\nBuch | Softcover (2023)\n\n Wiley-VCH (Verlag) \n\n**26,00**€\n\nNewsletter zum Thema\n\n- [x] Mathematik\n\n Kostenlos und Up-to-Date:\n\n Wir informieren Sie aktuell\n\n über [100 Themenwelten](https://www.lehmanns.de/account/mailinglists?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\n![Image 16: Kopieren](https://www.lehmanns.de/img/icon-square-copy.png)Sie befinden sich hier: \n*   [Mathematik / Informatik](https://www.lehmanns.de/fachgebiet/45-mathematik-informatik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Stöbern Sie jetzt: Mathematik / Informatik\")![Image 17: /](https://www.lehmanns.de/img/icon-spacer-arrow.png)\n*   [Mathematik](https://www.lehmanns.de/fachgebiet/45-mathematik-informatik/20-mathematik?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Stöbern Sie jetzt: Mathematik\")![Image 18: /](https://www.lehmanns.de/img/icon-spacer-arrow.png)\n*   [Allgemeines / Lexika](https://www.lehmanns.de/fachgebiet/45-mathematik-informatik/20-mathematik/10-allgemeines-lexika?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc \"Stöbern Sie jetzt: Allgemeines / Lexika\")\n\n[![Image 19: Facebook](https://www.lehmanns.de/img/icon-square-fb.png)auf Facebook teilen](https://www.facebook.com/sharer/sharer.php?u=https://www.lehmanns.de/shop/mathematik-informatik/2303600-9783540092353-vorlesungen-ueber-die-entwicklung-der-mathematik-im-19-jahrhundert)\n\n[![Image 20: Kopieren](https://www.lehmanns.de/img/icon-square-copy.png)Link zu dieser Seite kopieren](https://www.lehmanns.de/#/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\nWebShop Infos\n\n*   [AGB / Widerrufsbelehrung](https://www.lehmanns.de/page/agb/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Datenschutzerklärung](https://www.lehmanns.de/page/datenschutz/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Hilfe](https://www.lehmanns.de/page/hilfe/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Versandkosten](https://www.lehmanns.de/page/versandkosten/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Zahlarten](https://www.lehmanns.de/page/zahlarten/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Rechnung herunterladen](https://www.lehmanns.de/invoice/downloadInvoice?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Rechnung bezahlen](https://www.lehmanns.de/invoice/searchInvoice?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Erweiterte Suche](https://www.lehmanns.de/search/extended?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\nÜber uns\n\n*   [Kontakt](https://www.lehmanns.de/page/kontakt/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Impressum](https://www.lehmanns.de/page/impressum/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Unsere Filialen](https://www.lehmanns.de/page/store/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Menschen bei Lehmanns](https://www.lehmanns.de/page/menschen/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Jobs bei Lehmanns](https://www.lehmanns.de/page/jobs/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Karriere bei Lehmanns](https://lehmannspro.de/karriere-bei-lehmanns/)\n\n[![Image 21: Facebook](blob:https://www.lehmanns.de/fa3eebc375cc91dc1e511ee526b2e67e)](https://www.facebook.com/LehmannsMedia)\n\nServices\n\n*   [PremiumCard](https://www.lehmanns.de/page/premiumcard/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Newsletter](https://www.lehmanns.de/account/mailinglists?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Gutscheine](https://www.lehmanns.de/page/gutschein/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Veranstaltungen](https://www.lehmanns.de/page/veranstaltungen/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Kataloge](https://www.lehmanns.de/page/kataloge/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n*   [Kongresse](https://www.lehmanns.de/page/kongresse/?PHPSESSID=ml70oj4kc8pnleqes6jj5hk3kc)\n\nB2B-Services für\n\n*   [Bibliotheken](https://lehmannsbib.de/)\n*   [Krankenhäuser](https://lehmannspro.de/kliniken/)\n*   [Rechtsanwälte](https://lehmannspro.de/)\n*   [Wirtschaftsprüfer](https://lehmannspro.de/)\n*   [Unternehmen](https://lehmannspro.de/unternehmen/)\n*   [Öffentliche Hand](https://lehmannspro.de/oeffentliche-hand/)\n*   [Open Access](https://www.lehmannsoa.de/)\n\n© Copyright 2025 by Lehmanns Media GmbH | Alle Rechte vorbehalten | Online Shop für Bücher, Fachbücher, Hörbücher und Zeitschriften",
+            "publish_time": "unknown"
+          },
+          "6": {
+            "url": "https://www.science.org/doi/10.1126/science.65.1693.574.b",
+            "title": "Just a moment...",
+            "description": "",
+            "content": "www.science.org\n---------------\n\nVerify you are human by completing the action below.\n\nwww.science.org needs to review the security of your connection before proceeding.",
+            "publish_time": "unknown"
+          },
+          "2": {
+            "url": "https://m.baike.com/wiki/%E6%95%B0%E5%AD%A6%E5%9C%A819%E4%B8%96%E7%BA%AA%E7%9A%84%E5%8F%91%E5%B1%95/4636376?baike_source=doubao",
+            "title": "抖音百科",
+            "description": "",
+            "content": "您当前所在地区\n\n不支持访问抖音百科",
+            "publish_time": "unknown"
+          },
+          "4": {
+            "url": "https://m.baike.com/wiki/%E8%8F%B2%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0/5060464?baike_source=doubao",
+            "title": "抖音百科",
+            "description": "",
+            "content": "您当前所在地区\n\n不支持访问抖音百科",
+            "publish_time": "unknown"
+          },
+          "1": {
+            "url": "https://www.britannica.com/biography/Felix-Klein?lang=it",
+            "title": "RmVsaXggS2xlaW4gfCBFcmxhbmdlbiBQcm9ncmFtLCBHcm91cCBUaGVvcnkgJiBHZW9tZXRyeQ==",
+            "description": "",
+            "content": "**Felix Klein** (born April 25, 1849, [Düsseldorf](https://www.britannica.com/place/Dusseldorf), [Prussia](https://www.britannica.com/place/Prussia) \\[Germany\\]—died June 22, 1925, [Göttingen](https://www.britannica.com/place/Gottingen), Germany) was a German mathematician whose unified view of [geometry](https://www.britannica.com/science/geometry) as the study of the properties of a space that are invariant under a given [group](https://www.britannica.com/science/group-mathematics) of [transformations](https://www.britannica.com/dictionary/transformations), known as the _Erlanger Programm_, profoundly influenced mathematical developments.\n\nAs a student at the University of Bonn (Ph.D., 1868), Klein worked closely with the physicist and geometer [Julius Plücker](https://www.britannica.com/biography/Julius-Plucker) (1801–68). After Plücker’s death, he worked with the geometer Alfred Clebsch (1833–72), who headed the [mathematics](https://www.britannica.com/science/mathematics) department at the [University of Göttingen](https://www.britannica.com/topic/University-of-Gottingen). On Clebsch’s recommendation, Klein was appointed professor of mathematics at the University of Erlangen (1872–75), where he set forth the views contained in his _Erlanger Programm_. These ideas reflected his close collaboration with the Norwegian mathematician [Sophus Lie](https://www.britannica.com/biography/Sophus-Lie), whom he met in [Berlin](https://www.britannica.com/place/Berlin) in 1869. Before the outbreak of the [Franco-German War](https://www.britannica.com/event/Franco-German-War) in July 1870, they were together in [Paris](https://www.britannica.com/place/Paris) developing their early ideas on the role of [transformation](https://www.britannica.com/dictionary/transformation) groups in geometry and on the theory of [differential equations](https://www.britannica.com/science/differential-equation).\n\nKlein later taught at the Institute of Technology in [Munich](https://www.britannica.com/place/Munich-Bavaria-Germany) (1875–80) and then at the Universities of [Leipzig](https://www.britannica.com/place/Leipzig-Germany) (1880–86) and Göttingen (1886–1913). From 1874 he was the editor of _Mathematische Annalen_ (“Annals of Mathematics”), one of the world’s leading mathematics journals, and from 1895 he supervised the great _Encyklopädie der mathematischen Wissenschaften mit Einschluss iher Anwendungen_ (“Encyclopedia of Pure and Applied Mathematics”). His works on elementary mathematics, including _Elementarmathematik vom höheren Standpunkte aus_ (1908; “Elementary Mathematics from an Advanced Standpoint”), reached a wide public. His technical papers were collected in _Gesammelte Mathematische Abhandlungen_, 3 vol., (1921–23; “Collected Mathematical Treatises”).\n\nQuick Facts\n\nIn full:\n\nChristian Felix Klein\n\n[![Image 1: Equations written on blackboard](https://cdn.britannica.com/86/94086-131-0BAE374D/Equations-blackboard.jpg) Britannica Quiz All About Math Quiz](https://www.britannica.com/quiz/all-about-math-quiz)Beyond his own work Klein made his greatest impact on mathematics as the principal architect of the modern [community](https://www.merriam-webster.com/dictionary/community) of mathematicians at Göttingen, which emerged as one of the world’s leading research centres under Klein and [David Hilbert](https://www.britannica.com/biography/David-Hilbert) (1862–1943) during the period from 1900 to 1914. After Klein’s retirement [Richard Courant](https://www.britannica.com/biography/Richard-Courant) (1888–1972) gradually assumed Klein’s role as the organizational leader of this still vibrant community.\n\nThis article was most recently revised and updated by [Encyclopaedia Britannica](https://www.britannica.com/contributor/encyclopaedia-britannica/12989892).",
+            "publish_time": "1998-07-20T00:00:00Z",
+            "fetched_by": "goliath"
+          },
+          "3": {
+            "url": "https://www.ebsco.com/research-starters/history/felix-klein",
+            "title": "RmVsaXggS2xlaW4gfCBSZXNlYXJjaCBTdGFydGVycyB8IEVCU0NPIFJlc2VhcmNo",
+            "description": "",
+            "content": "Felix Klein\n-----------\n\nGerman mathematician\n\n*   **Born:** April 25, 1849; Düsseldorf, Germany\n*   **Died:** June 22, 1925; Göttingen, Germany\n\n_Nineteenth-century German mathematician Felix Klein discovered many new non-Euclidean geometric systems. He established their consistency with traditional Euclidean geometry through applying algebra to the study of symmetry._\n\n**Also known as:** Christian Felix Klein\n\n**Primary field:** Mathematics\n\n**Specialty:** Geometry\n\nEarly Life\n----------\n\nChristian Felix Klein was born in Düsseldorf, Germany on April 25, 1849. Klein studied from 1857 to 1867 at the Düsseldorf Gymnasium and went from there to the University of Bonn at age seventeen. He intended to study physics and became an assistant to the eminent physicist, Julius Plucker. Plucker, however, was also an important geometer whowas near the end of his career. Klein assisted Plucker in working on line geometry, a modern development of the Euclidean geometry that had been the guiding geometrical system since antiquity.\n\nWhen Plucker passed away on May 22, 1868, Klein continued his work and saw that it was published. Through Plucker’s work, he became acquainted with Alfred Clebsch, an influential professor at Göttingen. Clebsch founded a mathematical journal in Göttingen, _Mathematische Annalen_. He recognized the potential for greatness in Klein and helped to advance his career.Klein earned his doctorate in December 1868 at the age of nineteen. His dissertation was much influenced by Plucker and contained several references to his mentor’s work. Klein’s doctoral thesis gave algebraic formulae for geometrical transformations in which straight lines refer to coordinate tetrahedrons. Klein’s thesis opened new avenues for study and helped establish his career path. In his dissertation, Klein also called for instruction in geometry to be amended to promote the new, non-Euclidean geometry that had been discovered in 1823. Without devaluing applied mathematics, Klein saw the value of purely abstract research.\n\nLife’s Work\n-----------\n\nIn 1870, Klein began work with the Norwegian mathematician Sophus Lie. Lie’s work in groups and algebra influenced a paper by Klein, presented to the Göttingen Academy of Science. Klein forwarded problems concerning parallels in projective geometry. At the time, many scientists believed the only knowledge of value was obtained from pure physical measurement and manipulation. Others felt abstract and intuitive mathematics, physics, and other sciences had high intrinsic value. Klein’s synthesis of intuition and strict research earned him high regard.\n\nAt the age of twenty-three, Klein was called to a departmental chair at the University of Erlangen. In 1872, he delivered a paper called the Erlangen Program. The work was celebrated for its far-reaching influence on mathematics and geometry. He pulled together studies from algebra and the new field of non-Euclidean geometry and created a system for organizing the field in groups. The groups were based on kinds of repetitive movements. Klein proved that projective geometry could vastly simplify the growing field by providing its base theory. Every symmetry could be defined and grouped by its transformation. Applying algebra to geometry added powerful tools to the understanding of non-Euclidean space.\n\nKlein married Anne Hegel in 1875, granddaughter of the famous German philosopher Wilhelm Friedrich Hegel. The same year, Klein was called to the University at Munich, where he taught a number of students who would later become famous in their own right, including physicist [Max Planck](https://www.ebsco.com/research-starters/history/max-planck).\n\nFrom 1880 to 1886, Klein continued his work as a scientist and professor at Leipzig. He developed what he called “the Klein surface,” an object since then referred to mistakenly as “the Klein Bottle.” The object features a nonorientable surface (no consistent right or left) and no boundaries. Geometrically interesting, the Klein surface is often pictured and sometimes built, but it can only be fully realized in four dimensions.\n\nKlein also worked on hyperelliptic sigma functions, publishing papers on this work in 1886 and 1888. During these years, Klein made what he considered to be his greatest contribution to mathematics: his works on function theory, group theory, number theory, and abstract algebra. However, he also suffered from depression and poor health during this period in his life. Klein engaged in competitive mathematical collaboration with the French mathematician, [Jules Henri Poincaré](https://www.ebsco.com/research-starters/history/henri-poincare). Working on automorphic functions, Poincaré “won” the competition informally by first discovering the foundations of what he named “Klein groups.”\n\nIn 1885, Klein was admitted to the Royal Society. The next year, he was called to chair at Göttingen, where he remained until retirement. His interest in education deepened. He aimed to transform Göttingen into one of the world’s first-order schools of mathematics and applied physics. He opened a library for mathematics, introduced weekly group discussion, and designated reading rooms. He was well connected among politicians and industrialists, garnering funding from such companies as Krupp, Bayer, and others. Klein attracted many excellent students and professors. Under his auspices, the Göttingen journal _Mathematische Annalen_ became one of the world’s best. In 1893, Klein’s support urged Göttingen to admit its first female students. In 1890 and 1892 Klein and his erstwhile student, mathematician Robert Fricke, published a two-volume collaborative work on elliptic modular functions.\n\nKlein became an influential academic, garnering titles awards within the international scientific community. He won the De Morgan medal of the London Mathematical Society in 1893. In the same year, he promoted mathematical study at the International Mathematical Congress, part of the Chicago World’s Fair. Following this, he lectured for two weeks at Northwestern University.\n\nIn 1897, the first volume of the second part of his collaboration with Fricke was published, which covered automorphic function theory. Fricke was responsible for much of the volume’s content, but Klein’s advisory relationship had a powerful influence. The second and final volume came out in 1912.\n\nBeginning in 1900, Klein published books for math teachers at the gymnasium, many of them his students at the university. He intended to modernize the transition of mathematical education between gymnasium and university. Applying modern mathematics to ancient problems, he sought to enable gymnasium teachers to introduce calculus and functions at the secondary level. In 1908 Klein was elected to chair the International Commission on Mathematical Instruction.\n\nKlein died June 22, 1925 in Göttingen. Posthumously, Klein’s race was called into question by Nazi officials. In 1933, the Prussian Ministry of the Interior sent a missive to the Bavarian Ministry of Culture, blaming Jewish mathematicians for taking over at Göttingen, led by Klein. After Nazi leader Adolf Hitler gained power in Germany, many of the department’s faculty members were either fired or left.\n\nImpact\n------\n\nKlein felt that his greatest contribution to mathematics was his work on functions. He and Poincaré inspired each other, and each sought to prove the uniformization theorem first.\n\nEuclidean geometry assumes space is flat. For example, triangles are studied on two-dimensional surfaces. Klein adopted [Georg Riemann](https://www.ebsco.com/research-starters/biography/bernhard-riemann)’s notion of non-Euclidean space, which can have three or more dimensions. For instance, a hyperbolic plane is only “flat” in that it has two dimensions. But its spread increases exponentially as you move from a given point. Hyperbolic space has negative curvature; elliptic space is similar, but has positive curvature. Klein’s work on the uniformization theorem would state that any connected two surfaces can demonstrate symmetry in the following way: they can be algebraically manipulated or projected such that the surface in question matches exactly a piece of one of the other kinds of plane; this theorem makes it possible to measure some extremely complicated surfaces.\n\nThe impact of Klein’s work in elliptic and automorphic functions in this area has had a far-reaching effect, especially since computers have evolved and vastly more complex surfaces have come under study. Through his teaching, Klein inspired many students, and through his combination of spatial mathematical intuition, rigorous research, and his larger-than-life personality, he left a lasting influence on the fields of geometry, group theory, and set theory.\n\nBibliography\n------------\n\nAsh, Avner. _Elliptic Tales: Curves, Counting, and Number Theory_. Princeton: Princeton UP, 2012. Print. Elliptic curves and number theory are two aspects of modern mathematics that build on Klein’s discoveries. Understandable for the popular intellectual and the university math student.\n\nMumford, David, Caroline Series, and David Wright. _Indra’s Pearls: The Vision of Felix Klein_. Cambridge: Cambridge UP, 2002. Print. Images made possible by Klein’s groups are explored in mathematical terms for an algebra student or educated lay reader. Computer-generated color illustrations help convey Kleinian concepts of symmetry.\n\nTrudeau, Richard J. _The Non-Euclidean Revolution_. Boston: Birkhäuser, 2008. Print. Reviews the discovery of non-Euclidean geometry, which many consider to be as important as the Copernican and Darwinian revolutions. Discusses the work of Klein and his peers and speculates on the search for truth through science.",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          }
+        },
+        "source_file": "doubao/md_data/Vorlesungen_über_die_Entwicklung_der_Mathematik_im_19._Jahrhundert.md"
+      }
+    }
+  }
+}

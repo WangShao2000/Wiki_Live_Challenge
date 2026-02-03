@@ -1,0 +1,3 @@
+# Multo_(song)
+
+Multo is a Filipino pop-rock song by Cup of Joe, released on September 14, 2024. It is a synth-pop ballad that explores themes of grief and nostalgia. The song is part of their debut album, Silakbo, which was released on January 17, 2025. 'Multo' has gained significant popularity, becoming one of the most streamed OPM songs on Spotify. The music video, released in March 2025, starred Elijah Canlas and Miles Ocampo.

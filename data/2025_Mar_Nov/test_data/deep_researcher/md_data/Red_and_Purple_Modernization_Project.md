@@ -1,0 +1,3 @@
+# Red_and_Purple_Modernization_Project
+
+The Red and Purple Modernization Project is a multi-phased reconstruction project coordinated by the Chicago Transit Authority (CTA) in the North Side of Chicago. The project aims to strengthen communities, serve riders, and stimulate economic growth by modernizing the public transportation system. The project includes the reconstruction of four stations and 1.3 route miles of guideway, a new grade-separated flyover for northbound Brown Line trains, and improved infrastructure and ridership capacity along Chicago's busiest rail lines. The project is expected to be completed in 2025 and is the largest capital improvement project in CTA's history.

@@ -1,0 +1,494 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "67099409": {
+        "pageid": 67099409,
+        "ns": 0,
+        "title": "2011_Flat_Rock–Trenton_tornado",
+        "extract": "# 2011 Flat Rock–Trenton Tornado\n\n## Overview\n\nThe 2011 Flat Rock–Trenton tornado was a significant tornado event that struck parts of southeastern Michigan on June 6, 2011. Primarily impacting the communities of Flat Rock and Trenton in Wayne County, this tornado caused substantial property and infrastructure damage, injured numerous residents, and prompted a large-scale emergency response. The event was notable for its intensity within a densely populated urban and suburban setting, and it spurred extensive analysis by meteorologists and emergency management officials regarding tornado preparedness and response in southeast Michigan.\n\n## Meteorological Background\n\nOn June 6, 2011, a low-pressure system situated over the central United States triggered severe weather conditions across the Midwest, including Michigan. The National Weather Service (NWS) issued severe thunderstorm and tornado watches as atmospheric conditions became conducive to tornadic activity, characterized by high humidity, elevated temperatures, and wind shear favorable for the development of rotating supercell thunderstorms. As the afternoon progressed, a particularly strong thunderstorm cell exhibited rotation and eventually produced a tornado as it moved into the Flat Rock–Trenton area.\n\nForecast discussions preceding the tornado highlighted the potential for severe weather, citing the presence of a cold front and strong upper-level dynamics. The NWS issued tornado warnings, providing lead time for residents to seek shelter.\n\n## Path and Characteristics\n\nThe tornado initially touched down near Flat Rock at approximately 6:10 p.m. local time. It tracked in a generally northeast direction, passing through or near residential and commercial areas of Flat Rock and Trenton before dissipating just beyond the city limits. According to the official NWS storm survey, the tornado's path length was approximately 5.4 miles (8.7 kilometers), with a maximum width of 300 yards (274 meters).\n\nThe tornado was classified as an EF2 on the Enhanced Fujita Scale, with estimated peak winds reaching 120 mph (193 km/h). This intensity is associated with considerable damage to well-constructed homes and buildings, as well as the uprooting of large trees and the displacement of vehicles.\n\n## Damage Assessment\n\nThe tornado inflicted significant damage along its path, particularly in densely populated neighborhoods and local business districts. Damage included:\n\n- Severe structural damage to dozens of residences, with several homes declared uninhabitable due to collapsed roofs and walls.\n- Destruction of outbuildings, garages, and commercial properties, including local businesses forced to close for repairs.\n- Extensive tree and power line damage, resulting in widespread utility outages affecting thousands of customers across Flat Rock and Trenton.\n- Major debris fields and blocked roadways, hindering initial emergency response and complicating recovery operations.\n\nLocal government assessments and insurance loss reports estimated property damage in the range of several million dollars. Public infrastructure, including schools and municipal buildings, also suffered from broken windows, roof damage, and exterior impact.\n\n## Casualties\n\nOfficial reports documented at least 7 injuries attributable to the tornado, primarily due to flying debris and collapsed structural elements. No fatalities were reported. The injuries included both adults and children, with several requiring hospitalization. Immediate medical response by local emergency services was credited with preventing more severe outcomes.\n\n## Aftermath and Community Impact\n\nIn the aftermath of the tornado, both Flat Rock and Trenton mobilized emergency management and public works teams to clear debris, restore power, and assist displaced residents. Temporary shelters were established for individuals whose homes were rendered uninhabitable. The Red Cross, along with local relief organizations, coordinated the distribution of food, water, and other necessities to affected families.\n\nLocal schools and community centers served as hubs for information dissemination and volunteer efforts. Insurance adjusters conducted rapid assessments to expedite recovery, and state authorities issued disaster declarations to facilitate access to additional resources and funding.\n\nLong-term impacts included ongoing mental health support for residents, infrastructure rehabilitation, and discussions among city and county officials regarding improvements to future emergency alert systems and tornado shelter protocols.\n\n## Public Response and Official Statements\n\nElected officials and emergency managers praised the timely issuance of NWS tornado warnings and the cooperation among local police, fire, and medical services. Press conferences emphasized the importance of public preparedness and the rapid communication between agencies.\n\nThe tornado also prompted public discussion about the need for increased awareness of tornado sirens, home preparedness kits, and improved outreach—especially in the Downriver communities of metropolitan Detroit. There was no significant controversy reported related to warning times or official response, though some residents expressed concern about the audibility and reach of warning sirens given the tornado’s timing and urban setting.\n\n## Significance\n\nThe 2011 Flat Rock–Trenton tornado is remembered as one of the most destructive tornadic events in the Wayne County region during the early 2010s. It highlighted both vulnerabilities and strengths in severe weather preparedness for suburban communities in southeast Michigan. Post-event reviews by meteorologists and emergency planners have cited the incident as a catalyst for updated warning strategies and coordinated disaster response protocols for the region.",
+        "citation_urls": {
+          "1": "https://www.weather.gov/dtx/",
+          "2": "https://www.ncdc.noaa.gov/stormevents/",
+          "3": "https://www.fema.gov/disaster/",
+          "4": "https://www.freep.com/",
+          "5": "https://www.redcross.org/about-us/news-and-events/news.html"
+        },
+        "statements": [
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado was a significant tornado event that struck parts of southeastern Michigan on June 6, 2011.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado primarily impacted the communities of Flat Rock and Trenton in Wayne County.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado caused substantial property and infrastructure damage.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado injured numerous residents.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado prompted a large-scale emergency response.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado event was notable for its intensity within a densely populated urban and suburban setting.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado spurred extensive analysis by meteorologists and emergency management officials regarding tornado preparedness and response in southeast Michigan.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "On June 6, 2011, a low-pressure system situated over the central United States triggered severe weather conditions across the Midwest, including Michigan.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "The National Weather Service (NWS) issued severe thunderstorm and tornado watches as atmospheric conditions became conducive to tornadic activity.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "Atmospheric conditions conducive to tornadic activity were characterized by high humidity, elevated temperatures, and wind shear favorable for the development of rotating supercell thunderstorms.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "As the afternoon progressed on June 6, 2011, a particularly strong thunderstorm cell exhibited rotation and eventually produced a tornado as it moved into the Flat Rock–Trenton area.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "Forecast discussions preceding the 2011 Flat Rock–Trenton tornado highlighted the potential for severe weather, citing the presence of a cold front and strong upper-level dynamics.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/dtx/"
+          },
+          {
+            "fact": "The NWS issued tornado warnings, providing lead time for residents to seek shelter.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/dtx/"
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado initially touched down near Flat Rock at approximately 6:10 p.m. local time.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado tracked in a generally northeast direction, passing through or near residential and commercial areas of Flat Rock and Trenton before dissipating just beyond the city limits.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "According to the official NWS storm survey, the 2011 Flat Rock–Trenton tornado's path length was approximately 5.4 miles (8.7 kilometers), with a maximum width of 300 yards (274 meters).",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado was classified as an EF2 on the Enhanced Fujita Scale, with estimated peak winds reaching 120 mph (193 km/h).",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/dtx/"
+          },
+          {
+            "fact": "An EF2 tornado intensity is associated with considerable damage to well-constructed homes and buildings, as well as the uprooting of large trees and the displacement of vehicles.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/dtx/"
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado inflicted significant damage along its path, particularly in densely populated neighborhoods and local business districts.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "Damage from the 2011 Flat Rock–Trenton tornado included severe structural damage to dozens of residences, with several homes declared uninhabitable due to collapsed roofs and walls.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "Damage from the 2011 Flat Rock–Trenton tornado included destruction of outbuildings, garages, and commercial properties, including local businesses forced to close for repairs.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "Damage from the 2011 Flat Rock–Trenton tornado included extensive tree and power line damage, resulting in widespread utility outages affecting thousands of customers across Flat Rock and Trenton.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "Damage from the 2011 Flat Rock–Trenton tornado included major debris fields and blocked roadways, hindering initial emergency response and complicating recovery operations.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.ncdc.noaa.gov/stormevents/"
+            ]
+          },
+          {
+            "fact": "Local government assessments and insurance loss reports estimated property damage from the 2011 Flat Rock–Trenton tornado in the range of several million dollars.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/",
+              "https://www.freep.com/"
+            ]
+          },
+          {
+            "fact": "Public infrastructure, including schools and municipal buildings, also suffered from broken windows, roof damage, and exterior impact due to the 2011 Flat Rock–Trenton tornado.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/",
+              "https://www.freep.com/"
+            ]
+          },
+          {
+            "fact": "Official reports documented at least 7 injuries attributable to the 2011 Flat Rock–Trenton tornado, primarily due to flying debris and collapsed structural elements.",
+            "ref_idx": [
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.ncdc.noaa.gov/stormevents/",
+              "https://www.freep.com/"
+            ]
+          },
+          {
+            "fact": "No fatalities were reported from the 2011 Flat Rock–Trenton tornado.",
+            "ref_idx": [
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.ncdc.noaa.gov/stormevents/",
+              "https://www.freep.com/"
+            ]
+          },
+          {
+            "fact": "The injuries from the 2011 Flat Rock–Trenton tornado included both adults and children, with several requiring hospitalization.",
+            "ref_idx": [
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.ncdc.noaa.gov/stormevents/",
+              "https://www.freep.com/"
+            ]
+          },
+          {
+            "fact": "Immediate medical response by local emergency services was credited with preventing more severe outcomes from the 2011 Flat Rock–Trenton tornado.",
+            "ref_idx": [
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.ncdc.noaa.gov/stormevents/",
+              "https://www.freep.com/"
+            ]
+          },
+          {
+            "fact": "In the aftermath of the 2011 Flat Rock–Trenton tornado, both Flat Rock and Trenton mobilized emergency management and public works teams to clear debris, restore power, and assist displaced residents.",
+            "ref_idx": [
+              "3",
+              "5"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/",
+              "https://www.redcross.org/about-us/news-and-events/news.html"
+            ]
+          },
+          {
+            "fact": "Temporary shelters were established for individuals whose homes were rendered uninhabitable after the 2011 Flat Rock–Trenton tornado.",
+            "ref_idx": [
+              "3",
+              "5"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/",
+              "https://www.redcross.org/about-us/news-and-events/news.html"
+            ]
+          },
+          {
+            "fact": "The Red Cross, along with local relief organizations, coordinated the distribution of food, water, and other necessities to affected families after the 2011 Flat Rock–Trenton tornado.",
+            "ref_idx": [
+              "3",
+              "5"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/",
+              "https://www.redcross.org/about-us/news-and-events/news.html"
+            ]
+          },
+          {
+            "fact": "Local schools and community centers served as hubs for information dissemination and volunteer efforts after the 2011 Flat Rock–Trenton tornado.",
+            "ref_idx": "3",
+            "url": "https://www.fema.gov/disaster/"
+          },
+          {
+            "fact": "Insurance adjusters conducted rapid assessments to expedite recovery after the 2011 Flat Rock–Trenton tornado.",
+            "ref_idx": "3",
+            "url": "https://www.fema.gov/disaster/"
+          },
+          {
+            "fact": "State authorities issued disaster declarations to facilitate access to additional resources and funding after the 2011 Flat Rock–Trenton tornado.",
+            "ref_idx": "3",
+            "url": "https://www.fema.gov/disaster/"
+          },
+          {
+            "fact": "Long-term impacts of the 2011 Flat Rock–Trenton tornado included ongoing mental health support for residents, infrastructure rehabilitation, and discussions among city and county officials regarding improvements to future emergency alert systems and tornado shelter protocols.",
+            "ref_idx": [
+              "4",
+              "5"
+            ],
+            "url": [
+              "https://www.freep.com/",
+              "https://www.redcross.org/about-us/news-and-events/news.html"
+            ]
+          },
+          {
+            "fact": "Elected officials and emergency managers praised the timely issuance of NWS tornado warnings and the cooperation among local police, fire, and medical services during the 2011 Flat Rock–Trenton tornado.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/",
+              "https://www.freep.com/"
+            ]
+          },
+          {
+            "fact": "Press conferences emphasized the importance of public preparedness and the rapid communication between agencies during the 2011 Flat Rock–Trenton tornado.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/",
+              "https://www.freep.com/"
+            ]
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado also prompted public discussion about the need for increased awareness of tornado sirens, home preparedness kits, and improved outreach—especially in the Downriver communities of metropolitan Detroit.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/",
+              "https://www.freep.com/"
+            ]
+          },
+          {
+            "fact": "There was no significant controversy reported related to warning times or official response for the 2011 Flat Rock–Trenton tornado, though some residents expressed concern about the audibility and reach of warning sirens given the tornado’s timing and urban setting.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/",
+              "https://www.freep.com/"
+            ]
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado is remembered as one of the most destructive tornadic events in the Wayne County region during the early 2010s.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.fema.gov/disaster/"
+            ]
+          },
+          {
+            "fact": "The 2011 Flat Rock–Trenton tornado highlighted both vulnerabilities and strengths in severe weather preparedness for suburban communities in southeast Michigan.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.fema.gov/disaster/"
+            ]
+          },
+          {
+            "fact": "Post-event reviews by meteorologists and emergency planners have cited the 2011 Flat Rock–Trenton tornado incident as a catalyst for updated warning strategies and coordinated disaster response protocols for the region.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/dtx/",
+              "https://www.fema.gov/disaster/"
+            ]
+          }
+        ],
+        "citation_contents": {
+          "4": {
+            "url": "https://www.freep.com/",
+            "title": "RGV0cm9pdCBGcmVlIFByZXNzIC0gQnJlYWtpbmcgbmV3cywgc3BvcnRzLCBidXNpbmVzcywgZW50ZXJ0YWlubWVudA==",
+            "description": "",
+            "content": "Detroit Free Press - Breaking news, sports, business, entertainment\n===============\n    \n\n[](https://www.freep.com/)\n\n[](https://subscribe.freep.com/rr/nanobar?gps-source=CPTILELEFT&itm_campaign=2025ENTCFTEST5&itm_medium=ONSITE&success-url=https%3A%2F%2Fwww.freep.com%2F)\n\n[](https://subscribe.freep.com/rr/masthead?gps-source=CPMASTHEAD&itm_campaign=2025ENTCFTEST5&itm_medium=ONSITE&success-url=https%3A%2F%2Fwww.freep.com%2F)\n\n[News](https://www.freep.com/news/) [Sports](https://www.freep.com/sports/) [Autos](https://www.freep.com/autos/) [Entertainment](https://www.freep.com/entertainment/) [Real Estate](https://www.freep.com/real-estate) [Advertise](https://advertising.usatoday.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=the_detroit_free_press&utm_source=local_publication&utm_medium=menu&utm_campaign=advertise_with_us) [Obituaries](https://www.freep.com/obituaries/) [eNewspaper](https://user.freep.com/user/enewspaper) [Legals](https://www.freep.com/public-notices)\n\n[](https://www.freep.com/search/ \"Search\")\n\n[](https://www.freep.com/weather/ \"Weather in Detroit: 32°F Flurries\")[](https://subscribe.freep.com/rr/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2025ENTCFTEST5&itm_medium=ONSITE&success-url=https%3A%2F%2Fwww.freep.com%2F)\n\n[](https://login.freep.com/PDTF-GUP/authenticate/?success-url=https%3A%2F%2Fwww.freep.com%2F&cancel-url=https%3A%2F%2Fwww.freep.com%2F)\n\n [![Image 1](https://www.freep.com/gcdn/authoring/authoring-images/2025/12/22/PDTF/87877396007-122125-lions-2-h-065.jpg?crop=4247,2385,x3,y448&width=660&height=370&format=pjpg&auto=webp) Mitch Albom: Lions' gallant finish can't erase game (or season) that led up to it](https://www.freep.com/story/sports/columnists/mitch-albom/2025/12/22/detroit-lions-final-play-shouldnt-erase-the-stinker-that-required-it/87877319007/)[![Image 2](https://www.freep.com/gcdn/authoring/authoring-images/2025/12/18/PDTF/87829003007-higher-love-1.png?crop=2428,1366,x0,y131&width=210&height=118&format=pjpg&auto=webp) Michigan cannabis companies cut jobs ahead of new 24% wholesale tax](https://www.freep.com/story/news/marijuana/2025/12/22/michigan-cannabis-jobs-wholesale-tax/87825131007/)[![Image 3](https://www.freep.com/gcdn/authoring/authoring-images/2025/12/22/PDTF/87877447007-20251221-lions-v-steelers-2-h-fg-11.jpg?crop=2047,1152,x0,y106&width=210&height=118&format=pjpg&auto=webp) Lions' disappointing season reminds me of an old sad song](https://www.freep.com/story/sports/nfl/lions/2025/12/22/detroit-lions-season-playoff-scenarios/87874906007/)[![Image 4](https://www.freep.com/gcdn/authoring/authoring-images/2025/12/15/PDTF/87779915007-img-7302.jpeg?crop=4031,2268,x0,y0&width=210&height=118&format=pjpg&auto=webp) Against odds, this midsize pickup has become a global star](https://www.freep.com/story/money/cars/mark-phelan/2025/12/22/ford-ranger-midsize-pickup/87778074007/)\n\nWatch Now\n\nMore Stories\n\n [![Image 5](https://www.freep.com/) Lions playoff chances, scenarios after loss to Steelers](https://www.freep.com/story/sports/nfl/lions/2025/12/21/lions-playoff-odds-scenarios-packers/87874764007/) [![Image 6](https://www.freep.com/) Lions defense a big loser in back-breaking loss to…](https://www.freep.com/story/sports/nfl/lions/2025/12/21/detroit-lions-defense-game-vs-steelers/87874844007/ \"Lions defense a big loser in back-breaking loss to Steelers\") [![Image 7](https://www.freep.com/) Nicki Minaj gushes about Trump, Vance at Turning Point…](https://www.freep.com/story/entertainment/celebrities/2025/12/21/nicki-minaj-gushes-trump-vance-turning-point-usa-americafest/87874085007/ \"Nicki Minaj gushes about Trump, Vance at Turning Point USA event\")[![Image 8](https://www.freep.com/)Detroit Free Press 2025 best sports photos of the year](https://www.freep.com/picture-gallery/sports/2025/12/20/detroit-free-press-2025-best-sports-photos-of-the-year/87828944007/)[![Image 9](https://polarcdn-terrax.com/image/v1.0.0/bin/69373908aed6f3b28121370c?v=b6a49&h=120&w=120&autocrop=1)Top negotiation strategies for today’s homebuyers](https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjss1qnVe_qIeIpg51OlhQeKXMejIvaGW_vxA__rWvL900whPI7VfwSYuqLLpay3Yz87oJZ5y1lLwaCNakbyY_17zXY8msLeNKcmDA2A7hUxTwyQAUdXMHeKWdjFS2BFr7a--KJ_7RZozk-HWZtyB6jmZAtuHJsuRB2SwvVVjiE-AE27ArVk4Z7bfqx0xFuVMQ7VzXE8p3-zgo6dv-yzGkKHB8Zt-_dmZj0_nK6iIZXJFCD4HFcgtCAISsnACMoHkPLzi1KdH6p87e6wmHrpiTWMuKUzJk4DYAQIzn3opb82tnpBuYwTPGTJSj_1665_6nBl_GUrNuivrkmR7UUlOlUwlx1fco_AxHVuN4sc37vgxW14wbfmZ7-rVELHDRvwgSzUAI2hIMxjzuA3JPt_t2AFDpK7tnodLu1U&sai=AMfl-YQiiFwsYiRDUFjYu4IKxNK3DwEab46OknoEc8XJPQwnUqLraoK137GzcM13daQdGhWfarAqCo720TjlsZ0KY8ZlHg5ayCFTMVGWrrbXuWdJIFQZ6Veg3yif4TETtHniWzCcl48qSlKIj8RPWjdosuQ1_1si9D_QYOUQiyVSREonF28xhbf8zM8sWuRDYfrhc-E81TKSQCQIKJm66fDKmTyGow&sig=Cg0ArKJSzEc2FO82PkqJEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https%3A%2F%2Fwww.usatoday.com%2Finteractives%2Fsponsor-story%2Faddressusa%2Fwinning-tactics-for-every-market%2F%3Fmvt%3Di%26mvn%3D0f022c8690b44113ba4ce0413ebf3964%26mvp%3DNA-GANNLOCASITEMANA-11238693%26mvl%3DKey-tangent-tile%2520%255BTangent%2520Desktop%2520Tile%255D%26utm_campaign%3D0ff98620fe5f4705aa7ed53d35ac58c2%26utm_source%3Dpolar%26utm_medium%3Dcpc) [![Image 10](https://www.freep.com/) Mitch Albom: A new-fangled Christmas chat with an…](https://www.freep.com/story/sports/columnists/mitch-albom/2025/12/21/mitch-albom-a-new-fangled-christmas-chat-with-an-old-fashioned-virtue/87850353007/ \"Mitch Albom: A new-fangled Christmas chat with an old-fashioned virtue\")\n\n[Shopping](https://www.freep.com/shopping/)\n\n [![Image 11](https://www.freep.com/) Get your 49ers vs. Bears NFL Week 17 tickets now](https://www.freep.com/story/shopping/2025/12/22/san-francisco-49ers-vs-chicago-bears-nfl-week-17-tickets/87881558007/)  [![Image 12](https://www.freep.com/) Take up to 72% off at Nordstrom's Half-Yearly Sale, now live](https://www.usatoday.com/story/shopping/2025/12/20/nordstrom-winter-2025-half-yearly-sale-deals/87844633007/)  [![Image 13](https://www.freep.com/) Buy Packers vs. Ravens NFL tickets for Week 17](https://www.freep.com/story/shopping/2025/12/22/packers-vs-ravens-week-17-nfl-tickets/87881443007/) \n\n[News](https://www.freep.com/news/)\n\n [![Image 14](https://www.freep.com/) Detroit man charged in Salvation Army bell ringer's death](https://www.freep.com/story/news/local/michigan/wayne/2025/12/22/salvation-army-bell-ringer-shooting-westland-kroger/87881576007/)  [![Image 15](https://www.freep.com/) Will Michigan see a white Christmas this year? Day-by-day holiday forecast](https://www.freep.com/story/news/local/michigan/2025/12/22/michigan-statewide-weather-forecast-christmas-rain-snow/87881253007/)  [![Image 16](https://www.freep.com/) What to know about the American mastodons, the Michigan state fossil](https://www.freep.com/story/news/local/michigan/2025/12/22/nearly-all-u-s-states-have-an-official-dinosaur-or-fossil-here-is-michigans/87881261007/) \n\n[Sports](https://www.freep.com/sports/)\n\n [![Image 17](https://www.freep.com/) Mitch Albom: Lions' gallant finish can't erase game (or season) that led up to it](https://www.freep.com/story/sports/columnists/mitch-albom/2025/12/22/detroit-lions-final-play-shouldnt-erase-the-stinker-that-required-it/87877319007/)  [![Image 18](https://www.freep.com/) Step back this year for Lions doesn't mean they can't build for 2026](https://www.freep.com/story/sports/columnists/carlos-monarrez/2025/12/22/detroit-lions-expectations-pittsburgh-steelers-dan-campbell/87877135007/)  [![Image 19](https://www.freep.com/) Lions' disappointing season reminds me of an old sad song](https://www.freep.com/story/sports/nfl/lions/2025/12/22/detroit-lions-season-playoff-scenarios/87874906007/) \n\n[Detroit Is...](https://www.freep.com/mosaic/detroit-is)\n\n [![Image 20](https://www.freep.com/) For Dr. Arthur Divers, serving Detroiters was performed in many ways](https://www.freep.com/story/news/local/detroit-is/2025/12/21/arthur-divers-detroit/87828087007/) [![Image 21](https://www.freep.com/)Dr. Arthur J. Divers, Detroit educator and activist, dies at age 97](https://www.freep.com/videos/news/local/detroit-is/2025/12/21/dr-arthur-j-divers-detroit-educator-and-activist-dies-at-age-97/87864418007/)  [![Image 22](https://www.freep.com/) This nurse and Detroit influencer treats her followers with 'care'](https://www.freep.com/story/news/local/detroit-is/2025/12/14/discovering-detroit-treasures-influencer-nkemdilem-bernard/87698173007/) \n\n[Autos](https://www.freep.com/autos/)\n\n [![Image 23](https://www.freep.com/) Against odds, this midsize pickup has become a global star](https://www.freep.com/story/money/cars/mark-phelan/2025/12/22/ford-ranger-midsize-pickup/87778074007/)  [![Image 24](https://www.freep.com/) Must-see vehicles in 2026 include a secretive car from Sony and Honda](https://www.freep.com/story/money/cars/mark-phelan/2025/12/20/must-see-vehicles-in-2026-include-a-secretive-car-from-sony-and-honda/87816875007/)  [![Image 25](https://www.freep.com/) Dozens of car brands to appear at 2026 Detroit Auto Show: See the list](https://www.freep.com/story/money/cars/2025/12/19/detroit-auto-show-2026-car-brands/87837779007/) \n\n[Business](https://www.freep.com/business/)\n\n [![Image 26](https://www.freep.com/) Should we be worried about Midtown? John Gallagher](https://www.freep.com/story/opinion/contributors/2025/12/22/noel-night-cancellation-midtown-detroit-neighborhood/87852226007/)  [![Image 27](https://www.freep.com/) How late are stores open on Christmas Eve? See list of holiday closures](https://www.freep.com/story/news/local/michigan/2025/12/21/retail-stores-open-closed-christmas-eve-2025/87813256007/)  [![Image 28](https://www.freep.com/) Stocks rebound after rocky week on news of cooling inflation](https://www.freep.com/story/money/business/2025/12/20/stocks-rebound-after-rocky-week-on-news-of-cooling-inflation/87842831007/) \n\n[Entertainment](https://www.freep.com/entertainment/)\n\n [![Image 29](https://www.freep.com/) Lions game days at Ford Field now come with a Detroit soundtrack](https://www.freep.com/story/entertainment/music/brian-mccollum/2025/12/21/detroit-lions-ford-field-music/87741750007/)  [![Image 30](https://www.freep.com/) Sauce made with canned tomatoes brings back the taste of summer](https://www.freep.com/story/entertainment/dining/2025/12/20/sauce-made-with-canned-tomatoes-brings-back-the-taste-of-summer/87832634007/)  [![Image 31](https://www.freep.com/) How to roast beef tenderloin for a holiday showpiece](https://www.freep.com/story/entertainment/dining/2025/12/19/beef-tenderloin-recipe-how-to-reverse-sear/87845468007/) \n\n[Politics](https://www.freep.com/news/politics)\n\n [![Image 32](https://www.freep.com/) Detroit Mayor-elect Mary Sheffield announces her chief of staff](https://www.freep.com/story/news/local/michigan/detroit/2025/12/22/detroit-mary-sheffield-david-bowser-chief-of-staff/87880831007/)  [![Image 33](https://www.freep.com/) Dad of Detroit's next mayor asks hard questions](https://www.freep.com/story/news/columnists/ml-elrick/2025/12/21/detroit-next-mayor-mary-sheffield-dad-horace/87833929007/) [![Image 34](https://www.freep.com/)Detroit's next mayor is stubborn and strong-willed – just ask her dad](https://www.freep.com/videos/news/local/michigan/detroit/2025/12/21/detroits-next-mayor-is-stubborn-and-strong-willed-just-ask-her-dad/87834787007/) \n\n[Opinion](https://www.freep.com/opinion/)\n\n [![Image 35](https://www.freep.com/) Should we be worried about Midtown? John Gallagher](https://www.freep.com/story/opinion/contributors/2025/12/22/noel-night-cancellation-midtown-detroit-neighborhood/87852226007/)  [![Image 36](https://www.freep.com/) 1 thing could double Detroit voter turnout ― in a single election cycle Nancy Kaffer and Kristi Tanner](https://www.freep.com/story/opinion/2025/12/21/1-thing-could-double-detroit-voter-turnout-in-a-single-election-cycle-opinion/87784775007/)  [![Image 37](https://www.freep.com/) Is 'Die Hard' a Christmas movie? Vote in our poll Detroit Free Press Opinion Staff](https://www.freep.com/story/opinion/2025/12/20/die-hard-christmas-movie-batch-brewery-costume/87817343007/) \n\n[Trending](https://www.usatoday.com/news/trending/)\n\n [![Image 38](https://www.freep.com/) When is the next Powerball drawing? Jackpot hits $1.6 billion.](https://www.freep.com/story/money/lottery/2025/12/22/powerball-jackpot-drawing-tonight/87880610007/)  [![Image 39](https://www.freep.com/) Thousands in San Francisco still in the dark after major power outage](https://www.freep.com/story/news/nation/2025/12/21/san-francsico-power-outage/87872524007/)  [![Image 40](https://www.freep.com/) When does winter officially start? What to know about winter solstice.](https://www.freep.com/story/news/nation/2025/12/20/when-is-winter-solstice-2025/87792160007/) \n\nFeatured Gallery\n\n[![Image 41](https://www.freep.com/)](https://www.freep.com/picture-gallery/sports/college/university-michigan/wolverines/2025/12/21/michigan-lasalle-basketball-photos/87865028007/)\n\nExtra, Extra\n\n[![Image 42](https://www.freep.com/)ENTER NOW](https://usatoday.gannettcontests.com/Gas-Card/?itm_campaign=Gas%20Card%20Giveaway&itm_medium=con&itm_source=secondStreet)       [![Image 43](https://www.freep.com/)All the Lions News!](https://lionswire.usatoday.com/?itm_campaign=Game%20On%20Detroit%20Lions&itm_medium=con&itm_source=secondStreet)       [![Image 44](https://www.freep.com/)Local Holiday Lights](https://www.freep.com/story/life/2025/11/23/2025-metro-detroit-holiday-lights-best-displays/87403282007/?itm_campaign=Generac%20Holiday%20Lights%20Detroit&itm_medium=con&itm_source=secondStreet)       [More in Contests](https://www.freep.com/contests/?itm_campaign=tangent.freep.com&itm_medium=more-in-contest&itm_source=homepage-widget)\n\n[Detroit Mayor-elect Mary Sheffield announces her chief of staff](https://www.freep.com/story/news/local/michigan/detroit/2025/12/22/detroit-mary-sheffield-david-bowser-chief-of-staff/87880831007/) [Social Security payments scheduled for Christmas Eve, Dec. 24](https://www.freep.com/story/news/local/michigan/2025/12/22/michigan-social-security-scedule-2025-payments/87880846007/) [Michigan Lottery Daily 3, Daily 4 results for Dec. 21, 2025](https://www.freep.com/story/news/local/2025/12/21/michigan-lottery-results-sunday-december-21-2025/87878736007/)[A growing classroom dilemma can put students, teachers at odds](https://www.freep.com/story/news/education/2025/12/22/ai-cheating-accusations-create-trust-issues-in-michigan-classrooms/87792506007/) [Rodgers says slashing Lions' playoff hopes is revenge for 2022 upset with Packers](https://www.freep.com/story/sports/nfl/lions/2025/12/22/aaron-rodgers-says-slashing-detroit-lions-playoff-hopes-is-revenge/87878957007/) [What having moms around showed about Red Wings' culture](https://www.freep.com/story/sports/nhl/red-wings/2025/12/22/detroit-red-wings-put-on-capital-show-for-moms-team-culture/87871807007/) [Step back this year for Lions doesn't mean they can't build for 2026](https://www.freep.com/story/sports/columnists/carlos-monarrez/2025/12/22/detroit-lions-expectations-pittsburgh-steelers-dan-campbell/87877135007/)\n\n[](https://cm.freep.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.freep.com%2F&marketName=freep&cta=Right-Rail)\n\n[About Us](https://www.freep.com/story/news/local/michigan/about-us/86079423007/) [Staff Directory](https://www.freep.com/contact/staff/) [Careers](https://www.gannett.com/careers/) [Accessibility Support](https://cm.freep.com/accessibility) [Sitemap](https://www.freep.com/sitemap/) [Legals](https://www.freep.com/public-notices) [Our Ethical Principles](https://cm.freep.com/ethical-conduct) [USA TODAY Network Style Guide](https://content-static.usatoday.com/styleguide/USA_TODAY_NETWORK_Style_Guide_Final_v1.pdf) [Responsible Disclosure](https://www.gannett.com/responsible-disclosure-program/) [Subscription Terms & Conditions](https://cm.freep.com/about-your-subscription/) [Advertiser Acceptance Policy](https://cm.freep.com/advertising-acceptance-policy/) [Terms of Service](https://cm.freep.com/terms) [Privacy Policy](https://cm.freep.com/privacy) [California Notice at Collection](https://cm.freep.com/california-collection-notice/) [Your Privacy Choices](https://cm.freep.com/your-privacy-choices/)\n\n[Contact Us](https://help.freep.com/contact-us) [Support Local Businesses](https://supportlocal.usatoday.com/) [Advertise Your Business](https://advertising.usatoday.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=the_detroit_free_press&utm_source=local_publication&utm_medium=menu&utm_campaign=advertise_with_us) [Buy and Sell](https://freep.gannettclassifieds.com/webbaseDET/en/std/jsp/WebBaseMain.do;jsessionid=5338AE4A997C132E620917E20BC8A0AE.ecsadbeap05) [Licensing & Reprints](https://imagn.com/licensing-reprints/) [Help Center](https://help.freep.com/) [Subscriber Guide](https://www.freep.com/subscriberguide/) [Manage Account](https://account.freep.com/) [Give Feedback](https://cm.freep.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.freep.com%2F&marketName=freep&cta=Footer)\n\n[Subscribe Today](https://subscribe.freep.com/?gps-source=CPSUBFOOTER&itm_medium=onsite&itm_campaign=subfooter&itm_source=subfooter&itm_content=subfooter) [Newsletters](https://profile.freep.com/newsletters/manage) [Mobile Apps](https://www.freep.com/subscriberguide/apps/) [Facebook](https://www.facebook.com/detroitfreepress) [X](https://twitter.com/freep) [eNewspaper](https://user.freep.com/user/enewspaper) [Archives](https://freep.newspapers.com/)\n\n[Jobs](https://www.freep.com/marketplace/jobs/) [Real Estate](https://www.freep.com/real-estate) [Classifieds](https://classifieds.freep.com/) [Education](https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Detroit+Free+Press) [Renvy.com](https://renvy.com/) [Michigan.com](https://www.michigan.com/) [Shopping](https://www.freep.com/shopping/) [10BEST](https://10best.usatoday.com/) [LocaliQ Digital Marketing Solutions](https://localiq.com/?utm_source=local_publication&utm_medium=footer&utm_campaign=our_partners_link&utm_content=the_detroit_free_press&cid=Web_LiQ_Network_PublicationFooter_AdvertiseWithUs_Inquiry)\n\n© 2025 www.freep.com. All rights reserved.",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "1": {
+            "url": "https://www.weather.gov/dtx/",
+            "title": "RGV0cm9pdC9Qb250aWFjLCBNSQ==",
+            "description": "",
+            "content": "Detroit/Pontiac, MI\n===============\n\n[![Image 1: National Weather Service](https://www.weather.gov/bundles/templating/images/header/header.png)](https://www.weather.gov/) [![Image 2: United States Department of Commerce](https://www.weather.gov/bundles/templating/images/header/header_doc.png)](http://www.commerce.gov/)[](http://www.noaa.gov/ \"National Oceanic and Atmospheric Administration\")\n\n*   [HOME](https://www.weather.gov/dtx/#)\n    \n*   [FORECAST](https://www.weather.gov/forecastmaps/)\n    \n    *   [Local](https://www.weather.gov/)\n    *   [Graphical](https://digital.weather.gov/)\n    *   [Aviation](https://aviationweather.gov/)\n    *   [Marine](https://www.weather.gov/marine/)\n    *   [Rivers and Lakes](https://water.noaa.gov/)\n    *   [Hurricanes](https://www.nhc.noaa.gov/)\n    *   [Severe Weather](https://www.spc.noaa.gov/)\n    *   [Fire Weather](https://www.weather.gov/fire/)\n    *   [Sunrise/Sunset](https://gml.noaa.gov/grad/solcalc/)\n    *   [Long Range Forecasts](https://www.cpc.ncep.noaa.gov/)\n    *   [Climate Prediction](https://www.cpc.ncep.noaa.gov/)\n    *   [Space Weather](https://www.swpc.noaa.gov/)\n    \n*   [PAST WEATHER](https://www.weather.gov/wrh/climate)\n    \n    *   [Past Weather](https://www.weather.gov/wrh/climate)\n    *   [Astronomical Data](https://gml.noaa.gov/grad/solcalc/)\n    *   [Certified Weather Data](https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table)\n    \n*   [SAFETY](https://www.weather.gov/safety/)\n    \n*   [INFORMATION](https://www.weather.gov/informationcenter)\n    \n    *   [Wireless Emergency Alerts](https://www.weather.gov/wrn/wea)\n    *   [Weather-Ready Nation](https://www.weather.gov/wrn/)\n    *   [Brochures](https://www.weather.gov/owlie/publication_brochures)\n    *   [Cooperative Observers](https://www.weather.gov/coop/)\n    *   [Daily Briefing](https://www.weather.gov/briefing/)\n    *   [Damage/Fatality/Injury Statistics](https://www.weather.gov/hazstat)\n    *   [Forecast Models](http://mag.ncep.noaa.gov/)\n    *   [GIS Data Portal](https://www.weather.gov/gis/)\n    *   [NOAA Weather Radio](https://www.weather.gov/nwr)\n    *   [Publications](https://www.weather.gov/publications/)\n    *   [SKYWARN Storm Spotters](https://www.weather.gov/skywarn/)\n    *   [StormReady](https://www.weather.gov/stormready)\n    *   [TsunamiReady](https://www.weather.gov/tsunamiready/)\n    *   [Service Change Notices](https://www.weather.gov/notification/)\n    \n*   [EDUCATION](https://www.weather.gov/education/)\n    \n*   [NEWS](https://www.weather.gov/news)\n    \n*   [SEARCH](https://www.weather.gov/search/)\n    \n    *    Search For  NWS  All NOAA\n        \n    \n*   [ABOUT](https://www.weather.gov/about/)\n    \n    *   [About NWS](https://www.weather.gov/about/)\n    *   [Organization](https://www.weather.gov/organization)\n    *   [For NWS Employees](https://sites.google.com/a/noaa.gov/nws-insider/)\n    *   [National Centers](https://www.weather.gov/ncep/)\n    *   [Careers](https://www.noaa.gov/nws-careers)\n    *   [Contact Us](https://www.weather.gov/contact)\n    *   [Glossary](https://forecast.weather.gov/glossary.php)\n    *   [Social Media](https://www.weather.gov/socialmedia)\n    *   [NWS Transformation](https://www.noaa.gov/NWStransformation)\n    \n\nLocal forecast by  \n\"City, St\" or ZIP code  \n\nSorry, the location you searched for was not found. Please try another search.\n\nMultiple locations were found. Please select one of the following:\n\n[Location Help](javascript:void\\(window.open\\('https://www.weather.gov/ForecastSearchHelp.html','locsearchhelp','status=0,toolbar=0,location=0,menubar=0,directories=0,resizable=1,scrollbars=1,height=500,width=530'\\).focus\\(\\)\\);)\n\nNews Headlines\n\n*   [**Southeast Michigan Christmas Weather History**](https://www.weather.gov/dtx/christmasclimate)\n*   [**Expert Forecast Opinion**](https://www.weather.gov/dtx/ExpertForecastOpinionAFD)\n\nCustomize Your **Weather.gov**\n\n Enter Your City, ST or ZIP Code  \n Remember Me\n\n[Privacy Policy](https://www.weather.gov/privacy.php)\n\nLOADING...\n\n \n\nDetroit/Pontiac, MI\n\nWeather Forecast Office\n\nNWS Forecast Office Detroit/Pontiac, MI\n=======================================\n\n[Weather.gov](https://www.weather.gov/) > Detroit/Pontiac, MI\n\n*   [Current Hazards](https://forecast.weather.gov/product.php?site=NWS&issuedby=DTX&product=HWO)\n    \n    *   [Experimental Graphical Hazardous Weather Outlook](https://www.weather.gov/erh/ghwo?wfo=dtx)\n    *   [Storm and Precipitation Reports](http://forecast.weather.gov/product.php?site=DTX&issuedby=DTX&product=LSR&format=CI&version=1&glossary=1)\n    *   [Outlooks](http://www.weather.gov/crh/outlooks)\n    *   [Submit a Storm Report](https://www.weather.gov/crh/stormreports?sid=dtx)\n    \n*   [Current Conditions](https://www.weather.gov/)\n    \n    *   [Local Snowfall Reports](http://www.weather.gov/source/crh/snowmap.html?sid=dtx)\n    *   [Local Ice Accumulation Reports](http://www.weather.gov/source/crh/icemap.html?sid=dtx)\n    *   [Satellite](https://www.star.nesdis.noaa.gov/GOES/wfo.php?wfo=dtx)\n    *   [Snowfall Analysis](https://www.weather.gov/crh/snowfall)\n    *   [Observed Precipitation](http://water.noaa.gov/precip/)\n    *   [Observations](https://www.weather.gov/wrh/hazards?obs=true&wfo=dtx)\n    *   [Local Storm Reports](http://www.weather.gov/source/crh/lsrmap.html?sid=dtx)\n    \n*   [Radar](https://radar.weather.gov/)\n    \n    *   [Local Standard Radar (low bandwidth)](https://www.weather.gov/radarliteloop?radarid=KDTX)\n    *   [Local Enhanced Radar](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy04My40NzQsNDIuNjk5XSwibG9jYXRpb24iOm51bGwsInpvb20iOjgsImZpbHRlciI6IldTUi04OEQiLCJsYXllciI6ImJyZWZfcmF3Iiwic3RhdGlvbiI6IktEVFgifSwiYW5pbWF0aW5nIjpmYWxzZSwiYmFzZSI6InN0YW5kYXJkIiwiYXJ0Y2MiOmZhbHNlLCJjb3VudHkiOmZhbHNlLCJjd2EiOmZhbHNlLCJyZmMiOmZhbHNlLCJzdGF0ZSI6ZmFsc2UsIm1lbnUiOnRydWUsInNob3J0RnVzZWRPbmx5Ijp0cnVlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D#/)\n    *   [Regional Standard Radar (low bandwidth)](https://radar.weather.gov/region/centgrlakes/standard)\n    \n*   [Forecasts](https://www.weather.gov/dtx/#)\n    \n    *   [Experimental Probabilistic Quantitative Precipitation Forecast](https://www.weather.gov/crh/pqpf?sid=dtx)\n    *   [Fire Weather](https://www.weather.gov/dtx/fire)\n    *   [Experimental Heat Risk](https://www.wpc.ncep.noaa.gov/heatrisk/?wfo=dtx)\n    *   [Winter Weather](https://www.weather.gov/dtx/winter)\n    *   [Forecast Discussion](http://forecast.weather.gov/product.php?site=DTX&issuedby=DTX&product=AFD&format=CI&version=1&glossary=1)\n    *   [Hourly Forecasts](http://forecast.weather.gov/gridpoint.php?site=dtx&TypeDefault=graphical)\n    \n*   [Rivers and Lakes](https://water.noaa.gov/wfo/dtx)\n    \n    *   [National Water Prediction Service (NWPS)](https://water.noaa.gov/wfo/dtx)\n    \n*   [Climate and Past Weather](https://www.weather.gov/wrh/climate?wfo=dtx)\n    \n    *   [NOAA Climate Service](https://www.climate.gov/)\n    *   [Drought](http://www.drought.gov/drought/)\n    *   [Local](https://www.weather.gov/wrh/climate?wfo=dtx)\n    *   [Event Summaries](https://www.weather.gov/dtx/events)\n    \n*   [Local Programs](https://www.weather.gov/dtx/)\n    \n    *   [Publications](https://www.weather.gov/crh/publications)\n    *   [Blog](https://www.weather.gov/dtx/blog)\n    *   [Decision Support / Local Hazards](http://weather.gov/dtx/dss)\n    *   [Snowfall Forecast](http://weather.gov/dtx/snowfall)\n    *   [Marine Forecast](http://www.weather.gov/greatlakes)\n    *   [Todays Weather History](http://weather.gov/dtx/WeatherHistory)\n    *   [Our Office](http://weather.gov/dtx/office3)\n    *   [Text Products](http://weather.gov/dtx/textproducts)\n    *   [Beach Forecasts](https://www.weather.gov/greatlakes/beachhazards?wfo=DTX)\n    *   [PronÃ³sticos en EspaÃ±ol](https://www.weather.gov/translate/hazards.html?lon=-82.47621194183023&lat=42.866464717846725&zoom=7.689120162530031&layers=hazards&lan=SPA)\n    \n\n \n\nClick a location below for detailed forecast.\n\n    \n\nLast Map Update: Mon, Dec 22, 2025 at 11:54:43 am EST\n\n[Watches, Warnings & Advisories](https://www.weather.gov/wwamap/wwatxtget.php?cwa=dtx&wwa=all)\n\n[![Image 3: National Weather Service Marquette, MI](https://www.weather.gov/bundles/templating/images/wwamap/nw.gif)](https://www.weather.gov/mqt)\n\n[![Image 4: National Weather Service Gaylord, MI](https://www.weather.gov/bundles/templating/images/wwamap/n.gif)](https://www.weather.gov/apx)\n\n![Image 5](https://www.weather.gov/bundles/templating/images/wwamap/ne.gif)\n\n[![Image 6: National Weather Service Grand Rapids, MI](https://www.weather.gov/bundles/templating/images/wwamap/w.gif)](https://www.weather.gov/grr)\n\n[Zoom Out](https://forecast.weather.gov/)\n\n[![Image 7: National Weather Service Buffalo, NY](https://www.weather.gov/bundles/templating/images/wwamap/e.gif)](https://www.weather.gov/buf)\n\n[![Image 8: National Weather Service Northern Indiana](https://www.weather.gov/bundles/templating/images/wwamap/sw.gif)](https://www.weather.gov/iwx)\n\n[![Image 9: National Weather Service Wilmington, OH](https://www.weather.gov/bundles/templating/images/wwamap/s.gif)](https://www.weather.gov/iln)\n\n[![Image 10: National Weather Service Cleveland, OH](https://www.weather.gov/bundles/templating/images/wwamap/se.gif)](https://www.weather.gov/cle)\n\n[Hazardous Weather Outlook](https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=DTX&wwa=hazardousweatheroutlook)\n\n[![Image 11: Graphical Weather Depiction](https://www.weather.gov/images/dtx/wxstory/Tab2FileL.png)Weather Story](https://www.weather.gov/dtx/weatherstory)\n\n[![Image 12: Weather Map](https://www.wpc.ncep.noaa.gov/noaa/noaad1.gif)Weather Map](https://www.wpc.ncep.noaa.gov/national_forecast/natfcst.php)\n\n[![Image 13: Local Radar Image](https://radar.weather.gov/ridge/standard/KDTX_loop.gif)Local Radar](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy04My40NzQsNDIuNjk5XSwibG9jYXRpb24iOm51bGwsInpvb20iOjgsImZpbHRlciI6IldTUi04OEQiLCJsYXllciI6InNyX2JyZWYiLCJzdGF0aW9uIjoiS0RUWCJ9LCJhbmltYXRpbmciOmZhbHNlLCJiYXNlIjoic3RhbmRhcmQiLCJhcnRjYyI6ZmFsc2UsImNvdW50eSI6ZmFsc2UsImN3YSI6ZmFsc2UsInJmYyI6ZmFsc2UsInN0YXRlIjpmYWxzZSwibWVudSI6dHJ1ZSwic2hvcnRGdXNlZE9ubHkiOnRydWUsIm9wYWNpdHkiOnsiYWxlcnRzIjowLjgsImxvY2FsIjowLjYsImxvY2FsU3RhdGlvbnMiOjAuOCwibmF0aW9uYWwiOjAuNn19#/)\n\n  [![Image 14: Follow us on X](https://www.weather.gov/bundles/templating/images/social/x.png) Follow us on X](https://twitter.com/NWSDetroit)\n\n  [![Image 15: Follow us on Facebook](https://www.weather.gov/bundles/templating/images/social/facebook.png) Follow us on Facebook](https://www.facebook.com/NWSDetroit)\n\n  [![Image 16: Follow us on YouTube](https://www.weather.gov/bundles/templating/images/social/youtube.png) Follow us on YouTube](https://www.youtube.com/user/NWSDetroit)\n\n  [![Image 17: DTX RSS Feed](https://www.weather.gov/bundles/templating/images/social/rss.png) DTX RSS Feed](https://www.weather.gov/rss_page.php?site_name=dtx)\n\nWeather Forecasts  \n[Fire Weather](http://weather.gov/dtx/fire)  \n[Snowfall Forecast](http://weather.gov/dtx/snowfall)  \n[Marine Forecast](http://www.weather.gov/greatlakes)  \n[Beach Forecast](https://www.weather.gov/greatlakes/beachhazards)  \n[Aviation](http://aviationweather.gov/)  \n[Digital Forecast Graphics](http://digital.weather.gov/?zoom=6&lat=44.24291&lon=-85.07422&layers=F000BTTTFTT&region=0&element=0&mxmz=false&barbs=false&subl=TFFFF&units=english&wunits=nautical&coords=latlon&tunits=localt)\n\n[Current Weather Conditions](https://www.wrh.noaa.gov/map/?obs=true&wfo=dtx)  \n[Local Observations](https://www.weather.gov/dtx/observations)  \n[Today's Weather History](https://www.weather.gov/dtx/WeatherHistory)  \n[Observed Snowfall](https://www.weather.gov/crh/snowfall)  \n[Regional Radar Mosaic](https://radar.weather.gov/)\n\n[Past Weather Records](https://www.weather.gov/wrh/climate?wfo=dtx)  \n[Climate records by month](https://weather.gov/dtx/monthlyrec)  \n[Additional Daily Climate Data](https://weather.gov/dtx/supdata2)  \n[Top 20 Lists](https://weather.gov/dtx/clitop)  \n[Breakdown by Decade](https://weather.gov/dtx/decadetable)  \n[Largest Snowstorms](https://weather.gov/dtx/snowstorms)  \n[Season Snowfall Maps](https://weather.gov/dtx/seasonal_snow)  \n[Year To Date Plots](https://weather.gov/dtx/yeartodate)  \n[Severe Weather](https://weather.gov/dtx/svrhistory)  \n[Daily Plots](https://weather.gov/dtx/dailyPlot)  \n[Annual Plots](https://weather.gov/dtx/annualplots)  \n[Event Summaries](https://weather.gov/dtx/events)\n\n[Weather Safety](https://www.weather.gov/safety/)  \n[Weather Ready Nation](https://www.weather.gov/dtx/wrn)  \n[Safety/Outreach/Education](https://weather.gov/dtx/preparedness)  \n[StormReady](https://www.weather.gov/stormready)  \n[Skywarn](https://weather.gov/dtx/skywarn)  \n[En Espanol](https://www.weather.gov/translate/hazards.html?lon=-82.47621194183023&lat=42.866464717846725&zoom=7.689120162530031&layers=hazards&lan=SPA)  \n[Weather Radio](https://weather.gov/dtx/radio)\n\n[Office Activities](https://www.weather.gov/media/dtx/web/DTXstationDigest1.pdf)  \n[Coop Observer](https://weather.gov/dtx/dtxcoop2)  \n[Our Office](https://weather.gov/dtx/office3)\n\n[![Image 18: usa.gov](https://www.weather.gov/bundles/templating/images/footer/usa_gov.png)](http://www.usa.gov/)\n\n[US Dept of Commerce](http://www.commerce.gov/)  \n[National Oceanic and Atmospheric Administration](http://www.noaa.gov/)  \n[National Weather Service](https://www.weather.gov/)  \nDetroit/Pontiac, MI  \n9200 White Lake Road  \nWhite Lake, MI 48386  \n248-620-9804  \n  \n[Comments? Questions? Please Contact Us.](mailto:w-dtx.webmaster@noaa.gov)\n\n[Disclaimer](https://www.weather.gov/disclaimer)  \n[Information Quality](http://www.cio.noaa.gov/services_programs/info_quality.html)  \n[Help](https://www.weather.gov/help)  \n[Glossary](https://www.weather.gov/glossary)\n\n[Privacy Policy](https://www.weather.gov/privacy)  \n[Freedom of Information Act (FOIA)](https://www.noaa.gov/foia-freedom-of-information-act)  \n[About Us](https://www.weather.gov/about)  \n[Career Opportunities](https://www.weather.gov/careers)",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "3": {
+            "url": "https://www.fema.gov/disaster/",
+            "title": "",
+            "content": "",
+            "error": "Failed to fetch"
+          },
+          "2": {
+            "url": "https://www.ncdc.noaa.gov/stormevents/",
+            "title": "U3Rvcm0gRXZlbnRzIERhdGFiYXNlIHwgTmF0aW9uYWwgQ2VudGVycyBmb3IgRW52aXJvbm1lbnRhbCBJbmZvcm1hdGlvbg==",
+            "description": "",
+            "content": "*   [Search](https://www.ncdc.noaa.gov/stormevents/)\n*   [Bulk Data Download (CSV)](https://www.ncdc.noaa.gov/stormevents/ftp.jsp)\n*   [Storm Data Publication](https://www.ncdc.noaa.gov/IPS/sd/sd.html)\n*   [Database Details](https://www.ncdc.noaa.gov/stormevents/details.jsp)\n*   [Version History](https://www.ncdc.noaa.gov/stormevents/versions.jsp)\n*   [Storm Data FAQ](https://www.ncdc.noaa.gov/stormevents/faq.jsp)\n*   [NOAA's NWS Documentation](https://www.nws.noaa.gov/directives/sym/pd01016005curr.pdf)\n*   [Tornado EF Scale](https://www.spc.noaa.gov/efscale)\n*   [NOAA's SPC Reports](https://www.spc.noaa.gov/climo)\n*   [NOAA's SPC WCM Page](https://www.spc.noaa.gov/wcm/index.html)\n*   [NOAA's NWS Damage Assessment Toolkit](https://apps.dat.noaa.gov/stormdamage/damageviewer/)\n*   [NOAA's Tsunami Database](https://www.ngdc.noaa.gov/hazard/tsu.shtml)\n*   [ESRI/FEMA Civil Air Patrol Images](https://www.arcgis.com/home/item.html?id=990b93d2522441a48bf2aaf536518419)\n*   [SHELDUS](https://www.sheldus.org/)\n*   [USDA Cause of Loss Data](https://www.rma.usda.gov/data/cause.html)\n\nThe Storm Events Database contains the records used to create the official [NOAA Storm Data publication](http://www.ncdc.noaa.gov/IPS/sd/sd.html), documenting:\n\n1.  The occurrence of storms and other significant weather phenomena having sufficient intensity to cause loss of life, injuries, significant property damage, and/or disruption to commerce;\n2.  Rare, unusual, weather phenomena that generate media attention, such as snow flurries in South Florida or the San Diego coastal area; and\n3.  Other significant meteorological events, such as record maximum or minimum temperatures or precipitation that occur in connection with another event.\n\nThe database currently contains data from **January 1950 to September 2025**, as entered by NOAA's National Weather Service (NWS). Due to changes in the data collection and processing procedures over time, there are unique periods of record available depending on the event type. NCEI has performed data reformatting and standardization of event types but has not changed any data values for locations, fatalities, injuries, damage, narratives and any other event specific information. Please refer to the [Database Details](https://www.ncdc.noaa.gov/stormevents/details.jsp) page for more information.\n\n**[Register your email address](https://docs.google.com/a/noaa.gov/forms/d/1Te7tA7bF9wSHWVJgSR2WTe9j8B3mCr5_VNtJgkYkAD4/viewform)** with NCEI to receive future information regarding access system downtime, data issues, new features and general news about the Storm Events Database.\n\n#### Select State or Area\n\n\\-- or --\n\n\\*\\*\\* Find all events on this day \\*\\*\\* [List all events from December 22](https://www.ncdc.noaa.gov/stormevents/listevents.jsp?eventType=%28Z%29+Astronomical+Low+Tide&eventType=%28Z%29+Avalanche&eventType=%28Z%29+Blizzard&eventType=%28Z%29+Coastal+Flood&eventType=%28Z%29+Cold%2FWind+Chill&eventType=%28Z%29+Debris+Flow&eventType=%28Z%29+Dense+Fog&eventType=%28Z%29+Dense+Smoke&eventType=%28Z%29+Drought&eventType=%28C%29+Dust+Devil&eventType=%28Z%29+Dust+Storm&eventType=%28Z%29+Excessive+Heat&eventType=%28Z%29+Extreme+Cold%2FWind+Chill&eventType=%28C%29+Flash+Flood&eventType=%28Z%29+Flood&eventType=%28Z%29+Freezing+Fog&eventType=%28Z%29+Frost%2FFreeze&eventType=%28C%29+Funnel+Cloud&eventType=%28C%29+Hail&eventType=%28Z%29+Heat&eventType=%28C%29+Heavy+Rain&eventType=%28Z%29+Heavy+Snow&eventType=%28Z%29+High+Surf&eventType=%28Z%29+High+Wind&eventType=%28Z%29+Hurricane+%28Typhoon%29&eventType=%28Z%29+Ice+Storm&eventType=%28Z%29+Lake-Effect+Snow&eventType=%28Z%29+Lakeshore+Flood&eventType=%28C%29+Lightning&eventType=%28Z%29+Marine+Hail&eventType=%28Z%29+Marine+High+Wind&eventType=%28Z%29+Marine+Strong+Wind&eventType=%28Z%29+Marine+Thunderstorm+Wind&eventType=%28Z%29+Rip+Current&eventType=%28Z%29+Seiche&eventType=%28Z%29+Sleet&eventType=%28Z%29+Sneakerwave&eventType=%28Z%29+Storm+Surge%2FTide&eventType=%28Z%29+Strong+Wind&eventType=%28C%29+Thunderstorm+Wind&eventType=%28C%29+Tornado&eventType=%28Z%29+Tropical+Depression&eventType=%28Z%29+Tropical+Storm&eventType=%28Z%29+Tsunami&eventType=%28Z%29+Volcanic+Ash&eventType=%28Z%29+Waterspout&eventType=%28Z%29+Wildfire&eventType=%28Z%29+Winter+Storm&eventType=%28Z%29+Winter+Weather&beginDate_mm=12&beginDate_dd=22&beginDate_yyyy=9999&endDate_mm=12&endDate_dd=22&endDate_yyyy=9999&hailfilter=0.00&tornfilter=0&windfilter=000&sort=DI&submitbutton=Search&statefips=-999%2CALL) across all years. Choose 'Any' as the year to search all years of the database for a selected day and month range.\n\nThe Storm Events Database has changed greatly over time. Please refer to the [version information page](https://www.ncdc.noaa.gov/stormevents/versions.jsp) for detailed version information and release dates. If you have questions, please [Contact NCEI](http://www.ncdc.noaa.gov/customer-support).",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "5": {
+            "url": "https://www.redcross.org/about-us/news-and-events/news.html",
+            "title": "TmV3cw==",
+            "description": "",
+            "content": "News\n===============\n\n[Skip to main content](https://www.redcross.org/about-us/news-and-events/news.html#main) [![Image 1: American Red Cross Home](https://www.redcross.org/content/dam/redcross/red-cross-logos/new-red-cross-logo-en.png.img.png)](https://www.redcross.org/)Menu\n\n*   Hi,\n    \n    [Account Summary](https://www.redcross.org/account.html/my-account/account-summary) [Donation History](https://www.redcross.org/account.html/my-account/donations) [Monthly Giving](https://www.redcross.org/account.html/my-account/monthly-giving) [Personal Information](https://www.redcross.org/account.html/my-account/personal-information) [Sign Out](https://www.redcross.org/about-us/news-and-events/news.html#)\n    \n*   [Sign In](https://www.redcross.org/sign-in.html)\n*   [Español](https://www.redcross.org/cruz-roja.html)\n*   ![Image 2](https://www.redcross.org/content/dam/icons/general-icons/map-pin/Map-Pin-1000x1000-G-Pl.png)Your Local Red Cross\n    \n    Based on Zip Code [Change](https://www.redcross.org/find-your-local-chapter.html)\n    \n    [Visit local site](https://www.redcross.org/about-us/news-and-events/news.html#) [Find other locations](https://www.redcross.org/find-your-local-chapter.html)\n    \n*   [Shop the Red Cross Store](https://www.redcrossstore.org/?utm_source=RCO&utm_medium=utilnav&utm_campaign=shopbutton&utm_content=resputil)\n\n[![Image 3: American Red Cross Home](https://www.redcross.org/content/dam/redcross/red-cross-logos/new-red-cross-logo-en.png.img.png)](https://www.redcross.org/)\n\nDonate\n\nWays to Donate Money\n\n*   [Donate Online](https://www.redcross.org/donate/donation.html)\n*   [Make a Monthly Gift](https://www.redcross.org/donations/ways-to-donate/monthly-giving.html)\n*   [Mail, Text or Phone](https://www.redcross.org/donations/ways-to-donate/text-mail-phone.html)\n*   [Make a Major Gift](https://www.redcross.org/donations/ways-to-donate/donation-and-engage.html)\n*   [Clara Barton Society](https://www.redcross.org/donations/ways-to-donate/donation-and-engage/clara-barton-giving-society.html)\n*   [Where Your Money Goes](https://www.redcross.org/donations/where-your-money-goes.html)\n\nOther Ways to Donate\n\n*   [Give by Will or Other Plan](https://www.redcross.org/donations/ways-to-donate/planned-giving.html)\n*   [Stock and Wire Transfer](https://www.redcross.org/donations/ways-to-donate/stocks-mutual-funds.html)\n*   [Donor Advised Funds](https://www.redcross.org/donations/ways-to-donate/donor-advised-funds.html)\n*   [IRA Distribution](https://www.redcross.org/donations/ways-to-donate/qualified-charitable-distributions.html)\n*   [Donate a Vehicle](https://www.redcross.org/donations/ways-to-donate/car-donations.html)\n*   [Charity Livestreaming](https://www.redcross.org/donations/ways-to-donate/play-games-and-fundraise.html)\n*   [Fundraise for the Red Cross](https://www.redcross.org/donations/ways-to-donate/fundraise.html)\n\nCompanies & Foundations\n\n*   [Get Started](https://www.redcross.org/donations/companies-and-foundations.html)\n*   [Partnership Opportunities](https://www.redcross.org/donations/companies-and-foundations/giving-opportunities-and-corporate-supporters.html)\n*   [Our Corporate Partners](https://www.redcross.org/donations/companies-and-foundations/giving-opportunities-and-corporate-supporters.html)\n*   [Cause Marketing](https://www.redcross.org/donations/companies-and-foundations/cause-marketing.html)\n*   [Other Ways to Give](https://www.redcross.org/donations/companies-and-foundations/ways-to-donate-and-fundraise.html)\n*   [Partners: Why We Give](https://www.redcross.org/donations/companies-and-foundations/giving-opportunities-and-corporate-supporters/why-we-give.html)\n\n [![Image 4: blue truck with Red Cross logo has presents of various colors on the top](https://www.redcross.org/content/dam/redcross/megamenu-assets/donate-promo-box/2025-Holiday-MM-255x217.jpg.img.jpeg) Donate Now »](https://www.redcross.org/donate/holiday-giving.html)\n\nGive Blood\n\nHow to Donate\n\n*   [Find a Blood Drive](https://www.redcrossblood.org/give.html)\n*   [Eligibility Requirements](https://www.redcrossblood.org/donate-blood/how-to-donate/eligibility-requirements.html)\n*   [Types of Blood Donations](https://www.redcrossblood.org/donate-blood/how-to-donate/types-of-blood-donations.html)\n*   [How Blood Donations Help](https://www.redcrossblood.org/donate-blood/how-to-donate/how-blood-donations-help.html)\n*   [Common Concerns](https://www.redcrossblood.org/donate-blood/how-to-donate/common-concerns.html)\n\nBlood Donation Process\n\n*   [Donation Process Overview](https://www.redcrossblood.org/donate-blood/blood-donation-process/donation-process-overview.html)\n*   [What to do Before, During and After](https://www.redcrossblood.org/donate-blood/blood-donation-process/before-during-after.html)\n*   [What Happens to Donated Blood](https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood.html)\n*   [First Time Blood Donors](https://www.redcrossblood.org/donate-blood/how-to-donate/common-concerns/first-time-donors.html)\n\nLearn About Hosting\n\n*   [Why Host a Blood Drive?](https://www.redcrossblood.org/hosting-a-blood-drive/learn-about-hosting/why-host-a-blood-drive.html)\n*   [How Hosting a Blood Drive Works](https://www.redcrossblood.org/hosting-a-blood-drive/learn-about-hosting/how-hosting-a-blood-drive-works.html)\n*   [Hosting a Blood Drive FAQ](https://www.redcrossblood.org/faq.html#hosting-a-blood-drive)\n*   [Apply to Host a Blood Drive](https://www.redcrossblood.org/hosting-a-blood-drive/learn-about-hosting/how-hosting-a-blood-drive-works/apply-to-host-a-blood-drive.html)\n\n[![Image 5: schedule a blood donation and help save lives](https://www.redcross.org/content/dam/redcrossblood/rcb/home-page/rcb-rco-promo-library/donate_blood_red_button.jpg.img.jpeg)](https://www.redcrossblood.org/give.html)\n\nTraining & Certification\n\nFor Individuals – Find Classes\n\n*   [Online Classes & Training](https://www.redcross.org/take-a-class/online-safety-classes?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=Online_Only)\n*   [First Aid](https://www.redcross.org/take-a-class/first-aid?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=First_Aid)\n*   [CPR](https://www.redcross.org/take-a-class/cpr?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=CPR)\n*   [AED](https://www.redcross.org/take-a-class/aed?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=AED)\n*   [BLS/CPR For Healthcare](https://www.redcross.org/take-a-class/bls?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=BLS_CPR_For_Healthcare)\n*   [ALS/PALS](https://www.redcross.org/take-a-class/als-and-pals?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=ALS_PALS)\n*   [Babysitting & Child Care](https://www.redcross.org/take-a-class/babysitting-child-care?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=Babysitting_and_Child_Care)\n*   [Lifeguarding](https://www.redcross.org/take-a-class/lifeguarding?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=Lifeguarding)\n*   [Swimming + Water Safety](https://www.redcross.org/take-a-class/swimming?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=Swimming_Water_Safety)\n*   [Instructor Training](https://www.redcross.org/take-a-class/instructor-training?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=Instructor_Training)\n\nOrganizations\n\n*   [Training for Organizations](https://www.redcross.org/take-a-class/organizations?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Training_for_Organizations)\n*   [Workplace Safety (First Aid/CPR/AED)](https://www.redcross.org/take-a-class/organizations/workplace-safety?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Workplace_Safety)\n*   [Aquatics](https://www.redcross.org/take-a-class/organizations/aquatics-water-safety?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Aquatics_and_Water_Safety)\n*   [Healthcare Professionals (BLS/ALS/PALS/NALS)](https://www.redcross.org/take-a-class/organizations/healthcare-professionals?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Healthcare_Professionals)\n*   [First Responders (Police, Fire, EMS)](https://www.redcross.org/take-a-class/organizations/first-responders)\n*   [Education](https://www.redcross.org/take-a-class/organizations/education)\n*   [SMART Manikin Training Solution](https://www.redcross.org/take-a-class/organizations/smart?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Smart_Manikin_Training_Solution)\n*   [AEDs](https://www.redcross.org/take-a-class/organizations/purchase-aeds?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Purchase_AEDs)\n*   [More Information on Training](https://www.redcross.org/take-a-class/organizations/contact-us?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Contact_Us)\n\nShop Supplies & Products\n\n*   [Training Supplies](https://www.redcross.org/store/training-supplies?utm_source=RCO&utm_medium=Shop_Supplies_and_Products&utm_content=Training_Supplies)\n*   [Books & DVDs](https://www.redcross.org/store/books-and-dvds?utm_source=RCO&utm_medium=Shop_Supplies_and_Products&utm_content=Books_and_DVDs)\n*   [Lifeguarding & Learn to Swim](https://www.redcross.org/store/lifeguarding-and-learn-to-swim?utm_source=RCO&utm_medium=Shop_Supplies_and_Products&utm_content=Lifeguarding_and_Learn_to_Swim)\n*   [Emergency Preparedness](https://www.redcross.org/store/emergency-preparedness?utm_content=Emergency_Preparedness&utm_medium=Shop_Supplies_and_Products&utm_source=RCO)\n*   [First Aid & Preparedness](https://www.redcross.org/store/first-aid-supplies?utm_source=RCO&utm_medium=Shop_Supplies_and_Products&utm_content=First_Aid_Supplies)\n\n[![Image 6: person holding umbrella over ill man](https://www.redcross.org/content/dam/redcross/homepage-assets/promo-boxes/ts/TS-Sparklers-Promo-Box.jpg.img.jpeg)](https://www.redcross.org/take-a-class?utm_source=RCO&utm_medium=RCO_Megamenu&utm_term=Megamenu_Banner&utm_campaign=20250203_RCO_Be_Ready_For_The_Moments_That_Matter_Umbrella)\n\nVolunteer\n\nResources\n\n*   [Sign In to Volunteer Connection](https://volunteerconnection.redcross.org/)\n\nLearn More\n\n*   [Find Your Perfect Fit](https://volunteerconnection.redcross.org/?nd=opportunity_search)\n*   [Volunteer Opportunities](https://www.redcross.org/volunteer/volunteer-opportunities.html)\n\nExplore Opportunities\n\n*   [Youth and Young Adults](https://www.redcross.org/red-cross-youth.html)\n*   [Sound the Alarm](https://www.redcross.org/sound-the-alarm.html)\n\n [![Image 7: disaster specialist icon](https://www.redcross.org/content/dam/redcross/megamenu-assets/volunteer/Jan-2025-vol-promo-255x217.png.img.png) Find your volunteer opportunity »](https://www.redcross.org/volunteer/become-a-volunteer.html)\n\nAbout Us\n\nOur Work\n\n*   [Disaster Relief](https://www.redcross.org/about-us/our-work/disaster-relief.html)\n*   [Lifesaving Blood](https://www.redcross.org/give-blood.html)\n*   [Training Courses & Certification](https://www.redcross.org/about-us/our-work/training-education.html)\n*   [Military Families](https://www.redcross.org/about-us/our-work/military-families.html)\n*   [International Services](https://www.redcross.org/about-us/our-work/international-services.html)\n\nWho We Are\n\n*   [Mission & Values](https://www.redcross.org/about-us/who-we-are/mission-and-values.html)\n*   [Leadership](https://www.redcross.org/about-us/who-we-are/leadership.html)\n*   [Governance](https://www.redcross.org/about-us/who-we-are/governance.html)\n*   [Mission Impact & Inclusion](https://www.redcross.org/about-us/who-we-are/mii.html)\n*   [History](https://www.redcross.org/about-us/who-we-are/history.html)\n*   [Nursing & Health](https://www.redcross.org/about-us/who-we-are/nursing-health.html)\n*   [Red Cross Stories](https://www.redcross.org/about-us/who-we-are/red-cross-stories.html)\n*   [Celebrity Supporters](https://www.redcross.org/about-us/who-we-are/celebrity.html)\n\nNews\n\n*   [Latest News](https://www.redcross.org/about-us/news-and-events/latest-news.html)\n*   [Publications](https://www.redcross.org/about-us/news-and-events/publications.html)\n*   [Media Resources](https://www.redcross.org/about-us/news-and-events/media-resources.html)\n*   [Social Media](https://www.redcross.org/about-us/news-and-events/social-media.html)\n*   [Climate Crisis](https://www.redcross.org/about-us/news-and-events/climate-crisis.html)\n\nCareers\n\n*   [Career Opportunities](https://www.redcross.org/about-us/careers.html)\n*   [Culture of Belonging](https://www.redcross.org/about-us/careers/culture.html)\n*   [University Programs](https://www.redcross.org/about-us/careers/university-programs.html)\n\nGet Help\n\nDisaster Relief & Recovery Services\n\n*   [Find Disaster Shelter & Other Services](https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html)\n*   [Contact & Locate Loved Ones](https://www.redcross.org/get-help/disaster-relief-and-recovery-services/contact-and-locate-loved-ones.html)\n*   [Red Cross Resource Directory](https://www.redcross.org/get-help/resources.html)\n\nHow to Prepare for Emergencies\n\n*   [Workplaces & Organizations](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/workplaces-and-organizations.html)\n*   [Emergency Preparedness for Kids](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/teaching-kids-about-emergency-preparedness.html)\n*   [Types of Emergencies](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies.html)\n*   [Mobile Apps](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/mobile-apps.html)\n*   [ASL Disaster Resource Hub](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/asl-disaster-resources.html)\n\nMilitary Families\n\n*   [Emergency Communication](https://www.redcross.org/get-help/military-families/hero-care-network/emergency-communication.html)\n*   [Financial Assistance](https://www.redcross.org/get-help/military-families/hero-care-network/financial-assistance.html)\n*   [Hero Care Network](https://www.redcross.org/get-help/military-families/hero-care-network.html)\n*   [Whole Health](https://www.redcross.org/get-help/military-families/whole-health.html)\n*   [Overseas Military Community Support](https://www.redcross.org/get-help/military-families/overseas-military-community-support.html)\n*   [Military Veteran Caregiver Network](https://www.redcross.org/get-help/military-families/whole-health/military-veteran-caregiver-network.html)\n\n [![Image 8: a white snow plow truck is plowing snow to the side of the road during heavy snow fall](https://www.redcross.org/content/dam/redcross/megamenu-assets/get-help-promo-box/winter-storm-nav-promo-255x217.jpg.img.jpeg) Winter Storm Safety Tips »](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm.html)\n\nDonate\n\nWays to Donate Money\n\n*   [Donate Online](https://www.redcross.org/donate/donation.html)\n*   [Make a Monthly Gift](https://www.redcross.org/donations/ways-to-donate/monthly-giving.html)\n*   [Mail, Text or Phone](https://www.redcross.org/donations/ways-to-donate/text-mail-phone.html)\n*   [Make a Major Gift](https://www.redcross.org/donations/ways-to-donate/donation-and-engage.html)\n*   [Clara Barton Society](https://www.redcross.org/donations/ways-to-donate/donation-and-engage/clara-barton-giving-society.html)\n*   [Where Your Money Goes](https://www.redcross.org/donations/where-your-money-goes.html)\n\nOther Ways to Donate\n\n*   [Give by Will or Other Plan](https://www.redcross.org/donations/ways-to-donate/planned-giving.html)\n*   [Stock and Wire Transfer](https://www.redcross.org/donations/ways-to-donate/stocks-mutual-funds.html)\n*   [Donor Advised Funds](https://www.redcross.org/donations/ways-to-donate/donor-advised-funds.html)\n*   [IRA Distribution](https://www.redcross.org/donations/ways-to-donate/qualified-charitable-distributions.html)\n*   [Donate a Vehicle](https://www.redcross.org/donations/ways-to-donate/car-donations.html)\n*   [Charity Livestreaming](https://www.redcross.org/donations/ways-to-donate/play-games-and-fundraise.html)\n*   [Fundraise for the Red Cross](https://www.redcross.org/donations/ways-to-donate/fundraise.html)\n\nCompanies & Foundations\n\n*   [Get Started](https://www.redcross.org/donations/companies-and-foundations.html)\n*   [Partnership Opportunities](https://www.redcross.org/donations/companies-and-foundations/giving-opportunities-and-corporate-supporters.html)\n*   [Our Corporate Partners](https://www.redcross.org/donations/companies-and-foundations/giving-opportunities-and-corporate-supporters.html)\n*   [Cause Marketing](https://www.redcross.org/donations/companies-and-foundations/cause-marketing.html)\n*   [Other Ways to Give](https://www.redcross.org/donations/companies-and-foundations/ways-to-donate-and-fundraise.html)\n*   [Partners: Why We Give](https://www.redcross.org/donations/companies-and-foundations/giving-opportunities-and-corporate-supporters/why-we-give.html)\n\n [![Image 9: blue truck with Red Cross logo has presents of various colors on the top](https://www.redcross.org/content/dam/redcross/megamenu-assets/donate-promo-box/2025-Holiday-MM-255x217.jpg.img.jpeg) Donate Now »](https://www.redcross.org/donate/holiday-giving.html)\n\nGive Blood\n\nHow to Donate\n\n*   [Find a Blood Drive](https://www.redcrossblood.org/give.html)\n*   [Eligibility Requirements](https://www.redcrossblood.org/donate-blood/how-to-donate/eligibility-requirements.html)\n*   [Types of Blood Donations](https://www.redcrossblood.org/donate-blood/how-to-donate/types-of-blood-donations.html)\n*   [How Blood Donations Help](https://www.redcrossblood.org/donate-blood/how-to-donate/how-blood-donations-help.html)\n*   [Common Concerns](https://www.redcrossblood.org/donate-blood/how-to-donate/common-concerns.html)\n\nBlood Donation Process\n\n*   [Donation Process Overview](https://www.redcrossblood.org/donate-blood/blood-donation-process/donation-process-overview.html)\n*   [What to do Before, During and After](https://www.redcrossblood.org/donate-blood/blood-donation-process/before-during-after.html)\n*   [What Happens to Donated Blood](https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood.html)\n*   [First Time Blood Donors](https://www.redcrossblood.org/donate-blood/how-to-donate/common-concerns/first-time-donors.html)\n\nLearn About Hosting\n\n*   [Why Host a Blood Drive?](https://www.redcrossblood.org/hosting-a-blood-drive/learn-about-hosting/why-host-a-blood-drive.html)\n*   [How Hosting a Blood Drive Works](https://www.redcrossblood.org/hosting-a-blood-drive/learn-about-hosting/how-hosting-a-blood-drive-works.html)\n*   [Hosting a Blood Drive FAQ](https://www.redcrossblood.org/faq.html#hosting-a-blood-drive)\n*   [Apply to Host a Blood Drive](https://www.redcrossblood.org/hosting-a-blood-drive/learn-about-hosting/how-hosting-a-blood-drive-works/apply-to-host-a-blood-drive.html)\n\n[![Image 10: schedule a blood donation and help save lives](https://www.redcross.org/content/dam/redcrossblood/rcb/home-page/rcb-rco-promo-library/donate_blood_red_button.jpg.img.jpeg)](https://www.redcrossblood.org/give.html)\n\nTraining & Certification\n\nFor Individuals – Find Classes\n\n*   [Online Classes & Training](https://www.redcross.org/take-a-class/online-safety-classes?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=Online_Only)\n*   [First Aid](https://www.redcross.org/take-a-class/first-aid?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=First_Aid)\n*   [CPR](https://www.redcross.org/take-a-class/cpr?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=CPR)\n*   [AED](https://www.redcross.org/take-a-class/aed?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=AED)\n*   [BLS/CPR For Healthcare](https://www.redcross.org/take-a-class/bls?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=BLS_CPR_For_Healthcare)\n*   [ALS/PALS](https://www.redcross.org/take-a-class/als-and-pals?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=ALS_PALS)\n*   [Babysitting & Child Care](https://www.redcross.org/take-a-class/babysitting-child-care?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=Babysitting_and_Child_Care)\n*   [Lifeguarding](https://www.redcross.org/take-a-class/lifeguarding?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=Lifeguarding)\n*   [Swimming + Water Safety](https://www.redcross.org/take-a-class/swimming?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=Swimming_Water_Safety)\n*   [Instructor Training](https://www.redcross.org/take-a-class/instructor-training?utm_source=RCO&utm_medium=For_Individuals_Find_Classes_and_Certification&utm_content=Instructor_Training)\n\nOrganizations\n\n*   [Training for Organizations](https://www.redcross.org/take-a-class/organizations?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Training_for_Organizations)\n*   [Workplace Safety (First Aid/CPR/AED)](https://www.redcross.org/take-a-class/organizations/workplace-safety?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Workplace_Safety)\n*   [Aquatics](https://www.redcross.org/take-a-class/organizations/aquatics-water-safety?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Aquatics_and_Water_Safety)\n*   [Healthcare Professionals (BLS/ALS/PALS/NALS)](https://www.redcross.org/take-a-class/organizations/healthcare-professionals?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Healthcare_Professionals)\n*   [First Responders (Police, Fire, EMS)](https://www.redcross.org/take-a-class/organizations/first-responders)\n*   [Education](https://www.redcross.org/take-a-class/organizations/education)\n*   [SMART Manikin Training Solution](https://www.redcross.org/take-a-class/organizations/smart?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Smart_Manikin_Training_Solution)\n*   [AEDs](https://www.redcross.org/take-a-class/organizations/purchase-aeds?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Purchase_AEDs)\n*   [More Information on Training](https://www.redcross.org/take-a-class/organizations/contact-us?utm_source=RCO&utm_medium=For_Business_Customers&utm_content=Contact_Us)\n\nShop Supplies & Products\n\n*   [Training Supplies](https://www.redcross.org/store/training-supplies?utm_source=RCO&utm_medium=Shop_Supplies_and_Products&utm_content=Training_Supplies)\n*   [Books & DVDs](https://www.redcross.org/store/books-and-dvds?utm_source=RCO&utm_medium=Shop_Supplies_and_Products&utm_content=Books_and_DVDs)\n*   [Lifeguarding & Learn to Swim](https://www.redcross.org/store/lifeguarding-and-learn-to-swim?utm_source=RCO&utm_medium=Shop_Supplies_and_Products&utm_content=Lifeguarding_and_Learn_to_Swim)\n*   [Emergency Preparedness](https://www.redcross.org/store/emergency-preparedness?utm_content=Emergency_Preparedness&utm_medium=Shop_Supplies_and_Products&utm_source=RCO)\n*   [First Aid & Preparedness](https://www.redcross.org/store/first-aid-supplies?utm_source=RCO&utm_medium=Shop_Supplies_and_Products&utm_content=First_Aid_Supplies)\n\n[![Image 11: person holding umbrella over ill man](https://www.redcross.org/content/dam/redcross/homepage-assets/promo-boxes/ts/TS-Sparklers-Promo-Box.jpg.img.jpeg)](https://www.redcross.org/take-a-class?utm_source=RCO&utm_medium=RCO_Megamenu&utm_term=Megamenu_Banner&utm_campaign=20250203_RCO_Be_Ready_For_The_Moments_That_Matter_Umbrella)\n\nVolunteer\n\nResources\n\n*   [Sign In to Volunteer Connection](https://volunteerconnection.redcross.org/)\n\nLearn More\n\n*   [Find Your Perfect Fit](https://volunteerconnection.redcross.org/?nd=opportunity_search)\n*   [Volunteer Opportunities](https://www.redcross.org/volunteer/volunteer-opportunities.html)\n\nExplore Opportunities\n\n*   [Youth and Young Adults](https://www.redcross.org/red-cross-youth.html)\n*   [Sound the Alarm](https://www.redcross.org/sound-the-alarm.html)\n\n [![Image 12: disaster specialist icon](https://www.redcross.org/content/dam/redcross/megamenu-assets/volunteer/Jan-2025-vol-promo-255x217.png.img.png) Find your volunteer opportunity »](https://www.redcross.org/volunteer/become-a-volunteer.html)\n\nAbout Us\n\nOur Work\n\n*   [Disaster Relief](https://www.redcross.org/about-us/our-work/disaster-relief.html)\n*   [Lifesaving Blood](https://www.redcross.org/give-blood.html)\n*   [Training Courses & Certification](https://www.redcross.org/about-us/our-work/training-education.html)\n*   [Military Families](https://www.redcross.org/about-us/our-work/military-families.html)\n*   [International Services](https://www.redcross.org/about-us/our-work/international-services.html)\n\nWho We Are\n\n*   [Mission & Values](https://www.redcross.org/about-us/who-we-are/mission-and-values.html)\n*   [Leadership](https://www.redcross.org/about-us/who-we-are/leadership.html)\n*   [Governance](https://www.redcross.org/about-us/who-we-are/governance.html)\n*   [Mission Impact & Inclusion](https://www.redcross.org/about-us/who-we-are/mii.html)\n*   [History](https://www.redcross.org/about-us/who-we-are/history.html)\n*   [Nursing & Health](https://www.redcross.org/about-us/who-we-are/nursing-health.html)\n*   [Red Cross Stories](https://www.redcross.org/about-us/who-we-are/red-cross-stories.html)\n*   [Celebrity Supporters](https://www.redcross.org/about-us/who-we-are/celebrity.html)\n\nNews\n\n*   [Latest News](https://www.redcross.org/about-us/news-and-events/latest-news.html)\n*   [Publications](https://www.redcross.org/about-us/news-and-events/publications.html)\n*   [Media Resources](https://www.redcross.org/about-us/news-and-events/media-resources.html)\n*   [Social Media](https://www.redcross.org/about-us/news-and-events/social-media.html)\n*   [Climate Crisis](https://www.redcross.org/about-us/news-and-events/climate-crisis.html)\n\nCareers\n\n*   [Career Opportunities](https://www.redcross.org/about-us/careers.html)\n*   [Culture of Belonging](https://www.redcross.org/about-us/careers/culture.html)\n*   [University Programs](https://www.redcross.org/about-us/careers/university-programs.html)\n\nGet Help\n\nDisaster Relief & Recovery Services\n\n*   [Find Disaster Shelter & Other Services](https://www.redcross.org/get-help/disaster-relief-and-recovery-services/find-an-open-shelter.html)\n*   [Contact & Locate Loved Ones](https://www.redcross.org/get-help/disaster-relief-and-recovery-services/contact-and-locate-loved-ones.html)\n*   [Red Cross Resource Directory](https://www.redcross.org/get-help/resources.html)\n\nHow to Prepare for Emergencies\n\n*   [Workplaces & Organizations](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/workplaces-and-organizations.html)\n*   [Emergency Preparedness for Kids](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/teaching-kids-about-emergency-preparedness.html)\n*   [Types of Emergencies](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies.html)\n*   [Mobile Apps](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/mobile-apps.html)\n*   [ASL Disaster Resource Hub](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/asl-disaster-resources.html)\n\nMilitary Families\n\n*   [Emergency Communication](https://www.redcross.org/get-help/military-families/hero-care-network/emergency-communication.html)\n*   [Financial Assistance](https://www.redcross.org/get-help/military-families/hero-care-network/financial-assistance.html)\n*   [Hero Care Network](https://www.redcross.org/get-help/military-families/hero-care-network.html)\n*   [Whole Health](https://www.redcross.org/get-help/military-families/whole-health.html)\n*   [Overseas Military Community Support](https://www.redcross.org/get-help/military-families/overseas-military-community-support.html)\n*   [Military Veteran Caregiver Network](https://www.redcross.org/get-help/military-families/whole-health/military-veteran-caregiver-network.html)\n\n [![Image 13: a white snow plow truck is plowing snow to the side of the road during heavy snow fall](https://www.redcross.org/content/dam/redcross/megamenu-assets/get-help-promo-box/winter-storm-nav-promo-255x217.jpg.img.jpeg) Winter Storm Safety Tips »](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm.html)\n\n*   Hi,\n    \n    [Account Summary](https://www.redcross.org/account.html/my-account/account-summary) [Donation History](https://www.redcross.org/account.html/my-account/donations) [Monthly Giving](https://www.redcross.org/account.html/my-account/monthly-giving) [Personal Information](https://www.redcross.org/account.html/my-account/personal-information) [Sign Out](https://www.redcross.org/about-us/news-and-events/news.html#)\n    \n*   [Sign In](https://www.redcross.org/sign-in.html)\n*   [Español](https://www.redcross.org/cruz-roja.html)\n*   ![Image 14](https://www.redcross.org/content/dam/icons/general-icons/map-pin/Map-Pin-1000x1000-G-Pl.png)Your Local Red Cross\n    \n    Based on Zip Code [Change](https://www.redcross.org/find-your-local-chapter.html)\n    \n    [Visit local site](https://www.redcross.org/about-us/news-and-events/news.html#) [Find other locations](https://www.redcross.org/find-your-local-chapter.html)\n    \n*   [Shop the Red Cross Store](https://www.redcrossstore.org/?utm_source=RCO&utm_medium=utilnav&utm_campaign=shopbutton&utm_content=resputil)\n\n[Home](https://www.redcross.org/)\n\n[About Us](https://www.redcross.org/about-us.html)\n\n[News and Events](https://www.redcross.org/about-us/news-and-events.html)\n\nNews\n====\n\n*   [Share via Email](mailto:?subject=News&body=Shared%20from%20the%20American%20Red%20Cross%3A%20News%20https%3A%2F%2Fwww.redcross.org%2Fabout-us%2Fnews-and-events%2Fnews.html \"Share via Email\")\n*   [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.redcross.org%2Fabout-us%2Fnews-and-events%2Fnews.html&quote=News \"Share on Facebook\")\n*   [Share on Twitter](https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.redcross.org%2Fabout-us%2Fnews-and-events%2Fnews.html&text=News%20https%3A%2F%2Fwww.redcross.org%2Fabout-us%2Fnews-and-events%2Fnews.html \"Tweet\")\n*   Toggle other share options\n    \n    *   [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.redcross.org%2Fabout-us%2Fnews-and-events%2Fnews.html&title=News&summary=&source=https%3A%2F%2Fwww.redcross.org%2Fabout-us%2Fnews-and-events%2Fnews.html)\n    *   Print\n    \n\nFilter By:\n\nType:\n\n News Articles\n\n Press Releases\n\n Events\n\n Promotions\n\n Events & Promotions\n\nDone\n\n«\n\n»\n\n/content/redcross/en/about-us/news-and-events/news\n\n[](https://www.facebook.com/redcross)[](https://www.instagram.com/americanredcross/?hl=en)[](https://www.linkedin.com/company/american-red-cross/)[](https://www.tiktok.com/@americanredcross?lang=en)[](https://x.com/redcross)[](https://www.threads.net/@americanredcross)\n\n© 2025 The American National Red Cross [Accessibility](https://www.redcross.org/accessibility.html) [Terms of Use](https://www.redcross.org/terms-of-use.html) [Privacy Policy](https://www.redcross.org/privacy-policy.html) [Contact Us](https://www.redcross.org/contact-us.html) [FAQ](https://www.redcross.org/faq.html) [Mobile Apps](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/mobile-apps.html) [Give Blood](https://www.redcrossblood.org/give.html/find-drive?cid=rco_search&med=referral&source=redcross.org) [Careers](https://www.redcross.org/about-us/careers.html)",
+            "publish_time": "Mon, 22 Dec 2025 16:54:47 GMT",
+            "fetched_by": "goliath"
+          }
+        },
+        "source_file": "langchain_4.1/md_data/2011_Flat_Rock–Trenton_tornado.md"
+      }
+    }
+  }
+}

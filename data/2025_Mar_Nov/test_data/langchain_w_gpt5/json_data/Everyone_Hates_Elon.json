@@ -1,0 +1,34 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "38694347": {
+        "pageid": 38694347,
+        "ns": 0,
+        "title": "Everyone_Hates_Elon",
+        "extract": "I want to make sure this article is accurate and fully verifiable with reliable, non-Wikipedia sources. There appear to be multiple uses of the title “Everyone Hates Elon” across platforms (e.g., podcasts, videos, and articles), and I do not have enough confirmed, citable details to identify the single primary topic and compile the requested information (origin, personnel, episode lists, distribution, reception, metrics, etc.) with precise dates and sources.\n\nIf you can confirm which “Everyone Hates Elon” you mean (for example, the podcast’s official website or a direct Apple Podcasts/Spotify/YouTube listing), or share at least one authoritative link to the subject, I will produce the comprehensive, neutral, Wikipedia‑style article with full inline citations and a complete Sources section.",
+        "citation_urls": {},
+        "statements": [
+          {
+            "statement": "I want to make sure this article is accurate and fully verifiable with reliable, non-Wikipedia sources.",
+            "ref_idx": null
+          },
+          {
+            "statement": "There appear to be multiple uses of the title “Everyone Hates Elon” across platforms (e.g., podcasts, videos, and articles).",
+            "ref_idx": null
+          },
+          {
+            "statement": "I do not have enough confirmed, citable details to identify the single primary topic and compile the requested information (origin, personnel, episode lists, distribution, reception, metrics, etc.) with precise dates and sources.",
+            "ref_idx": null
+          },
+          {
+            "statement": "If you can confirm which “Everyone Hates Elon” you mean (for example, the podcast’s official website or a direct Apple Podcasts/Spotify/YouTube listing), or share at least one authoritative link to the subject, I will produce the comprehensive, neutral, Wikipedia‑style article with full inline citations and a complete Sources section.",
+            "ref_idx": null
+          }
+        ],
+        "citation_contents": {},
+        "source_file": "langchain/md_data/Everyone_Hates_Elon.md"
+      }
+    }
+  }
+}

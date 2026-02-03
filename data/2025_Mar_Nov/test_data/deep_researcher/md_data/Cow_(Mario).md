@@ -1,0 +1,3 @@
+# Cow_(Mario)
+
+Cow (Mario) is a fictional cattle character in the Mario franchise, specifically in the Mario Kart series. She is also known as Moo Moo. She was first introduced in the 1996 game Mario Kart 64 and has been a recurring character in the series. She is typically seen walking on all four legs and is known for her unique appearance. In 2025, she was introduced as a playable character in the game Mario Kart World, making her one of the most popular characters among fans.

@@ -1,0 +1,3 @@
+# The_Well_(Doctor_Who)
+
+The Well is the third episode of the 15th series of Doctor Who, premiering on 26 April 2025. The main characters are the Fifteenth Doctor, played by Ncuti Gatwa, and his companion, Belinda Chandra, played by Varada Sethu. The episode takes place on a brutal planet where a devastated mining colony has only one survivor. The Doctor and Belinda must face absolute terror to uncover the truth about what happened to the colony. The episode is highly rated by viewers and leaves them on the edge of their seats with its intense tension and suspense.

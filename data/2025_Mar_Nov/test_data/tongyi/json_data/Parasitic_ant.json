@@ -1,0 +1,371 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "47584032": {
+        "pageid": 47584032,
+        "ns": 0,
+        "title": "Parasitic_ant",
+        "extract": "A parasitic ant is a species that lives by exploiting other ant colonies, utilizing aggression, deception, or dependency to gain access to resources, labor, or reproductive opportunities within mixed-species nests. These social insects represent a fascinating and diverse strategy of survival, having evolved repeatedly across different ant lineages. While overall parasitic ants comprise only about 2% of all described ant species, their impact on social insect communities is significant, influencing colony structure, social organization, and even evolutionary trajectories among both hosts and parasites.\n\n\nParasitic ants are primarily classified into three main types based on their relationship with host colonies:\n\nTemporary social parasites establish new colonies by invading those of other species. Newly mated queens infiltrate a host nest, often killing or replacing the resident queen, after which the host workers rear the parasite's offspring. Eventually, as the colony matures, the host workers die off, leaving only the parasite lineage. This type of parasitism is crucial during colony founding and allows the parasite to take advantage of existing workforce without maintaining independent colony operations.\n\nStudies of Polyrhachis lamellidens demonstrate this process: newly mated queens locate host workers, open their jaws, mount the host, and rub its entire body as a preparatory invasion step. Lab experiments revealed that this behavior is triggered specifically by the combination of cuticular chemicals (chemical cues from the host) and chitin-a physical surface property resembling insect exoskeletons. Only when both chemical and physical signals match does the queen exhibit rubbing, indicating sophisticated recognition abilities essential for successful parasitism.\n\nPermanent inquilines live within established host colonies for extended periods, sometimes indefinitely. Unlike temporary parasites, inquilines usually tolerate host queens and do not kill them. Many such inquilines have lost their own worker caste entirely and rely solely on host workers to care for their offspring. Some species produce specialized sexual forms but provide no labor themselves.\n\nOne of the most specialized inquilines, Teleutomyrmex schneideri, lacks a worker caste and has evolved extreme morphological adaptations: a concave abdomen for clinging to host queens and elongated tarsal claws to grip onto their backs. These features allow it to act as an ectoparasite-riding atop host queens without triggering aggression. Host queens continue producing workers, raising both host and inquiline brood, resulting in a stable mixed colony structure.\n\nOther examples include Tetramorium inquilinum, which lives alongside host workers and depends completely on their care, making detection difficult due to absence of independent foraging activities.\n\nDulotic ants, known as slave-makers, establish colonies initially similar to temporary parasites but then supplement their workforce through organized raids on other ant colonies. They steal brood (larvae and pupae), which upon eclosion become integrated into the host nest as worker slaves. These enslaved individuals tend to the parasite queen, brood, and nest, performing all necessary tasks while the parasites focus on raiding and expansion.\n\nObligate slave-makers like Polyergus breviceps cannot survive without enslaved workers-colonies require thousands of slaves each season. Their efficiency stems from sharp mandibles, glandular secretions for pacifying captured workers, and highly coordinated raids. In contrast, facultative slave-makers like Formica sanguinea occasionally raid smaller colonies, obtaining fewer slaves and relying more on their own capacity for independent labor.\n\n\nSocially parasitic ants exhibit remarkable adaptations facilitating infiltration and exploitation:\n\n- **Chemical Mimicry:** Slaver ants and temporary parasites utilize cuticular hydrocarbons to chemically camouflage themselves, avoiding detection and rejection by host workers.\n- **Physical Manipulation:** Temporary parasites like Polyrhachis lamellidens employ rubbing behaviors requiring specific combinations of host chemical cues and physical properties.\n- **Structural Modifications:** Workerless inquilines such as Teleutomyrmex schneideri develop body shapes and appendages that enhance attachment to host queens.\n- **Specialized Mandibles and Glands:** Slave-makers possess powerful mandibles and secretory glands aiding in raiding, capture, and defense.\n\nThese adaptations highlight the dynamic coevolution between parasite and host, driving morphological innovation and behavioral complexity.\n\nSocial parasitism has independently arisen numerous times throughout ant evolution. Recent genetic and behavioral studies estimate that ant social parasites originated at least 60 distinct times across the ant tree of life, with over 400 species currently identified.\n\n- **Loss of Independent Colony Founding:** The ancestors of many social parasites lost the ability to establish colonies without host assistance, transitioning to dependent or facultative colony founding.\n- **Sequence of Events:** Phylogenetic analyses of the genus Formica suggest temporary social parasitism emerged around 18 million years ago. Dulotic or slave-making behavior arose later, roughly 14 million years ago, evolving secondarily from temporary social parasites. Workerless inquiline parasitism followed still later, representing the most advanced form of exploitation.\n- **Convergent Evolution:** Similar parasitic syndromes appear across unrelated lineages, implying strong selective pressures favoring these strategies regardless of evolutionary history.\n\n| Evolutionary Milestone           | Estimated Timeframe     | Originating Species          |\n|----------------------------------|------------------------|------------------------------|\n| Temporary Social Parasitism      | ~18 million years ago  | Formica spp., Myrmicinae     |\n| Dulotic/Slave-Making Ants        | ~14 million years ago  | Polyergus, Formica sanguinea |\n| Workerless Inquiline Parasitism  | More recent            | Teleutomyrmex, Tetramorium   |\n\nProximate factors like predation, brood transport, territorial competition, and colony budding underlie these transitions. Brood stealing by temporary social parasites likely paved the way for slave-making; cooler climates and the presence of polygynous host colonies favor the persistence of parasitic lineages.\n\nThe relationship between social parasites and their hosts is characterized by ongoing evolutionary arms races:\n\n- **Chemical Warfare:** Parasites evolve mechanisms to mimic or suppress host recognition signals, ensuring acceptance within enemy nests. Hosts respond with increasingly sophisticated discrimination abilities, including egg rejection and brood-killing behaviors.\n- **Host Resistance:** Some enslaved workers display \"rebellions\"-refusing to care for parasite brood, sabotaging the parasite nest, or physically attacking enslavers. Field studies confirm partial or complete emancipation where host workers liberate themselves from parasite control.\n- **Population Dynamics:** Slave-making ants can significantly reduce the productivity of affected colonies, though host populations adapt to mitigate losses. Facultative forms, in contrast, exert less pressure, allowing gradual colonization dynamics.\n\nSeveral iconic parasitic ant species exemplify their strategies:\n\n- **Polyergus breviceps:** Obligate slave-maker requiring thousands of enslaved workers; employs aggressive raids and chemical manipulation.\n- **Formica sanguinea:** Facultative slaver can survive without slaves; obtains lesser numbers via frequent raids.\n- **Teleutomyrmex schneideri:** Workerless inquiline dependent entirely on host care and brood.\n- **Polyrhachis lamellidens:** Uses chemical and physical cues to infiltrate host nests, illustrates sophisticated recognition mechanisms.\n\nSocially parasitic ants are relatively rare overall but concentrated in certain subfamilies (notably Myrmicinae and Formicinae) and temperate regions. Approximately 230 parasitic species are documented, though newer estimates exceed 400, reflecting taxonomic revisions and increased discovery of rare forms.\n\n| Subfamily         | Number of Parasitic Species | Geographic Prevalence    |\n|-------------------|---------------------------|-------------------------|\n| Myrmicinae        | Moderate                  | Temperate, worldwide    |\n| Formicinae        | High                      | Temperate, Eurasia      |\n| Others (e.g., Crematogastrini) | Low to moderate     | Regional hotspots       |\n\nParasites remain scarce in tropical environments due to differing ecological constraints, host availability, and evolutionary histories.\n\nParasitic ants shape local ant communities by influencing colony sizes, worker distributions, and social structures. Their presence may accelerate coevolutionary processes, fostering trait divergence and speciation. Furthermore, their sophisticated manipulations of social systems make them valuable models for understanding cooperation, conflict, and adaptation in animal societies.\n\nMost parasitic ants have little direct interaction with humans, though their study informs broader biological concepts regarding evolution, ecology, and social behavior. Research on social parasitism provides insights into the mechanisms underlying cooperation, deception, and adaptation-lessons applicable beyond entomology.\n\nParasitic ants exemplify the dynamic interplay between exploitation and adaptation in the natural world. Through temporary usurpation, perpetual inquiline existence, or organized slave-raiding, these species exploit the cooperative foundations of ant societies. Their complex interactions with hosts foster ongoing evolutionary innovation, providing a window into the diversity and resilience of social insect life.",
+        "extract_with_citations": "A parasitic ant is a species that lives by exploiting other ant colonies, utilizing aggression, deception, or dependency to gain access to resources, labor, or reproductive opportunities within mixed-species nests. These social insects represent a fascinating and diverse strategy of survival, having evolved repeatedly across different ant lineages. While overall parasitic ants comprise only about 2% of all described ant species, their impact on social insect communities is significant, influencing colony structure, social organization, and even evolutionary trajectories among both hosts and parasites.\n\n\nParasitic ants are primarily classified into three main types based on their relationship with host colonies:\n\nTemporary social parasites establish new colonies by invading those of other species. Newly mated queens infiltrate a host nest, often killing or replacing the resident queen, after which the host workers rear the parasite's offspring. Eventually, as the colony matures, the host workers die off, leaving only the parasite lineage. This type of parasitism is crucial during colony founding and allows the parasite to take advantage of existing workforce without maintaining independent colony operations.\n\nStudies of Polyrhachis lamellidens demonstrate this process: newly mated queens locate host workers, open their jaws, mount the host, and rub its entire body as a preparatory invasion step. Lab experiments revealed that this behavior is triggered specifically by the combination of cuticular chemicals (chemical cues from the host) and chitin-a physical surface property resembling insect exoskeletons. Only when both chemical and physical signals match does the queen exhibit rubbing, indicating sophisticated recognition abilities essential for successful parasitism.\n\nPermanent inquilines live within established host colonies for extended periods, sometimes indefinitely. Unlike temporary parasites, inquilines usually tolerate host queens and do not kill them. Many such inquilines have lost their own worker caste entirely and rely solely on host workers to care for their offspring. Some species produce specialized sexual forms but provide no labor themselves.\n\nOne of the most specialized inquilines, Teleutomyrmex schneideri, lacks a worker caste and has evolved extreme morphological adaptations: a concave abdomen for clinging to host queens and elongated tarsal claws to grip onto their backs. These features allow it to act as an ectoparasite-riding atop host queens without triggering aggression. Host queens continue producing workers, raising both host and inquiline brood, resulting in a stable mixed colony structure.\n\nOther examples include Tetramorium inquilinum, which lives alongside host workers and depends completely on their care, making detection difficult due to absence of independent foraging activities.\n\nDulotic ants, known as slave-makers, establish colonies initially similar to temporary parasites but then supplement their workforce through organized raids on other ant colonies. They steal brood (larvae and pupae), which upon eclosion become integrated into the host nest as worker slaves. These enslaved individuals tend to the parasite queen, brood, and nest, performing all necessary tasks while the parasites focus on raiding and expansion.\n\nObligate slave-makers like Polyergus breviceps cannot survive without enslaved workers-colonies require thousands of slaves each season. Their efficiency stems from sharp mandibles, glandular secretions for pacifying captured workers, and highly coordinated raids. In contrast, facultative slave-makers like Formica sanguinea occasionally raid smaller colonies, obtaining fewer slaves and relying more on their own capacity for independent labor.\n\n\nSocially parasitic ants exhibit remarkable adaptations facilitating infiltration and exploitation:\n\n- **Chemical Mimicry:** Slaver ants and temporary parasites utilize cuticular hydrocarbons to chemically camouflage themselves, avoiding detection and rejection by host workers.\n- **Physical Manipulation:** Temporary parasites like Polyrhachis lamellidens employ rubbing behaviors requiring specific combinations of host chemical cues and physical properties.\n- **Structural Modifications:** Workerless inquilines such as Teleutomyrmex schneideri develop body shapes and appendages that enhance attachment to host queens.\n- **Specialized Mandibles and Glands:** Slave-makers possess powerful mandibles and secretory glands aiding in raiding, capture, and defense.\n\nThese adaptations highlight the dynamic coevolution between parasite and host, driving morphological innovation and behavioral complexity.\n\nSocial parasitism has independently arisen numerous times throughout ant evolution. Recent genetic and behavioral studies estimate that ant social parasites originated at least 60 distinct times across the ant tree of life, with over 400 species currently identified.\n\n- **Loss of Independent Colony Founding:** The ancestors of many social parasites lost the ability to establish colonies without host assistance, transitioning to dependent or facultative colony founding.\n- **Sequence of Events:** Phylogenetic analyses of the genus Formica suggest temporary social parasitism emerged around 18 million years ago. Dulotic or slave-making behavior arose later, roughly 14 million years ago, evolving secondarily from temporary social parasites. Workerless inquiline parasitism followed still later, representing the most advanced form of exploitation.\n- **Convergent Evolution:** Similar parasitic syndromes appear across unrelated lineages, implying strong selective pressures favoring these strategies regardless of evolutionary history.\n\n| Evolutionary Milestone           | Estimated Timeframe     | Originating Species          |\n|----------------------------------|------------------------|------------------------------|\n| Temporary Social Parasitism      | ~18 million years ago  | Formica spp., Myrmicinae     |\n| Dulotic/Slave-Making Ants        | ~14 million years ago  | Polyergus, Formica sanguinea |\n| Workerless Inquiline Parasitism  | More recent            | Teleutomyrmex, Tetramorium   |\n\nProximate factors like predation, brood transport, territorial competition, and colony budding underlie these transitions. Brood stealing by temporary social parasites likely paved the way for slave-making; cooler climates and the presence of polygynous host colonies favor the persistence of parasitic lineages.\n\nThe relationship between social parasites and their hosts is characterized by ongoing evolutionary arms races:\n\n- **Chemical Warfare:** Parasites evolve mechanisms to mimic or suppress host recognition signals, ensuring acceptance within enemy nests. Hosts respond with increasingly sophisticated discrimination abilities, including egg rejection and brood-killing behaviors.\n- **Host Resistance:** Some enslaved workers display \"rebellions\"-refusing to care for parasite brood, sabotaging the parasite nest, or physically attacking enslavers. Field studies confirm partial or complete emancipation where host workers liberate themselves from parasite control.\n- **Population Dynamics:** Slave-making ants can significantly reduce the productivity of affected colonies, though host populations adapt to mitigate losses. Facultative forms, in contrast, exert less pressure, allowing gradual colonization dynamics.\n\nSeveral iconic parasitic ant species exemplify their strategies:\n\n- **Polyergus breviceps:** Obligate slave-maker requiring thousands of enslaved workers; employs aggressive raids and chemical manipulation.\n- **Formica sanguinea:** Facultative slaver can survive without slaves; obtains lesser numbers via frequent raids.\n- **Teleutomyrmex schneideri:** Workerless inquiline dependent entirely on host care and brood.\n- **Polyrhachis lamellidens:** Uses chemical and physical cues to infiltrate host nests, illustrates sophisticated recognition mechanisms.\n\nSocially parasitic ants are relatively rare overall but concentrated in certain subfamilies (notably Myrmicinae and Formicinae) and temperate regions. Approximately 230 parasitic species are documented, though newer estimates exceed 400, reflecting taxonomic revisions and increased discovery of rare forms.\n\n| Subfamily         | Number of Parasitic Species | Geographic Prevalence    |\n|-------------------|---------------------------|-------------------------|\n| Myrmicinae        | Moderate                  | Temperate, worldwide    |\n| Formicinae        | High                      | Temperate, Eurasia      |\n| Others (e.g., Crematogastrini) | Low to moderate     | Regional hotspots       |\n\nParasites remain scarce in tropical environments due to differing ecological constraints, host availability, and evolutionary histories.\n\nParasitic ants shape local ant communities by influencing colony sizes, worker distributions, and social structures. Their presence may accelerate coevolutionary processes, fostering trait divergence and speciation. Furthermore, their sophisticated manipulations of social systems make them valuable models for understanding cooperation, conflict, and adaptation in animal societies.\n\nMost parasitic ants have little direct interaction with humans, though their study informs broader biological concepts regarding evolution, ecology, and social behavior. Research on social parasitism provides insights into the mechanisms underlying cooperation, deception, and adaptation-lessons applicable beyond entomology.\n\nParasitic ants exemplify the dynamic interplay between exploitation and adaptation in the natural world. Through temporary usurpation, perpetual inquiline existence, or organized slave-raiding, these species exploit the cooperative foundations of ant societies. Their complex interactions with hosts foster ongoing evolutionary innovation, providing a window into the diversity and resilience of social insect life.",
+        "citation_urls": {},
+        "lead_content": "A parasitic ant is a species that lives by exploiting other ant colonies, utilizing aggression, deception, or dependency to gain access to resources, labor, or reproductive opportunities within mixed-species nests. These social insects represent a fascinating and diverse strategy of survival, having evolved repeatedly across different ant lineages. While overall parasitic ants comprise only about 2% of all described ant species, their impact on social insect communities is significant, influencing colony structure, social organization, and even evolutionary trajectories among both hosts and parasites.\n\n\nParasitic ants are primarily classified into three main types based on their relationship with host colonies:",
+        "statements": [
+          {
+            "statement": "A parasitic ant is a species that lives by exploiting other ant colonies, utilizing aggression, deception, or dependency to gain access to resources, labor, or reproductive opportunities within mixed-species nests."
+          },
+          {
+            "statement": "These social insects represent a fascinating and diverse strategy of survival, having evolved repeatedly across different ant lineages."
+          },
+          {
+            "statement": "Overall parasitic ants comprise only about 2% of all described ant species."
+          },
+          {
+            "statement": "Their impact on social insect communities is significant, influencing colony structure, social organization, and even evolutionary trajectories among both hosts and parasites."
+          },
+          {
+            "statement": "Parasitic ants are primarily classified into three main types based on their relationship with host colonies."
+          },
+          {
+            "statement": "Temporary social parasites establish new colonies by invading those of other species."
+          },
+          {
+            "statement": "Newly mated queens infiltrate a host nest, often killing or replacing the resident queen, after which the host workers rear the parasite’s offspring."
+          },
+          {
+            "statement": "Eventually, as the colony matures, the host workers die off, leaving only the parasite lineage."
+          },
+          {
+            "statement": "This type of parasitism is crucial during colony founding and allows the parasite to take advantage of existing workforce without maintaining independent colony operations."
+          },
+          {
+            "statement": "Studies of Polyrhachis lamellidens demonstrate this process: newly mated queens locate host workers, open their jaws, mount the host, and rub its entire body as a preparatory invasion step."
+          },
+          {
+            "statement": "Lab experiments revealed that this behavior is triggered specifically by the combination of cuticular chemicals (chemical cues from the host) and chitin—a physical surface property resembling insect exoskeletons."
+          },
+          {
+            "statement": "Only when both chemical and physical signals match does the queen exhibit rubbing, indicating sophisticated recognition abilities essential for successful parasitism."
+          },
+          {
+            "statement": "Permanent inquilines live within established host colonies for extended periods, sometimes indefinitely."
+          },
+          {
+            "statement": "Unlike temporary parasites, inquilines usually tolerate host queens and do not kill them."
+          },
+          {
+            "statement": "Many such inquilines have lost their own worker caste entirely and rely solely on host workers to care for their offspring."
+          },
+          {
+            "statement": "Some species produce specialized sexual forms but provide no labor themselves."
+          },
+          {
+            "statement": "Teleutomyrmex schneideri, one of the most specialized inquilines, lacks a worker caste and has evolved extreme morphological adaptations: a concave abdomen for clinging to host queens and elongated tarsal claws to grip onto their backs."
+          },
+          {
+            "statement": "These features allow Teleutomyrmex schneideri to act as an ectoparasite—riding atop host queens without triggering aggression."
+          },
+          {
+            "statement": "Host queens continue producing workers, raising both host and inquiline brood, resulting in a stable mixed colony structure."
+          },
+          {
+            "statement": "Tetramorium inquilinum lives alongside host workers and depends completely on their care, making detection difficult due to absence of independent foraging activities."
+          },
+          {
+            "statement": "Dulotic ants, known as slave-makers, establish colonies initially similar to temporary parasites but then supplement their workforce through organized raids on other ant colonies."
+          },
+          {
+            "statement": "They steal brood (larvae and pupae), which upon eclosion become integrated into the host nest as worker slaves."
+          },
+          {
+            "statement": "These enslaved individuals tend to the parasite queen, brood, and nest, performing all necessary tasks while the parasites focus on raiding and expansion."
+          },
+          {
+            "statement": "Obligate slave-makers like Polyergus breviceps cannot survive without enslaved workers—colonies require thousands of slaves each season."
+          },
+          {
+            "statement": "Their efficiency stems from sharp mandibles, glandular secretions for pacifying captured workers, and highly coordinated raids."
+          },
+          {
+            "statement": "Facultative slave-makers like Formica sanguinea occasionally raid smaller colonies, obtaining fewer slaves and relying more on their own capacity for independent labor."
+          },
+          {
+            "statement": "Socially parasitic ants exhibit remarkable adaptations facilitating infiltration and exploitation."
+          },
+          {
+            "statement": "Slaver ants and temporary parasites utilize cuticular hydrocarbons to chemically camouflage themselves, avoiding detection and rejection by host workers."
+          },
+          {
+            "statement": "Temporary parasites like Polyrhachis lamellidens employ rubbing behaviors requiring specific combinations of host chemical cues and physical properties."
+          },
+          {
+            "statement": "Workerless inquilines such as Teleutomyrmex schneideri develop body shapes and appendages that enhance attachment to host queens."
+          },
+          {
+            "statement": "Slave-makers possess powerful mandibles and secretory glands aiding in raiding, capture, and defense."
+          },
+          {
+            "statement": "These adaptations highlight the dynamic coevolution between parasite and host, driving morphological innovation and behavioral complexity."
+          },
+          {
+            "statement": "Social parasitism has independently arisen numerous times throughout ant evolution."
+          },
+          {
+            "statement": "Recent genetic and behavioral studies estimate that ant social parasites originated at least 60 distinct times across the ant tree of life, with over 400 species currently identified."
+          },
+          {
+            "statement": "The ancestors of many social parasites lost the ability to establish colonies without host assistance, transitioning to dependent or facultative colony founding."
+          },
+          {
+            "statement": "Phylogenetic analyses of the genus Formica suggest temporary social parasitism emerged around 18 million years ago."
+          },
+          {
+            "statement": "Dulotic or slave-making behavior arose later, roughly 14 million years ago, evolving secondarily from temporary social parasites."
+          },
+          {
+            "statement": "Workerless inquiline parasitism followed still later, representing the most advanced form of exploitation."
+          },
+          {
+            "statement": "Similar parasitic syndromes appear across unrelated lineages, implying strong selective pressures favoring these strategies regardless of evolutionary history."
+          },
+          {
+            "statement": "Temporary Social Parasitism is estimated to have emerged around 18 million years ago, with Formica spp. and Myrmicinae as originating species."
+          },
+          {
+            "statement": "Dulotic/Slave-Making Ants are estimated to have emerged around 14 million years ago, with Polyergus and Formica sanguinea as originating species."
+          },
+          {
+            "statement": "Workerless Inquiline Parasitism is a more recent evolutionary milestone, with Teleutomyrmex and Tetramorium as originating species."
+          },
+          {
+            "statement": "Proximate factors like predation, brood transport, territorial competition, and colony budding underlie these transitions."
+          },
+          {
+            "statement": "Brood stealing by temporary social parasites likely paved the way for slave-making."
+          },
+          {
+            "statement": "Cooler climates and the presence of polygynous host colonies favor the persistence of parasitic lineages."
+          },
+          {
+            "statement": "The relationship between social parasites and their hosts is characterized by ongoing evolutionary arms races."
+          },
+          {
+            "statement": "Parasites evolve mechanisms to mimic or suppress host recognition signals, ensuring acceptance within enemy nests."
+          },
+          {
+            "statement": "Hosts respond with increasingly sophisticated discrimination abilities, including egg rejection and brood-killing behaviors."
+          },
+          {
+            "statement": "Some enslaved workers display “rebellions”—refusing to care for parasite brood, sabotaging the parasite nest, or physically attacking enslavers."
+          },
+          {
+            "statement": "Field studies confirm partial or complete emancipation where host workers liberate themselves from parasite control."
+          },
+          {
+            "statement": "Slave-making ants can significantly reduce the productivity of affected colonies, though host populations adapt to mitigate losses."
+          },
+          {
+            "statement": "Facultative forms, in contrast, exert less pressure, allowing gradual colonization dynamics."
+          },
+          {
+            "statement": "Several iconic parasitic ant species exemplify their strategies."
+          },
+          {
+            "statement": "Polyergus breviceps is an obligate slave-maker requiring thousands of enslaved workers; it employs aggressive raids and chemical manipulation."
+          },
+          {
+            "statement": "Formica sanguinea is a facultative slaver that can survive without slaves; it obtains lesser numbers via frequent raids."
+          },
+          {
+            "statement": "Teleutomyrmex schneideri is a workerless inquiline dependent entirely on host care and brood."
+          },
+          {
+            "statement": "Polyrhachis lamellidens uses chemical and physical cues to infiltrate host nests, illustrating sophisticated recognition mechanisms."
+          },
+          {
+            "statement": "Socially parasitic ants are relatively rare overall but concentrated in certain subfamilies (notably Myrmicinae and Formicinae) and temperate regions."
+          },
+          {
+            "statement": "Approximately 230 parasitic species are documented, though newer estimates exceed 400, reflecting taxonomic revisions and increased discovery of rare forms."
+          },
+          {
+            "statement": "The Myrmicinae subfamily has a moderate number of parasitic species, with geographic prevalence in temperate regions worldwide."
+          },
+          {
+            "statement": "The Formicinae subfamily has a high number of parasitic species, with geographic prevalence in temperate Eurasia."
+          },
+          {
+            "statement": "Other subfamilies (e.g., Crematogastrini) have a low to moderate number of parasitic species, with geographic prevalence in regional hotspots."
+          },
+          {
+            "statement": "Parasites remain scarce in tropical environments due to differing ecological constraints, host availability, and evolutionary histories."
+          },
+          {
+            "statement": "Parasitic ants shape local ant communities by influencing colony sizes, worker distributions, and social structures."
+          },
+          {
+            "statement": "Their presence may accelerate coevolutionary processes, fostering trait divergence and speciation."
+          },
+          {
+            "statement": "Their sophisticated manipulations of social systems make them valuable models for understanding cooperation, conflict, and adaptation in animal societies."
+          },
+          {
+            "statement": "Most parasitic ants have little direct interaction with humans."
+          },
+          {
+            "statement": "Their study informs broader biological concepts regarding evolution, ecology, and social behavior."
+          },
+          {
+            "statement": "Research on social parasitism provides insights into the mechanisms underlying cooperation, deception, and adaptation—lessons applicable beyond entomology."
+          },
+          {
+            "statement": "Parasitic ants exemplify the dynamic interplay between exploitation and adaptation in the natural world."
+          },
+          {
+            "statement": "Through temporary usurpation, perpetual inquiline existence, or organized slave-raiding, these species exploit the cooperative foundations of ant societies."
+          },
+          {
+            "statement": "Their complex interactions with hosts foster ongoing evolutionary innovation, providing a window into the diversity and resilience of social insect life."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Parasitic_ant",
+    "sections": [
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Temporary Social Parasites",
+        "number": "1",
+        "index": "1",
+        "anchor": "Temporary_Social_Parasites"
+      },
+      {
+        "toclevel": 3,
+        "level": "4",
+        "line": "Mechanism Example",
+        "number": "2",
+        "index": "2",
+        "anchor": "Mechanism_Example"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Permanent Inquilines",
+        "number": "3",
+        "index": "3",
+        "anchor": "Permanent_Inquilines"
+      },
+      {
+        "toclevel": 3,
+        "level": "4",
+        "line": "Extreme Case - Teleutomyrmex schneideri",
+        "number": "4",
+        "index": "4",
+        "anchor": "Extreme_Case_-_Teleutomyrmex_schneideri"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Dulotic (Slave-Making) Ants",
+        "number": "5",
+        "index": "5",
+        "anchor": "Dulotic_(Slave-Making)_Ants"
+      },
+      {
+        "toclevel": 3,
+        "level": "4",
+        "line": "Examples and Behavior",
+        "number": "6",
+        "index": "6",
+        "anchor": "Examples_and_Behavior"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Evolutionary Origins and Phylogeny",
+        "number": "7",
+        "index": "7",
+        "anchor": "Evolutionary_Origins_and_Phylogeny"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Major Evolutionary Transitions",
+        "number": "8",
+        "index": "8",
+        "anchor": "Major_Evolutionary_Transitions"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Drivers of Parasitism",
+        "number": "9",
+        "index": "9",
+        "anchor": "Drivers_of_Parasitism"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Host-Parasite Coevolution",
+        "number": "10",
+        "index": "10",
+        "anchor": "Host-Parasite_Coevolution"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Notable Examples",
+        "number": "11",
+        "index": "11",
+        "anchor": "Notable_Examples"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Distribution and Diversity",
+        "number": "12",
+        "index": "12",
+        "anchor": "Distribution_and_Diversity"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Taxonomic Distribution",
+        "number": "13",
+        "index": "13",
+        "anchor": "Taxonomic_Distribution"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Ecological Significance",
+        "number": "14",
+        "index": "14",
+        "anchor": "Ecological_Significance"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Human Relevance",
+        "number": "15",
+        "index": "15",
+        "anchor": "Human_Relevance"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Conclusion",
+        "number": "16",
+        "index": "16",
+        "anchor": "Conclusion"
+      }
+    ]
+  },
+  "fetched_at": 1766321981,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/tongyi/md_data/Parasitic_ant.md",
+  "source_org": "tongyi"
+}

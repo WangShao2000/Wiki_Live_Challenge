@@ -1,0 +1,41 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "66671474": {
+        "pageid": 66671474,
+        "ns": 0,
+        "title": "Arne_Furumark",
+        "extract": "Arne Furumark was a Swedish archaeologist who specialized in the ceramics of Mycenaean Greece. His major work, \"The Chronology of Mycenaean Pottery,\" remains a standard reference in the field. He helped to establish the distinctive nature of mainland Greek (Helladic) ceramics in relation to Cretan (Minoan) wares. He introduced a heuristic model for ceramic studies in 1941 that bears the hallmarks of logical positivism. His contributions to Mycenaean pottery research emphasize style but may overlook raw materials and techniques.",
+        "extract_with_citations": "Arne Furumark was a Swedish archaeologist who specialized in the ceramics of Mycenaean Greece. His major work, \"The Chronology of Mycenaean Pottery,\" remains a standard reference in the field. He helped to establish the distinctive nature of mainland Greek (Helladic) ceramics in relation to Cretan (Minoan) wares. He introduced a heuristic model for ceramic studies in 1941 that bears the hallmarks of logical positivism. His contributions to Mycenaean pottery research emphasize style but may overlook raw materials and techniques.",
+        "citation_urls": {},
+        "lead_content": "Arne Furumark was a Swedish archaeologist who specialized in the ceramics of Mycenaean Greece. His major work, \"The Chronology of Mycenaean Pottery,\" remains a standard reference in the field. He helped to establish the distinctive nature of mainland Greek (Helladic) ceramics in relation to Cretan (Minoan) wares. He introduced a heuristic model for ceramic studies in 1941 that bears the hallmarks of logical positivism. His contributions to Mycenaean pottery research emphasize style but may overlook raw materials and techniques.",
+        "statements": [
+          {
+            "statement": "Arne Furumark was a Swedish archaeologist who specialized in the ceramics of Mycenaean Greece."
+          },
+          {
+            "statement": "His major work, \"The Chronology of Mycenaean Pottery,\" remains a standard reference in the field."
+          },
+          {
+            "statement": "He helped to establish the distinctive nature of mainland Greek (Helladic) ceramics in relation to Cretan (Minoan) wares."
+          },
+          {
+            "statement": "He introduced a heuristic model for ceramic studies in 1941 that bears the hallmarks of logical positivism."
+          },
+          {
+            "statement": "His contributions to Mycenaean pottery research emphasize style but may overlook raw materials and techniques."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Arne_Furumark",
+    "sections": []
+  },
+  "fetched_at": 1766315428,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Arne_Furumark.md",
+  "source_org": "deep_researcher"
+}

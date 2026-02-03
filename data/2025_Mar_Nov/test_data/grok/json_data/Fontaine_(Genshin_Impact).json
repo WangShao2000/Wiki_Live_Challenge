@@ -1,0 +1,1406 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "2437979": {
+        "pageid": 2437979,
+        "ns": 0,
+        "title": "Fontaine_(Genshin_Impact)",
+        "extract": "### Development\nFontaine's development began prior to the game's 2020 launch as part of a multi-year plan to expand Teyvat's seven nations. The update introduced underwater exploration, a feature conceptualized two years earlier to differentiate it from land-based regions, requiring substantial resources for mechanics like energy-based puzzles and creature abilities. Designs for local wildlife, such as armored crabs, blended real-world biology with fantasy elements. Player feedback from earlier regions like Sumeru influenced puzzle placement to avoid excessive difficulty, focusing instead on quality and accessibility. The region expanded content volume compared to Sumeru while emphasizing polished details.\n\n### Geography\nFontaine occupies a raised continental plate in central Teyvat, northeast of Sumeru's desert, characterized by a massive edge waterfall and a terrestrial sea. Key subregions include the Court of Fontaine (the central urban area with aquabus transport), Beryl Region (home to Melusine inhabitants), Erinnyes Forest (northern wooded area added in version 4.2), Liffey Region (site of the underwater Fortress of Meropide prison), Morte Region (quest-related northern expanse), Nostoi Region (southern historical ruins from version 4.6), and the Sea of Bygone Eras (submerged southern waters). Underwater areas, unlocked via a blessing mechanic, feature no stamina consumption for swimming and include puzzles involving Arkhe energies (Ousia and Pneuma). Notable locations encompass the Opera Epiclese (a combined theater and courthouse), Fountain of Lucine (a reward hub), and the Fontaine Research Institute ruins, affected by a past explosion.\n\n### Reception\nInitial reception to Fontaine's reveal in version 3.8 was positive, with community artwork and feedback influencing exhibitions of concept art. Players praised innovations like non-hostile underwater creatures and streamlined quests, though some critiqued map density and device limitations. The region's story arc received acclaim for character depth and narrative twists, positioning it as a high point in the game's writing, according to multiple analyses. However, debates persist on whether its technological themes fully integrate with Teyvat's lore, with mixed views on exploration rewards compared to prior updates.\n\nFontaine is a fictional region in the action role-playing game *Genshin Impact*, developed and published by miHoYo (operating as Hoyoverse since 2022). As one of Teyvat's seven nations, it is aligned with the Hydro element and governed under principles of justice, though its leadership shifted following in-game events involving the Hydro Archon. Released in version 4.0 on August 16, 2023, Fontaine incorporates underwater exploration and technology-driven mechanics, drawing cultural inspirations from industrial-era Europe, particularly France and England. The region's narrative centers on a prophecy of societal dissolution, legal systems, and the interplay between divine authority and human agency, contributing to the game's broader themes of fate, elemental powers, and celestial intervention. Its introduction marked a significant expansion, adding new characters, quests, and gameplay features that built on player feedback from prior regions.\n\n### Development and release\nPlanning for Fontaine occurred as part of a long-term roadmap to introduce all seven nations of Teyvat over several years, with initial concepts predating the game's September 2020 launch. The development team focused on differentiating Fontaine through underwater mechanics, a feature discussed internally two years before its release, to provide novel experiences distinct from surface-based exploration in regions like Sumeru or Inazuma. This required extensive resource allocation for systems such as stamina-free diving, underwater combat abilities derived from local creatures (e.g., armored crabs and ball octopuses), and energy puzzles using Arkhe forces (Ousia and Pneuma). Creature designs blended real-world inspirations, such as hermit crabs, with fantastical elements to fit the Hydro theme.\n\nPuzzle and challenge designs incorporated lessons from Sumeru feedback, avoiding heightened difficulty by placing intensive mechanics in optional areas like underwater challenges or \"Local Legends\" bosses, while ensuring core progression remained accessible. The region expanded overall content volume, including maps, stories, and rewards, but prioritized quality over quantity, with treasure chests offering higher average value and no major locks behind quest progression. Hardware constraints, including device controls, storage, and power consumption, influenced scope limitations more than creative ideas.\n\nFontaine debuted in the update titled \"As Light Rain Falls Without Reason\" on August 16, 2023, introducing three initial playable characters—Lyney, Lynette, and Freminet—whose sibling dynamics tied into the Archon Quest narrative. Subsequent patches through version 4.6 (up to May 2024) added subregions like Erinnyes Forest, Morte Region, Nostoi Region, and the Sea of Bygone Eras, along with additional characters and quests. Community response to early reveals in version 3.8 included fan art exhibitions alongside developer sketches, reflecting positive engagement.\n\nFontaine is situated in central Teyvat on an elevated continental plate, serving as the origin of all continental waters, with a vast terrestrial sea and a dramatic waterfall cascading thousands of meters at its edges. It lies northeast of Sumeru's Hills of Barsom, accessible initially via Waverider boats to Romaritime Harbor, followed by aquabus lines for urban travel. The region's geography blends surface landscapes with extensive underwater areas, unlocked through a \"Transoceanic Sourcewater\" blessing that enables diving without stamina depletion and special underwater attacks.\n\nMajor subregions include:\n- **Court of Fontaine Region**: The central hub, featuring the urban Court of Fontaine with subareas like Annapausis, Chemin de L'Espoir, Fountain of Lucine (a Hydro Sigil reward exchange), Institute of Natural Philosophy, Marcotte Station, Opera Epiclese (a dual-purpose theater and courthouse), Salacia Plain, and Thalatta Submarine Canyon.\n- **Beryl Region**: Primarily residential for Melusine inhabitants, emphasizing aquatic and forested environments.\n- **Erinnyes Forest and Morte Region**: Northern expansions from version 4.2, tied to world quests such as \"The Wild Fairy of Erinnyes\" and \"Search in Algae Sea,\" with dense woods and quest-specific ruins.\n- **Liffey Region**: Hosts the underwater Fortress of Meropide prison and the ruins of the old Fontaine Research Institute, marked by \"Allogravity-Condensed Water Bodies\" from a failed experiment.\n- **Fontaine Research Institute of Kinetic Energy Engineering Region**: Features damaged facilities and mechanical puzzles.\n- **Nostoi Region and Sea of Bygone Eras**: Southern additions in version 4.6, including the historical town of Petrichor, remnants of the Kingdom of Remuria, submerged caves, ruins, and a palace, accessible via \"Canticles of Harmony\" quests.\n\nUnique features encompass aquabus transportation, musical \"Symphony\" puzzles in Nostoi, and energy storage devices for powering machines. Local specialties include flora like Rainbow Rose, Lumidouce Bell, Romaritime Flower, Lakelight Lily, and Spring of the First Dewdrop, as well as marine items such as Beryl Conch, Lumitoile, Subdetection Unit, and cooking materials like Marcotte, Tidalga, Pluie Lotus, and Bulle Fruit.\n\n| Subregion | Key Locations | Notable Features |\n|-----------|---------------|------------------|\n| Court of Fontaine | Opera Epiclese, Fountain of Lucine, Marcotte Station | Urban center with aquabus; theater and court venue |\n| Beryl Region | Merusea Village (underground) | Melusine homes; accessed via \"A Brush of Seafoam and Crimson\" quest |\n| Erinnyes Forest | Various forested paths | Quest hubs for fairy and algae-related stories |\n| Liffey Region | Fortress of Meropide, Research Institute ruins | Underwater prison; experimental anomalies |\n| Morte Region | Tower of Ipsissimus (position shifts post-quest) | Northern expanses with dynamic elements |\n| Nostoi Region | Petrichor town, Remuria remnants | Historical ruins; musical puzzles |\n| Sea of Bygone Eras | Submerged caves and palace | Deep underwater exploration |\n\n### History\nFontaine's in-universe history spans eras tied to elemental forces, archons, and prophecies, drawn from game lore.\n\nIn the pre-Egeria period, the Primordial Sea covered Teyvat, ruled by the original Hydro Dragon Sovereign until defeated by the Heavenly Principles, who stole its authority. Humanity's defiance led to floods punishing civilizations.\n\nDuring the Egeria era, Egeria was created as the Primordial Sea's new heart and became the first Hydro Archon after the Archon War. She used Primordial Seawater to form humanoid life from Oceanids, an act deemed a \"sin\" by Celestia, resulting in a prophecy: rising waters would dissolve Fontaine's people to absolve their innate sins, leaving the Archon weeping alone. Egeria mediated post-Remuria survivors, establishing cities around springs and a law-based society. She exiled criminals to guard the Primordial Sea's entrance, forming the Fortress of Meropide.\n\nRemus, a figure from the High Seas, founded the prosperous Remuria using a golden ship and ichor-based golems, but moral decay and a rebellion led to its sinking. Celestia then released Egeria to rule.\n\nPost-Cataclysm (500 years ago), during Khaenri'ah's fall, Egeria died battling Abyss forces; her successor, Focalors, inherited the role. Oceanids exiled themselves due to ideological clashes. Focalors divided herself, creating a human counterpart (Furina) to deceive Celestia and avert the prophecy, accumulating energy via trials in the Oratrice Mecanique d'Analyse Cardinale. Experiments at the Narzissenkreuz Institute and encounters with beasts like Elynas shaped society, birthing Melusines from Elynas' remains.\n\nIn recent events (game versions 4.0–4.2), the prophecy unfolds with floods, but Focalors' execution transfers authority to Neuvillette (the reborn Hydro Dragon Sovereign), converting Primordial Seawater to allow survival and nullifying dissolution. Fontaine becomes the first nation ruled by a Dragon Sovereign, without an Archon.\n\n### Government and politics\nFontaine operates under a justice-focused system, with trials conducted at the Opera Epiclese, where Chief Justice Neuvillette issues verdicts aligned with the Oratrice, a machine harvesting public belief into Indemnitium energy. Formerly ruled by Hydro Archon Focalors (publicly as Furina), the nation shifted post-prophecy fulfillment, with Neuvillette assuming duties after Focalors' self-execution destroyed the divine throne. This made Fontaine unique among Teyvat nations as archon-less, governed by a Dragon Sovereign.\n\nThe legal framework is complex, as noted by external characters like Yanfei. Institutions include the Marechaussee Phantom (anti-threat force) and the Fortress of Meropide (prison for exiles). Political tensions involve human-Melusine integration, with past incidents like frame-ups leading to societal reforms. A \"judgment\" belief persists, tied to the dissolved-sins prophecy.\n\n### Culture and society\nFontaine emphasizes arts, particularly performing arts like music, theater, and opera, with the Opera Epiclese as a cultural centerpiece. Society values \"true beauty and elegance,\" with diverse inhabitants including humans, Melusines (small, colorful beings from Elynas' blood), and formerly Oceanids (water spirits loyal to Egeria). Diving is a key profession, requiring certificates, and newspapers like *The Steambird* (contributed to by figures like Mona) cover local events.\n\nCultural elements include rock 'n' roll origins, popular novels like Xingqiu's *A Legend of Sword*, and inventions like the Kamera. Fashion and cuisine reflect industrial influences, though specifics remain tied to gameplay items. Society grapples with technological decline in Arkhe energy and environmental issues like toxic fumes in some areas. Beliefs center on the prophecy and justice, with events like the Two Musketeers Incident highlighting moral complexities.\n\n### Economy and technology\nFontaine's economy revolves around advanced technology integrated into daily life, such as aquabus systems and mechanical devices. The Fontaine Research Institute supports kinetic energy research, though damaged by experiments like Edwin Eastinghouse's explosion. Inventions include the Wisdom Orb, Evermotion Mechanical Painting, and toy apparatuses. Energy from Indemnitium powers the nation, derived from trials. Trade involves local specialties and marine resources, with professions like diving contributing to resource gathering.\n\n### Notable characters\nPlayable characters from Fontaine include:\n- Lyney: A magician and performer.\n- Lynette: Lyney's assistant and sibling.\n- Freminet: A diver and mechanic.\n- Neuvillette: Chief Justice and Hydro Dragon Sovereign.\n- Wriothesley: Administrator of the Fortress of Meropide.\n- Charlotte: Journalist for *The Steambird*.\n- Furina: Former public face of the Hydro Archon.\n- Navia: Leader of Spina di Rosula organization.\n- Clorinde: Champion duelist.\n- Sigewinne: Head nurse at the Fortress of Meropide.\n- Chevreuse: Captain of the Special Security and Surveillance Patrol.\n- Emilie: Perfumer.\n- Chiori: Fashion designer.\n- Arlecchino: \"Father\" of the House of the Hearth.\n\nNon-playable inhabitants include Melusines like Sigewinne (also playable) and historical figures like Egeria and Focalors.\n\n### In other media\nFontaine appears in *Genshin Impact* manga and promotional materials, with its lore expanded through events and quests.\n\nFontaine's release garnered positive feedback for its underwater innovations and narrative depth, with players noting non-hostile creatures as a refreshing twist. The Archon Quest arc was praised for character development and twists addressing themes of deception and redemption, often cited as a storytelling peak. However, some critiques focused on map density, puzzle repetition, and hardware demands. Community engagement included fan creations, and the region's design was seen as responsive to prior feedback, though debates continue on its lore integration with Teyvat's world.\n\n| Aspect | Positive Feedback | Critical Views |\n|--------|-------------------|----------------|\n| Gameplay | Underwater relaxation, quality rewards | Device constraints, optional challenge intensity |\n| Story | Moral complexity, character arcs | Pacing in multi-act structure |\n| Design | Visuals, cultural hubs | Comparison to Sumeru volume |\n\n## References:\n- https://genshin-impact.fandom.com/wiki/Fontaine\n- https://genshin.hoyoverse.com/m/en/map\n- https://www.thegamer.com/genshin-impact-fontaine-plot-explained/\n- https://game8.co/games/Genshin-Impact/archives/398422\n- https://screenrant.com/genshin-impact-fontaine-interview/\n- https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide\n- https://genshin-impact.fandom.com/wiki/Fontaine/History",
+        "citation_urls": {},
+        "statements": [
+          {
+            "fact": "Fontaine is a fictional region in the action role-playing game *Genshin Impact*, developed and published by miHoYo (now Hoyoverse).",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Fontaine serves as the nation associated with the Hydro element, emphasizing themes of justice, technology, and the arts.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Fontaine is located in the center of the game's world, Teyvat.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Fontaine was introduced in version 4.0 on August 16, 2023.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Fontaine draws inspiration from early 20th-century France and England.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Fontaine incorporates elements of steampunk aesthetics and underwater exploration mechanics.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "The Fontaine region explores narratives involving a prophecy of dissolution, legal trials, and the transfer of divine authority.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "The narratives in Fontaine contribute to the game's overarching story of elemental archons and celestial forces.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Research indicates that Fontaine's design prioritizes balanced gameplay.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Underwater areas in Fontaine offer new mechanics like diving without stamina limits.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Some players noted hardware constraints affecting performance in Fontaine.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Evidence suggests the Fontaine region's story addresses complex moral questions, such as deception for societal good.",
+            "ref_idx": null,
+            "url": "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/"
+          },
+          {
+            "fact": "Fontaine's story does not resolve all debates on divine justice.",
+            "ref_idx": null,
+            "url": "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/"
+          },
+          {
+            "fact": "Reviews highlight Fontaine's integration of technology and culture as innovative.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Opinions vary on whether Fontaine fully surpasses prior regions in exploration depth.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Fontaine's development began prior to *Genshin Impact*'s 2020 launch as part of a multi-year plan to expand Teyvat's seven nations.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "The Fontaine update introduced underwater exploration.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Underwater exploration in Fontaine was a feature conceptualized two years earlier to differentiate it from land-based regions.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Underwater exploration in Fontaine required substantial resources for mechanics like energy-based puzzles and creature abilities.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Designs for Fontaine's local wildlife, such as armored crabs, blended real-world biology with fantasy elements.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Player feedback from earlier regions like Sumeru influenced puzzle placement in Fontaine to avoid excessive difficulty.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Puzzle placement in Fontaine focused on quality and accessibility.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "The Fontaine region expanded content volume compared to Sumeru.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "The Fontaine region emphasized polished details.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Fontaine occupies a raised continental plate in central Teyvat.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin.hoyoverse.com/m/en/map"
+            ]
+          },
+          {
+            "fact": "Fontaine is located northeast of Sumeru's desert.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin.hoyoverse.com/m/en/map"
+            ]
+          },
+          {
+            "fact": "Fontaine is characterized by a massive edge waterfall and a terrestrial sea.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin.hoyoverse.com/m/en/map"
+            ]
+          },
+          {
+            "fact": "Key subregions of Fontaine include the Court of Fontaine, Beryl Region, Erinnyes Forest, Liffey Region, Morte Region, Nostoi Region, and the Sea of Bygone Eras.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Court of Fontaine is the central urban area with aquabus transport.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Beryl Region is home to Melusine inhabitants.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Erinnyes Forest is a northern wooded area in Fontaine, added in version 4.2.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Liffey Region is the site of the underwater Fortress of Meropide prison.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Morte Region is a quest-related northern expanse in Fontaine.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Nostoi Region consists of southern historical ruins from version 4.6.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Sea of Bygone Eras consists of submerged southern waters in Fontaine.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Underwater areas in Fontaine are unlocked via a blessing mechanic.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Underwater areas in Fontaine feature no stamina consumption for swimming.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Underwater areas in Fontaine include puzzles involving Arkhe energies (Ousia and Pneuma).",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Notable locations in Fontaine encompass the Opera Epiclese, Fountain of Lucine, and the Fontaine Research Institute ruins.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Opera Epiclese is a combined theater and courthouse.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Fountain of Lucine is a reward hub.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Fontaine Research Institute ruins were affected by a past explosion.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Initial reception to Fontaine's reveal in version 3.8 was positive.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Community artwork and feedback influenced exhibitions of Fontaine's concept art.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Players praised innovations in Fontaine like non-hostile underwater creatures and streamlined quests.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Some players critiqued Fontaine's map density and device limitations.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Fontaine's story arc received acclaim for character depth and narrative twists.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://screenrant.com/genshin-impact-fontaine-interview/"
+            ]
+          },
+          {
+            "fact": "Fontaine's story arc is positioned as a high point in *Genshin Impact*'s writing, according to multiple analyses.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://screenrant.com/genshin-impact-fontaine-interview/"
+            ]
+          },
+          {
+            "fact": "Debates persist on whether Fontaine's technological themes fully integrate with Teyvat's lore.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "There are mixed views on Fontaine's exploration rewards compared to prior updates.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Fontaine is a fictional region in the action role-playing game *Genshin Impact*.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "*Genshin Impact* is developed and published by miHoYo, operating as Hoyoverse since 2022.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine is one of Teyvat's seven nations.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine is aligned with the Hydro element.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine is governed under principles of justice.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine's leadership shifted following in-game events involving the Hydro Archon.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine was released in version 4.0 on August 16, 2023.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine incorporates underwater exploration and technology-driven mechanics.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine draws cultural inspirations from industrial-era Europe, particularly France and England.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine's narrative centers on a prophecy of societal dissolution, legal systems, and the interplay between divine authority and human agency.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine's narrative contributes to *Genshin Impact*'s broader themes of fate, elemental powers, and celestial intervention.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine's introduction marked a significant expansion for *Genshin Impact*.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine added new characters, quests, and gameplay features.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine's new features built on player feedback from prior regions.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Planning for Fontaine occurred as part of a long-term roadmap to introduce all seven nations of Teyvat over several years.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Initial concepts for Fontaine predated *Genshin Impact*'s September 2020 launch.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "The development team focused on differentiating Fontaine through underwater mechanics.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Underwater mechanics in Fontaine were discussed internally two years before its release.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Underwater mechanics in Fontaine were intended to provide novel experiences distinct from surface-based exploration in regions like Sumeru or Inazuma.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Extensive resource allocation was required for systems in Fontaine such as stamina-free diving, underwater combat abilities, and energy puzzles using Arkhe forces (Ousia and Pneuma).",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://screenrant.com/genshin-impact-fontaine-interview/"
+            ]
+          },
+          {
+            "fact": "Underwater combat abilities in Fontaine are derived from local creatures like armored crabs and ball octopuses.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://screenrant.com/genshin-impact-fontaine-interview/"
+            ]
+          },
+          {
+            "fact": "Creature designs in Fontaine blended real-world inspirations, such as hermit crabs, with fantastical elements to fit the Hydro theme.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Puzzle and challenge designs in Fontaine incorporated lessons from Sumeru feedback.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Fontaine avoided heightened difficulty by placing intensive mechanics in optional areas like underwater challenges or \"Local Legends\" bosses.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Core progression in Fontaine remained accessible.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "The Fontaine region expanded overall content volume, including maps, stories, and rewards.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Fontaine prioritized quality over quantity.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Treasure chests in Fontaine offer higher average value.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "There are no major locks behind quest progression in Fontaine.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Hardware constraints, including device controls, storage, and power consumption, influenced scope limitations for Fontaine more than creative ideas.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Fontaine debuted in the update titled \"As Light Rain Falls Without Reason\" on August 16, 2023.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Fontaine introduced three initial playable characters: Lyney, Lynette, and Freminet.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The sibling dynamics of Lyney, Lynette, and Freminet tied into the Archon Quest narrative.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Subsequent patches through version 4.6 (up to May 2024) added subregions to Fontaine like Erinnyes Forest, Morte Region, Nostoi Region, and the Sea of Bygone Eras.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Subsequent patches through version 4.6 (up to May 2024) added additional characters and quests to Fontaine.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Community response to early reveals of Fontaine in version 3.8 included fan art exhibitions alongside developer sketches.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Community response to early reveals of Fontaine reflected positive engagement.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Fontaine is situated in central Teyvat on an elevated continental plate.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin.hoyoverse.com/m/en/map"
+            ]
+          },
+          {
+            "fact": "Fontaine serves as the origin of all continental waters.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin.hoyoverse.com/m/en/map"
+            ]
+          },
+          {
+            "fact": "Fontaine has a vast terrestrial sea and a dramatic waterfall cascading thousands of meters at its edges.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin.hoyoverse.com/m/en/map"
+            ]
+          },
+          {
+            "fact": "Fontaine lies northeast of Sumeru's Hills of Barsom.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Fontaine is accessible initially via Waverider boats to Romaritime Harbor.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Fontaine is accessible via aquabus lines for urban travel.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Fontaine's geography blends surface landscapes with extensive underwater areas.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Underwater areas in Fontaine are unlocked through a \"Transoceanic Sourcewater\" blessing.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The \"Transoceanic Sourcewater\" blessing enables diving without stamina depletion and special underwater attacks in Fontaine.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Court of Fontaine Region is the central hub of Fontaine.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422"
+            ]
+          },
+          {
+            "fact": "The Court of Fontaine Region features the urban Court of Fontaine with subareas like Annapausis, Chemin de L'Espoir, Fountain of Lucine, Institute of Natural Philosophy, Marcotte Station, Opera Epiclese, Salacia Plain, and Thalatta Submarine Canyon.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422"
+            ]
+          },
+          {
+            "fact": "The Fountain of Lucine is a Hydro Sigil reward exchange.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422"
+            ]
+          },
+          {
+            "fact": "The Opera Epiclese is a dual-purpose theater and courthouse.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422"
+            ]
+          },
+          {
+            "fact": "The Beryl Region in Fontaine is primarily residential for Melusine inhabitants.",
+            "ref_idx": null,
+            "url": "https://game8.co/games/Genshin-Impact/archives/398422"
+          },
+          {
+            "fact": "The Beryl Region emphasizes aquatic and forested environments.",
+            "ref_idx": null,
+            "url": "https://game8.co/games/Genshin-Impact/archives/398422"
+          },
+          {
+            "fact": "Erinnyes Forest and Morte Region are northern expansions in Fontaine from version 4.2.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Erinnyes Forest and Morte Region are tied to world quests such as \"The Wild Fairy of Erinnyes\" and \"Search in Algae Sea\".",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Erinnyes Forest and Morte Region feature dense woods and quest-specific ruins.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Liffey Region hosts the underwater Fortress of Meropide prison.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Liffey Region hosts the ruins of the old Fontaine Research Institute.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The ruins of the old Fontaine Research Institute are marked by \"Allogravity-Condensed Water Bodies\" from a failed experiment.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Fontaine Research Institute of Kinetic Energy Engineering Region features damaged facilities and mechanical puzzles.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://game8.co/games/Genshin-Impact/archives/398422"
+            ]
+          },
+          {
+            "fact": "The Nostoi Region and Sea of Bygone Eras are southern additions to Fontaine in version 4.6.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Nostoi Region and Sea of Bygone Eras include the historical town of Petrichor, remnants of the Kingdom of Remuria, submerged caves, ruins, and a palace.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Nostoi Region and Sea of Bygone Eras are accessible via \"Canticles of Harmony\" quests.",
+            "ref_idx": null,
+            "url": [
+              "https://game8.co/games/Genshin-Impact/archives/398422",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Unique features in Fontaine encompass aquabus transportation, musical \"Symphony\" puzzles in Nostoi, and energy storage devices for powering machines.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine"
+          },
+          {
+            "fact": "Local specialties in Fontaine include flora like Rainbow Rose, Lumidouce Bell, Romaritime Flower, Lakelight Lily, and Spring of the First Dewdrop.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Local specialties in Fontaine include marine items such as Beryl Conch, Lumitoile, Subdetection Unit.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Local specialties in Fontaine include cooking materials like Marcotte, Tidalga, Pluie Lotus, and Bulle Fruit.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Fontaine's in-universe history spans eras tied to elemental forces, archons, and prophecies.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine's history is drawn from game lore.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "In the pre-Egeria period, the Primordial Sea covered Teyvat.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "The Primordial Sea was ruled by the original Hydro Dragon Sovereign until defeated by the Heavenly Principles.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "The Heavenly Principles stole the authority of the original Hydro Dragon Sovereign.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Humanity's defiance led to floods punishing civilizations.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "During the Egeria era, Egeria was created as the Primordial Sea's new heart.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Egeria became the first Hydro Archon after the Archon War.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Egeria used Primordial Seawater to form humanoid life from Oceanids.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Egeria's act of forming humanoid life from Oceanids was deemed a \"sin\" by Celestia.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "A prophecy stated that rising waters would dissolve Fontaine's people to absolve their innate sins, leaving the Archon weeping alone.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Egeria mediated post-Remuria survivors.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Egeria established cities around springs and a law-based society.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Egeria exiled criminals to guard the Primordial Sea's entrance.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Egeria formed the Fortress of Meropide.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Remus, a figure from the High Seas, founded the prosperous Remuria.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Remus founded Remuria using a golden ship and ichor-based golems.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Moral decay and a rebellion led to Remuria's sinking.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Celestia released Egeria to rule.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Post-Cataclysm (500 years ago), Egeria died battling Abyss forces during Khaenri'ah's fall.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Egeria's successor, Focalors, inherited the role of Hydro Archon.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Oceanids exiled themselves due to ideological clashes.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Focalors divided herself, creating a human counterpart (Furina) to deceive Celestia and avert the prophecy.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Focalors accumulated energy via trials in the Oratrice Mecanique d'Analyse Cardinale.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Experiments at the Narzissenkreuz Institute and encounters with beasts like Elynas shaped Fontaine's society.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Melusines were birthed from Elynas' remains.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "In recent events (game versions 4.0–4.2), the prophecy unfolds with floods in Fontaine.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Focalors' execution transfers authority to Neuvillette (the reborn Hydro Dragon Sovereign).",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Neuvillette converts Primordial Seawater to allow survival and nullify dissolution.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine becomes the first nation ruled by a Dragon Sovereign.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/"
+            ]
+          },
+          {
+            "fact": "Fontaine is a nation without an Archon.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/"
+            ]
+          },
+          {
+            "fact": "Fontaine operates under a justice-focused system.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Trials in Fontaine are conducted at the Opera Epiclese.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Chief Justice Neuvillette issues verdicts aligned with the Oratrice.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Oratrice is a machine harvesting public belief into Indemnitium energy.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Fontaine was formerly ruled by Hydro Archon Focalors (publicly as Furina).",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine's leadership shifted post-prophecy fulfillment.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Neuvillette assumed duties after Focalors' self-execution destroyed the divine throne.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine is unique among Teyvat nations as archon-less, governed by a Dragon Sovereign.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine"
+          },
+          {
+            "fact": "Fontaine's legal framework is complex, as noted by external characters like Yanfei.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine"
+          },
+          {
+            "fact": "Institutions in Fontaine include the Marechaussee Phantom (anti-threat force) and the Fortress of Meropide (prison for exiles).",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Political tensions in Fontaine involve human-Melusine integration.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Past incidents like frame-ups led to societal reforms in Fontaine.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "A \"judgment\" belief persists in Fontaine, tied to the dissolved-sins prophecy.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine"
+          },
+          {
+            "fact": "Fontaine emphasizes arts, particularly performing arts like music, theater, and opera.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Opera Epiclese is a cultural centerpiece in Fontaine.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Fontaine society values \"true beauty and elegance.\"",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine has diverse inhabitants including humans, Melusines (small, colorful beings from Elynas' blood), and formerly Oceanids (water spirits loyal to Egeria).",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Diving is a key profession in Fontaine, requiring certificates.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine"
+          },
+          {
+            "fact": "Newspapers like *The Steambird* (contributed to by figures like Mona) cover local events in Fontaine.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine"
+          },
+          {
+            "fact": "Cultural elements in Fontaine include rock 'n' roll origins, popular novels like Xingqiu's *A Legend of Sword*, and inventions like the Kamera.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine"
+          },
+          {
+            "fact": "Fashion and cuisine in Fontaine reflect industrial influences.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Fontaine society grapples with technological decline in Arkhe energy and environmental issues like toxic fumes in some areas.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine"
+          },
+          {
+            "fact": "Beliefs in Fontaine center on the prophecy and justice.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Events like the Two Musketeers Incident highlight moral complexities in Fontaine.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Fontaine's economy revolves around advanced technology integrated into daily life, such as aquabus systems and mechanical devices.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Fontaine Research Institute supports kinetic energy research.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "The Fontaine Research Institute was damaged by experiments like Edwin Eastinghouse's explosion.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Inventions in Fontaine include the Wisdom Orb, Evermotion Mechanical Painting, and toy apparatuses.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine"
+          },
+          {
+            "fact": "Energy from Indemnitium powers the Fontaine nation.",
+            "ref_idx": null,
+            "url": "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/"
+          },
+          {
+            "fact": "Indemnitium energy is derived from trials.",
+            "ref_idx": null,
+            "url": "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/"
+          },
+          {
+            "fact": "Trade in Fontaine involves local specialties and marine resources.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Professions like diving contribute to resource gathering in Fontaine.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Lyney is a playable character from Fontaine and a magician and performer.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Lynette is a playable character from Fontaine and Lyney's assistant and sibling.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Freminet is a playable character from Fontaine and a diver and mechanic.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Neuvillette is a playable character from Fontaine and the Chief Justice and Hydro Dragon Sovereign.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Wriothesley is a playable character from Fontaine and the Administrator of the Fortress of Meropide.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Charlotte is a playable character from Fontaine and a journalist for *The Steambird*.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Furina is a playable character from Fontaine and the former public face of the Hydro Archon.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Navia is a playable character from Fontaine and the Leader of Spina di Rosula organization.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Clorinde is a playable character from Fontaine and a Champion duelist.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Sigewinne is a playable character from Fontaine and the Head nurse at the Fortress of Meropide.",
+            "ref_idx": null,
+            "url": "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+          },
+          {
+            "fact": "Chevreuse is a playable character from Fontaine and the Captain of the Special Security and Surveillance Patrol.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Emilie is a playable character from Fontaine and a perfumer.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Chiori is a playable character from Fontaine and a fashion designer.",
+            "ref_idx": null,
+            "url": "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+          },
+          {
+            "fact": "Arlecchino is a playable character from Fontaine and \"Father\" of the House of the Hearth.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Non-playable inhabitants of Fontaine include Melusines like Sigewinne and historical figures like Egeria and Focalors.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://genshin-impact.fandom.com/wiki/Fontaine/History"
+            ]
+          },
+          {
+            "fact": "Fontaine appears in *Genshin Impact* manga and promotional materials.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/"
+            ]
+          },
+          {
+            "fact": "Fontaine's lore is expanded through events and quests.",
+            "ref_idx": null,
+            "url": [
+              "https://genshin-impact.fandom.com/wiki/Fontaine",
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/"
+            ]
+          },
+          {
+            "fact": "Fontaine's release garnered positive feedback for its underwater innovations and narrative depth.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Players noted non-hostile creatures in Fontaine as a refreshing twist.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "The Archon Quest arc in Fontaine was praised for character development and twists addressing themes of deception and redemption.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://screenrant.com/genshin-impact-fontaine-interview/"
+            ]
+          },
+          {
+            "fact": "The Archon Quest arc in Fontaine is often cited as a storytelling peak.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-fontaine-plot-explained/",
+              "https://screenrant.com/genshin-impact-fontaine-interview/"
+            ]
+          },
+          {
+            "fact": "Some critiques of Fontaine focused on map density, puzzle repetition, and hardware demands.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Community engagement for Fontaine included fan creations.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-fontaine-interview/"
+          },
+          {
+            "fact": "Fontaine's design was seen as responsive to prior feedback.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          },
+          {
+            "fact": "Debates continue on Fontaine's lore integration with Teyvat's world.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-fontaine-interview/",
+              "https://www.ign.com/wikis/genshin-impact/Genshin_Impact_Fontaine_Region_Guide"
+            ]
+          }
+        ],
+        "citation_contents": {},
+        "source_file": "grok/md_data/Fontaine_(Genshin_Impact).md"
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+# Lux_(Doctor_Who)
+
+Lux is the second episode of the fifteenth series of the British science-fiction television series Doctor Who. Set in 1952 Miami, the episode follows the Doctor and Belinda as they investigate an abandoned cinema where fifteen people have disappeared. They soon confront an animated god, Mr Ring-A-Ding, who is the god of light, Lux. The episode explores themes of light and dark, and the power of hope in changing the world. It is noted for its bold and innovative storytelling, which includes a meta scene that symbolises the show's slide into hiatus.

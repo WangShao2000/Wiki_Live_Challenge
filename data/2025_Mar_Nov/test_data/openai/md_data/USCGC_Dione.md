@@ -1,0 +1,26 @@
+# USCGC Dione
+USCGC Dione (WPC-107) was a United States Coast Guard patrol vessel of the 165-foot Thetis-class (also known as the Argo-class) that served from 1934 to 1963. She was built by the Manitowoc Shipbuilding Company in Wisconsin and commissioned on 5 October 1934. The cutter was named after Dione from Greek mythology. Designed as an offshore patrol craft, Dione displaced about 334 tons, with a length of 165 feet, a beam of 25 feet, and a draft of around 10 feet. Twin diesel engines produced 1,340 hp for a top speed of 16 knots. Originally armed with a single 3-inch gun and machine guns for law enforcement duties, she was later refitted with heavier armament during World War II (including two 3-inch/50 caliber guns, 20 mm anti-aircraft cannons, depth charge tracks and projectors, and Mousetrap anti-submarine rockets).
+## Service history
+### World War II service
+At the outbreak of World War II, Dione was assigned to the U.S. East Coast for convoy escort and anti-submarine patrols as part of the Eastern Sea Frontier. On 17 March 1942, while patrolling off Cape Hatteras, the cutter rescued 20 survivors from the torpedoed U.S. tanker Acme and 35 survivors from the Greek freighter Kassandra Louloudi, both sunk by German submarine U-124. Later that month, on 22 March, Dione also recovered crewmen from the tanker Naeco after U-124 sank it off the North Carolina coast. During this period, Dione engaged enemy U-boats on multiple occasions. For example, in March 1942 her crew detected U-332 and carried out a depth-charge attack on the contact; the U-boat managed to escape unharmed[1]. These early-war actions were part of the Coast Guard’s contribution to the Battle of the Atlantic, rescuing torpedoed mariners and attempting to deter U-boat attacks along American shores.
+USCGC Dione (right) escorting the surrendered German submarine U-1228 (foreground) to Portsmouth, New Hampshire, on 17 May 1945. In 1944–45, Dione and other cutters of her class received upgraded weapons and sensor systems (such as additional 3″/50 guns, 20 mm Oerlikon guns, Mousetrap anti-submarine rockets, as well as radar and sonar) to improve their anti-submarine capabilities. In May 1945, as the European war ended, Dione was selected to join the U.S. Navy’s special “Surrender Group” in the First Naval District. This group – which included Dione and two of her sister cutters (Nemesis and Argo) alongside U.S. Navy patrol craft – was tasked with securing and escorting incoming German U-boats that were surrendering to Allied forces. Dione helped process the surrender of at least five U-boats, including U-234, U-805, U-873, U-1228, and U-858, which arrived under escort at Portsmouth, New Hampshire in May 1945. The surrender of U-1228 on 17 May 1945, escorted by Dione, was captured in official photographs. After Germany’s capitulation, Dione remained on duty briefly to assist with demobilization tasks before returning to full Coast Guard control in 1946.
+### Postwar service and fate
+After World War II, Dione resumed peacetime Coast Guard operations. She returned to the traditional role of a cutter, conducting search and rescue missions, law enforcement, and maritime safety patrols along the U.S. coastline. By the early 1950s, Dione was one of the few 165-foot cutters still in active service, as many of her sisters had been decommissioned or transferred overseas[2]. In her final years, Dione was stationed in the Gulf of Mexico – home-ported at Freeport, Texas – where she performed search-and-rescue and maritime law enforcement patrols in that region.
+Dione was decommissioned in late 1963 after nearly three decades of service. The cutter officially went out of commission on 8 December 1963 at the age of 30. The following year, in February 1964, the vessel was sold into civilian hands. Dione was converted for use as a commercial supply ship after leaving Coast Guard service[3]. In subsequent years she operated under different ownership; at one point the ship was reportedly renamed Al Rashid during her civilian career[3]. The former cutter was documented in service under that name as late as the early 1990s, though her exact ultimate fate is unclear. By the end of the 20th century, Dione (WPC-107) had been retired from the seas, closing the history of a cutter that had served through peace, war, and peace again.
+## References
+https://uboat.net/allies/warships/ship/11106.html
+https://www.ibiblio.org/hyperwar/USN/ships/WPC/WPC-107_Dione
+https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html
+https://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1942.html
+https://ericwiberg.com/2014/01/all-143-u-boat-patrols-off-bermuda-1942-1944
+https://commons.wikimedia.org/wiki/File:German_submarine_U-1228_surrenders_at_Portsmouth_NH_in_May_1945.jpg
+https://laststandonzombieisland.com/tag/165-foot-cutter/
+https://photos.usni.org/content/443325jpg
+https://navalmarinearchive.com/sbh/shipyards/large/manitowoc.html
+
+[1] All 143 U-Boat Patrols off Bermuda 1942-1944 - Eric Wiberg
+https://ericwiberg.com/2014/01/all-143-u-boat-patrols-off-bermuda-1942-1944
+[2] 165 foot cutter | laststandonzombieisland
+https://laststandonzombieisland.com/tag/165-foot-cutter/
+[3] Manitowoc Shipbuilding
+https://navalmarinearchive.com/sbh/shipyards/large/manitowoc.html

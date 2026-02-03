@@ -1,0 +1,42 @@
+# Colten Ellis
+Colten Ellis (born October 5, 2000) is a Canadian professional ice hockey goaltender for the Buffalo Sabres of the National Hockey League (NHL)[1][2]. The St. Louis Blues selected him in the third round, 93rd overall, of the 2019 NHL Entry Draft[3]. Ellis played major junior hockey in the Quebec Major Junior Hockey League (QMJHL), where he set league goaltending records and won the 2020–21 Jacques-Plante Memorial Trophy as the QMJHL goaltender with the best goals-against average (GAA)[4]. He made his NHL debut with Buffalo in 2025, earning a win in his first game[2].
+## Early life and junior career
+Ellis was born in River Denys, Nova Scotia, and grew up playing minor hockey in Cape Breton[1]. As a 16-year-old, he led the Cape Breton West Islanders to the 2017 Telus Cup, capturing Canada’s national major midget championship in Prince George, British Columbia[5]. He was drafted by the Cape Breton Screaming Eagles in the QMJHL, but his rights were quickly traded to the Rimouski Océanic, where he began his junior career in 2017–18[5]. In his first QMJHL season, Ellis was named to the league’s All-Rookie Team and received the Raymond Lagacé Trophy as the QMJHL’s Defensive Rookie of the Year[6]. He also represented Canada at the 2018 IIHF World U18 Championships in Russia[7].
+Ellis played three seasons with Rimouski from 2017 to 2020, compiling a 78–30–4 regular-season record with a 2.41 GAA and .909 save percentage in that span[8]. In June 2020, Rimouski traded Ellis to the Charlottetown Islanders, and he spent the 2020–21 season as an overage goaltender with Charlottetown. That year, Ellis delivered a record-breaking performance: he posted a 23–1–0 record and a league-record 1.78 GAA, the lowest single-season GAA in QMJHL history[4]. He also recorded 7 shutouts, bringing his career total to 17 and setting a new QMJHL record for most career shutouts by a goaltender[4]. Ellis finished the season with a .926 save percentage and was named to the QMJHL First All-Star Team. For his achievements, he earned the Jacques-Plante Memorial Trophy as the goaltender with the best GAA in 2020–21[4]. By the end of his junior career, Ellis had established himself as one of the top goaltenders in the QMJHL, with multiple all-star honors and league records to his name.
+## Professional career
+St. Louis Blues organization: After his standout junior tenure, Ellis was signed by the St. Louis Blues to a three-year entry-level contract in March 2021[3]. He turned professional in the 2021–22 season and was assigned to the Blues’ minor league system. Ellis spent the majority of his first three pro seasons in the ECHL, playing for the Worcester Railers (the Islanders’ ECHL affiliate at the time), as well as the Tulsa Oilers and Orlando Solar Bears on assignment[9][10]. In 82 career ECHL games from 2021 through 2024, he compiled a 39–27–12 record with two shutouts, along with a 3.11 goals-against average and a .904 save percentage[11]. Ellis also saw time in the American Hockey League (AHL) with the Springfield Thunderbirds, the Blues’ AHL affiliate. Over parts of three seasons in Springfield, he appeared in 64 AHL games and posted a 30–26–5 record, 3 shutouts, a 2.82 GAA, and a .919 save percentage[12]. After the 2023–24 season, the Blues re-signed Ellis and he continued to develop in the AHL, notably registering a .924 save percentage in limited action during 2023–24[13].
+By 2025, Ellis was vying for an NHL opportunity in the Blues organization. In October 2025, just prior to the 2025–26 NHL season, St. Louis placed Ellis on waivers with the intent of assigning him to the minors. The Buffalo Sabres, in need of goaltending depth, claimed Ellis off waivers on October 6, 2025[14]. At the time of the waiver claim, Ellis had not yet played an NHL game, making him a 25-year-old rookie joining Buffalo’s roster[14].
+Buffalo Sabres: After joining the Sabres, Ellis soon made his NHL debut. On October 22, 2025, he started in goal for Buffalo against the Detroit Red Wings. In his debut, Ellis stopped 27 shots and earned the win as the Sabres defeated Detroit 4–2[15]. His performance included several key saves (stopping two breakaway attempts) and helped snap the Red Wings’ five-game winning streak[2]. Ellis became only the eighth Nova Scotia–born goaltender to play in the NHL, and notably the ninth goaltender in Sabres franchise history to win his debut game[16]. Following his strong debut, Ellis remained with the Sabres and began receiving additional starts during the 2025–26 season. As a first-year NHL player, he recorded four wins in his first seven appearances with Buffalo (posting a 4–3–0 record through those games) by December 2025[17].
+## International play
+Ellis has represented Canada in international competition. As a junior, he was a member of Canada’s squad at the 2018 IIHF U18 World Championship in Russia[7]. Later in his career, while playing professionally, Ellis was selected to Team Canada’s roster for the 2024 Spengler Cup, an invitational tournament in Switzerland[18]. His selection to the Spengler Cup team came after a strong start to the 2024–25 AHL season and marked his second time representing Canada at an international event[19].
+## Career statistics
+Regular season and playoffs: (As of the end of the 2024–25 season) - QMJHL: 154 regular-season games, 100 wins, 31 losses, 4 ties/OTL; 2.30 career GAA, .913 SV%. 27 playoff games. - ECHL: 82 regular-season games, 39–27–12 record, 3.11 GAA, .904 SV%, 2 shutouts[11]. - AHL: 64 regular-season games, 30–26–5 record, 2.82 GAA, .919 SV%, 3 shutouts[12]. - NHL: 7 regular-season games, 4–3–0 record, 3.40 GAA, .892 SV%, 0 shutouts (through Dec. 2025)[17].
+Ellis is still in the early stages of his NHL career, and these statistics will evolve as he continues to play. (Note: All stats are accurate as of December 2025.)
+## References
+HockeyDB – Colten Ellis profile and statistics (birth date and draft position) – hockeydb.com[20]
+Bill Dunphy, “Colten Ellis is an Islander again – in Charlottetown.” The Inverness Oran, July 2020. (Early career, Telus Cup, QMJHL rookie awards)[5]
+Charlottetown Islanders News – “Colten Ellis wins the 2020-21 Jacques-Plante Trophy”. June 4, 2021. (QMJHL records and award, NHL draft and contract signing)[4][3]
+ECHL News – “Ellis makes NHL debut”. October 22, 2025. (Ellis’s ECHL and AHL career statistics up to NHL debut)[11]
+ECHL News – “Ellis makes NHL debut”. October 22, 2025. (Ellis’s AHL statistics and draft info)[12]
+Bill Hoppe, “Sabres claim rookie goalie Colten Ellis off waivers from Blues, finalize roster.” Buffalo Hockey Beat, Oct. 7, 2025. (Waiver claim by Buffalo)[14]
+Associated Press (via CBS Sports), “Colten Ellis stops 27 shots in NHL debut as Sabres beat Red Wings 4-2.” Oct. 22, 2025. (NHL debut game details)[15]
+HockeyDB – Colten Ellis NHL stats 2025–26. (First NHL games record)[17]
+
+[1] [17] [20] Colten Ellis Hockey Stats and Profile at hockeydb.com
+https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197251
+[2] [15] [16] Colten Ellis stops 27 shots in NHL debut as Sabres beat Red Wings 4-2 - CBS Sports
+https://www.cbssports.com/nhl/news/colten-ellis-stops-27-shots-in-nhl-debut-as-sabres-beat-red-wings-4-2/
+[3] [4] Colten Ellis wins the 2020-21 Jacques-Plante Trophy - Charlottetown Islanders
+https://chl.ca/lhjmq-islanders/colten-ellis-wins-the-2020-21-jacques-plante-trophy/
+[5] [6] [7] [8] Colten Ellis is an Islander again – in Charlottetown - The Inverness Oran
+https://www.invernessoran.ca/sports/1579-colten-ellis-is-an-islander-again
+[9] [11] [12] Official Site of The ECHL | Ellis makes NHL debut
+https://echl.com/news/2025/10/ellis-makes-nhl-debut
+[10] Worcester Railers | FORMER RAILER COLTEN ELLIS MAKES NHL DEBUT
+https://railershc.com/news/2025/10/former-railer-colten-ellis-makes-nhl-debut
+[13] Ellis signs one-year contract extension | St. Louis Blues
+https://www.nhl.com/blues/news/ellis-signs-one-year-contract-extension
+[14] Sabres claim rookie goalie Colten Ellis off waivers from Blues, finalize roster - Buffalo Hockey Beat
+https://www.buffalohockeybeat.com/sabres-claim-rookie-goalie-colten-ellis-off-waivers-from-blues-finalize-roster/
+[18] [19] Ellis named to Team Canada for 2024 Spengler Cup | St. Louis Blues
+https://www.nhl.com/blues/news/colten-ellis-named-to-team-canada-for-2024-spengler-cup

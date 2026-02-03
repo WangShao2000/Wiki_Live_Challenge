@@ -1,0 +1,940 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "19189002": {
+        "pageid": 19189002,
+        "ns": 0,
+        "title": "2010_NFC_Championship_Game",
+        "extract": "# 2010 NFC Championship Game\n\n## Overview\n\nThe 2010 NFC Championship Game, held on January 23, 2011, marked a significant moment in National Football League history. Taking place at Soldier Field in Chicago, Illinois, this matchup featured the Green Bay Packers and the Chicago Bears—two teams with the oldest rivalry in the NFL. The game's outcome determined the National Football Conference champion and the team to advance to Super Bowl XLV. Distinguished by its historical context, competitive tension, and physical intensity, the contest is remembered not only for the action on the field but also for controversies surrounding player injuries and their aftermath. The Packers defeated the Bears by a score of 21–14, securing their place in Super Bowl XLV, which they went on to win.\n\n## Background and Significance\n\n### Teams and Season Context\n\n- **Green Bay Packers**: Coached by Mike McCarthy, the Packers entered the playoffs as the No. 6 seed, having won their two prior playoff games on the road. Led by quarterback Aaron Rodgers, the team was known for its dynamic passing attack and formidable defense.\n- **Chicago Bears**: Led by head coach Lovie Smith, the Bears earned the No. 2 seed in the NFC. Relying on a resilient defense and versatile running game, Chicago played at home after defeating the Seattle Seahawks in the divisional round.\n- Both teams split regular-season meetings, each winning at home. Their contest in the championship game was the first-ever playoff meeting between the franchises in the NFC title game, highlighting the depth and drama of their rivalry.\n\n### Historical Rivalry\n\nThe Packers-Bears rivalry dates back to 1921, making them two of the NFL's original teams. Their frequent matchups have been known for their intensity and highly physical play, setting the stage for national attention toward the 2010 NFC Championship Game.\n\n## Game Summary\n\n### First Half\n\n- **First Quarter**: The Packers struck first with a 1-yard touchdown run by James Starks, capping an efficient drive led by Aaron Rodgers. Jennings featured as a primary target in the passing game.\n- **Second Quarter**: Rodgers scored on a 1-yard run, establishing a 14-0 lead for Green Bay. Chicago’s offense struggled, hindered by effective coverage from the Packers’ defense. Late in the half, Bears quarterback Jay Cutler sustained a knee injury that would affect his play for the rest of the game.\n\n### Second Half\n\n- **Chicago’s Quarterback Changes**: Jay Cutler did not return after halftime, replaced first by Todd Collins and later by Caleb Hanie, the team’s third-string quarterback. The Bears offense, led by Hanie, began to show more resilience.\n- **Critical Defensive Play**: In the fourth quarter, defensive tackle B.J. Raji intercepted Hanie and returned the ball 18 yards for a touchdown—the only defensive touchdown of the game—representing a decisive momentum shift.\n- **Bear’s Attempted Comeback**: Hanie led a rally, passing for a touchdown to close the score to 21-14. On their final possession, the Bears moved into scoring range, but an interception by rookie cornerback Sam Shields ended the comeback attempt.\n\n## Key Players and Statistics\n\n- **Green Bay Packers**\n - Aaron Rodgers: 17 completions on 30 attempts for 244 passing yards, 0 touchdowns, 2 interceptions.\n - James Starks: 22 carries, 74 rushing yards, 1 touchdown.\n - Greg Jennings: 8 receptions, 130 receiving yards.\n - B.J. Raji: 1 interception return for touchdown.\n - Sam Shields: 2 interceptions, including the game-clincher.\n \n- **Chicago Bears**\n - Jay Cutler: 6 completions on 14 attempts for 80 passing yards, 1 interception.\n - Caleb Hanie: 13 completions on 20 attempts for 153 passing yards, 1 touchdown, 2 interceptions.\n - Matt Forte: 17 carries, 70 rushing yards.\n - Earl Bennett: 6 receptions, 85 receiving yards.\n - Julius Peppers, Brian Urlacher: Key contributors on defense.\n\n- **Team Statistics**\n - Packers: 356 total yards, 21 first downs.\n - Bears: 338 total yards, 18 first downs.\n\n## Controversies and Media Reaction\n\n### Jay Cutler Injury Debate\n\nJay Cutler’s withdrawal from the game due to a left knee sprain became a major point of contention following the Bears’ defeat. Cutler, who attempted to play in the second half but was ultimately sidelined by medical staff and team coaches, faced widespread criticism from former players, media commentators, and fans for his lack of visible distress and toughness. Notable NFL personalities such as Maurice Jones-Drew and Deion Sanders questioned the decision on social media platforms.\n\nAfter the game, Bears management, head coach Lovie Smith, and the medical staff publicly defended their decision, clarifying that Cutler’s injury was significant enough to prevent safe participation. The NFL Players Association and several current and former quarterbacks voiced support for Cutler, emphasizing the role of medical judgment over external perceptions.\n\nMedia coverage, particularly from ESPN and Sports Illustrated, highlighted not only the speed and extent of criticism but also the lack of medical knowledge among critics and fans, ultimately framing the controversy as a flashpoint for discussion on injury transparency and player treatment in the NFL.\n\n## Aftermath and Legacy\n\n### Packers’ Super Bowl Victory\n\nBy winning the NFC Championship, the Green Bay Packers advanced to Super Bowl XLV, where they defeated the Pittsburgh Steelers to claim their 13th NFL championship. The playoff run solidified the reputations of key players such as Aaron Rodgers and Clay Matthews, and contributed to Mike McCarthy’s legacy as head coach.\n\n### Impact on the Bears\n\nThe Bears’ quarterback situation became the subject of ongoing scrutiny, both for the handling of Jay Cutler’s injury and the team’s lack of depth at the position. The team did not reach another NFC Championship in subsequent years, and the episode is occasionally cited in discussions on quarterback durability and media scrutiny.\n\n### Cultural and Historical Significance\n\nThe 2010 NFC Championship Game is remembered as one of the most intense, physical contests in recent NFL history, both for the stakes and for renewing focus on the historic rivalry between Green Bay and Chicago. The controversy surrounding Cutler’s injury sparked broader debates about expectations of athletes, medical decisions, and the role of social media in shaping public opinion. The physical defensive play and dramatic finish remain notable in league history.",
+        "citation_urls": {
+          "1": "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+          "2": "https://www.espn.com/nfl/recap/_/gameId/310123003",
+          "3": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury",
+          "4": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+        },
+        "statements": [
+          {
+            "fact": "The 2010 NFC Championship Game was held on January 23, 2011.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The 2010 NFC Championship Game marked a significant moment in National Football League history.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The 2010 NFC Championship Game took place at Soldier Field in Chicago, Illinois.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The 2010 NFC Championship Game featured the Green Bay Packers and the Chicago Bears.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Green Bay Packers and the Chicago Bears are two teams with the oldest rivalry in the NFL.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The outcome of the 2010 NFC Championship Game determined the National Football Conference champion.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The outcome of the 2010 NFC Championship Game determined the team to advance to Super Bowl XLV.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The 2010 NFC Championship Game is remembered for its historical context, competitive tension, and physical intensity.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The 2010 NFC Championship Game is remembered for controversies surrounding player injuries and their aftermath.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Packers defeated the Bears by a score of 21–14.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Packers secured their place in Super Bowl XLV.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Packers went on to win Super Bowl XLV.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Green Bay Packers were coached by Mike McCarthy.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Packers entered the playoffs as the No. 6 seed.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Packers won their two prior playoff games on the road.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Packers were led by quarterback Aaron Rodgers.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Packers team was known for its dynamic passing attack and formidable defense.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Chicago Bears were led by head coach Lovie Smith.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Bears earned the No. 2 seed in the NFC.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Bears relied on a resilient defense and versatile running game.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "Chicago played at home after defeating the Seattle Seahawks in the divisional round.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "Both the Packers and Bears split regular-season meetings, with each team winning at home.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The contest in the championship game was the first-ever playoff meeting between the Packers and Bears franchises in the NFC title game.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The contest highlighted the depth and drama of the Packers-Bears rivalry.",
+            "ref_idx": [
+              "1",
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "The Packers-Bears rivalry dates back to 1921.",
+            "ref_idx": "3",
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+          },
+          {
+            "fact": "The Packers and Bears are two of the NFL’s original teams.",
+            "ref_idx": "3",
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+          },
+          {
+            "fact": "The frequent matchups between the Packers and Bears have been known for their intensity and highly physical play.",
+            "ref_idx": "3",
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+          },
+          {
+            "fact": "The frequent matchups between the Packers and Bears set the stage for national attention toward the 2010 NFC Championship Game.",
+            "ref_idx": "3",
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+          },
+          {
+            "fact": "The Packers struck first with a 1-yard touchdown run by James Starks.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "James Starks' touchdown run capped an efficient drive led by Aaron Rodgers.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Jennings featured as a primary target in the passing game for the Packers.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Rodgers scored on a 1-yard run, establishing a 14-0 lead for Green Bay.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Chicago’s offense struggled, hindered by effective coverage from the Packers’ defense.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Late in the half, Bears quarterback Jay Cutler sustained a knee injury.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Jay Cutler's knee injury would affect his play for the rest of the game.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Jay Cutler did not return after halftime.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "Jay Cutler was replaced first by Todd Collins.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "Jay Cutler was later replaced by Caleb Hanie, the team’s third-string quarterback.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "The Bears offense, led by Caleb Hanie, began to show more resilience.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "In the fourth quarter, defensive tackle B.J. Raji intercepted Hanie.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "B.J. Raji returned the ball 18 yards for a touchdown.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "B.J. Raji's interception return for a touchdown was the only defensive touchdown of the game.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "B.J. Raji's interception return for a touchdown represented a decisive momentum shift.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "Caleb Hanie led a rally, passing for a touchdown to close the score to 21-14.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "On their final possession, the Bears moved into scoring range.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "An interception by rookie cornerback Sam Shields ended the Bears' comeback attempt.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Aaron Rodgers had 17 completions on 30 attempts for 244 passing yards, 0 touchdowns, and 2 interceptions.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "James Starks had 22 carries, 74 rushing yards, and 1 touchdown.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Greg Jennings had 8 receptions and 130 receiving yards.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "B.J. Raji had 1 interception return for a touchdown.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Sam Shields had 2 interceptions, including the game-clincher.",
+            "ref_idx": [
+              "1",
+              "2",
+              "4"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Jay Cutler had 6 completions on 14 attempts for 80 passing yards and 1 interception.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "Caleb Hanie had 13 completions on 20 attempts for 153 passing yards, 1 touchdown, and 2 interceptions.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "Matt Forte had 17 carries and 70 rushing yards.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "Earl Bennett had 6 receptions and 85 receiving yards.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "Julius Peppers and Brian Urlacher were key contributors on defense for the Chicago Bears.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "The Packers had 356 total yards and 21 first downs.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "The Bears had 338 total yards and 18 first downs.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "Jay Cutler’s withdrawal from the game due to a left knee sprain became a major point of contention following the Bears’ defeat.",
+            "ref_idx": [
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "Cutler attempted to play in the second half but was ultimately sidelined by medical staff and team coaches.",
+            "ref_idx": [
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "Cutler faced widespread criticism from former players, media commentators, and fans for his lack of visible distress and toughness.",
+            "ref_idx": [
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "Notable NFL personalities such as Maurice Jones-Drew and Deion Sanders questioned the decision regarding Jay Cutler on social media platforms.",
+            "ref_idx": [
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "After the game, Bears management, head coach Lovie Smith, and the medical staff publicly defended their decision regarding Jay Cutler.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Bears management, head coach Lovie Smith, and the medical staff clarified that Cutler’s injury was significant enough to prevent safe participation.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "The NFL Players Association and several current and former quarterbacks voiced support for Cutler.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "The NFL Players Association and several current and former quarterbacks emphasized the role of medical judgment over external perceptions regarding Cutler's injury.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury",
+              "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+            ]
+          },
+          {
+            "fact": "Media coverage, particularly from ESPN and Sports Illustrated, highlighted the speed and extent of criticism regarding Jay Cutler's injury.",
+            "ref_idx": [
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "Media coverage, particularly from ESPN and Sports Illustrated, highlighted the lack of medical knowledge among critics and fans regarding Jay Cutler's injury.",
+            "ref_idx": [
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "Media coverage ultimately framed the controversy as a flashpoint for discussion on injury transparency and player treatment in the NFL.",
+            "ref_idx": [
+              "2",
+              "3"
+            ],
+            "url": [
+              "https://www.espn.com/nfl/recap/_/gameId/310123003",
+              "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+            ]
+          },
+          {
+            "fact": "By winning the NFC Championship, the Green Bay Packers advanced to Super Bowl XLV.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "The Green Bay Packers defeated the Pittsburgh Steelers in Super Bowl XLV.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "The Green Bay Packers claimed their 13th NFL championship in Super Bowl XLV.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "The playoff run solidified the reputations of key players such as Aaron Rodgers and Clay Matthews.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "The playoff run contributed to Mike McCarthy’s legacy as head coach.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+              "https://www.espn.com/nfl/recap/_/gameId/310123003"
+            ]
+          },
+          {
+            "fact": "The Bears’ quarterback situation became the subject of ongoing scrutiny.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "The scrutiny of the Bears' quarterback situation was due to the handling of Jay Cutler’s injury.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "The scrutiny of the Bears' quarterback situation was also due to the team’s lack of depth at the position.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "The Bears did not reach another NFC Championship in subsequent years.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "The episode of Jay Cutler's injury is occasionally cited in discussions on quarterback durability and media scrutiny.",
+            "ref_idx": "4",
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm"
+          },
+          {
+            "fact": "The 2010 NFC Championship Game is remembered as one of the most intense, physical contests in recent NFL history.",
+            "ref_idx": "3",
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+          },
+          {
+            "fact": "The 2010 NFC Championship Game is remembered for its stakes.",
+            "ref_idx": "3",
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+          },
+          {
+            "fact": "The 2010 NFC Championship Game is remembered for renewing focus on the historic rivalry between Green Bay and Chicago.",
+            "ref_idx": "3",
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+          },
+          {
+            "fact": "The controversy surrounding Cutler’s injury sparked broader debates about expectations of athletes.",
+            "ref_idx": "3",
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+          },
+          {
+            "fact": "The controversy surrounding Cutler’s injury sparked broader debates about medical decisions.",
+            "ref_idx": "3",
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+          },
+          {
+            "fact": "The controversy surrounding Cutler’s injury sparked broader debates about the role of social media in shaping public opinion.",
+            "ref_idx": "3",
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+          },
+          {
+            "fact": "The physical defensive play and dramatic finish of the 2010 NFC Championship Game remain notable in league history.",
+            "ref_idx": "3",
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury"
+          }
+        ],
+        "citation_contents": {
+          "4": {
+            "url": "https://www.pro-football-reference.com/boxscores/201101230chi.htm",
+            "title": "TkZDIENoYW1waW9uc2hpcCAtIEdyZWVuIEJheSBQYWNrZXJzIGF0IENoaWNhZ28gQmVhcnMgLSBKYW51YXJ5IDIzcmQsIDIwMTEgfCBQcm8tRm9vdGJhbGwtUmVmZXJlbmNlLmNvbQ==",
+            "description": "",
+            "content": "1st Quarter Bears won the coin toss and deferred, Packers to receive the opening kickoff. 1[15:00](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_1.000)CHI 3000[Robbie Gould](https://www.pro-football-reference.com/players/G/gouldrob01.htm) kicks off 66 yards, returned by [James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) for 12 yards (tackle by [Brian Iwuh](https://www.pro-football-reference.com/players/I/IwuhBr20.htm))0.000-0.140 1[14:56](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_2.000)110GNB 1600[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete deep right to [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm) for 22 yards (tackle by [Chris Harris](https://www.pro-football-reference.com/players/H/HarrCh20.htm))-0.1401.470 1[14:20](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_3.000)110GNB 3800[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete deep middle to [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm) for 26 yards (tackle by [Brian Urlacher](https://www.pro-football-reference.com/players/U/UrlaBr00.htm))1.4703.180 1[13:32](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_4.000)110CHI 3600[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right end for 6 yards (tackle by [Pisa Tinoisamoa](https://www.pro-football-reference.com/players/T/TinoPi20.htm) and [Danieal Manning](https://www.pro-football-reference.com/players/M/MannDa21.htm))3.1803.450 1[12:48](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_5.000)24CHI 3000[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete short right to [James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) for 6 yards (tackle by [D.J. Moore](https://www.pro-football-reference.com/players/M/MoorDJ99.htm))3.4503.970 1[12:19](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_6.000)110CHI 2400[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete deep right to [Jordy Nelson](https://www.pro-football-reference.com/players/N/NelsJo00.htm) for 22 yards (tackle by [Tim Jennings](https://www.pro-football-reference.com/players/J/JennTi20.htm))3.9706.740 1[11:34](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_7.000)12CHI 200[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) left tackle for 1 yard (tackle by [Lance Briggs](https://www.pro-football-reference.com/players/B/BrigLa99.htm))6.7405.910 1[10:56](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_8.000)21CHI 160[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) left end for 1 yard, touchdown5.9107.000 1[](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_9.000)CHI 270[Mason Crosby](https://www.pro-football-reference.com/players/C/CrosMa20.htm) kicks extra point good0.0000.000 1[](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_10.000)GNB 3070[Mason Crosby](https://www.pro-football-reference.com/players/C/CrosMa20.htm) kicks off 41 yards, returned by [Kellen Davis](https://www.pro-football-reference.com/players/D/DaviKe01.htm) for 8 yards (tackle by [Brett Swain](https://www.pro-football-reference.com/players/S/SwaiBr00.htm))0.0001.400 1[10:45](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_11.000)110CHI 3770[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) right tackle for 2 yards (tackle by [Desmond Bishop](https://www.pro-football-reference.com/players/B/BishDe99.htm))1.4001.130 1[10:13](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_12.000)28CHI 3970[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass complete short middle to [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) for 24 yards (tackle by [Nick Collins](https://www.pro-football-reference.com/players/C/CollNi20.htm))1.1303.120 1[9:30](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_13.000)110GNB 3770[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) right end for 2 yards (tackle by [Ryan Pickett](https://www.pro-football-reference.com/players/P/PickRy20.htm) and [Charlie Peprah](https://www.pro-football-reference.com/players/P/PeprCh20.htm))3.1202.840 1[8:51](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_14.000)28GNB 3570[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass complete short middle to [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) for 1 yard (tackle by [Desmond Bishop](https://www.pro-football-reference.com/players/B/BishDe99.htm))2.8402.280 1[8:06](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_15.000)37GNB 3470[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass incomplete deep left intended for [Devin Hester](https://www.pro-football-reference.com/players/H/HestDe99.htm)2.2801.060 1[8:00](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_16.000)47GNB 3470[Brad Maynard](https://www.pro-football-reference.com/players/M/MaynBr20.htm) punts 24 yards1.0600.380 1[7:53](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_17.000)110GNB 1070[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) left end for 16 yards (tackle by [Charles Tillman](https://www.pro-football-reference.com/players/T/TillCh20.htm))-0.3800.670 1[7:13](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_18.000)110GNB 2670[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete short right to [James Jones](https://www.pro-football-reference.com/players/J/JoneJa04.htm) for 10 yards (tackle by [Tim Jennings](https://www.pro-football-reference.com/players/J/JennTi20.htm))0.6701.330 1[6:33](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_19.000)110GNB 3670[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) left guard for 1 yard (tackle by [Julius Peppers](https://www.pro-football-reference.com/players/P/PeppJu99.htm))1.3300.930 1[5:54](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_20.000)29GNB 3770[Brandon Jackson](https://www.pro-football-reference.com/players/J/JackBr00.htm) left guard for 10 yards (tackle by [Danieal Manning](https://www.pro-football-reference.com/players/M/MannDa21.htm))0.9302.060 1[5:17](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_21.000)110GNB 4770[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete deep left intended for [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm)2.0601.520 1[5:10](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_22.000)210GNB 4770[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete deep right intended for [Jordy Nelson](https://www.pro-football-reference.com/players/N/NelsJo00.htm)1.5200.830 1[5:04](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_23.000)310GNB 4770[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete short right intended for [John Kuhn](https://www.pro-football-reference.com/players/K/KuhnJo00.htm)0.830-0.260 1[5:00](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_24.000)410GNB 4770[Tim Masthay](https://www.pro-football-reference.com/players/M/MastTi99.htm) punts 40 yards, returned by [Devin Hester](https://www.pro-football-reference.com/players/H/HestDe99.htm) for 3 yards (tackle by [Matt Wilhelm](https://www.pro-football-reference.com/players/W/WilhMa20.htm))-0.2600.140 1[4:49](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_25.000)110CHI 1670Penalty on [Chris Williams](https://www.pro-football-reference.com/players/W/WillCh25.htm): False Start, 5 yards (no play)-0.140-0.540 1[4:49](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_26.000)115CHI 1170[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) left tackle for 3 yards (tackle by [Charles Woodson](https://www.pro-football-reference.com/players/W/WoodCh00.htm))-0.540-0.890 1[4:12](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_27.000)212CHI 1470[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) left end for 6 yards (tackle by [A.J. Hawk](https://www.pro-football-reference.com/players/H/HawkA.20.htm))-0.890-0.820 1[3:29](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_28.000)36CHI 2070[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) sacked by [Cullen Jenkins](https://www.pro-football-reference.com/players/J/JenkCu20.htm) and [Clay Matthews](https://www.pro-football-reference.com/players/M/MattCl99.htm) for -5 yards-0.820-2.440 1[3:00](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_29.000)411CHI 1570[Brad Maynard](https://www.pro-football-reference.com/players/M/MaynBr20.htm) punts 47 yards, returned by [Tramon Williams](https://www.pro-football-reference.com/players/W/WillTr99.htm) for 11 yards (tackle by [Patrick Mannelly](https://www.pro-football-reference.com/players/M/MannPa20.htm))-2.440-2.190 1[2:48](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_30.000)110GNB 4970[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete deep left to [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm) for 21 yards (tackle by [Major Wright](https://www.pro-football-reference.com/players/W/WrigMa99.htm) and [Charles Tillman](https://www.pro-football-reference.com/players/T/TillCh20.htm))2.1903.580 1[2:10](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_31.000)110CHI 3070[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) for 2 yards (tackle by [Brian Urlacher](https://www.pro-football-reference.com/players/U/UrlaBr00.htm))3.5803.300 1[1:40](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_32.000)28CHI 2870[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right end for 1 yard (tackle by [Chris Harris](https://www.pro-football-reference.com/players/H/HarrCh20.htm) and [Tim Jennings](https://www.pro-football-reference.com/players/J/JennTi20.htm))3.3002.740 1[0:58](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_33.000)37CHI 2770[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) sacked by [Brian Urlacher](https://www.pro-football-reference.com/players/U/UrlaBr00.htm) for -8 yards2.7400.970 1[0:32](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_34.000)415CHI 3570[Tim Masthay](https://www.pro-football-reference.com/players/M/MastTi99.htm) punts 32 yards. Penalty on [Rod Wilson](https://www.pro-football-reference.com/players/W/WilsRo20.htm): Offensive Holding, 1 yards0.9700.380 1[0:22](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_35.000)110CHI 270[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) left tackle for 2 yards (tackle by [A.J. Hawk](https://www.pro-football-reference.com/players/H/HawkA.20.htm))-0.380-0.630 Quarter Time Down ToGo Location GNB CHI Detail EPB EPA 2nd Quarter 2[15:00](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_36.000)28CHI 470[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass incomplete short middle intended for [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm)\\-0.630-1.190 2[14:55](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_37.000)38CHI 470[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) left end for -2 yards (tackle by [Cullen Jenkins](https://www.pro-football-reference.com/players/J/JenkCu20.htm))-1.190-2.490 2[14:19](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_38.000)410CHI 270[Brad Maynard](https://www.pro-football-reference.com/players/M/MaynBr20.htm) punts 37 yards, muffed catch by [Tramon Williams](https://www.pro-football-reference.com/players/W/WillTr99.htm), recovered by [Tramon Williams](https://www.pro-football-reference.com/players/W/WillTr99.htm) and returned for 6 yards (tackle by [Corey Graham](https://www.pro-football-reference.com/players/G/GrahCo99.htm))-2.490-2.650 2[14:06](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_39.000)110CHI 4470Penalty on [Quinn Johnson](https://www.pro-football-reference.com/players/J/JohnQu00.htm): False Start, 5 yards (no play)2.6502.320 2[14:06](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_40.000)115CHI 4970[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right end for 2 yards (tackle by [Tim Jennings](https://www.pro-football-reference.com/players/J/JennTi20.htm))2.3201.710 2[13:25](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_41.000)213CHI 4770[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete short middle to [Brandon Jackson](https://www.pro-football-reference.com/players/J/JackBr00.htm) for 16 yards (tackle by [Major Wright](https://www.pro-football-reference.com/players/W/WrigMa99.htm))1.7103.510 2[12:45](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_42.000)110CHI 3170[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right guard for 12 yards (tackle by [Major Wright](https://www.pro-football-reference.com/players/W/WrigMa99.htm))3.5104.310 2[12:01](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_43.000)110CHI 1970[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete short left to [Jordy Nelson](https://www.pro-football-reference.com/players/N/NelsJo00.htm) for 15 yards (tackle by [D.J. Moore](https://www.pro-football-reference.com/players/M/MoorDJ99.htm) and [Charles Tillman](https://www.pro-football-reference.com/players/T/TillCh20.htm))4.3106.280 2[11:19](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_44.000)14CHI 4130[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right end for 4 yards, touchdown6.2807.000 2[](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_45.000)CHI 2140[Mason Crosby](https://www.pro-football-reference.com/players/C/CrosMa20.htm) kicks extra point good0.0000.000 2[](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_46.000)GNB 30140[Mason Crosby](https://www.pro-football-reference.com/players/C/CrosMa20.htm) kicks off 51 yards, returned by [Danieal Manning](https://www.pro-football-reference.com/players/M/MannDa21.htm) for 15 yards (tackle by [Jarrett Bush](https://www.pro-football-reference.com/players/B/BushJa20.htm))0.0001.200 2[11:08](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_47.000)110CHI 34140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass complete deep left to [Johnny Knox](https://www.pro-football-reference.com/players/K/KnoxJo00.htm) for 24 yards (tackle by [Nick Collins](https://www.pro-football-reference.com/players/C/CollNi20.htm))1.2002.790 2[10:38](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_48.000)110GNB 42140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass incomplete short right intended for [Devin Hester](https://www.pro-football-reference.com/players/H/HestDe99.htm)2.7902.240 2[10:33](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_49.000)210GNB 42140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass complete short right to [Chester Taylor](https://www.pro-football-reference.com/players/T/TaylCh01.htm) for 12 yards (tackle by [Charles Woodson](https://www.pro-football-reference.com/players/W/WoodCh00.htm))2.2403.580 2[9:50](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_50.000)110GNB 30140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass incomplete deep right intended for [Devin Hester](https://www.pro-football-reference.com/players/H/HestDe99.htm)3.5803.030 2[9:44](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_51.000)140Timeout #1 by Chicago Bears0.0003.030 2[9:44](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_52.000)210GNB 30140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass complete short middle to [Rashied Davis](https://www.pro-football-reference.com/players/D/DaviRa00.htm) for 13 yards (tackle by [Clay Matthews](https://www.pro-football-reference.com/players/M/MattCl99.htm)). Penalty on [Chester Taylor](https://www.pro-football-reference.com/players/T/TaylCh01.htm): Offensive Holding, 11 yards (no play)3.0301.550 2[9:17](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_53.000)221GNB 41140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) left end for 9 yards (tackle by [Erik Walden](https://www.pro-football-reference.com/players/W/WaldEr99.htm))1.5502.080 2[8:31](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_54.000)312GNB 32140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) right end for 1 yard (tackle by [Erik Walden](https://www.pro-football-reference.com/players/W/WaldEr99.htm))2.0801.320 2[7:48](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_55.000)411GNB 31140[Brad Maynard](https://www.pro-football-reference.com/players/M/MaynBr20.htm) punts 31 yards, touchback1.320-0.280 2[7:40](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_56.000)110GNB 20140[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right tackle for 10 yards (tackle by [Major Wright](https://www.pro-football-reference.com/players/W/WrigMa99.htm))0.2800.940 2[7:00](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_57.000)110GNB 30140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) for 25 yards (tackle by [Lance Briggs](https://www.pro-football-reference.com/players/B/BrigLa99.htm))0.9402.590 2[6:29](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_58.000)110CHI 45140[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right end for no gain (tackle by [Pisa Tinoisamoa](https://www.pro-football-reference.com/players/T/TinoPi20.htm))2.5902.040 2[5:47](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_59.000)210CHI 45140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete short right to [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm) for 9 yards (tackle by [Brian Urlacher](https://www.pro-football-reference.com/players/U/UrlaBr00.htm))2.0402.540 2[5:02](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_60.000)140Timeout #1 by Green Bay Packers0.0002.540 2[5:02](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_61.000)31CHI 36140[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right tackle for no gain (tackle by [Lance Briggs](https://www.pro-football-reference.com/players/B/BrigLa99.htm))2.5400.890 2[4:29](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_62.000)41CHI 36140[Tim Masthay](https://www.pro-football-reference.com/players/M/MastTi99.htm) punts 25 yards0.8900.370 2[4:17](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_63.000)110CHI 11140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass incomplete short right intended for [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm)\\-0.370-0.780 2[4:11](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_64.000)210CHI 11140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass incomplete short left intended for [Greg Olsen](https://www.pro-football-reference.com/players/O/OlseGr00.htm). Penalty on [Tramon Williams](https://www.pro-football-reference.com/players/W/WillTr99.htm): Defensive Holding, 5 yards (no play)-0.780-0.140 2[4:06](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_65.000)110CHI 16140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass incomplete deep right intended for [Greg Olsen](https://www.pro-football-reference.com/players/O/OlseGr00.htm)\\-0.140-0.660 2[3:59](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_66.000)210CHI 16140[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) left guard for 14 yards (tackle by [Nick Collins](https://www.pro-football-reference.com/players/C/CollNi20.htm))-0.6600.940 2[3:25](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_67.000)110CHI 30140[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) left end for 1 yard (tackle by [Desmond Bishop](https://www.pro-football-reference.com/players/B/BishDe99.htm))0.9400.530 2[2:46](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_68.000)29CHI 31140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass complete short middle to [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) for 2 yards (tackle by [Clay Matthews](https://www.pro-football-reference.com/players/M/MattCl99.htm))0.5300.100 2[2:00](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_69.000)37CHI 33140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) sacked by [Sam Shields](https://www.pro-football-reference.com/players/S/ShieSa00.htm) for -8 yards. [Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) fumbles (forced by [Sam Shields](https://www.pro-football-reference.com/players/S/ShieSa00.htm)), recovered by [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) at [CHI](https://www.pro-football-reference.com/teams/chi/2010.htm)\\-230.100-1.830 2[1:52](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_70.000)140Timeout #2 by Green Bay Packers0.000-1.830 2[1:52](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_71.000)417CHI 23140[Brad Maynard](https://www.pro-football-reference.com/players/M/MaynBr20.htm) punts 41 yards-1.830-1.330 2[1:44](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_72.000)110GNB 36140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) for 12 yards (tackle by [Brian Urlacher](https://www.pro-football-reference.com/players/U/UrlaBr00.htm))1.3302.130 2[1:38](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_73.000)110GNB 48140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete short right intended for [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm)2.1301.580 2[1:34](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_74.000)210GNB 48140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete short middle to [Donald Driver](https://www.pro-football-reference.com/players/D/DrivDo00.htm) for 9 yards (tackle by [D.J. Moore](https://www.pro-football-reference.com/players/M/MoorDJ99.htm))1.5802.080 2[1:14](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_75.000)31CHI 43140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) left guard for 2 yards (tackle by [Henry Melton](https://www.pro-football-reference.com/players/M/MeltHe99.htm))2.0802.850 2[0:53](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_76.000)110CHI 41140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete short left intended for [Donald Driver](https://www.pro-football-reference.com/players/D/DrivDo00.htm) is intercepted by [Lance Briggs](https://www.pro-football-reference.com/players/B/BrigLa99.htm) at [CHI](https://www.pro-football-reference.com/teams/chi/2010.htm)\\-38 and returned for 4 yards2.850-1.730 2[0:49](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_77.000)110CHI 42140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass complete short middle to [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) for 17 yards (tackle by [Sam Shields](https://www.pro-football-reference.com/players/S/ShieSa00.htm))1.7302.850 2[0:42](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_78.000)110GNB 41140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass incomplete deep left intended for [Johnny Knox](https://www.pro-football-reference.com/players/K/KnoxJo00.htm) is intercepted by [Sam Shields](https://www.pro-football-reference.com/players/S/ShieSa00.htm) at [GNB](https://www.pro-football-reference.com/teams/gnb/2010.htm)\\-3 and returned for 8 yards2.8500.370 _Replay Assistant challenged the ruling, and the play was upheld._ 2[0:32](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_79.000)110GNB 11140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) kneels for -1 yards-0.370-0.850 Quarter Time Down ToGo Location GNB CHI Detail EPB EPA 3rd Quarter 3[15:00](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_80.000)GNB 30140[Mason Crosby](https://www.pro-football-reference.com/players/C/CrosMa20.htm) kicks off 54 yards, returned by [Devin Hester](https://www.pro-football-reference.com/players/H/HestDe99.htm) for 24 yards (tackle by [Nick Collins](https://www.pro-football-reference.com/players/C/CollNi20.htm))0.0001.600 3[14:52](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_81.000)110CHI 40140[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) right guard for 5 yards (tackle by [Clay Matthews](https://www.pro-football-reference.com/players/M/MattCl99.htm))1.6001.730 3[14:21](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_82.000)25CHI 45140[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) right guard for 1 yard (tackle by [B.J. Raji](https://www.pro-football-reference.com/players/R/RajiBJ99.htm) and [Desmond Bishop](https://www.pro-football-reference.com/players/B/BishDe99.htm))1.7301.160 3[13:40](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_83.000)34CHI 46140[Jay Cutler](https://www.pro-football-reference.com/players/C/CutlJa00.htm) pass incomplete short right intended for [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm)1.160-0.320 3[13:32](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_84.000)44CHI 46140[Brad Maynard](https://www.pro-football-reference.com/players/M/MaynBr20.htm) punts 37 yards-0.3200.060 3[13:22](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_85.000)110GNB 17140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete deep left intended for [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm)\\-0.060-0.580 3[13:15](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_86.000)210GNB 17140[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right guard for 2 yards (tackle by [Chris Harris](https://www.pro-football-reference.com/players/H/HarrCh20.htm) and [Israel Idonije](https://www.pro-football-reference.com/players/I/IdonIs20.htm))-0.580-1.000 3[12:35](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_87.000)38GNB 19140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete deep middle to [Jordy Nelson](https://www.pro-football-reference.com/players/N/NelsJo00.htm) for 21 yards (tackle by [Danieal Manning](https://www.pro-football-reference.com/players/M/MannDa21.htm))-1.0001.600 3[11:55](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_88.000)110GNB 40140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete short right to [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm) for 20 yards (tackle by [Major Wright](https://www.pro-football-reference.com/players/W/WrigMa99.htm))1.6002.920 3[11:16](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_89.000)110CHI 40140[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right end for 9 yards (tackle by [Danieal Manning](https://www.pro-football-reference.com/players/M/MannDa21.htm))2.9203.590 3[10:35](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_90.000)21CHI 31140[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right end for no gain (tackle by [Brian Urlacher](https://www.pro-football-reference.com/players/U/UrlaBr00.htm))3.5902.870 3[9:55](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_91.000)31CHI 31140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete deep right intended for [James Jones](https://www.pro-football-reference.com/players/J/JoneJa04.htm). Penalty on [Tim Jennings](https://www.pro-football-reference.com/players/J/JennTi20.htm): Defensive Pass Interfere, 23 yards (no play)2.8705.370 3[9:48](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_92.000)18CHI 8140[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right guard for 2 yards (tackle by [Julius Peppers](https://www.pro-football-reference.com/players/P/PeppJu99.htm))5.3704.950 3[9:08](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_93.000)26CHI 6140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete short left intended for [Donald Driver](https://www.pro-football-reference.com/players/D/DrivDo00.htm)4.9504.040 3[9:02](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_94.000)36CHI 6140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete short left intended for [Donald Driver](https://www.pro-football-reference.com/players/D/DrivDo00.htm) is intercepted by [Brian Urlacher](https://www.pro-football-reference.com/players/U/UrlaBr00.htm) at [CHI](https://www.pro-football-reference.com/teams/chi/2010.htm)\\-6 and returned for 39 yards4.040-1.930 3[8:50](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_95.000)110CHI 45140[Todd Collins](https://www.pro-football-reference.com/players/C/CollTo00.htm) pass incomplete deep middle intended for [Kellen Davis](https://www.pro-football-reference.com/players/D/DaviKe01.htm)1.9301.380 3[8:44](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_96.000)210CHI 45140Penalty on [Frank Omiyale](https://www.pro-football-reference.com/players/O/OmiyFr20.htm): False Start, 5 yards (no play)1.3800.710 3[8:44](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_97.000)215CHI 40140[Todd Collins](https://www.pro-football-reference.com/players/C/CollTo00.htm) pass incomplete short left intended for [Greg Olsen](https://www.pro-football-reference.com/players/O/OlseGr00.htm)0.7100.040 3[8:40](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_98.000)315CHI 40140[Todd Collins](https://www.pro-football-reference.com/players/C/CollTo00.htm) pass incomplete deep middle intended for [Earl Bennett](https://www.pro-football-reference.com/players/B/BennEa00.htm)0.040-0.720 _[CHI](https://www.pro-football-reference.com/teams/chi/2010.htm) challenged the ruling, and the original play was overturned._ 3[8:35](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_99.000)415CHI 40140[Brad Maynard](https://www.pro-football-reference.com/players/M/MaynBr20.htm) punts 39 yards-0.720-0.340 3[8:26](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_100.000)110GNB 21140[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) left guard for 3 yards (tackle by [Chris Harris](https://www.pro-football-reference.com/players/H/HarrCh20.htm)). Penalty on [Scott Wells](https://www.pro-football-reference.com/players/W/WellSc20.htm): Offensive Holding, 10 yards0.340-0.440 3[7:58](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_101.000)117GNB 14140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete short right to [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm) for 1 yard (tackle by [D.J. Moore](https://www.pro-football-reference.com/players/M/MoorDJ99.htm))-0.440-1.140 3[7:18](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_102.000)216GNB 15140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete deep middle to [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm) for 22 yards (tackle by [Danieal Manning](https://www.pro-football-reference.com/players/M/MannDa21.htm))-1.1401.400 3[6:42](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_103.000)110GNB 37140[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right guard for 2 yards (tackle by [Henry Melton](https://www.pro-football-reference.com/players/M/MeltHe99.htm))1.4001.130 3[5:59](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_104.000)28GNB 39140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) left guard for no gain (tackle by [D.J. Moore](https://www.pro-football-reference.com/players/M/MoorDJ99.htm)). Penalty on [Chad Clifton](https://www.pro-football-reference.com/players/C/ClifCh20.htm): Offensive Holding, 10 yards (no play)1.130-0.220 3[5:34](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_105.000)218GNB 29140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete short right to [Jordy Nelson](https://www.pro-football-reference.com/players/N/NelsJo00.htm) for 9 yards (tackle by [Tim Jennings](https://www.pro-football-reference.com/players/J/JennTi20.htm))-0.2200.300 3[4:49](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_106.000)39GNB 38140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete short right intended for [Donald Driver](https://www.pro-football-reference.com/players/D/DrivDo00.htm)0.300-0.850 3[4:39](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_107.000)49GNB 38140[Tim Masthay](https://www.pro-football-reference.com/players/M/MastTi99.htm) punts 46 yards, returned by [Devin Hester](https://www.pro-football-reference.com/players/H/HestDe99.htm) for 2 yards (tackle by [Brandon Underwood](https://www.pro-football-reference.com/players/U/UndeBr99.htm))-0.850-0.040 3[4:29](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_108.000)110CHI 18140[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) left guard for no gain (tackle by [Ryan Pickett](https://www.pro-football-reference.com/players/P/PickRy20.htm))0.040-0.490 3[3:55](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_109.000)210CHI 18140[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) right end for 8 yards (tackle by [Rob Francois](https://www.pro-football-reference.com/players/F/FranRo99.htm))-0.490-0.140 3[3:16](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_110.000)32CHI 26140[Todd Collins](https://www.pro-football-reference.com/players/C/CollTo00.htm) pass incomplete short right intended for [Johnny Knox](https://www.pro-football-reference.com/players/K/KnoxJo00.htm)\\-0.140-1.630 3[3:10](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_111.000)42CHI 26140[Brad Maynard](https://www.pro-football-reference.com/players/M/MaynBr20.htm) punts 43 yards, returned by [Tramon Williams](https://www.pro-football-reference.com/players/W/WillTr99.htm) for no gain. [Tramon Williams](https://www.pro-football-reference.com/players/W/WillTr99.htm) fumbles, recovered by [Brett Swain](https://www.pro-football-reference.com/players/S/SwaiBr00.htm) at [GNB](https://www.pro-football-reference.com/teams/gnb/2010.htm)\\-27. Penalty on [Pisa Tinoisamoa](https://www.pro-football-reference.com/players/T/TinoPi20.htm): Ineligible Downfield Kic, 5 yards-1.630-1.070 3[2:59](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_112.000)110GNB 32140[John Kuhn](https://www.pro-football-reference.com/players/K/KuhnJo00.htm) left guard for 2 yards (tackle by [Brian Urlacher](https://www.pro-football-reference.com/players/U/UrlaBr00.htm) and [Lance Briggs](https://www.pro-football-reference.com/players/B/BrigLa99.htm))1.0700.800 3[2:16](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_113.000)28GNB 34140[Brandon Jackson](https://www.pro-football-reference.com/players/J/JackBr00.htm) right end for -5 yards (tackle by [Brian Urlacher](https://www.pro-football-reference.com/players/U/UrlaBr00.htm))0.800-0.560 3[1:35](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_114.000)313GNB 29140[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete short left intended for [Andrew Quarless](https://www.pro-football-reference.com/players/Q/QuarAn00.htm)\\-0.560-1.440 3[1:29](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_115.000)413GNB 29140[Tim Masthay](https://www.pro-football-reference.com/players/M/MastTi99.htm) punts 53 yards, returned by [Devin Hester](https://www.pro-football-reference.com/players/H/HestDe99.htm) for -4 yards (tackle by [Matt Wilhelm](https://www.pro-football-reference.com/players/W/WilhMa20.htm)). Penalty on [Korey Hall](https://www.pro-football-reference.com/players/H/HallKo99.htm): Ineligible Downfield Kic, 5 yards (no play)-1.440-1.770 3[1:13](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_116.000)418GNB 24140[Tim Masthay](https://www.pro-football-reference.com/players/M/MastTi99.htm) punts 65 yards, returned by [Earl Bennett](https://www.pro-football-reference.com/players/B/BennEa00.htm) for 22 yards (tackle by [Rob Francois](https://www.pro-football-reference.com/players/F/FranRo99.htm))-1.770-1.140 3[0:57](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_117.000)110CHI 33140[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) right tackle for 11 yards (tackle by [Charlie Peprah](https://www.pro-football-reference.com/players/P/PeprCh20.htm))1.1401.860 3[0:20](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_118.000)110CHI 44140[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) right tackle for 4 yards (tackle by [Ryan Pickett](https://www.pro-football-reference.com/players/P/PickRy20.htm))1.8601.860 Quarter Time Down ToGo Location GNB CHI Detail EPB EPA 4th Quarter 4[15:00](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_119.000)26CHI 48140[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short right to [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) for 8 yards (tackle by [Desmond Bishop](https://www.pro-football-reference.com/players/B/BishDe99.htm))1.8602.650 4[14:29](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_120.000)110GNB 44140[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) right end for 3 yards (tackle by [A.J. Hawk](https://www.pro-football-reference.com/players/H/HawkA.20.htm))2.6502.520 4[13:47](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_121.000)27GNB 41140[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) right tackle for 11 yards (tackle by [Nick Collins](https://www.pro-football-reference.com/players/C/CollNi20.htm))2.5203.580 4[13:14](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_122.000)110GNB 30140[Chester Taylor](https://www.pro-football-reference.com/players/T/TaylCh01.htm) right tackle for -3 yards (tackle by [Clay Matthews](https://www.pro-football-reference.com/players/M/MattCl99.htm))3.5802.630 4[12:35](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_123.000)213GNB 33140[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short right to [Johnny Knox](https://www.pro-football-reference.com/players/K/KnoxJo00.htm) for 32 yards (tackle by [Nick Collins](https://www.pro-football-reference.com/players/C/CollNi20.htm))2.6306.970 4[12:05](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_124.000)11GNB 1146[Chester Taylor](https://www.pro-football-reference.com/players/T/TaylCh01.htm) right tackle for 1 yard, touchdown6.9707.000 4[](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_125.000)GNB 2147[Robbie Gould](https://www.pro-football-reference.com/players/G/gouldrob01.htm) kicks extra point good0.0000.000 4[](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_126.000)CHI 30147[Robbie Gould](https://www.pro-football-reference.com/players/G/gouldrob01.htm) kicks off 64 yards, returned by [James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) for 18 yards (tackle by [Major Wright](https://www.pro-football-reference.com/players/W/WrigMa99.htm))0.0000.540 4[11:55](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_127.000)110GNB 24147[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) left tackle for 1 yard (tackle by [Chris Harris](https://www.pro-football-reference.com/players/H/HarrCh20.htm) and [Brian Urlacher](https://www.pro-football-reference.com/players/U/UrlaBr00.htm))0.5400.130 4[11:14](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_128.000)29GNB 25147[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete deep right intended for [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm). Penalty on [Julius Peppers](https://www.pro-football-reference.com/players/P/PeppJu99.htm): Roughing the Passer, 14 yards (no play)0.1301.530 4[11:08](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_129.000)110GNB 39147Penalty on [Donald Lee](https://www.pro-football-reference.com/players/L/LeexDo00.htm): False Start, 5 yards (no play)1.5301.200 4[11:08](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_130.000)115GNB 34147[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete short right intended for [Donald Driver](https://www.pro-football-reference.com/players/D/DrivDo00.htm). Penalty on [Tim Jennings](https://www.pro-football-reference.com/players/J/JennTi20.htm): Defensive Pass Interfere, 15 yards (no play)1.2002.190 4[11:03](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_131.000)110GNB 49147[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete short right to [John Kuhn](https://www.pro-football-reference.com/players/K/KuhnJo00.htm) for 6 yards (tackle by [D.J. Moore](https://www.pro-football-reference.com/players/M/MoorDJ99.htm) and [Israel Idonije](https://www.pro-football-reference.com/players/I/IdonIs20.htm))2.1902.460 4[10:20](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_132.000)24CHI 45147[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right guard for 2 yards (tackle by [Brian Urlacher](https://www.pro-football-reference.com/players/U/UrlaBr00.htm))2.4602.010 4[9:36](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_133.000)32CHI 43147[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete short right intended for [Andrew Quarless](https://www.pro-football-reference.com/players/Q/QuarAn00.htm)2.0100.400 4[9:32](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_134.000)42CHI 43147[Tim Masthay](https://www.pro-football-reference.com/players/M/MastTi99.htm) punts 43 yards, touchback0.400-0.280 4[9:19](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_135.000)110CHI 20147[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) left end for no gain (tackle by [A.J. Hawk](https://www.pro-football-reference.com/players/H/HawkA.20.htm))0.280-0.270 4[8:40](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_136.000)210CHI 20147[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass incomplete short right intended for [Earl Bennett](https://www.pro-football-reference.com/players/B/BennEa00.htm)\\-0.270-0.960 4[8:34](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_137.000)310CHI 20147[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass incomplete short left intended for [Johnny Knox](https://www.pro-football-reference.com/players/K/KnoxJo00.htm)\\-0.960-2.030 4[8:29](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_138.000)410CHI 20147[Brad Maynard](https://www.pro-football-reference.com/players/M/MaynBr20.htm) punts 24 yards-2.030-2.650 4[8:22](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_139.000)110CHI 44147[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete short left intended for [Andrew Quarless](https://www.pro-football-reference.com/players/Q/QuarAn00.htm)2.6502.110 4[8:16](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_140.000)210CHI 44147[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass complete short left to [Greg Jennings](https://www.pro-football-reference.com/players/J/JennGr00.htm) for 9 yards (tackle by [Charles Tillman](https://www.pro-football-reference.com/players/T/TillCh20.htm))2.1102.610 4[7:36](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_141.000)31CHI 35147[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) pass incomplete short right intended for [Tom Crabtree](https://www.pro-football-reference.com/players/C/CrabTo00.htm)2.6101.000 4[7:31](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_142.000)41CHI 35147[Tim Masthay](https://www.pro-football-reference.com/players/M/MastTi99.htm) punts 25 yards1.0000.380 4[7:22](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_143.000)110CHI 10147[Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) right tackle for 2 yards (tackle by [Ryan Pickett](https://www.pro-football-reference.com/players/P/PickRy20.htm) and [A.J. Hawk](https://www.pro-football-reference.com/players/H/HawkA.20.htm))-0.380-0.630 4[6:47](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_144.000)28CHI 12147[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short left to [Earl Bennett](https://www.pro-football-reference.com/players/B/BennEa00.htm) for 3 yards (tackle by [Charles Woodson](https://www.pro-football-reference.com/players/W/WoodCh00.htm))-0.630-0.840 4[6:12](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_145.000)147Timeout #1 by Chicago Bears0.000-0.840 4[6:12](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_146.000)35CHI 15207[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass incomplete short left intended for [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) is intercepted by [B.J. Raji](https://www.pro-football-reference.com/players/R/RajiBJ99.htm) at [CHI](https://www.pro-football-reference.com/teams/chi/2010.htm)\\-18 and returned for 18 yards, touchdown-0.840-7.000 4[](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_147.000)CHI 2217[Mason Crosby](https://www.pro-football-reference.com/players/C/CrosMa20.htm) kicks extra point good0.0000.000 4[](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_148.000)GNB 30217[Mason Crosby](https://www.pro-football-reference.com/players/C/CrosMa20.htm) kicks off 46 yards, returned by [Rashied Davis](https://www.pro-football-reference.com/players/D/DaviRa00.htm) for 16 yards (tackle by [John Kuhn](https://www.pro-football-reference.com/players/K/KuhnJo00.htm))0.0001.600 4[5:59](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_149.000)110CHI 40217[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short middle to [Greg Olsen](https://www.pro-football-reference.com/players/O/OlseGr00.htm) for 13 yards (tackle by [Desmond Bishop](https://www.pro-football-reference.com/players/B/BishDe99.htm))1.6002.460 4[5:34](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_150.000)110GNB 47217[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short middle to [Earl Bennett](https://www.pro-football-reference.com/players/B/BennEa00.htm) for 7 yards (tackle by [Charlie Peprah](https://www.pro-football-reference.com/players/P/PeprCh20.htm))2.4602.860 4[5:14](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_151.000)23GNB 40217[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short middle to [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) for 5 yards (tackle by [Clay Matthews](https://www.pro-football-reference.com/players/M/MattCl99.htm))2.8603.250 4[4:53](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_152.000)110GNB 352113[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short left to [Earl Bennett](https://www.pro-football-reference.com/players/B/BennEa00.htm) for 35 yards, touchdown3.2507.000 4[](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_153.000)GNB 22114[Robbie Gould](https://www.pro-football-reference.com/players/G/gouldrob01.htm) kicks extra point good0.0000.000 4[](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_154.000)CHI 302114[Robbie Gould](https://www.pro-football-reference.com/players/G/gouldrob01.htm) kicks off 59 yards, returned by [Charles Woodson](https://www.pro-football-reference.com/players/W/WoodCh00.htm) for 14 yards (tackle by [Garrett Wolfe](https://www.pro-football-reference.com/players/W/WolfGa00.htm))0.0000.610 4[4:38](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_155.000)110GNB 252114[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right end for no gain (tackle by [Charles Tillman](https://www.pro-football-reference.com/players/T/TillCh20.htm))0.6100.060 4[3:55](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_156.000)210GNB 252114[James Starks](https://www.pro-football-reference.com/players/S/StarJa00.htm) right end for -2 yards (tackle by [Danieal Manning](https://www.pro-football-reference.com/players/M/MannDa21.htm))0.060-0.890 4[3:50](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_157.000)312GNB 232114[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) right end for 1 yard (tackle by [Lance Briggs](https://www.pro-football-reference.com/players/B/BrigLa99.htm))-0.890-1.770 4[3:07](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_158.000)411GNB 242114[Tim Masthay](https://www.pro-football-reference.com/players/M/MastTi99.htm) punts 58 yards, returned by [Devin Hester](https://www.pro-football-reference.com/players/H/HestDe99.htm) for 11 yards (tackle by [Brandon Underwood](https://www.pro-football-reference.com/players/U/UndeBr99.htm))-1.770-0.870 4[2:53](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_159.000)110CHI 292114[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass incomplete short middle intended for [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm)0.8700.330 4[2:49](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_160.000)210CHI 292114[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short left to [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) for 1 yard (tackle by [Nick Collins](https://www.pro-football-reference.com/players/C/CollNi20.htm))0.330-0.230 4[2:44](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_161.000)39CHI 302114[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short left to [Greg Olsen](https://www.pro-football-reference.com/players/O/OlseGr00.htm) for 10 yards (tackle by [A.J. Hawk](https://www.pro-football-reference.com/players/H/HawkA.20.htm))-0.2301.600 4[2:38](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_162.000)110CHI 402114[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass incomplete short right intended for [Devin Hester](https://www.pro-football-reference.com/players/H/HestDe99.htm). Penalty on [Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm): Intentional Grounding, 10 yards1.600-0.300 4[2:33](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_163.000)220CHI 302114[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short middle to [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) for 11 yards (tackle by [Sam Shields](https://www.pro-football-reference.com/players/S/ShieSa00.htm))-0.3000.500 4[2:01](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_164.000)39CHI 412114[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short middle to [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) for 8 yards (tackle by [Rob Francois](https://www.pro-football-reference.com/players/F/FranRo99.htm))0.500-0.130 4[1:54](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_165.000)41CHI 492114[Chester Taylor](https://www.pro-football-reference.com/players/T/TaylCh01.htm) right tackle for 4 yards (tackle by [Desmond Bishop](https://www.pro-football-reference.com/players/B/BishDe99.htm))-0.1302.460 4[1:34](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_166.000)110GNB 472114[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short right to [Matt Forte](https://www.pro-football-reference.com/players/F/FortMa00.htm) for 13 yards (tackle by [Clay Matthews](https://www.pro-football-reference.com/players/M/MattCl99.htm))2.4603.310 4[1:27](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_167.000)110GNB 342114[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass incomplete3.3102.770 4[1:21](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_168.000)210GNB 342114[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass complete short left to [Greg Olsen](https://www.pro-football-reference.com/players/O/OlseGr00.htm) for 7 yards (tackle by [Sam Shields](https://www.pro-football-reference.com/players/S/ShieSa00.htm))2.7703.010 4[1:15](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_169.000)2114Timeout #2 by Chicago Bears0.0003.010 4[1:15](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_170.000)33GNB 272114[Earl Bennett](https://www.pro-football-reference.com/players/B/BennEa00.htm) left end for -2 yards (tackle by [Desmond Bishop](https://www.pro-football-reference.com/players/B/BishDe99.htm))3.0101.540 4[0:47](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_171.000)45GNB 292114[Caleb Hanie](https://www.pro-football-reference.com/players/H/HaniCa00.htm) pass incomplete deep left intended for [Johnny Knox](https://www.pro-football-reference.com/players/K/KnoxJo00.htm) is intercepted by [Sam Shields](https://www.pro-football-reference.com/players/S/ShieSa00.htm) at [GNB](https://www.pro-football-reference.com/teams/gnb/2010.htm)\\-12 and returned for 32 yards1.540-1.860 4[0:37](https://www.pro-football-reference.com/boxscores/201101230chi.htm#pbp_172.000)110GNB 442114[Aaron Rodgers](https://www.pro-football-reference.com/players/R/RodgAa00.htm) kneels for -1 yards1.8601.180 End of Regulation",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "3": {
+            "url": "https://www.si.com/nfl/2011/01/24/jay-cutler-injury",
+            "title": "Page Not Found - 404",
+            "description": "You may have followed an outdated link, or have mistyped a URL",
+            "content": "Page Not Found - 404\n===============\n\nSkip to main content Enable accessibility for low vision Open the accessibility menu\n\n![Image 2: Spinner: White decorative](https://cdn.userway.org/widgetapp/images/spin_wh.svg)\n\n![Image 3: A 60x60 small image, likely a logo, icon or avatar](https://cdn.userway.org/widgetapp/images/body_wh.svg)\n\n![Image 4: Spinner: White decorative](https://cdn.userway.org/widgetapp/images/spin_wh.svg)\n\n*   [ON SI](https://www.si.com/fannation/)\n*   [SI SWIMSUIT](https://swimsuit.si.com/)\n*   [SI NEWSLETTERS](https://www.si.com/newsletters)\n*   [SI TICKETS](https://www.sitickets.com/category/sports?utm_source=si&utm_medium=referral&utm_content=main-nav)\n*   [SI RESORTS](https://www.sportsillustratedresorts.com/)\n*   [SI SHOPS](https://www.amazon.com/sportsillustrated)\n*   [MY ACCOUNT](https://si.com/myaccount)\n*   [SUBSCRIBE NOW](https://subscribe.si.com/servlet/OrdersGateway?cds_mag_code=SPI&cds_page_id=284392)\n\n[![Image 5: SI](blob:http://localhost/7b40325a66820964dbcb9a58fdde2a94)](https://www.si.com/)\n\n*   [CFP](https://www.si.com/college/college-football/playoffs)\n*   [NFL](https://www.si.com/nfl)\n*   [NBA](https://www.si.com/nba)\n*   [MLB](https://www.si.com/mlb)\n*   [COLLEGE FOOTBALL](https://www.si.com/college/college-football)\n*   [SOCCER](https://www.si.com/soccer)\n*   [FANTASY](https://www.si.com/fantasy)\n*   [GOLF](https://www.si.com/golf)\n*   [MEDIA](https://www.si.com/media)\n*   [BETTING](https://www.si.com/betting)\n\n*   [Mexico](https://si.com/mx)\n*   [US](https://www.si.com/?region=us)\n*   [US (Spanish)](https://www.si.com/es-us/futbol)\n\n![Image 6: Error imgae](https://images2.minutemediacdn.com/image/upload/c_fill,w_360,ar_1:1,f_auto,q_auto,g_auto/frontier/sites/errorpages/floor8-error-20190904.png)\n\nPage Not Found\n==============\n\nOops, the page you were looking for could not be found\n\nYou may have followed an outdated link, or have mistyped a URL\n\n[Back to homepage](https://www.si.com/)\n\n[![Image 7: SI](blob:http://localhost/7b40325a66820964dbcb9a58fdde2a94)](https://www.si.com/)\n\n[Privacy Policy](https://www.minutemedia.com/policies/privacy-policy)\n\n[Cookie Policy](https://www.minutemedia.com/policies/cookie-policy)\n\n[Takedown Policy](https://www.minutemedia.com/policies/si-takedown-policy)\n\n[Terms and Conditions](https://www.minutemedia.com/policies/terms-and-conditions-si)\n\n[SI Accessibility Statement](https://www.minutemedia.com/policies/si-accessibility-statement)\n\n[Sitemap](https://www.si.com/sitemap)\n\n[A-Z Index](https://www.si.com/index)\n\n[FAQ](https://www.si.com/faq)\n\nDo Not Sell My Personal Information\n\n© 2025 [ABG-SI LLC](https://www.si.com/nfl/2011/01/24/jay-cutler-injury) - SPORTS ILLUSTRATED IS A REGISTERED TRADEMARK OF ABG-SI LLC. - All Rights Reserved. The content on this site is for entertainment and educational purposes only. Betting and gambling content is intended for individuals 21+ and is based on individual commentators' opinions and not that of Sports Illustrated or its affiliates, licensees and related brands. All picks and predictions are suggestions only and not a guarantee of success or profit. If you or someone you know has a gambling problem, crisis counseling and referral services can be accessed by calling 1-800-GAMBLER.\n\n![Image 8: Company Logo](https://cdn-ukwest.onetrust.com/logos/static/ot_company_logo.png)\n\nDo Not Sell My Personal Information\n-----------------------------------\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link. \n\n[More information](https://cookiepedia.co.uk/giving-consent-to-cookies)\n\nAllow All\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nAlways Active\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n#### Sale of Personal Data\n\n- [x] Sale of Personal Data \n\nUnder the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal information by using this toggle switch. If you opt out we will not be able to offer you personalised ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.\n\nIf you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.\n\n*   ##### Targeting Cookies\n\n- [x] Switch Label label  \nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\n*   ##### Performance Cookies\n\n- [x] Switch Label label  \nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n### Cookie List\n\nClear\n\n- [x] checkbox label label\n\nApply Cancel\n\nConsent Leg.Interest\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\nConfirm My Choices\n\n[![Image 9: Powered by Onetrust](https://cdn-ukwest.onetrust.com/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)",
+            "publish_time": "Tue, 23 Dec 2025 12:28:56 GMT",
+            "fetched_by": "jina"
+          },
+          "2": {
+            "url": "https://www.espn.com/nfl/recap/_/gameId/310123003",
+            "title": "UGFja2VycyAyMS0xNCBCZWFycyAoSmFuIDIzLCAyMDExKSBHYW1lIFJlY2FwIC0gRVNQTg==",
+            "description": "",
+            "content": "Packers 21-14 Bears (Jan 23, 2011) Game Recap - ESPN\n===============\n\n![Image 1](blob:https://www.espn.com/2ae4cf0a8557682a62e562fa2b78188e)\n\nSkip to main contentSkip to navigation\n\n[ESPN](https://www.espn.com/)\n\n*   [NFL](https://www.espn.com/nfl/)\n\n*   [NBA](https://www.espn.com/nba/)\n\n*   [MLB](https://www.espn.com/mlb/)\n\n*   [NCAAF](https://www.espn.com/college-football/)\n\n*   [NHL](https://www.espn.com/nhl/)\n\n*   [Soccer](https://www.espn.com/soccer/)\n\n*   [WNBA](https://www.espn.com/wnba/)\n\n*   [More Sports](https://www.espn.com/nfl/recap/_/gameId/310123003#)\n\n*   [![Image 2: Watch ESPN](blob:https://www.espn.com/b9a31d3949b1882a09ed2f8508d538f3) Watch](http://www.espn.com/watch/)\n\n*   [![Image 3: ESPN Fantasy](blob:https://www.espn.com/b9a31d3949b1882a09ed2f8508d538f3) Fantasy](https://www.espn.com/fantasy/)\n\n*   [Where to Watch](https://www.espn.com/where-to-watch)\n\nGreen Bay Packers @ Chicago Bears\n=================================\n\nNFC CHAMPIONSHIP\n\n[![Image 4: GB](https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png)](https://www.espn.com/nfl/team/_/name/gb/green-bay-packers)\n\n[Green Bay PackersPackersGB](https://www.espn.com/nfl/team/_/name/gb/green-bay-packers)\n\n10-6, 3-5 Away\n\n21\n\n10-6, 3-5 Away\n\nFinal\n\n|  | 1 | 2 | 3 | 4 | T |\n| --- | --- | --- | --- | --- | --- |\n| \n[Packers](https://www.espn.com/nfl/team/_/name/gb/green-bay-packers)\n\nGB\n\n\n\n | 7 | 7 | 0 | 7 | 21 |\n| \n\n[Bears](https://www.espn.com/nfl/team/_/name/chi/chicago-bears)\n\nCHI\n\n\n\n | 0 | 0 | 0 | 14 | 14 |\n\n[![Image 5: CHI](https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png)](https://www.espn.com/nfl/team/_/name/chi/chicago-bears)\n\n[Chicago BearsBearsCHI](https://www.espn.com/nfl/team/_/name/chi/chicago-bears)\n\n11-5, 5-3 Home\n\n14\n\n11-5, 5-3 Home\n\n*   [Gamecast](https://www.espn.com/nfl/game/_/gameId/310123003/packers-bears)\n\n*   [Box Score](https://www.espn.com/nfl/boxscore/_/gameId/310123003)\n\n*   [Play-by-Play](https://www.espn.com/nfl/playbyplay/_/gameId/310123003)\n\n*   [Team Stats](https://www.espn.com/nfl/matchup/_/gameId/310123003)\n\n##### No Story Available\n\nGame Information\n----------------\n\nChicago, IL\n\n![Image 6: Soldier Field](https://a.espncdn.com/i/venues/nfl/day/interior/3933.jpg)\n\nFOX\n\nReferee:Terry McAulay\n\n![Image 7: Soldier Field](https://a.espncdn.com/i/venues/nfl/day/interior/3933.jpg)\n\n2025 Standings\n--------------\n\nNational Football Conference\n\n| NFC North | W | L | T | PCT | PF | PA |\n| --- | --- | --- | --- | --- | --- | --- |\n| [Chicago](https://www.espn.com/nfl/team/_/name/chi/chicago-bears) | 11 | 4 | 0 | .733 | 387 | 354 |\n| [Green Bay](https://www.espn.com/nfl/team/_/name/gb/green-bay-packers) | 9 | 5 | 1 | .633 | 364 | 303 |\n| [Detroit](https://www.espn.com/nfl/team/_/name/det/detroit-lions) | 8 | 7 | 0 | .533 | 452 | 374 |\n| [Minnesota](https://www.espn.com/nfl/team/_/name/min/minnesota-vikings) | 7 | 8 | 0 | .467 | 305 | 320 |\n\n[Full Standings](https://www.espn.com/nfl/standings)\n\nNFL News\n--------\n\n[![Image 8: Stephania Bell: 'Bijan Robinson had a Bijan Robinson game' in Week 16](https://a.espncdn.com/combiner/i?img=/media/motion/wsc/2025/1222/4cec07df-34be-4038-9f48-d6e5e7a314a9/4cec07df-34be-4038-9f48-d6e5e7a314a9.jpg&w=220) Stephania Bell: 'Bijan Robinson had a Bijan Robinson game' in Week 16 --------------------------------------------------------------------- Stephania Bell, Liz Loza and Daniel Dopp react to Bijan Robinson's big fantasy game vs. the Cardinals. 21m](https://www.espn.com/video/clip/_/id/47389717)[![Image 9: Liz Loza: Trevor Lawrence has been legit](https://a.espncdn.com/combiner/i?img=/media/motion/wsc/2025/1222/8034e2ef-6a93-4272-bde1-01980842f741/8034e2ef-6a93-4272-bde1-01980842f741.jpg&w=220) Liz Loza: Trevor Lawrence has been legit ---------------------------------------- Liz Loza highlights Trevor Lawrence's late-season surge in fantasy football ahead of Week 17 against the Colts. 9m](https://www.espn.com/video/clip/_/id/47389647)[![Image 10: Why Liz Loza advises against sitting Kyle Pitts in fantasy](https://a.espncdn.com/combiner/i?img=/media/motion/wsc/2025/1222/b896830c-65d5-4798-95a9-542ac5772675/b896830c-65d5-4798-95a9-542ac5772675.jpg&w=220) Why Liz Loza advises against sitting Kyle Pitts in fantasy ---------------------------------------------------------- Liz Loza breaks down why Kyle Pitts should be a Week 17 fantasy starter. 30m](https://www.espn.com/video/clip/_/id/47389548)\n\n[All NFL News](https://www.espn.com/nfl/)\n\n![Image 11: ESPN](blob:https://www.espn.com/b9a31d3949b1882a09ed2f8508d538f3)\n\n*   [Terms of Use](https://disneytermsofuse.com/)\n*   [Privacy Policy](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/)\n*   [Interest-Based Ads](https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/)\n\n© ESPN Enterprises, Inc. All rights reserved.",
+            "publish_time": "Mon, 22 Dec 2025 17:05:22 GMT",
+            "fetched_by": "goliath"
+          },
+          "1": {
+            "url": "https://www.nfl.com/games/packers-at-bears-2010-post-21",
+            "title": "$(game.awayTeam.fullName) at $(game.homeTeam.fullName) $(game.season) $(game.seasonType) $(game.week) - Game Center | Official Site of the National Football League",
+            "description": "Keep up with $(game.awayTeam.fullName) at $(game.homeTeam.fullName) $(game.season) $(game.seasonType) $(game.week) | NFL.com",
+            "content": "[Skip to main content](https://www.nfl.com/games/packers-at-bears-2010-post-21#main-content)",
+            "publish_time": "unknown",
+            "fetched_by": "jina"
+          }
+        },
+        "source_file": "langchain_4.1/md_data/2010_NFC_Championship_Game.md"
+      }
+    }
+  }
+}

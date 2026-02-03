@@ -1,0 +1,3 @@
+# Dorfromantik_(board_game)
+
+Dorfromantik is a cooperative board game in which players work together to lay hexagonal tiles and complete tasks. The game, developed by four German and Swiss students in a game design master's program at HTW Berlin, was published by the German company Pegasus Spiele. Players aim to create a rural landscape and unlock more content by completing tasks. The game features simple yet elegant tile placing puzzles and peaceful gameplay.

@@ -1,0 +1,44 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "53936876": {
+        "pageid": 53936876,
+        "ns": 0,
+        "title": "The_Story_&_the_Engine",
+        "extract": "The Story & the Engine is the fifth episode of the fifteenth series of the British science-fiction television series Doctor Who. Set in Lagos, Nigeria in 2019, the episode features the Doctor (Ncuti Gatwa), Belinda Chandra (Varada Sethu), Omo Esosa (Sule Rimi), and the Barber (Ariyon Bakare). The Barber, a mysterious figure, rules over Lagos and uses stories to power his engine. The Doctor discovers the power of stories and their role in shaping history and identity. The episode weaves elements of western African folklore with wider myths and legends. It explores themes such as identity, community, and history through storytelling.",
+        "extract_with_citations": "The Story & the Engine is the fifth episode of the fifteenth series of the British science-fiction television series Doctor Who. Set in Lagos, Nigeria in 2019, the episode features the Doctor (Ncuti Gatwa), Belinda Chandra (Varada Sethu), Omo Esosa (Sule Rimi), and the Barber (Ariyon Bakare). The Barber, a mysterious figure, rules over Lagos and uses stories to power his engine. The Doctor discovers the power of stories and their role in shaping history and identity. The episode weaves elements of western African folklore with wider myths and legends. It explores themes such as identity, community, and history through storytelling.",
+        "citation_urls": {},
+        "lead_content": "The Story & the Engine is the fifth episode of the fifteenth series of the British science-fiction television series Doctor Who. Set in Lagos, Nigeria in 2019, the episode features the Doctor (Ncuti Gatwa), Belinda Chandra (Varada Sethu), Omo Esosa (Sule Rimi), and the Barber (Ariyon Bakare). The Barber, a mysterious figure, rules over Lagos and uses stories to power his engine. The Doctor discovers the power of stories and their role in shaping history and identity. The episode weaves elements of western African folklore with wider myths and legends. It explores themes such as identity, community, and history through storytelling.",
+        "statements": [
+          {
+            "statement": "The Story & the Engine is the fifth episode of the fifteenth series of the British science-fiction television series Doctor Who."
+          },
+          {
+            "statement": "Set in Lagos, Nigeria in 2019, the episode features the Doctor (Ncuti Gatwa), Belinda Chandra (Varada Sethu), Omo Esosa (Sule Rimi), and the Barber (Ariyon Bakare)."
+          },
+          {
+            "statement": "The Barber, a mysterious figure, rules over Lagos and uses stories to power his engine."
+          },
+          {
+            "statement": "The Doctor discovers the power of stories and their role in shaping history and identity."
+          },
+          {
+            "statement": "The episode weaves elements of western African folklore with wider myths and legends."
+          },
+          {
+            "statement": "It explores themes such as identity, community, and history through storytelling."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "The_Story_&_the_Engine",
+    "sections": []
+  },
+  "fetched_at": 1766315522,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/The_Story_&_the_Engine.md",
+  "source_org": "deep_researcher"
+}

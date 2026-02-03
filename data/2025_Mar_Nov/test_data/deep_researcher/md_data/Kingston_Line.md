@@ -1,0 +1,3 @@
+# Kingston_Line
+
+Kingston Line is a commuter rail line of the MBTA Commuter Rail system in southeastern Massachusetts, United States. It runs 35.1 miles (56.5 km) southeast from Boston to Kingston with eight intermediate stops. The line originated as the Old Colony Railroad, which opened between Boston and Plymouth in 1845. It became the primary rail route between Boston and the South Shore region. The most notable station is Kingston, which is the southernmost station of the line and has served as a second outer terminal since a second terminal was added at Plymouth station in 1993. The Kingston Line serves various communities and provides transportation for daily commuters and tourists alike.

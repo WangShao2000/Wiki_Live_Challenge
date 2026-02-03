@@ -1,0 +1,96 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "95217833": {
+        "pageid": 95217833,
+        "ns": 0,
+        "title": "Lucky_Day_(Doctor_Who)",
+        "extract": "Lucky Day is the fourth episode of Series 15 of the British science fiction television series *Doctor Who*. The episode, written by Pete McTighe and directed by Peter Hoar, premiered on 3 May 2025. The episode focuses on Ruby Sunday, a previous companion of the Doctor, who has returned to Earth after a time with the Doctor. She begins a relationship with podcaster Conrad Clark as she attempts to find her place in the world. When a dangerous new threat emerges, Ruby and UNIT must work together to save Conrad. The episode also explores the nature of belief and conspiracy theories.\n\nThe episode begins with Ruby Sunday, played by Millie Gibson, living in London and trying to adjust to life back on Earth without the Doctor. She meets and starts a relationship with Conrad Clark, a podcaster who has always known the truth about the Doctor, aliens, and UNIT. As Ruby tries to let go of her past with the Doctor and embrace her new life with Conrad, a new threat emerges. The episode culminates in a battle between Ruby, UNIT, and the terrifying Shreek.\n\nThe episode was written by Pete McTighe and directed by Peter Hoar. It also features actors Ncuti Gatwa, Varada Sethu, and Benjamin Chivers. The episode explores themes of belief and conspiracy theories and includes references to social media.\n\nCritical reception of the episode was mixed. Some critics praised the episode for its exploration of themes and its competent execution, while others criticized the emphasis on romantic relationships and the new UNIT 2.0.",
+        "extract_with_citations": "Lucky Day is the fourth episode of Series 15 of the British science fiction television series *Doctor Who*. The episode, written by Pete McTighe and directed by Peter Hoar, premiered on 3 May 2025. The episode focuses on Ruby Sunday, a previous companion of the Doctor, who has returned to Earth after a time with the Doctor. She begins a relationship with podcaster Conrad Clark as she attempts to find her place in the world. When a dangerous new threat emerges, Ruby and UNIT must work together to save Conrad. The episode also explores the nature of belief and conspiracy theories.\n\nThe episode begins with Ruby Sunday, played by Millie Gibson, living in London and trying to adjust to life back on Earth without the Doctor. She meets and starts a relationship with Conrad Clark, a podcaster who has always known the truth about the Doctor, aliens, and UNIT. As Ruby tries to let go of her past with the Doctor and embrace her new life with Conrad, a new threat emerges. The episode culminates in a battle between Ruby, UNIT, and the terrifying Shreek.\n\nThe episode was written by Pete McTighe and directed by Peter Hoar. It also features actors Ncuti Gatwa, Varada Sethu, and Benjamin Chivers. The episode explores themes of belief and conspiracy theories and includes references to social media.\n\nCritical reception of the episode was mixed. Some critics praised the episode for its exploration of themes and its competent execution, while others criticized the emphasis on romantic relationships and the new UNIT 2.0.",
+        "citation_urls": {},
+        "lead_content": "Lucky Day is the fourth episode of Series 15 of the British science fiction television series *Doctor Who*. The episode, written by Pete McTighe and directed by Peter Hoar, premiered on 3 May 2025. The episode focuses on Ruby Sunday, a previous companion of the Doctor, who has returned to Earth after a time with the Doctor. She begins a relationship with podcaster Conrad Clark as she attempts to find her place in the world. When a dangerous new threat emerges, Ruby and UNIT must work together to save Conrad. The episode also explores the nature of belief and conspiracy theories.",
+        "statements": [
+          {
+            "statement": "Lucky Day is the fourth episode of Series 15 of the British science fiction television series *Doctor Who*."
+          },
+          {
+            "statement": "The episode, written by Pete McTighe and directed by Peter Hoar, premiered on 3 May 2025."
+          },
+          {
+            "statement": "The episode focuses on Ruby Sunday, a previous companion of the Doctor, who has returned to Earth after a time with the Doctor."
+          },
+          {
+            "statement": "She begins a relationship with podcaster Conrad Clark as she attempts to find her place in the world."
+          },
+          {
+            "statement": "When a dangerous new threat emerges, Ruby and UNIT must work together to save Conrad."
+          },
+          {
+            "statement": "The episode also explores the nature of belief and conspiracy theories."
+          },
+          {
+            "statement": "The episode begins with Ruby Sunday, played by Millie Gibson, living in London and trying to adjust to life back on Earth without the Doctor."
+          },
+          {
+            "statement": "She meets and starts a relationship with Conrad Clark, a podcaster who has always known the truth about the Doctor, aliens, and UNIT."
+          },
+          {
+            "statement": "As Ruby tries to let go of her past with the Doctor and embrace her new life with Conrad, a new threat emerges."
+          },
+          {
+            "statement": "The episode culminates in a battle between Ruby, UNIT, and the terrifying Shreek."
+          },
+          {
+            "statement": "The episode was written by Pete McTighe and directed by Peter Hoar."
+          },
+          {
+            "statement": "It also features actors Ncuti Gatwa, Varada Sethu, and Benjamin Chivers."
+          },
+          {
+            "statement": "The episode explores themes of belief and conspiracy theories and includes references to social media."
+          },
+          {
+            "statement": "Critical reception of the episode was mixed."
+          },
+          {
+            "statement": "Some critics praised the episode for its exploration of themes and its competent execution, while others criticized the emphasis on romantic relationships and the new UNIT 2.0."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Lucky_Day_(Doctor_Who)",
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Plot",
+        "number": "1",
+        "index": "1",
+        "anchor": "Plot"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Production",
+        "number": "2",
+        "index": "2",
+        "anchor": "Production"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Reception",
+        "number": "3",
+        "index": "3",
+        "anchor": "Reception"
+      }
+    ]
+  },
+  "fetched_at": 1766315483,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Lucky_Day_(Doctor_Who).md",
+  "source_org": "deep_researcher"
+}

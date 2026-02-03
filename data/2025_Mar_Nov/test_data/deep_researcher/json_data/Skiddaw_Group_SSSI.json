@@ -1,0 +1,47 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "50982539": {
+        "pageid": 50982539,
+        "ns": 0,
+        "title": "Skiddaw_Group_SSSI",
+        "extract": "Skiddaw Group SSSI is a site of special scientific interest in the Lake District High Fells, England. Its shape is approximately an irregular circle centered on Skiddaw, a mountain in the English Lake District. The Skiddaw Group, from which the SSSI takes its name, is a group of sedimentary rock formations that are part of the geological history of the Lake District. These rocks are unconformably overlain by volcanic rocks of the Eycott Volcanic and Borrowdale Volcanic groups or by Carboniferous limestones. The Skiddaw Group comprises a marine sedimentary sequence deposited on the northern margin of eastern Avalonia in Tremadoc to Llanvirn times. It is found in a broad swathe in the Northern Fells between the Eycott and Borrowdale volcanic belts. Skiddaw Group SSSI is part of the Cumbria High Fells Natural Area and is recognized as a nationally important Site of Special Scientific Interest (SSSI) and a Special Area of Conservation.",
+        "extract_with_citations": "Skiddaw Group SSSI is a site of special scientific interest in the Lake District High Fells, England. Its shape is approximately an irregular circle centered on Skiddaw, a mountain in the English Lake District. The Skiddaw Group, from which the SSSI takes its name, is a group of sedimentary rock formations that are part of the geological history of the Lake District. These rocks are unconformably overlain by volcanic rocks of the Eycott Volcanic and Borrowdale Volcanic groups or by Carboniferous limestones. The Skiddaw Group comprises a marine sedimentary sequence deposited on the northern margin of eastern Avalonia in Tremadoc to Llanvirn times. It is found in a broad swathe in the Northern Fells between the Eycott and Borrowdale volcanic belts. Skiddaw Group SSSI is part of the Cumbria High Fells Natural Area and is recognized as a nationally important Site of Special Scientific Interest (SSSI) and a Special Area of Conservation.",
+        "citation_urls": {},
+        "lead_content": "Skiddaw Group SSSI is a site of special scientific interest in the Lake District High Fells, England. Its shape is approximately an irregular circle centered on Skiddaw, a mountain in the English Lake District. The Skiddaw Group, from which the SSSI takes its name, is a group of sedimentary rock formations that are part of the geological history of the Lake District. These rocks are unconformably overlain by volcanic rocks of the Eycott Volcanic and Borrowdale Volcanic groups or by Carboniferous limestones. The Skiddaw Group comprises a marine sedimentary sequence deposited on the northern margin of eastern Avalonia in Tremadoc to Llanvirn times. It is found in a broad swathe in the Northern Fells between the Eycott and Borrowdale volcanic belts. Skiddaw Group SSSI is part of the Cumbria High Fells Natural Area and is recognized as a nationally important Site of Special Scientific Interest (SSSI) and a Special Area of Conservation.",
+        "statements": [
+          {
+            "statement": "Skiddaw Group SSSI is a site of special scientific interest in the Lake District High Fells, England."
+          },
+          {
+            "statement": "Its shape is approximately an irregular circle centered on Skiddaw, a mountain in the English Lake District."
+          },
+          {
+            "statement": "The Skiddaw Group, from which the SSSI takes its name, is a group of sedimentary rock formations that are part of the geological history of the Lake District."
+          },
+          {
+            "statement": "These rocks are unconformably overlain by volcanic rocks of the Eycott Volcanic and Borrowdale Volcanic groups or by Carboniferous limestones."
+          },
+          {
+            "statement": "The Skiddaw Group comprises a marine sedimentary sequence deposited on the northern margin of eastern Avalonia in Tremadoc to Llanvirn times."
+          },
+          {
+            "statement": "It is found in a broad swathe in the Northern Fells between the Eycott and Borrowdale volcanic belts."
+          },
+          {
+            "statement": "Skiddaw Group SSSI is part of the Cumbria High Fells Natural Area and is recognized as a nationally important Site of Special Scientific Interest (SSSI) and a Special Area of Conservation."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Skiddaw_Group_SSSI",
+    "sections": []
+  },
+  "fetched_at": 1766315508,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Skiddaw_Group_SSSI.md",
+  "source_org": "deep_researcher"
+}

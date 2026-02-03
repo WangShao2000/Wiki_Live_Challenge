@@ -1,0 +1,41 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "65446103": {
+        "pageid": 65446103,
+        "ns": 0,
+        "title": "Cow_(Mario)",
+        "extract": "Cow (Mario) is a fictional cattle character in the Mario franchise, specifically in the Mario Kart series. She is also known as Moo Moo. She was first introduced in the 1996 game Mario Kart 64 and has been a recurring character in the series. She is typically seen walking on all four legs and is known for her unique appearance. In 2025, she was introduced as a playable character in the game Mario Kart World, making her one of the most popular characters among fans.",
+        "extract_with_citations": "Cow (Mario) is a fictional cattle character in the Mario franchise, specifically in the Mario Kart series. She is also known as Moo Moo. She was first introduced in the 1996 game Mario Kart 64 and has been a recurring character in the series. She is typically seen walking on all four legs and is known for her unique appearance. In 2025, she was introduced as a playable character in the game Mario Kart World, making her one of the most popular characters among fans.",
+        "citation_urls": {},
+        "lead_content": "Cow (Mario) is a fictional cattle character in the Mario franchise, specifically in the Mario Kart series. She is also known as Moo Moo. She was first introduced in the 1996 game Mario Kart 64 and has been a recurring character in the series. She is typically seen walking on all four legs and is known for her unique appearance. In 2025, she was introduced as a playable character in the game Mario Kart World, making her one of the most popular characters among fans.",
+        "statements": [
+          {
+            "statement": "Cow (Mario) is a fictional cattle character in the Mario franchise, specifically in the Mario Kart series."
+          },
+          {
+            "statement": "She is also known as Moo Moo."
+          },
+          {
+            "statement": "She was first introduced in the 1996 game Mario Kart 64 and has been a recurring character in the series."
+          },
+          {
+            "statement": "She is typically seen walking on all four legs and is known for her unique appearance."
+          },
+          {
+            "statement": "In 2025, she was introduced as a playable character in the game Mario Kart World, making her one of the most popular characters among fans."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Cow_(Mario)",
+    "sections": []
+  },
+  "fetched_at": 1766315450,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Cow_(Mario).md",
+  "source_org": "deep_researcher"
+}

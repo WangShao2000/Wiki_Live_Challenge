@@ -1,0 +1,44 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "65490716": {
+        "pageid": 65490716,
+        "ns": 0,
+        "title": "Closures_of_the_University_of_Wisconsin_branch_campuses",
+        "extract": "Closures of the University of Wisconsin branch campuses have occurred due to declining enrollment and budget cuts. As of November 2025, six campuses have closed or announced closure, while one campus remains open without in-person classes, and one campus has relocated to a nearby location. The University of Wisconsin-Platteville Baraboo Sauk County campus will close at the end of the school year, and students will be allowed to transfer to the main campus. The closures have led to the redevelopment of some of the closed campuses, with plans for a charter school, law enforcement training facility, and housing. The University of Wisconsin system is committed to providing alternative education options for students and communities affected by the closures.",
+        "extract_with_citations": "Closures of the University of Wisconsin branch campuses have occurred due to declining enrollment and budget cuts. As of November 2025, six campuses have closed or announced closure, while one campus remains open without in-person classes, and one campus has relocated to a nearby location. The University of Wisconsin-Platteville Baraboo Sauk County campus will close at the end of the school year, and students will be allowed to transfer to the main campus. The closures have led to the redevelopment of some of the closed campuses, with plans for a charter school, law enforcement training facility, and housing. The University of Wisconsin system is committed to providing alternative education options for students and communities affected by the closures.",
+        "citation_urls": {},
+        "lead_content": "Closures of the University of Wisconsin branch campuses have occurred due to declining enrollment and budget cuts. As of November 2025, six campuses have closed or announced closure, while one campus remains open without in-person classes, and one campus has relocated to a nearby location. The University of Wisconsin-Platteville Baraboo Sauk County campus will close at the end of the school year, and students will be allowed to transfer to the main campus. The closures have led to the redevelopment of some of the closed campuses, with plans for a charter school, law enforcement training facility, and housing. The University of Wisconsin system is committed to providing alternative education options for students and communities affected by the closures.",
+        "statements": [
+          {
+            "statement": "Closures of the University of Wisconsin branch campuses have occurred due to declining enrollment and budget cuts."
+          },
+          {
+            "statement": "As of November 2025, six campuses have closed or announced closure, while one campus remains open without in-person classes, and one campus has relocated to a nearby location."
+          },
+          {
+            "statement": "The University of Wisconsin-Platteville Baraboo Sauk County campus will close at the end of the school year."
+          },
+          {
+            "statement": "Students will be allowed to transfer to the main campus from the University of Wisconsin-Platteville Baraboo Sauk County campus."
+          },
+          {
+            "statement": "The closures have led to the redevelopment of some of the closed campuses, with plans for a charter school, law enforcement training facility, and housing."
+          },
+          {
+            "statement": "The University of Wisconsin system is committed to providing alternative education options for students and communities affected by the closures."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Closures_of_the_University_of_Wisconsin_branch_campuses",
+    "sections": []
+  },
+  "fetched_at": 1766315444,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Closures_of_the_University_of_Wisconsin_branch_campuses.md",
+  "source_org": "deep_researcher"
+}

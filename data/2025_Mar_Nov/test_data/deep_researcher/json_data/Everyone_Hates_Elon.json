@@ -1,0 +1,35 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "38694347": {
+        "pageid": 38694347,
+        "ns": 0,
+        "title": "Everyone_Hates_Elon",
+        "extract": "Lead section:\nElon Musk, the businessman and entrepreneur behind Tesla and SpaceX, has gained significant attention and notoriety in recent years. A recent survey revealed that over half of U.S. adults hold an unfavorable view of him, making him the least popular public figure in the country. His business ventures, controversies, and personal behavior have shaped public perception.\n\nMain sections:\n1. Business Ventures\n2. Controversies\n3. Personal Behavior\n\nThe above format will be used to write the article, staying focused on the topic without going into unnecessary detail.",
+        "extract_with_citations": "Lead section:\nElon Musk, the businessman and entrepreneur behind Tesla and SpaceX, has gained significant attention and notoriety in recent years. A recent survey revealed that over half of U.S. adults hold an unfavorable view of him, making him the least popular public figure in the country. His business ventures, controversies, and personal behavior have shaped public perception.\n\nMain sections:\n1. Business Ventures\n2. Controversies\n3. Personal Behavior\n\nThe above format will be used to write the article, staying focused on the topic without going into unnecessary detail.",
+        "citation_urls": {},
+        "lead_content": "Lead section:\nElon Musk, the businessman and entrepreneur behind Tesla and SpaceX, has gained significant attention and notoriety in recent years. A recent survey revealed that over half of U.S. adults hold an unfavorable view of him, making him the least popular public figure in the country. His business ventures, controversies, and personal behavior have shaped public perception.\n\nMain sections:\n1. Business Ventures\n2. Controversies\n3. Personal Behavior\n\nThe above format will be used to write the article, staying focused on the topic without going into unnecessary detail.",
+        "statements": [
+          {
+            "statement": "Elon Musk, the businessman and entrepreneur behind Tesla and SpaceX, has gained significant attention and notoriety in recent years."
+          },
+          {
+            "statement": "A recent survey revealed that over half of U.S. adults hold an unfavorable view of him, making him the least popular public figure in the country."
+          },
+          {
+            "statement": "His business ventures, controversies, and personal behavior have shaped public perception."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Everyone_Hates_Elon",
+    "sections": []
+  },
+  "fetched_at": 1766315463,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Everyone_Hates_Elon.md",
+  "source_org": "deep_researcher"
+}

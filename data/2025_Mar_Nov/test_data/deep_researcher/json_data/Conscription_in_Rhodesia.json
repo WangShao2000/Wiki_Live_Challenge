@@ -1,0 +1,71 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "78743978": {
+        "pageid": 78743978,
+        "ns": 0,
+        "title": "Conscription_in_Rhodesia",
+        "extract": "Conscription in Rhodesia referred to the policy of mandatory military service implemented by the government of Rhodesia, a former British colony in southern Africa. The policy, initially introduced in 1957 during the period of the Central African Federation, was continued after Rhodesia achieved independence in 1965. Initially aimed at European and Asian males, it was later extended to African males as well. The length of conscription varied over the years, with it being increased to 18 months in 1972. During the height of the conflict, the government faced difficulties in finding enough volunteers and was forced to implement more stringent measures, including drafting African males. The policy had a significant impact on the demographics and social structure of Rhodesia, as many young men were forced to leave their families and communities for extended periods. As Rhodesia faced increasing political and military pressure, the government expanded the scope of conscription to include older men and those in key positions. However, the policy faced criticism and opposition from various quarters, including human rights organizations and the international community.",
+        "extract_with_citations": "Conscription in Rhodesia referred to the policy of mandatory military service implemented by the government of Rhodesia, a former British colony in southern Africa. The policy, initially introduced in 1957 during the period of the Central African Federation, was continued after Rhodesia achieved independence in 1965. Initially aimed at European and Asian males, it was later extended to African males as well. The length of conscription varied over the years, with it being increased to 18 months in 1972. During the height of the conflict, the government faced difficulties in finding enough volunteers and was forced to implement more stringent measures, including drafting African males. The policy had a significant impact on the demographics and social structure of Rhodesia, as many young men were forced to leave their families and communities for extended periods. As Rhodesia faced increasing political and military pressure, the government expanded the scope of conscription to include older men and those in key positions. However, the policy faced criticism and opposition from various quarters, including human rights organizations and the international community.",
+        "citation_urls": {},
+        "lead_content": "Conscription in Rhodesia referred to the policy of mandatory military service implemented by the government of Rhodesia, a former British colony in southern Africa. The policy, initially introduced in 1957 during the period of the Central African Federation, was continued after Rhodesia achieved independence in 1965. Initially aimed at European and Asian males, it was later extended to African males as well. The length of conscription varied over the years, with it being increased to 18 months in 1972. During the height of the conflict, the government faced difficulties in finding enough volunteers and was forced to implement more stringent measures, including drafting African males. The policy had a significant impact on the demographics and social structure of Rhodesia, as many young men were forced to leave their families and communities for extended periods. As Rhodesia faced increasing political and military pressure, the government expanded the scope of conscription to include older men and those in key positions. However, the policy faced criticism and opposition from various quarters, including human rights organizations and the international community.",
+        "statements": [
+          {
+            "statement": "Conscription in Rhodesia referred to the policy of mandatory military service implemented by the government of Rhodesia, a former British colony in southern Africa."
+          },
+          {
+            "statement": "The policy was initially introduced in 1957 during the period of the Central African Federation."
+          },
+          {
+            "statement": "The policy was continued after Rhodesia achieved independence in 1965."
+          },
+          {
+            "statement": "Initially, the policy was aimed at European and Asian males."
+          },
+          {
+            "statement": "The policy was later extended to African males as well."
+          },
+          {
+            "statement": "The length of conscription varied over the years."
+          },
+          {
+            "statement": "The length of conscription was increased to 18 months in 1972."
+          },
+          {
+            "statement": "During the height of the conflict, the government faced difficulties in finding enough volunteers."
+          },
+          {
+            "statement": "The government was forced to implement more stringent measures, including drafting African males."
+          },
+          {
+            "statement": "The policy had a significant impact on the demographics and social structure of Rhodesia."
+          },
+          {
+            "statement": "Many young men were forced to leave their families and communities for extended periods due to the policy."
+          },
+          {
+            "statement": "As Rhodesia faced increasing political and military pressure, the government expanded the scope of conscription."
+          },
+          {
+            "statement": "The expanded scope of conscription included older men and those in key positions."
+          },
+          {
+            "statement": "The policy faced criticism and opposition from various quarters."
+          },
+          {
+            "statement": "Human rights organizations and the international community were among those who criticized and opposed the policy."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Conscription_in_Rhodesia",
+    "sections": []
+  },
+  "fetched_at": 1766315448,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Conscription_in_Rhodesia.md",
+  "source_org": "deep_researcher"
+}

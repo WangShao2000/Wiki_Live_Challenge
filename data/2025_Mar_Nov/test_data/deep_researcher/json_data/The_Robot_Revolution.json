@@ -1,0 +1,47 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "89661587": {
+        "pageid": 89661587,
+        "ns": 0,
+        "title": "The_Robot_Revolution",
+        "extract": "The robot revolution refers to the rapid development and increasing use of robots in various industries and aspects of daily life. It has its roots in the early 20th century and has evolved significantly over the years. The revolution is driven by advancements in technology, particularly in artificial intelligence and automation. The robot revolution has had a significant impact on society, transforming industries such as manufacturing, healthcare, and transportation. While it brings numerous benefits, such as increased efficiency and productivity, it also raises concerns about job displacement and ethical considerations. The future of the robot revolution is expected to be marked by further advancements in technology, leading to more human-like robots and greater integration of robots into our daily lives.",
+        "extract_with_citations": "The robot revolution refers to the rapid development and increasing use of robots in various industries and aspects of daily life. It has its roots in the early 20th century and has evolved significantly over the years. The revolution is driven by advancements in technology, particularly in artificial intelligence and automation. The robot revolution has had a significant impact on society, transforming industries such as manufacturing, healthcare, and transportation. While it brings numerous benefits, such as increased efficiency and productivity, it also raises concerns about job displacement and ethical considerations. The future of the robot revolution is expected to be marked by further advancements in technology, leading to more human-like robots and greater integration of robots into our daily lives.",
+        "citation_urls": {},
+        "lead_content": "The robot revolution refers to the rapid development and increasing use of robots in various industries and aspects of daily life. It has its roots in the early 20th century and has evolved significantly over the years. The revolution is driven by advancements in technology, particularly in artificial intelligence and automation. The robot revolution has had a significant impact on society, transforming industries such as manufacturing, healthcare, and transportation. While it brings numerous benefits, such as increased efficiency and productivity, it also raises concerns about job displacement and ethical considerations. The future of the robot revolution is expected to be marked by further advancements in technology, leading to more human-like robots and greater integration of robots into our daily lives.",
+        "statements": [
+          {
+            "statement": "The robot revolution refers to the rapid development and increasing use of robots in various industries and aspects of daily life."
+          },
+          {
+            "statement": "It has its roots in the early 20th century and has evolved significantly over the years."
+          },
+          {
+            "statement": "The revolution is driven by advancements in technology, particularly in artificial intelligence and automation."
+          },
+          {
+            "statement": "The robot revolution has had a significant impact on society, transforming industries such as manufacturing, healthcare, and transportation."
+          },
+          {
+            "statement": "It brings numerous benefits, such as increased efficiency and productivity."
+          },
+          {
+            "statement": "It also raises concerns about job displacement and ethical considerations."
+          },
+          {
+            "statement": "The future of the robot revolution is expected to be marked by further advancements in technology, leading to more human-like robots and greater integration of robots into our daily lives."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "The_Robot_Revolution",
+    "sections": []
+  },
+  "fetched_at": 1766315521,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/The_Robot_Revolution.md",
+  "source_org": "deep_researcher"
+}

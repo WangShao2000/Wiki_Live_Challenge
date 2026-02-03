@@ -1,0 +1,72 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "86867067": {
+        "pageid": 86867067,
+        "ns": 0,
+        "title": "Midnight_Sun_(Zara_Larsson_album)",
+        "extract": "Midnight Sun is the fifth studio album by Swedish singer and songwriter Zara Larsson. It was released on September 26, 2025, through Sommer House and Epic Records. The album features a mix of dance-pop and electronic elements, showcasing Larsson's evolving musical style.\n\nMidnight Sun includes 10 tracks, with highlights such as \"Midnight Sun,\" \"Blue Moon,\" \"Pretty Ugly,\" and \"Girl's Girl.\" The album draws inspiration from Larsson's personal experiences and showcases her growth as an artist.\n\nThe album has received positive reviews from critics and fans alike. It has charted in various countries and has been praised for its catchy melodies and Larsson's vocal performance.\n\n1. Midnight Sun\n2. Blue Moon\n3. Pretty Ugly\n4. Girl's Girl\n5. Crush\n6. Eurosummer\n7. Hot & Sexy\n8. The Ambition\n9. Crushed\n10. Girl",
+        "extract_with_citations": "Midnight Sun is the fifth studio album by Swedish singer and songwriter Zara Larsson. It was released on September 26, 2025, through Sommer House and Epic Records. The album features a mix of dance-pop and electronic elements, showcasing Larsson's evolving musical style.\n\nMidnight Sun includes 10 tracks, with highlights such as \"Midnight Sun,\" \"Blue Moon,\" \"Pretty Ugly,\" and \"Girl's Girl.\" The album draws inspiration from Larsson's personal experiences and showcases her growth as an artist.\n\nThe album has received positive reviews from critics and fans alike. It has charted in various countries and has been praised for its catchy melodies and Larsson's vocal performance.\n\n1. Midnight Sun\n2. Blue Moon\n3. Pretty Ugly\n4. Girl's Girl\n5. Crush\n6. Eurosummer\n7. Hot & Sexy\n8. The Ambition\n9. Crushed\n10. Girl",
+        "citation_urls": {},
+        "lead_content": "Midnight Sun is the fifth studio album by Swedish singer and songwriter Zara Larsson. It was released on September 26, 2025, through Sommer House and Epic Records. The album features a mix of dance-pop and electronic elements, showcasing Larsson's evolving musical style.",
+        "statements": [
+          {
+            "statement": "Midnight Sun is the fifth studio album by Swedish singer and songwriter Zara Larsson."
+          },
+          {
+            "statement": "It was released on September 26, 2025, through Sommer House and Epic Records."
+          },
+          {
+            "statement": "The album features a mix of dance-pop and electronic elements, showcasing Larsson's evolving musical style."
+          },
+          {
+            "statement": "Midnight Sun includes 10 tracks, with highlights such as \"Midnight Sun,\" \"Blue Moon,\" \"Pretty Ugly,\" and \"Girl's Girl.\""
+          },
+          {
+            "statement": "The album draws inspiration from Larsson's personal experiences and showcases her growth as an artist."
+          },
+          {
+            "statement": "The album has received positive reviews from critics and fans alike."
+          },
+          {
+            "statement": "It has charted in various countries and has been praised for its catchy melodies and Larsson's vocal performance."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Midnight_Sun_(Zara_Larsson_album)",
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Overview",
+        "number": "1",
+        "index": "1",
+        "anchor": "Overview"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Reception",
+        "number": "2",
+        "index": "2",
+        "anchor": "Reception"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Tracklist",
+        "number": "3",
+        "index": "3",
+        "anchor": "Tracklist"
+      }
+    ]
+  },
+  "fetched_at": 1766315493,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Midnight_Sun_(Zara_Larsson_album).md",
+  "source_org": "deep_researcher"
+}

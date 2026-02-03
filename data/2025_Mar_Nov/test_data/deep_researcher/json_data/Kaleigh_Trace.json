@@ -1,0 +1,47 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "68808835": {
+        "pageid": 68808835,
+        "ns": 0,
+        "title": "Kaleigh_Trace",
+        "extract": "Kaleigh Trace is a Canadian writer, sex educator, and therapist based in Toronto, Ontario. She is known for her candid discussions of sexuality and disability. Trace's work addresses the intersections of disability, desirability, pain, and pleasure. Her first book, \"Hot, Wet, and Shaking,\" was published in 2014 and won the Evelyn Richardson Non-Fiction Award. She has also written articles and led sex education workshops to \"interrupt shameful stories\" and promote a more inclusive and open dialogue about sexuality. Trace's work has been featured in various media outlets, including Geeks OUT, Toronto Life, and The Star. She holds a Master's of Science in Couple & Family Therapy from the University of Guelph and is a Registered Psychotherapist with the College of Registered Psychotherapists of Ontario.",
+        "extract_with_citations": "Kaleigh Trace is a Canadian writer, sex educator, and therapist based in Toronto, Ontario. She is known for her candid discussions of sexuality and disability. Trace's work addresses the intersections of disability, desirability, pain, and pleasure. Her first book, \"Hot, Wet, and Shaking,\" was published in 2014 and won the Evelyn Richardson Non-Fiction Award. She has also written articles and led sex education workshops to \"interrupt shameful stories\" and promote a more inclusive and open dialogue about sexuality. Trace's work has been featured in various media outlets, including Geeks OUT, Toronto Life, and The Star. She holds a Master's of Science in Couple & Family Therapy from the University of Guelph and is a Registered Psychotherapist with the College of Registered Psychotherapists of Ontario.",
+        "citation_urls": {},
+        "lead_content": "Kaleigh Trace is a Canadian writer, sex educator, and therapist based in Toronto, Ontario. She is known for her candid discussions of sexuality and disability. Trace's work addresses the intersections of disability, desirability, pain, and pleasure. Her first book, \"Hot, Wet, and Shaking,\" was published in 2014 and won the Evelyn Richardson Non-Fiction Award. She has also written articles and led sex education workshops to \"interrupt shameful stories\" and promote a more inclusive and open dialogue about sexuality. Trace's work has been featured in various media outlets, including Geeks OUT, Toronto Life, and The Star. She holds a Master's of Science in Couple & Family Therapy from the University of Guelph and is a Registered Psychotherapist with the College of Registered Psychotherapists of Ontario.",
+        "statements": [
+          {
+            "statement": "Kaleigh Trace is a Canadian writer, sex educator, and therapist based in Toronto, Ontario."
+          },
+          {
+            "statement": "She is known for her candid discussions of sexuality and disability."
+          },
+          {
+            "statement": "Trace's work addresses the intersections of disability, desirability, pain, and pleasure."
+          },
+          {
+            "statement": "Her first book, \"Hot, Wet, and Shaking,\" was published in 2014 and won the Evelyn Richardson Non-Fiction Award."
+          },
+          {
+            "statement": "She has also written articles and led sex education workshops to \"interrupt shameful stories\" and promote a more inclusive and open dialogue about sexuality."
+          },
+          {
+            "statement": "Trace's work has been featured in various media outlets, including Geeks OUT, Toronto Life, and The Star."
+          },
+          {
+            "statement": "She holds a Master's of Science in Couple & Family Therapy from the University of Guelph and is a Registered Psychotherapist with the College of Registered Psychotherapists of Ontario."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Kaleigh_Trace",
+    "sections": []
+  },
+  "fetched_at": 1766315472,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Kaleigh_Trace.md",
+  "source_org": "deep_researcher"
+}

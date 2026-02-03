@@ -1,0 +1,47 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "8092902": {
+        "pageid": 8092902,
+        "ns": 0,
+        "title": "Champions_of_the_Future",
+        "extract": "Champions of the Future (COTF) is a kart racing competition launched in 2020 by promoter RGMMC and organized by the RGMMC Group. The competition is sanctioned by FIA Karting (CIK-FIA) and has become a must for the best international drivers and teams. Some of the biggest names in karting have participated in the competition, and it has established itself as a significant event in the karting calendar. The competition is known for its competitive spirit and the development of young talent.",
+        "extract_with_citations": "Champions of the Future (COTF) is a kart racing competition launched in 2020 by promoter RGMMC and organized by the RGMMC Group. The competition is sanctioned by FIA Karting (CIK-FIA) and has become a must for the best international drivers and teams. Some of the biggest names in karting have participated in the competition, and it has established itself as a significant event in the karting calendar. The competition is known for its competitive spirit and the development of young talent.",
+        "citation_urls": {},
+        "lead_content": "Champions of the Future (COTF) is a kart racing competition launched in 2020 by promoter RGMMC and organized by the RGMMC Group. The competition is sanctioned by FIA Karting (CIK-FIA) and has become a must for the best international drivers and teams. Some of the biggest names in karting have participated in the competition, and it has established itself as a significant event in the karting calendar. The competition is known for its competitive spirit and the development of young talent.",
+        "statements": [
+          {
+            "statement": "Champions of the Future (COTF) is a kart racing competition launched in 2020 by promoter RGMMC and organized by the RGMMC Group."
+          },
+          {
+            "statement": "The competition is sanctioned by FIA Karting (CIK-FIA)."
+          },
+          {
+            "statement": "The competition has become a must for the best international drivers and teams."
+          },
+          {
+            "statement": "Some of the biggest names in karting have participated in the competition."
+          },
+          {
+            "statement": "It has established itself as a significant event in the karting calendar."
+          },
+          {
+            "statement": "The competition is known for its competitive spirit."
+          },
+          {
+            "statement": "The competition is known for the development of young talent."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Champions_of_the_Future",
+    "sections": []
+  },
+  "fetched_at": 1766315444,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Champions_of_the_Future.md",
+  "source_org": "deep_researcher"
+}

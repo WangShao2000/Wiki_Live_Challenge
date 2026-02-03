@@ -1,0 +1,109 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "89470622": {
+        "pageid": 89470622,
+        "ns": 0,
+        "title": "2025_Somerset–London_tornado",
+        "extract": "In the late evening hours of May 16, 2025, a large and deadly nocturnal EF4 tornado moved through the Kentucky cities of Somerset and London. The tornado, which packed maximum winds of 170 mph, caused significant damage, leading to multiple deaths and extensive property destruction.\n\nThe EF4 tornado, which was one of the most destructive tornadoes of the year, moved through southeastern Kentucky. It was part of a larger severe weather event that affected multiple states. The tornado's path was long and destructive, stretching for over 60 miles. The tornado touched down in Russell County, approximately 4 miles southeast of Russell Springs, and continued to move through Somerset and London.\n\nThe tornado caused extensive damage, leading to multiple fatalities and injuries. The death toll from the tornado has risen to 19, including one person in Russell County, one person in Pulaski County, and 17 in Laurel County. The tornado caused significant structural damage to homes, businesses, and infrastructure in the affected areas.",
+        "extract_with_citations": "In the late evening hours of May 16, 2025, a large and deadly nocturnal EF4 tornado moved through the Kentucky cities of Somerset and London. The tornado, which packed maximum winds of 170 mph, caused significant damage, leading to multiple deaths and extensive property destruction.\n\nThe EF4 tornado, which was one of the most destructive tornadoes of the year, moved through southeastern Kentucky. It was part of a larger severe weather event that affected multiple states. The tornado's path was long and destructive, stretching for over 60 miles. The tornado touched down in Russell County, approximately 4 miles southeast of Russell Springs, and continued to move through Somerset and London.\n\nThe tornado caused extensive damage, leading to multiple fatalities and injuries. The death toll from the tornado has risen to 19, including one person in Russell County, one person in Pulaski County, and 17 in Laurel County. The tornado caused significant structural damage to homes, businesses, and infrastructure in the affected areas.",
+        "citation_urls": {},
+        "lead_content": "In the late evening hours of May 16, 2025, a large and deadly nocturnal EF4 tornado moved through the Kentucky cities of Somerset and London. The tornado, which packed maximum winds of 170 mph, caused significant damage, leading to multiple deaths and extensive property destruction.",
+        "statements": [
+          {
+            "statement": "In the late evening hours of May 16, 2025, a large and deadly nocturnal EF4 tornado moved through the Kentucky cities of Somerset and London."
+          },
+          {
+            "statement": "The tornado packed maximum winds of 170 mph."
+          },
+          {
+            "statement": "The tornado caused significant damage."
+          },
+          {
+            "statement": "The tornado led to multiple deaths."
+          },
+          {
+            "statement": "The tornado led to extensive property destruction."
+          },
+          {
+            "statement": "The EF4 tornado moved through southeastern Kentucky."
+          },
+          {
+            "statement": "The EF4 tornado was one of the most destructive tornadoes of the year."
+          },
+          {
+            "statement": "The tornado was part of a larger severe weather event that affected multiple states."
+          },
+          {
+            "statement": "The tornado's path was long and destructive."
+          },
+          {
+            "statement": "The tornado's path stretched for over 60 miles."
+          },
+          {
+            "statement": "The tornado touched down in Russell County, approximately 4 miles southeast of Russell Springs."
+          },
+          {
+            "statement": "The tornado continued to move through Somerset and London."
+          },
+          {
+            "statement": "The tornado caused extensive damage."
+          },
+          {
+            "statement": "The tornado led to multiple fatalities."
+          },
+          {
+            "statement": "The tornado led to multiple injuries."
+          },
+          {
+            "statement": "The death toll from the tornado has risen to 19."
+          },
+          {
+            "statement": "One person died in Russell County due to the tornado."
+          },
+          {
+            "statement": "One person died in Pulaski County due to the tornado."
+          },
+          {
+            "statement": "17 people died in Laurel County due to the tornado."
+          },
+          {
+            "statement": "The tornado caused significant structural damage to homes in the affected areas."
+          },
+          {
+            "statement": "The tornado caused significant structural damage to businesses in the affected areas."
+          },
+          {
+            "statement": "The tornado caused significant structural damage to infrastructure in the affected areas."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "2025_Somerset–London_tornado",
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Details about the tornado",
+        "number": "1",
+        "index": "1",
+        "anchor": "Details_about_the_tornado"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Impact and aftermath",
+        "number": "2",
+        "index": "2",
+        "anchor": "Impact_and_aftermath"
+      }
+    ]
+  },
+  "fetched_at": 1766315429,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/2025_Somerset–London_tornado.md",
+  "source_org": "deep_researcher"
+}

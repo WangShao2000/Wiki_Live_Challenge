@@ -1,0 +1,47 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "25055128": {
+        "pageid": 25055128,
+        "ns": 0,
+        "title": "Lux_(Doctor_Who)",
+        "extract": "Lux is the second episode of the fifteenth series of the British science-fiction television series Doctor Who. Set in 1952 Miami, the episode follows the Doctor and Belinda as they investigate an abandoned cinema where fifteen people have disappeared. They soon confront an animated god, Mr Ring-A-Ding, who is the god of light, Lux. The episode explores themes of light and dark, and the power of hope in changing the world. It is noted for its bold and innovative storytelling, which includes a meta scene that symbolises the show's slide into hiatus.",
+        "extract_with_citations": "Lux is the second episode of the fifteenth series of the British science-fiction television series Doctor Who. Set in 1952 Miami, the episode follows the Doctor and Belinda as they investigate an abandoned cinema where fifteen people have disappeared. They soon confront an animated god, Mr Ring-A-Ding, who is the god of light, Lux. The episode explores themes of light and dark, and the power of hope in changing the world. It is noted for its bold and innovative storytelling, which includes a meta scene that symbolises the show's slide into hiatus.",
+        "citation_urls": {},
+        "lead_content": "Lux is the second episode of the fifteenth series of the British science-fiction television series Doctor Who. Set in 1952 Miami, the episode follows the Doctor and Belinda as they investigate an abandoned cinema where fifteen people have disappeared. They soon confront an animated god, Mr Ring-A-Ding, who is the god of light, Lux. The episode explores themes of light and dark, and the power of hope in changing the world. It is noted for its bold and innovative storytelling, which includes a meta scene that symbolises the show's slide into hiatus.",
+        "statements": [
+          {
+            "statement": "Lux is the second episode of the fifteenth series of the British science-fiction television series Doctor Who."
+          },
+          {
+            "statement": "The episode is set in 1952 Miami."
+          },
+          {
+            "statement": "The episode follows the Doctor and Belinda as they investigate an abandoned cinema where fifteen people have disappeared."
+          },
+          {
+            "statement": "They soon confront an animated god, Mr Ring-A-Ding, who is the god of light, Lux."
+          },
+          {
+            "statement": "The episode explores themes of light and dark, and the power of hope in changing the world."
+          },
+          {
+            "statement": "It is noted for its bold and innovative storytelling."
+          },
+          {
+            "statement": "The storytelling includes a meta scene that symbolises the show's slide into hiatus."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Lux_(Doctor_Who)",
+    "sections": []
+  },
+  "fetched_at": 1766315480,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Lux_(Doctor_Who).md",
+  "source_org": "deep_researcher"
+}

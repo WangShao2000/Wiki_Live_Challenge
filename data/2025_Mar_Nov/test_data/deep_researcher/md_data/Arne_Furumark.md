@@ -1,0 +1,3 @@
+# Arne_Furumark
+
+Arne Furumark was a Swedish archaeologist who specialized in the ceramics of Mycenaean Greece. His major work, "The Chronology of Mycenaean Pottery," remains a standard reference in the field. He helped to establish the distinctive nature of mainland Greek (Helladic) ceramics in relation to Cretan (Minoan) wares. He introduced a heuristic model for ceramic studies in 1941 that bears the hallmarks of logical positivism. His contributions to Mycenaean pottery research emphasize style but may overlook raw materials and techniques.

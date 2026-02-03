@@ -1,0 +1,65 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "66854726": {
+        "pageid": 66854726,
+        "ns": 0,
+        "title": "The_Reality_War",
+        "extract": "The Reality War\" is the eighth and final episode of the fifteenth series of the British science fiction television series Doctor Who, first broadcast on 31 May 2025. As the finale of the series, it marked the end of the second era of the show, led by showrunner Russell T Davies. The episode, directed by Alex Pillai, follows the Doctor (Ncuti Gatwa) and his companions as they face the Unholy Trinity and its deadly ambition. The episode received mixed reviews from critics and viewers, with some praising its twists and others criticizing its chaotic and confusing nature.",
+        "extract_with_citations": "The Reality War\" is the eighth and final episode of the fifteenth series of the British science fiction television series Doctor Who, first broadcast on 31 May 2025. As the finale of the series, it marked the end of the second era of the show, led by showrunner Russell T Davies. The episode, directed by Alex Pillai, follows the Doctor (Ncuti Gatwa) and his companions as they face the Unholy Trinity and its deadly ambition. The episode received mixed reviews from critics and viewers, with some praising its twists and others criticizing its chaotic and confusing nature.",
+        "citation_urls": {},
+        "lead_content": "The Reality War\" is the eighth and final episode of the fifteenth series of the British science fiction television series Doctor Who, first broadcast on 31 May 2025. As the finale of the series, it marked the end of the second era of the show, led by showrunner Russell T Davies. The episode, directed by Alex Pillai, follows the Doctor (Ncuti Gatwa) and his companions as they face the Unholy Trinity and its deadly ambition. The episode received mixed reviews from critics and viewers, with some praising its twists and others criticizing its chaotic and confusing nature.",
+        "statements": [
+          {
+            "statement": "\"The Reality War\" is the eighth episode of the fifteenth series of the British science fiction television series Doctor Who."
+          },
+          {
+            "statement": "\"The Reality War\" is the final episode of the fifteenth series of the British science fiction television series Doctor Who."
+          },
+          {
+            "statement": "\"The Reality War\" was first broadcast on 31 May 2025."
+          },
+          {
+            "statement": "As the finale of the series, \"The Reality War\" marked the end of the second era of the show."
+          },
+          {
+            "statement": "The second era of the show was led by showrunner Russell T Davies."
+          },
+          {
+            "statement": "The episode was directed by Alex Pillai."
+          },
+          {
+            "statement": "The episode follows the Doctor and his companions."
+          },
+          {
+            "statement": "Ncuti Gatwa plays the Doctor in the episode."
+          },
+          {
+            "statement": "The Doctor and his companions face the Unholy Trinity."
+          },
+          {
+            "statement": "The Unholy Trinity has a deadly ambition."
+          },
+          {
+            "statement": "The episode received mixed reviews from critics and viewers."
+          },
+          {
+            "statement": "Some critics and viewers praised the episode's twists."
+          },
+          {
+            "statement": "Some critics and viewers criticized the episode's chaotic and confusing nature."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "The_Reality_War",
+    "sections": []
+  },
+  "fetched_at": 1766315519,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/The_Reality_War.md",
+  "source_org": "deep_researcher"
+}

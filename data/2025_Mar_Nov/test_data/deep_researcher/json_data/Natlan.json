@@ -1,0 +1,89 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "20031197": {
+        "pageid": 20031197,
+        "ns": 0,
+        "title": "Natlan",
+        "extract": "Natlan is a fictional nation from the video game Genshin Impact, developed by miHoYo. It is one of the seven nations of Teyvat and is led by Mavuika, the Pyro Archon and God of War. The region officially became available to players on August 28, 2024.\n\nA timeline of historical events in the Natlan region includes the birth of Xiuhcoatl, the Pyro Dragon Sovereign, on the same day as the archon's birth. Natlan has a rich history involving various tribes, fighting tournaments, and hot springs.\n\nNatlan is based jointly on pre-Columbian American and sub-Saharan African cultures, with some influences from Oceania. The region features a unique culture with notable figures such as the Children of Echoes, Scions of the Canopy, People of the Springs, Flower-Feather Clan, and Masters of the Night-Wind.\n\nMavuika, the Pyro Archon and God of War, is the leader of Natlan. Other notable figures include Thrain, a Sentinel Knight of Khaenri'ah, who had his heart modified to convert the memories and souls from the Ley Lines into power.\n\nThe soundtrack for Natlan features instruments from various regions, reflecting the cultural diversity of the nation.",
+        "extract_with_citations": "Natlan is a fictional nation from the video game Genshin Impact, developed by miHoYo. It is one of the seven nations of Teyvat and is led by Mavuika, the Pyro Archon and God of War. The region officially became available to players on August 28, 2024.\n\nA timeline of historical events in the Natlan region includes the birth of Xiuhcoatl, the Pyro Dragon Sovereign, on the same day as the archon's birth. Natlan has a rich history involving various tribes, fighting tournaments, and hot springs.\n\nNatlan is based jointly on pre-Columbian American and sub-Saharan African cultures, with some influences from Oceania. The region features a unique culture with notable figures such as the Children of Echoes, Scions of the Canopy, People of the Springs, Flower-Feather Clan, and Masters of the Night-Wind.\n\nMavuika, the Pyro Archon and God of War, is the leader of Natlan. Other notable figures include Thrain, a Sentinel Knight of Khaenri'ah, who had his heart modified to convert the memories and souls from the Ley Lines into power.\n\nThe soundtrack for Natlan features instruments from various regions, reflecting the cultural diversity of the nation.",
+        "citation_urls": {},
+        "lead_content": "Natlan is a fictional nation from the video game Genshin Impact, developed by miHoYo. It is one of the seven nations of Teyvat and is led by Mavuika, the Pyro Archon and God of War. The region officially became available to players on August 28, 2024.",
+        "statements": [
+          {
+            "statement": "Natlan is a fictional nation from the video game Genshin Impact, developed by miHoYo."
+          },
+          {
+            "statement": "It is one of the seven nations of Teyvat and is led by Mavuika, the Pyro Archon and God of War."
+          },
+          {
+            "statement": "The region officially became available to players on August 28, 2024."
+          },
+          {
+            "statement": "A timeline of historical events in the Natlan region includes the birth of Xiuhcoatl, the Pyro Dragon Sovereign, on the same day as the archon's birth."
+          },
+          {
+            "statement": "Natlan has a rich history involving various tribes, fighting tournaments, and hot springs."
+          },
+          {
+            "statement": "Natlan is based jointly on pre-Columbian American and sub-Saharan African cultures, with some influences from Oceania."
+          },
+          {
+            "statement": "The region features a unique culture with notable figures such as the Children of Echoes, Scions of the Canopy, People of the Springs, Flower-Feather Clan, and Masters of the Night-Wind."
+          },
+          {
+            "statement": "Mavuika, the Pyro Archon and God of War, is the leader of Natlan."
+          },
+          {
+            "statement": "Other notable figures include Thrain, a Sentinel Knight of Khaenri'ah, who had his heart modified to convert the memories and souls from the Ley Lines into power."
+          },
+          {
+            "statement": "The soundtrack for Natlan features instruments from various regions, reflecting the cultural diversity of the nation."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Natlan",
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "History",
+        "number": "1",
+        "index": "1",
+        "anchor": "History"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Culture",
+        "number": "2",
+        "index": "2",
+        "anchor": "Culture"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Notable Figures",
+        "number": "3",
+        "index": "3",
+        "anchor": "Notable_Figures"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Soundtrack",
+        "number": "4",
+        "index": "4",
+        "anchor": "Soundtrack"
+      }
+    ]
+  },
+  "fetched_at": 1766315493,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Natlan.md",
+  "source_org": "deep_researcher"
+}

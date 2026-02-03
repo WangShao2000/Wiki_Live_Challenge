@@ -1,0 +1,3 @@
+# The_Reality_War
+
+The Reality War" is the eighth and final episode of the fifteenth series of the British science fiction television series Doctor Who, first broadcast on 31 May 2025. As the finale of the series, it marked the end of the second era of the show, led by showrunner Russell T Davies. The episode, directed by Alex Pillai, follows the Doctor (Ncuti Gatwa) and his companions as they face the Unholy Trinity and its deadly ambition. The episode received mixed reviews from critics and viewers, with some praising its twists and others criticizing its chaotic and confusing nature.

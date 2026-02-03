@@ -1,0 +1,3 @@
+# Champions_of_the_Future
+
+Champions of the Future (COTF) is a kart racing competition launched in 2020 by promoter RGMMC and organized by the RGMMC Group. The competition is sanctioned by FIA Karting (CIK-FIA) and has become a must for the best international drivers and teams. Some of the biggest names in karting have participated in the competition, and it has established itself as a significant event in the karting calendar. The competition is known for its competitive spirit and the development of young talent.

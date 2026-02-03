@@ -1,0 +1,50 @@
+### Background
+Grupo Frontera is a regional Mexican band formed in Edinburg, Texas, in 2022. The group consists of lead vocalist Adelaido "Payo" Solís III, accordionist and backing vocalist Juan Javier Cantú, congas player Julian Peña Jr., bajo quinto player Alberto "Beto" Acosta, drummer Carlos Guerrero, and bassist Brian Ortega. Known for blending norteño, cumbia, and other traditional Mexican genres with modern influences, the band gained prominence through social media covers and collaborations, including the 2023 hit "Un x100to" with Puerto Rican artist Bad Bunny, which reached the top five on the Billboard Hot 100 chart.[1][2] Their music often draws from border-town experiences, reflecting the cultural ties between the United States and Mexico, as the band's name—meaning "Border Group"—suggests.[3]
+
+The controversy emerged in the context of the 2024 U.S. presidential election, where Trump secured re-election with increased support from Latino voters, particularly men. Exit polls from Edison Research indicated that 54% of Hispanic men voted for Trump, up from previous elections, with economic concerns and border security cited as key factors.[4] This shift occurred despite Trump's campaign rhetoric and policies, including promises of mass deportations starting in 2025, which were projected to disproportionately affect Latino communities.[5] Some Latino voters, such as small business owners in Pennsylvania, expressed support for Trump due to perceived economic benefits, while others criticized his stance on immigration as divisive.[4]
+
+### Viral videos and allegations
+The controversy began in early January 2025 when a video of Solís's grandmother, known online as "La Abuela Frontera," went viral on platforms like TikTok. The clip showed her performing a dance to the Village People's 1978 song "Y.M.C.A.," a track commonly played at Trump campaign rallies since at least 2020 and associated with a signature "Trump dance" involving arm movements mimicking the song's letters.[3][6] Although the video did not explicitly mention Trump or politics, online users interpreted it as an endorsement of his victory, given the timing shortly after his re-election.[3][7]
+
+Around the same period, a now-deleted TikTok video surfaced showing Grupo Frontera members dancing to "Y.M.C.A." as part of a pre-show routine from their previous tour.[3] Social media users accused the band of deleting this and other content, including alleged videos encouraging votes for Trump and instances where members liked pro-Trump posts on Instagram.[7][8] TikTok user Sarah Jasmine claimed the group had removed explicit endorsements, describing them as "evidence of an endorsement."[9] These allegations spread rapidly on platforms like X (formerly Twitter) and TikTok, with users linking the band's border origins to expectations of opposition to Trump's immigration policies.[3][10]
+
+### Public reaction
+The allegations prompted widespread backlash from fans, particularly in Mexico and among Latino communities in the United States. Social media comments included calls to boycott the band's music and performances, with phrases such as "Make music in English now," "Never come back to Mexico," "Latinos are the ones who listen to your music, and you’ve let us down," and "This kind of betrayal comes at a high price."[2][3] Some compared the situation to the 2023 backlash against sibling group Yahritza y su Esencia, who faced criticism for disparaging remarks about Mexico, leading to reduced performances there.[9]
+
+On February 11, 2025, a petition on Change.org, initiated by a Chicago resident using the alias "Espiritu," called for Grupo Frontera's removal from the lineup of the Sueños Music Festival in Chicago, scheduled for May 2025.[11] The petitioner, who had spent approximately $800 on tickets, argued that the "Y.M.C.A." video implied support for Trump, whose policies were seen as anti-Hispanic, and requested a refund.[11] By mid-February, the petition had garnered over 10,400 signatures.[3][11] Festival co-founder Christopher Den Uijl stated on Instagram that the event celebrated Latino culture without hate, but did not address the band's status directly.[11] As of December 2025, later festival announcements for 2026 featured different headliners, such as Fuerza Regida, though no explicit confirmation of changes for 2025 due to the petition was reported.[12]
+
+Influencers and artists also weighed in. TikTok activist Carlos Eduardo Espina, with over 12 million followers, described one of the band's responses as "one of the worst responses that I have ever seen to a question in my whole life" and "an embarrassment," arguing that silence on immigration issues spoke volumes.[3] Emiliano Aguilar, son of Mexican singer Pepe Aguilar, posted on Instagram in support of cancellation, stating, "Fuck [Grupo Frontera]. Mexico must be respected," particularly after the band's release of "Ilegal," a song protesting deportations.[1][13] Other Latin artists, including Residente, Selena Gomez, Lupillo Rivera, Becky G, Chiquis, and Ángela Aguilar, publicly opposed Trump's deportation plans during this period.[2]
+
+The band's NPR Tiny Desk concert in April 2025 received mixed reactions, with some viewers referencing the ongoing controversy in comments.[14] Broader discussions highlighted polarization within the Latino community, with some noting Trump's growing appeal among Hispanic voters in states like Pennsylvania, where economic dissatisfaction drove shifts from Democratic to Republican support.[4]
+
+### Band's statements
+Grupo Frontera issued multiple statements denying political affiliations. In a January 5, 2025, interview with El País during a tour in Madrid, Cantú said, "We rarely get involved in politics. It’s very controversial for us and we just want to make music." The band also discussed supporting Mexican immigrants through community donations, such as toys to detention centers, while respecting U.S. laws.[15]
+
+On February 7, 2025, the group posted on Instagram Stories: "We want to clarify that Grupo Frontera has NO affiliation nor alliance with any political party that’s against immigrants and the Latino community. Like many of you, our families and [group] members have fought and struggled for a better future, and we will always take our people’s side, defending our roots and values. It’s important you know that the opinions of our friends and family don’t represent Grupo Frontera. We are immigrants, we are from the border, and Grupo Frontera will always be by and for the people."[2][3][6]
+
+At the Premios Lo Nuestro awards on February 20, 2025, when asked about U.S.-Mexico border issues, Peña Jr. responded, "We dedicate ourselves to music. We love everyone and want peace and love. Take care of yourselves."[3]
+
+On February 22, 2025, the band released an Instagram video addressing rumors. Peña Jr. stated, "We are migrants, our parents are migrants. And we want to tell you directly that we don’t support any political party that is against migrants." Cantú explained the "Y.M.C.A." dance as a non-political routine from primary school, while Solís clarified, "The only opinions that count from Grupo Frontera are those that come from the group itself."[3][16] In a December 2024 interview published by Billboard in March 2025, Guerrero noted the band's name naturally invited border-related questions, but they aimed to "keep that private" and focus on music.[3]
+
+### Aftermath
+The controversy did not halt Grupo Frontera's activities. They performed at events like Billboard THE STAGE at SXSW in Austin on March 14, 2025, and made their debut at Nashville's Grand Ole Opry in November 2025, incorporating country influences.[17] The band released "Ilegal" in 2025, a protest song against deportations that received acclaim from some immigrants.[13] However, the incident contributed to ongoing discussions about celebrity political neutrality and the impact of family members' actions on public figures.[4][18] As of December 2025, no further major developments were reported, though the episode underscored challenges for border-based artists navigating U.S.-Mexico relations.
+
+## References
+[1] https://www.reddit.com/r/popheads/comments/1iwbeid/heres_how_mexican_artists_responded_to/  
+[2] https://www.billboard.com/music/latin/grupo-frontera-alleged-donald-trump-support-statement-1235896459/  
+[3] https://www.latimes.com/delos/story/2025-03-10/grupo-frontera-us-mexico-border-tiktok-politics-explained  
+[4] https://aldianews.com/en/politics/policy/case-grupo-frontera  
+[5] https://www.borderreport.com/hot-topics/border-culture/grupo-frontera-responds-to-political-allegations/  
+[6] https://www.msn.com/en-us/news/world/grupo-frontera-supports-latin-community-in-statement-on-political-views/ar-AA1yFqmW  
+[7] https://www.valleycentral.com/news/local-news/grupo-frontera-responds-to-political-allegations/  
+[8] https://www.facebook.com/billboardlatin/posts/grupo-frontera-addressed-backlash-over-alleged-donald-trump-support-sharing-a-st/1022674219907247/  
+[9] https://www.imdb.com/news/ni65143947/  
+[10] https://www.mysanantonio.com/entertainment/article/grupo-frontera-tiny-desk-npr-20292545.php  
+[11] https://chicago.suntimes.com/music/suenos-music-festival-chicago/2025/02/11/grupo-frontera-trump-suenos-petition-festival-chicago-ymca  
+[12] https://www.wbez.org/music/2025/11/18/suenos-2026-fuerza-regida-headliner-lineup  
+[13] https://www.latintimes.com/grupo-frontera-ignore-criticism-allegedly-supporting-donald-trump-574253  
+[14] https://www.mysanantonio.com/entertainment/article/grupo-frontera-tiny-desk-npr-20292545.php  
+[15] https://english.elpais.com/culture/2025-01-05/grupo-frontera-we-respect-american-laws-but-we-support-mexican-immigrants-as-best-we-can.html  
+[16] https://www.rollingstone.com/music/music-latin/grupo-frontera-dispel-trump-rumors-1235276843/  
+[17] https://www.rollingstone.com/music/music-country/grupo-frontera-to-make-grand-ole-opry-debut-1235443595/  
+[18] https://www.instagram.com/p/DF3YP_IP2-K/

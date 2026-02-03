@@ -1,0 +1,347 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "47584032": {
+        "pageid": 47584032,
+        "ns": 0,
+        "title": "Parasitic_ant",
+        "extract": "# Parasitic Ant\n\n## Introduction\n\nParasitic ants are a distinctive group within the ant family (Formicidae), known for their remarkable adaptations that enable them to exploit the resources, social structures, or colonies of other ant species. The study of parasitic ants has significant importance in evolutionary biology and behavioral ecology because these interactions illustrate complex social, reproductive, and evolutionary dynamics. Multiple evolutionary lineages of ants have developed various forms of parasitism, demonstrating the diversity of survival strategies in insects. Parasitic ants are notable for phenomena such as social parasitism, temporary parasitism, slavery (also known as dulosis), and inquilinism. Each mode reflects a distinct relationship between parasite and host, ranging from temporary exploitation to complete integration into the host's society. The field continues to be shaped by ongoing research and debate, particularly regarding the origins and consequences of parasitic lifestyles in ants.\n\n## Biological Definition and Forms of Parasitism\n\nParasitic ants are defined by their dependency on other ant species for completing part or all of their lifecycle. Unlike mutualism, where both parties benefit, or predation, where one organism kills another, parasitism involves an organism (the parasite) gaining resources at the host's expense—often by infiltrating or manipulating the host's colony.\n\n### Social Parasitism\n\nSocial parasitism is the broad term for any scenario where one ant species exploits another's social systems. Social parasites gain access to resources such as food, labor, or brood care without fully reciprocating within the colony. They often develop specialized behaviors or morphologies that allow them to evade detection, integrate with host colonies, or manipulate host workers.\n\nThere are several recognized forms of social parasitism in ants, which differ in duration, dependence, and methods:\n\n#### Temporary Social Parasitism\n\nIn temporary social parasitism, a parasitic queen infiltrates a host colony, frequently killing or displacing the resident queen. She then produces her own offspring, which are cared for by the enslaved host workers. Over time, the host workers die off and are replaced entirely by the parasite's own descendants. The process is called “temporary” because the dependence on the host species is limited to the initial founding phase. Genera such as Formica and Lasius include species employing this strategy.\n\n#### Slavery (Dulosis)\n\nSlavery, or dulosis, describes ants that invade the nests of other species, capturing their brood (eggs, larvae, or pupae). These captured young emerge in the parasite's colony and, upon maturation, act as workers for the slave-making species. Unlike temporary social parasitism, dulosis is a continuing process, with repeated raids essential to sustain the labor force of the parasite colony. Polyergus and Formica sanguinea are well-documented slave-making ants.\n\n#### Inquilinism\n\nInquilinism represents an advanced form of parasitism where the parasitic species has become fully dependent on living within the host’s colony, often losing its own worker caste entirely. Inquiline parasites spend their entire lives within the host's nest, relying on host workers for care, feeding, and rearing of their brood. They typically specialize in closely related host species. Myrmica and Pheidole genera have well-studied inquiline ants.\n\n### Other Parasitic Strategies\n\nSome ants employ more specialized or atypical parasitic strategies, such as:\n\n- **Permanent workerless parasitism**: The parasite never produces its own workers and exists solely as queens and males within the host colony.\n- **Guest ant behavior**: Some species are tolerated within the host nest because of chemical mimicry or appeasement behaviors, gaining shelter and food while not directly participating in colony labor.\n\n## Notable Examples and Taxa\n\nSeveral ant genera and species are recognized for their parasitic lifestyles:\n\n- **Polyergus**: Known as the \"Amazon ants,\" these are obligate slave-makers that specialize in enslaving workers of the Formica genus.\n- **Formica sanguinea**: Exhibits a complex mix of temporary and continuous enslavement strategies, with both free-living and parasitic colonies documented.\n- **Myrmica karavajevi**: An inquiline species that lives inside the nests of other Myrmica species, never producing its own workers and depending completely on the host colony.\n- **Lasius fuliginosus**: Often engages in temporary parasitism by establishing new colonies through usurping related species.\n\nThese taxa can be found across temperate regions of Europe, North America, and Asia, with diversity of parasitic strategies reflecting local ecological and evolutionary pressures.\n\n## Evolutionary and Ecological Context\n\nThe evolution of parasitic strategies in ants is a subject of ongoing study and debate. Social parasitism is believed to have evolved independently multiple times within the Formicidae, supporting the hypothesis that complex social structures are fertile ground for the emergence of parasites. Most social parasites are closely related to their hosts (“Emery’s rule”), suggesting a history of host-parasite co-evolution and often a gradual shift from facultative to obligate parasitism.\n\nEcologically, parasitic ants play intricate roles in their environments, influencing host colony structure, gene flow, and community dynamics. Parasitic invasions can lower host population sizes or, conversely, select for host defenses, leading to evolutionary arms races.\n\n## Research Perspectives and Scientific Controversies\n\nMajor research questions focus on:\n\n- **Origins of Parasitism**: Whether social parasitism in ants generally evolves from closely related free-living ancestors or through more distant evolutionary leaps is actively debated. Genetic studies have provided evidence for both scenarios, with the “Emery’s rule” often—but not universally—applicable.\n- **Behavioral Adaptations**: The mechanisms used by parasites to integrate into host colonies, such as chemical mimicry or aggression suppression, are key areas of investigation. Studies have documented sophisticated chemical and behavioral imitation strategies.\n- **Genomic Insights**: Comparative genomic studies reveal rapid changes in parasite genomes, including gene losses or gains associated with parasitic adaptations (e.g., reduction of worker-related genes in inquilines).\n- **Conservation and Impact**: The parasitic lifestyle often makes these ants vulnerable to habitat changes, as they depend heavily on host populations and precise ecological conditions.\n\nOngoing research, especially using modern genomic techniques, continues to clarify the number of independent origins of parasitism and the balance of co-evolutionary pressures between hosts and parasites.\n\n## Conclusion\n\nParasitic ants exemplify some of the most intricate and specialized forms of interspecies interaction found among social insects. Their diverse strategies, ranging from temporary exploitation to lifelong dependency, have made them a model for understanding evolution, behavior, and the costs and benefits of social living. Through continued research, parasitic ants provide critical insights into the evolutionary pressures that shape social complexity and interspecific relationships.",
+        "citation_urls": {
+          "1": "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755",
+          "2": "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432",
+          "3": "https://www.researchgate.net/publication/282872165",
+          "4": "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45",
+          "5": "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+        },
+        "statements": [
+          {
+            "fact": "Parasitic ants are a distinctive group within the ant family (Formicidae), known for their remarkable adaptations that enable them to exploit the resources, social structures, or colonies of other ant species.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755",
+              "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432"
+            ]
+          },
+          {
+            "fact": "The study of parasitic ants has significant importance in evolutionary biology and behavioral ecology because these interactions illustrate complex social, reproductive, and evolutionary dynamics.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755",
+              "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432"
+            ]
+          },
+          {
+            "fact": "Multiple evolutionary lineages of ants have developed various forms of parasitism, demonstrating the diversity of survival strategies in insects.",
+            "ref_idx": [
+              "3",
+              "4",
+              "5"
+            ],
+            "url": [
+              "https://www.researchgate.net/publication/282872165",
+              "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45",
+              "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+            ]
+          },
+          {
+            "fact": "Parasitic ants are notable for phenomena such as social parasitism, temporary parasitism, slavery (also known as dulosis), and inquilinism.",
+            "ref_idx": [
+              "3",
+              "4",
+              "5"
+            ],
+            "url": [
+              "https://www.researchgate.net/publication/282872165",
+              "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45",
+              "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+            ]
+          },
+          {
+            "fact": "Each mode of parasitism reflects a distinct relationship between parasite and host, ranging from temporary exploitation to complete integration into the host's society.",
+            "ref_idx": [
+              "3",
+              "4",
+              "5"
+            ],
+            "url": [
+              "https://www.researchgate.net/publication/282872165",
+              "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45",
+              "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+            ]
+          },
+          {
+            "fact": "The field of parasitic ant study continues to be shaped by ongoing research and debate, particularly regarding the origins and consequences of parasitic lifestyles in ants.",
+            "ref_idx": [
+              "3",
+              "4",
+              "5"
+            ],
+            "url": [
+              "https://www.researchgate.net/publication/282872165",
+              "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45",
+              "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+            ]
+          },
+          {
+            "fact": "Parasitic ants are defined by their dependency on other ant species for completing part or all of their lifecycle.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755",
+              "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432"
+            ]
+          },
+          {
+            "fact": "Unlike mutualism, where both parties benefit, or predation, where one organism kills another, parasitism involves an organism (the parasite) gaining resources at the host's expense—often by infiltrating or manipulating the host's colony.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755",
+              "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432"
+            ]
+          },
+          {
+            "fact": "Social parasitism is the broad term for any scenario where one ant species exploits another's social systems.",
+            "ref_idx": "2",
+            "url": "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432"
+          },
+          {
+            "fact": "Social parasites gain access to resources such as food, labor, or brood care without fully reciprocating within the colony.",
+            "ref_idx": "2",
+            "url": "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432"
+          },
+          {
+            "fact": "Social parasites often develop specialized behaviors or morphologies that allow them to evade detection, integrate with host colonies, or manipulate host workers.",
+            "ref_idx": "2",
+            "url": "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432"
+          },
+          {
+            "fact": "In temporary social parasitism, a parasitic queen infiltrates a host colony, frequently killing or displacing the resident queen.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "A parasitic queen then produces her own offspring, which are cared for by the enslaved host workers.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "Over time, the host workers die off and are replaced entirely by the parasite's own descendants.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "The process of temporary social parasitism is called “temporary” because the dependence on the host species is limited to the initial founding phase.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "Genera such as Formica and Lasius include species employing the temporary social parasitism strategy.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "Slavery, also known as dulosis, describes ants that invade the nests of other species, capturing their brood (eggs, larvae, or pupae).",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "These captured young emerge in the parasite's colony and, upon maturation, act as workers for the slave-making species.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "Unlike temporary social parasitism, dulosis is a continuing process, with repeated raids essential to sustain the labor force of the parasite colony.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "Polyergus and Formica sanguinea are well-documented slave-making ants.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "Inquilinism represents an advanced form of parasitism where the parasitic species has become fully dependent on living within the host’s colony, often losing its own worker caste entirely.",
+            "ref_idx": "4",
+            "url": "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45"
+          },
+          {
+            "fact": "Inquiline parasites spend their entire lives within the host's nest, relying on host workers for care, feeding, and rearing of their brood.",
+            "ref_idx": "4",
+            "url": "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45"
+          },
+          {
+            "fact": "Inquiline parasites typically specialize in closely related host species.",
+            "ref_idx": "4",
+            "url": "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45"
+          },
+          {
+            "fact": "Myrmica and Pheidole genera have well-studied inquiline ants.",
+            "ref_idx": "4",
+            "url": "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45"
+          },
+          {
+            "fact": "Permanent workerless parasitism is a parasitic strategy where the parasite never produces its own workers and exists solely as queens and males within the host colony.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "Guest ant behavior is a parasitic strategy where some species are tolerated within the host nest because of chemical mimicry or appeasement behaviors, gaining shelter and food while not directly participating in colony labor.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "Polyergus, known as the \"Amazon ants,\" are obligate slave-makers that specialize in enslaving workers of the Formica genus.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "Formica sanguinea exhibits a complex mix of temporary and continuous enslavement strategies, with both free-living and parasitic colonies documented.",
+            "ref_idx": "3",
+            "url": "https://www.researchgate.net/publication/282872165"
+          },
+          {
+            "fact": "Myrmica karavajevi is an inquiline species that lives inside the nests of other Myrmica species, never producing its own workers and depending completely on the host colony.",
+            "ref_idx": "4",
+            "url": "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45"
+          },
+          {
+            "fact": "Lasius fuliginosus often engages in temporary parasitism by establishing new colonies through usurping related species.",
+            "ref_idx": "1",
+            "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755"
+          },
+          {
+            "fact": "These parasitic ant taxa can be found across temperate regions of Europe, North America, and Asia, with diversity of parasitic strategies reflecting local ecological and evolutionary pressures.",
+            "ref_idx": "2",
+            "url": "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432"
+          },
+          {
+            "fact": "The evolution of parasitic strategies in ants is a subject of ongoing study and debate.",
+            "ref_idx": "2",
+            "url": "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432"
+          },
+          {
+            "fact": "Social parasitism is believed to have evolved independently multiple times within the Formicidae, supporting the hypothesis that complex social structures are fertile ground for the emergence of parasites.",
+            "ref_idx": "2",
+            "url": "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432"
+          },
+          {
+            "fact": "Most social parasites are closely related to their hosts (“Emery’s rule”), suggesting a history of host-parasite co-evolution and often a gradual shift from facultative to obligate parasitism.",
+            "ref_idx": "5",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+          },
+          {
+            "fact": "Ecologically, parasitic ants play intricate roles in their environments, influencing host colony structure, gene flow, and community dynamics.",
+            "ref_idx": "5",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+          },
+          {
+            "fact": "Parasitic invasions can lower host population sizes or, conversely, select for host defenses, leading to evolutionary arms races.",
+            "ref_idx": "5",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+          },
+          {
+            "fact": "Whether social parasitism in ants generally evolves from closely related free-living ancestors or through more distant evolutionary leaps is actively debated.",
+            "ref_idx": "5",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+          },
+          {
+            "fact": "Genetic studies have provided evidence for both scenarios regarding the origins of parasitism, with the “Emery’s rule” often—but not universally—applicable.",
+            "ref_idx": "5",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+          },
+          {
+            "fact": "The mechanisms used by parasites to integrate into host colonies, such as chemical mimicry or aggression suppression, are key areas of investigation.",
+            "ref_idx": "5",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+          },
+          {
+            "fact": "Studies have documented sophisticated chemical and behavioral imitation strategies used by parasites.",
+            "ref_idx": "5",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+          },
+          {
+            "fact": "Comparative genomic studies reveal rapid changes in parasite genomes, including gene losses or gains associated with parasitic adaptations (e.g., reduction of worker-related genes in inquilines).",
+            "ref_idx": "5",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2214574521000319"
+          },
+          {
+            "fact": "The parasitic lifestyle often makes these ants vulnerable to habitat changes, as they depend heavily on host populations and precise ecological conditions.",
+            "ref_idx": "1",
+            "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755"
+          },
+          {
+            "fact": "Ongoing research, especially using modern genomic techniques, continues to clarify the number of independent origins of parasitism and the balance of co-evolutionary pressures between hosts and parasites.",
+            "ref_idx": "1",
+            "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755"
+          },
+          {
+            "fact": "Parasitic ants exemplify some of the most intricate and specialized forms of interspecies interaction found among social insects.",
+            "ref_idx": "1",
+            "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755"
+          },
+          {
+            "fact": "Their diverse strategies, ranging from temporary exploitation to lifelong dependency, have made them a model for understanding evolution, behavior, and the costs and benefits of social living.",
+            "ref_idx": "1",
+            "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755"
+          },
+          {
+            "fact": "Through continued research, parasitic ants provide critical insights into the evolutionary pressures that shape social complexity and interspecific relationships.",
+            "ref_idx": "1",
+            "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755"
+          }
+        ],
+        "citation_contents": {
+          "5": {
+            "url": "https://www.sciencedirect.com/science/article/pii/S2214574521000319",
+            "title": "",
+            "content": "",
+            "error": "Failed to fetch"
+          },
+          "2": {
+            "url": "https://www.myrmecologicalnews.org/cms/index.php?option=com_content&view=article&id=432",
+            "title": "",
+            "description": "",
+            "content": "Article not found",
+            "publish_time": "unknown",
+            "fetched_by": "jina"
+          },
+          "4": {
+            "url": "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45",
+            "title": "Springer Nature Link (formerly SpringerLink)",
+            "description": "",
+            "content": "Page Unavailable | Springer Nature Link (formerly SpringerLink)\n===============\n\nYour privacy, your choice\n-------------------------\n\nWe use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.\n\nBy accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.\n\nSee our [privacy policy](https://link.springer.com/privacystatement) for more information on the use of your personal data.\n\nManage preferences for further information and to change your choices.\n\nAccept all cookies Reject optional cookies\n\n[Skip to main content](https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-13-45#main-content)\n\n[![Image 1: Springer Nature Link](https://frontiersinzoology.biomedcentral.com/oscar-static/images/darwin/header/img/logo-springer-nature-link-3149409f62.svg)](https://link.springer.com/)\n\n[Account](https://link.springer.com/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1186%2F1742-9994-13-45)\n\n[Menu](javascript:;)\n\n[Find a journal](https://link.springer.com/journals/)[Publish with us](https://www.springernature.com/gp/authors)[Track your research](https://link.springernature.com/home/)\n\n[Search](javascript:;)\n\n[Cart](https://order.springer.com/public/cart)\n\nSearch\n------\n\nSearch by keyword or author \n\nSearch\n\nNavigation\n----------\n\n*   [Find a journal](https://link.springer.com/journals/)\n*   [Publish with us](https://www.springernature.com/gp/authors)\n*   [Track your research](https://link.springernature.com/home/)\n\nPage not found\n==============\n\nSorry, the page you requested is unavailable. The link you requested might be broken, or no longer exist.\n\nWhy not start at our [homepage](https://frontiersinzoology.biomedcentral.com/)?\n\n### Discover content\n\n*   [Journals A-Z](https://link.springer.com/journals/a/1)\n*   [Books A-Z](https://link.springer.com/books/a/1)\n\n### Publish with us\n\n*   [Journal finder](https://link.springer.com/journals)\n*   [Publish your research](https://www.springernature.com/gp/authors)\n*   [Language editing](https://authorservices.springernature.com/go/sn/?utm_source=SNLinkfooter&utm_medium=Web&utm_campaign=SNReferral)\n*   [Open access publishing](https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research)\n\n### Products and services\n\n*   [Our products](https://www.springernature.com/gp/products)\n*   [Librarians](https://www.springernature.com/gp/librarians)\n*   [Societies](https://www.springernature.com/gp/societies)\n*   [Partners and advertisers](https://www.springernature.com/gp/partners)\n\n### Our brands\n\n*   [Springer](https://link.springer.com/brands/springer)\n*   [Nature Portfolio](https://www.nature.com/)\n*   [BMC](https://link.springer.com/brands/bmc)\n*   [Palgrave Macmillan](https://frontiersinzoology.biomedcentral.com/brands/palgrave)\n*   [Apress](https://www.apress.com/)\n*   [Discover](https://link.springer.com/brands/discover)\n\n*   Your privacy choices/Manage cookies\n*   [Your US state privacy rights](https://www.springernature.com/gp/legal/ccpa)\n*   [Accessibility statement](https://link.springer.com/accessibility)\n*   [Terms and conditions](https://link.springer.com/termsandconditions)\n*   [Privacy policy](https://link.springer.com/privacystatement)\n*   [Help and support](https://support.springernature.com/en/support/home)\n*   [Legal notice](https://link.springer.com/legal-notice)\n*   [Cancel contracts here](https://support.springernature.com/en/support/solutions/articles/6000255911-subscription-cancellations)\n\n34.34.253.142\n\nNot affiliated\n\n[![Image 2: Springer Nature](https://frontiersinzoology.biomedcentral.com/oscar-static/images/logo-springernature-white-19dd4ba190.svg)](https://www.springernature.com/)\n© 2025 Springer Nature",
+            "publish_time": "unknown",
+            "fetched_by": "jina"
+          },
+          "3": {
+            "url": "https://www.researchgate.net/publication/282872165",
+            "title": "",
+            "content": "",
+            "error": "Failed to fetch"
+          },
+          "1": {
+            "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674040755",
+            "title": "VGhlIEFudHMg4oCUIEhhcnZhcmQgVW5pdmVyc2l0eSBQcmVzcw==",
+            "description": "",
+            "content": "The Ants — Harvard University Press\n=============== \n\n[Skip to main content](https://www.hup.harvard.edu/catalog.php?isbn=9780674040755#main)\n\n30% Off Sitewide: Use Code HOL25\n\n[Harvard University Press - home](https://www.hup.harvard.edu/)\n\n*   Books\n    \n    *   New\n        *   [Bestsellers](https://www.hup.harvard.edu/bestsellers)\n        *   [New Releases](https://www.hup.harvard.edu/new-releases)\n        *   [Forthcoming Books](https://www.hup.harvard.edu/forthcoming-books)\n        *   [Catalog](https://www.hup.harvard.edu/catalog)\n    *   Subjects\n        *   [Economics & Business](https://www.hup.harvard.edu/browse/economics-business)\n        *   [History](https://www.hup.harvard.edu/browse/history)\n        *   [Philosophy](https://www.hup.harvard.edu/browse/philosophy)\n        *   [Politics](https://www.hup.harvard.edu/browse/politics)\n        *   [Science & Nature](https://www.hup.harvard.edu/browse/science-nature)\n        *   [All Subjects](https://www.hup.harvard.edu/catalog.php?isbn=9780674040755#index-subjects)\n    *   Classics in Translation\n        *   [Loeb Classical Library](https://www.hup.harvard.edu/series/loeb-classical-library)\n        *   [Murty Classical Library of India](https://www.hup.harvard.edu/series/murty-classical-library-of-india)\n        *   [Dumbarton Oaks Medieval Library](https://www.hup.harvard.edu/series/dumbarton-oaks-medieval-library)\n        *   [The I Tatti Renaissance Library](https://www.hup.harvard.edu/series/the-i-tatti-renaissance-library)\n    *   Series\n        *   [The Charles Eliot Norton Lectures](https://www.hup.harvard.edu/series/the-charles-eliot-norton-lectures)\n        *   [The W. E. B. Du Bois Lectures](https://www.hup.harvard.edu/series/the-w-e-b-du-bois-lectures)\n        *   [The Nathan I. Huggins Lectures](https://www.hup.harvard.edu/series/the-nathan-i-huggins-lectures)\n        *   [I Tatti Studies in Italian Renaissance History](https://www.hup.harvard.edu/series/i-tatti-studies-in-italian-renaissance-history)\n        *   [Wonders of the World](https://www.hup.harvard.edu/series/wonders-of-the-world)\n        *   [All Series](https://www.hup.harvard.edu/catalog.php?isbn=9780674040755#index-series)\n    *   Partners\n        *   [Harvard University Asia Center](https://www.hup.harvard.edu/partners/harvard-university-asia-center)\n        *   [Harvard Ukrainian Research Institute](https://www.hup.harvard.edu/partners/harvard-ukrainian-research-institute)\n        *   [Dumbarton Oaks Research Library and Collection](https://www.hup.harvard.edu/partners/dumbarton-oaks-research-library-and-collection)\n        *   [Peabody Museum Press](https://www.hup.harvard.edu/partners/peabody-museum-press)\n        *   [Harvard Graduate School of Design](https://www.hup.harvard.edu/partners/harvard-graduate-school-of-design)\n        *   [All Partners](https://www.hup.harvard.edu/catalog.php?isbn=9780674040755#index-partners)\n    \n*   [Features](https://www.hup.harvard.edu/features)\n*   [Resources](https://www.hup.harvard.edu/resources)\n*   [About](https://www.hup.harvard.edu/about)\n\n[Index](https://www.hup.harvard.edu/catalog.php?isbn=9780674040755#index-authors)\n\n![Image 1: The Ants](https://www.hup.harvard.edu/img/feeds/jackets/9780674040755.png?fm=jpg&q=80&fit=max&w=200)\n\nThe Ants\n========\n\n[Bert Hölldobler](https://www.hup.harvard.edu/authors/4451-holldobler-bert), [Edward O. Wilson](https://www.hup.harvard.edu/authors/8532-wilson-edward-o)\n\n*   [Hardcover](https://www.hup.harvard.edu/books/9780674040755)\n\nAdd to shopping bag $161.50Harvard University Press books are not shipped directly to India due to regional distribution arrangements. Buy from your local bookstore, Amazon.co.in, or Flipkart.com.\n\nThis book is not shipped directly to country due to regional distribution arrangements.\n\nPre-order for this book isn't available yet on our website.\n\nThis book is currently out of stock.\n\nEdit shipping location\n\nBuy elsewhere\n\n### Dropdown items\n\n*   [Amazon](https://www.amazon.com/gp/product/0674040759)\n*   [Barnes and Noble](http://www.barnesandnoble.com/s/9780674040755)\n*   [Bookshop.org](https://bookshop.org/books?keywords=9780674040755)\n*   [Waterstones](https://www.waterstones.com/books/search/term/9780674040755)\n*   [Amazon](http://www.amazon.in/s?k=9780674040755)\n*   [Flipkart](https://www.flipkart.com/search?q=9780674040755)\n\nISBN 9780674040755\n\nPublication date: 03/28/1990\n\nThis landmark work, the distillation of a lifetime of research by the world’s leading myrmecologists, is a thoroughgoing survey of one of the largest and most diverse groups of animals on the planet. Bert Hölldobler and Edward O. Wilson review in exhaustive detail virtually all topics in the anatomy, physiology, social organization, ecology, and natural history of the ants. In large format, with almost a thousand line drawings, photographs, and paintings, it is one of the most visually rich and all-encompassing views of any group of organisms on earth. It will be welcomed both as an introduction to the subject and as an encyclopedia reference for researchers in entomology, ecology, and sociobiology.\n\nPraise\n------\n\n*   > A monumental achievement, the last word in myrmecology, the study of ants… It is likely the average adult…will be intrigued by passages about these ubiquitous and complicated creatures.\n    > \n    > —Paul Galloway, Chicago Tribune\n    \n*   > _The Ants_ is a stunningly attractive volume that belongs as much on the coffee table as it does on the lab bench… The 20 chapters are organized thematically, and they are written in a clear, accessible and engaging style… Only Hölldobler and Wilson could have written such a comprehensive and integrated treatment of ant biology. It represents a herculean labour of love, and it sets a new standard for synthetic works on major taxa… _The Ants_ will undoubtedly remain in active service for decades, guiding both tourists and seasoned travellers through a strange and wonderful world.\n    > \n    > —Donald H. Feener, Jr., et al., Nature\n    \n*   > While it is impossible to write a definitive tome and make it 100 percent transparent to the nonscientist, this volume achieves the utmost clarity… Science is rarely good literature. _The Ants_ is an exalting exception.\n    > \n    > —Thomas E. Lovejoy, New York Times Book Review\n    \n*   > Hölldobler and Wilson’s mighty tome will surely take its place among the greatest of all entomology books…it will inspire many new generations of students with its blend of scholarship, enthusiasm, and unabashed delight.\n    > \n    > —Science\n    \n*   > This magnificent and long-awaited volume is the definitive work on \\[ants\\]… Every imaginable area of interest to a biologist, a sociologist, even a curious citizen, is covered… At once remarkably exhaustive and parsimonious, the book does not stint on exhaustive detail wherever such detail is required.\n    > \n    > —William Brown, Scientific American\n    \n*   > _The Ants_ is not only another milestone in a remarkable career but also a high point in crossover publishing. For the specialist, Hölldobler and Wilson bring elegance and order to a complex subject. For the curious layman, there is a glimpse into the workings of evolution.\n    > \n    > —R. Z. Sheppard, Time\n    \n*   > The beauty of this heavily illustrated tome is that it conveys this message to both the lay reader and the professional entomologist with equal aplomb. For the interested but ignorant, Hölldobler and Wilson provide a gentle introduction into the complex and bizarre reality of life as an ant… This myrmecological bible—with its 50-page key to ant classification, 60 pages of detailed anatomical drawings and hundreds of other sketches and photos—is a scientific and artistic accomplishment of historic significance. Yet it succeeds in convincing even the most casual reader of—as the first chapter is titled—the Importance of Ants.\n    > \n    > —Rick Weiss, Washington Post\n    \n\nView More\n\nAuthors\n-------\n\n*   Bert Hölldobler is the Robert A. Johnson Professor in Social Insect Research at Arizona State University. He was previously Professor of Biology and Alexander Agassiz Professor of Zoology at Harvard University and subsequently held the chair for Behavioral Physiology and Sociobiology at the University of Würzburg, Germany. He is an elected member of many academies, including the American Academy of Arts and Sciences, the US National Academy of Sciences, and the German National Academy of Sciences, Leopoldina. He has received many awards, among them the Pulitzer Prize for _The Ants_, coauthored with E. O. Wilson.\n*   Edward O. Wilson was Pellegrino University Professor, Emeritus, at Harvard University. In addition to two Pulitzer Prizes (one of which he shares with Bert Hölldobler), Wilson has won many scientific awards, including the National Medal of Science and the Crafoord Prize of the Royal Swedish Academy of Sciences.\n\nBook Details\n------------\n\n*   752 pages\n*   10 x 12 inches\n*   Belknap Press\n\n*   [Science & Nature / Biological Sciences](https://www.hup.harvard.edu/browse/science-nature/biological-sciences)\n*   [Reference](https://www.hup.harvard.edu/browse/reference)\n\nFrom this author\n----------------\n\n*   ![Image 2: The Guests of Ants](https://www.hup.harvard.edu/img/feeds/jackets/9780674265516.png?fm=jpg&q=80&fit=max&w=200)\n    \n    [The Guests of Ants ------------------](https://www.hup.harvard.edu/books/9780674265516)Bert Hölldobler, Christina L. Kwapich\n    \n*   ![Image 3: Journey to the Ants](https://www.hup.harvard.edu/img/feeds/jackets/9780674485266.png?fm=jpg&q=80&fit=max&w=200)\n    \n    [Journey to the Ants -------------------](https://www.hup.harvard.edu/books/9780674485266)Bert Hölldobler, Edward O. Wilson\n    \n\nRecommendations\n---------------\n\n*   ![Image 4: The New Biology](https://www.hup.harvard.edu/img/feeds/jackets/9780674972247.png?fm=jpg&q=80&fit=max&w=200)\n    \n    [### The New Biology](https://www.hup.harvard.edu/books/9780674972247)Michael J. Reiss, Michael Ruse\n    \n*   ![Image 5: Testosterone](https://www.hup.harvard.edu/img/feeds/jackets/9780674271081.png?fm=jpg&q=80&fit=max&w=200)\n    \n    [### Testosterone](https://www.hup.harvard.edu/books/9780674271081)Rebecca M. Jordan-Young, Katrina Karkazis\n    \n*   ![Image 6: Internal Time](https://www.hup.harvard.edu/img/feeds/jackets/9780674975392.png?fm=jpg&q=80&fit=max&w=200)\n    \n    [### Internal Time](https://www.hup.harvard.edu/books/9780674975392)Till Roenneberg\n    \n*   ![Image 7: Lysenko’s Ghost](https://www.hup.harvard.edu/img/feeds/jackets/9780674089051.png?fm=jpg&q=80&fit=max&w=200)\n    \n    [### Lysenko’s Ghost](https://www.hup.harvard.edu/books/9780674089051)Loren Graham\n    \n*   ![Image 8: Biology Is Technology](https://www.hup.harvard.edu/img/feeds/jackets/9780674060159.png?fm=jpg&q=80&fit=max&w=200)\n    \n    [### Biology Is Technology](https://www.hup.harvard.edu/books/9780674060159)Robert H. Carlson\n    \n\nSearch\n======\n\n[Home](https://www.hup.harvard.edu/)\n\nSearch site Search for \n\nError\n-----\n\nSorry, there was an error adding the item to your shopping bag.\n\nOK\n\nExpired session\n---------------\n\nSorry, your session has expired.  \nPlease refresh your browser's tab.\n\nRefresh\n\nGet the latest offers and news from Harvard University Press\n\n \n\nEmail  Continue\n\n[Facebook](https://www.facebook.com/HarvardPress) [Twitter](https://twitter.com/Harvard_Press) [Linkedin](https://www.linkedin.com/company/harvard-university-press-hup) [Instagram](https://www.instagram.com/harvardpress/)\n\n*   ### Harvard University Press\n    \n    *   [New Releases](https://www.hup.harvard.edu/new-releases)\n    *   [Bestsellers](https://www.hup.harvard.edu/bestsellers)\n    *   [Meet Our Editors](https://www.hup.harvard.edu/resources/for-prospective-authors/meet-our-editors)\n    *   [Privacy Policy](https://www.hup.harvard.edu/page/privacy-policy)\n    *   [Contact Us](https://www.hup.harvard.edu/contact)\n    *   [Cookies Management](https://www.hup.harvard.edu/catalog.php?isbn=9780674040755#cookies-management)\n    \n\n*   [Harvard University Press](https://www.hup.harvard.edu/)\n*   [New Releases](https://www.hup.harvard.edu/new-releases)\n*   [Bestsellers](https://www.hup.harvard.edu/bestsellers)\n*   [Meet Our Editors](https://www.hup.harvard.edu/resources/for-prospective-authors/meet-our-editors)\n*   [Privacy Policy](https://www.hup.harvard.edu/page/privacy-policy)\n*   [Contact Us](https://www.hup.harvard.edu/contact)\n*   [Cookies Management](https://www.hup.harvard.edu/catalog.php?isbn=9780674040755#cookies-management)\n\n© 2025 President and Fellows of Harvard College\n\n*   [Harvard University Digital Accessibility Policy](https://accessibility.huit.harvard.edu/digital-accessibility-policy)\n*   [Site by AREA 17](https://area17.com/)\n\nMain navigation\n===============\n\n*   Books\n    *   New\n        *   [Bestsellers](https://www.hup.harvard.edu/bestsellers)\n        *   [New Releases](https://www.hup.harvard.edu/new-releases)\n        *   [Forthcoming Books](https://www.hup.harvard.edu/forthcoming-books)\n        *   [Catalog](https://www.hup.harvard.edu/catalog)\n    *   Subjects\n        *   [Economics & Business](https://www.hup.harvard.edu/browse/economics-business)\n        *   [History](https://www.hup.harvard.edu/browse/history)\n        *   [Philosophy](https://www.hup.harvard.edu/browse/philosophy)\n        *   [Politics](https://www.hup.harvard.edu/browse/politics)\n        *   [Science & Nature](https://www.hup.harvard.edu/browse/science-nature)\n        *   [All Subjects](https://www.hup.harvard.edu/catalog.php?isbn=9780674040755#index-subjects)\n    *   Classics in Translation\n        *   [Loeb Classical Library](https://www.hup.harvard.edu/series/loeb-classical-library)\n        *   [Murty Classical Library of India](https://www.hup.harvard.edu/series/murty-classical-library-of-india)\n        *   [Dumbarton Oaks Medieval Library](https://www.hup.harvard.edu/series/dumbarton-oaks-medieval-library)\n        *   [The I Tatti Renaissance Library](https://www.hup.harvard.edu/series/the-i-tatti-renaissance-library)\n    *   Series\n        *   [The Charles Eliot Norton Lectures](https://www.hup.harvard.edu/series/the-charles-eliot-norton-lectures)\n        *   [The W. E. B. Du Bois Lectures](https://www.hup.harvard.edu/series/the-w-e-b-du-bois-lectures)\n        *   [The Nathan I. Huggins Lectures](https://www.hup.harvard.edu/series/the-nathan-i-huggins-lectures)\n        *   [I Tatti Studies in Italian Renaissance History](https://www.hup.harvard.edu/series/i-tatti-studies-in-italian-renaissance-history)\n        *   [Wonders of the World](https://www.hup.harvard.edu/series/wonders-of-the-world)\n        *   [All Series](https://www.hup.harvard.edu/catalog.php?isbn=9780674040755#index-series)\n    *   Partners\n        *   [Harvard University Asia Center](https://www.hup.harvard.edu/partners/harvard-university-asia-center)\n        *   [Harvard Ukrainian Research Institute](https://www.hup.harvard.edu/partners/harvard-ukrainian-research-institute)\n        *   [Dumbarton Oaks Research Library and Collection](https://www.hup.harvard.edu/partners/dumbarton-oaks-research-library-and-collection)\n        *   [Peabody Museum Press](https://www.hup.harvard.edu/partners/peabody-museum-press)\n        *   [Harvard Graduate School of Design](https://www.hup.harvard.edu/partners/harvard-graduate-school-of-design)\n        *   [All Partners](https://www.hup.harvard.edu/catalog.php?isbn=9780674040755#index-partners)\n*   [Features](https://www.hup.harvard.edu/features)\n*   [Resources](https://www.hup.harvard.edu/resources)\n*   [About](https://www.hup.harvard.edu/about)\n*   [Index](https://www.hup.harvard.edu/catalog.php?isbn=9780674040755#index-authors)\n\nAn item has been added to the cart\n\nAdded to shopping bag\n---------------------\n\nView shopping bag\n\nIndexes\n=======\n\n*   Authors\n*   Series\n*   Partners\n*   Subjects\n\n### Series\n\n*   ### A\n    \n*   ### B\n    \n*   ### C\n    \n*   ### D\n    \n*   ### E\n    \n*   ### F\n    \n*   ### G\n    \n*   ### H\n    \n*   ### I\n    \n*   ### J\n    \n*   ### K\n    \n*   ### L\n    \n*   ### M\n    \n*   ### N\n    \n*   ### O\n    \n*   ### P\n    \n*   ### Q\n    \n*   ### R\n    \n*   ### S\n    \n*   ### T\n    \n*   ### U\n    \n*   ### V\n    \n*   ### W\n    \n*   ### X\n    \n*   ### Y\n    \n*   ### Z\n    \n\n### Authors\n\n*   ### A\n    \n*   ### B\n    \n*   ### C\n    \n*   ### D\n    \n*   ### E\n    \n*   ### F\n    \n*   ### G\n    \n*   ### H\n    \n*   ### I\n    \n*   ### J\n    \n*   ### K\n    \n*   ### L\n    \n*   ### M\n    \n*   ### N\n    \n*   ### O\n    \n*   ### P\n    \n*   ### Q\n    \n*   ### R\n    \n*   ### S\n    \n*   ### T\n    \n*   ### U\n    \n*   ### V\n    \n*   ### W\n    \n*   ### X\n    \n*   ### Y\n    \n*   ### Z\n    \n\n### Partners\n\n*   ### A\n    \n*   ### B\n    \n*   ### C\n    \n*   ### D\n    \n*   ### E\n    \n*   ### F\n    \n*   ### G\n    \n*   ### H\n    \n*   ### I\n    \n*   ### J\n    \n*   ### K\n    \n*   ### L\n    \n*   ### M\n    \n*   ### N\n    \n*   ### O\n    \n*   ### P\n    \n*   ### Q\n    \n*   ### R\n    \n*   ### S\n    \n*   ### T\n    \n*   ### U\n    \n*   ### V\n    \n*   ### W\n    \n*   ### X\n    \n*   ### Y\n    \n*   ### Z\n    \n\n### Subjects\n\n*   ### A\n    \n*   ### B\n    \n*   ### C\n    \n*   ### D\n    \n*   ### E\n    \n*   ### F\n    \n*   ### G\n    \n*   ### H\n    \n*   ### I\n    \n*   ### J\n    \n*   ### K\n    \n*   ### L\n    \n*   ### M\n    \n*   ### N\n    \n*   ### O\n    \n*   ### P\n    \n*   ### Q\n    \n*   ### R\n    \n*   ### S\n    \n*   ### T\n    \n*   ### U\n    \n*   ### V\n    \n*   ### W\n    \n*   ### X\n    \n*   ### Y\n    \n*   ### Z\n    \n\nShare\n=====\n\nShare site\n----------\n\n*   [](https://twitter.com/intent/tweet?url=https://www.hup.harvard.edu)\n*   [](https://www.facebook.com/sharer/sharer.php?u=https://www.hup.harvard.edu)\n*   [](https://www.linkedin.com/cws/share?url=https://www.hup.harvard.edu)\n*   Copy to clipboard\n\nUnavailable\n-----------\n\nHarvard University Press titles are not shipped directly to India due to local distribution arrangements.\n\nUnavailable in country.\n\nEdit shipping location\n\nShopping Bag\n------------\n\nYour shopping bag is currently empty. Add items to your shopping bag, to complete check out.\n\n[View New Releases](https://www.hup.harvard.edu/new-releases)\n\nSet your location\n-----------------\n\nYour locationIt looks like you're in  . Would you like to update your location?\n\nCountry of location\n\nApply",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          }
+        },
+        "source_file": "langchain_4.1/md_data/Parasitic_ant.md"
+      }
+    }
+  }
+}

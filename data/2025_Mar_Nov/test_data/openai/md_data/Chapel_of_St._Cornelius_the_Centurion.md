@@ -1,0 +1,22 @@
+# Chapel of St. Cornelius the Centurion
+The Chapel of St. Cornelius the Centurion is a historic Episcopal chapel on Governors Island in New York Harbor[1]. It belongs to the Trinity Church Wall Street parish in Manhattan and is named for Saint Cornelius, a Roman centurion mentioned in the New Testament (Acts 10) as one of the first Gentile converts to Christianity[2]. The first chapel on this site was a small wooden church built in 1846–47 to serve the U.S. Army garrison on Governors Island[3][2]. In 1847 it was consecrated by Bishop William H. DeLancey[2] and dedicated to St. Cornelius. By 1868 the U.S. War Department ceased assigning chaplains to the island, and Trinity Church agreed to maintain a resident clergy at its own expense. As part of that arrangement, St. Cornelius became a free chapel of the Trinity parish in August 1868[4][1].
+By the early 20th century the original wooden chapel had deteriorated. In 1905–06 Trinity Church funded construction of a new stone chapel in its place[5]. The cornerstone was laid in 1905, and the new Chapel of St. Cornelius the Centurion was dedicated on October 19, 1906, by Episcopal Bishop David H. Greer[5]. It was designed by architect Charles C. Haight in an English Gothic style[6]. The cruciform limestone building features a massive square tower, a nave with transepts, and a chancel[7].
+Throughout the 20th century, St. Cornelius served the island’s military community. A 1924 agreement had the U.S. Army pay the chaplain’s salary while Trinity Church retained the chapel building[8]. In 1954 the arrangement was expanded to allow Protestant chaplains of other denominations to conduct services at St. Cornelius[8]. When Fort Jay was decommissioned in 1966 and Governors Island was transferred to the U.S. Coast Guard, the chapel continued in use as a military chapel. In 1980 Trinity Church leased the chapel to the government (for a nominal rent) and in 1986 formally donated it back under the condition that ownership would revert to Trinity if the land ceased to be used for military purposes[9]. After the Coast Guard left Governors Island in 1996, the chapel reverted to Trinity’s ownership[9]. It was deconsecrated and has remained unused since that time[9][10].
+## Architecture
+The 1906 chapel is built of pale Indiana limestone in an early 20th-century Gothic Revival style[7]. Designed under the direction of Trinity’s Reverend Edmund Banks Smith and architect Charles C. Haight[6], the cruciform structure measures about 106 feet long by 70 feet wide and is topped by a steep slate roof and a prominent square bell tower[7]. The interior originally provided carved oak clergy and choir stalls and encaustic tile flooring, along with a stone baptistry beneath the chancel[11]. Notable features include stained-glass memorial windows – for example, the chancel window honors Maj. Gen. Winfield S. Hancock and another window commemorates Maj. Gen. Daniel Butterfield – both gifts of the generals’ families[12]. The chapel was designed to seat about 250 worshippers (expandable to nearly 500 with use of the transepts and side chapel)[13].
+## Present status
+As of the 21st century, the Chapel of St. Cornelius the Centurion stands as an empty historic building on Governors Island. It is one of the few non-landmarked structures within the Governors Island Historic District[10]. After being deconsecrated in 1996 and remaining closed for over twenty years, it is currently not in active use but is recognized as part of the island’s religious and military heritage.
+## References
+Trinity Church Wall Street – St. Cornelius the Centurion (Feb. 5, 2014)[1][9]
+New York City Chapter, American Guild of Organists – St. Cornelius Chapel, Governors Island (history and description)[3][5]
+Morgan Dix, “The Story of the Chapel of St. Cornelius the Centurion, at Governor’s Island” (1906)[2][7]
+Trust for Governors Island – Church (Public Art description) (as of 2025)[10]
+
+[1] [8] [9] St. Cornelius the Centurion | Trinity Church
+https://trinitychurchnyc.org/stories-news/st-cornelius-centurion
+[2] [4] [6] [7] [11] [12] [13] The Story of the Chapel of St. Cornelius the Centurion, by Morgan Dix (1906)
+https://anglicanhistory.org/usa/mdix/cornelius1906.html
+[3] [5] St. Cornelius Chapel - Governors Island, New York City
+https://www.nycago.org/Organs/NYC/html/StCorneliusCenturion.html
+[10] Church | Governors Island (en-US)
+https://www.govisland.com/things-to-do/public-art/church

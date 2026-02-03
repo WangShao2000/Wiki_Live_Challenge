@@ -1,0 +1,392 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "19189002": {
+        "pageid": 19189002,
+        "ns": 0,
+        "title": "2010_NFC_Championship_Game",
+        "extract": "The 2010 National Football Conference (NFC) Championship Game was played on January 24, 2010 at the Caesars Superdome in New Orleans, Louisiana, marking a pivotal matchup between the defending NFC South champion New Orleans Saints and the NFC North champion Minnesota Vikings. This contest determined which team would advance to the Super Bowl and ultimately win the league's championship for the 2009 season.\n\nEntering the game, the New Orleans Saints held a 13-3 regular season record and were seeking their first Super Bowl appearance in franchise history. The Minnesota Vikings, with a 12-4 record, featured veteran quarterback Brett Favre in what turned out to be his final playoff game. Both teams had advanced through earlier rounds of the playoffs to reach this high-stakes confrontation.\n\nThe game saw both teams exchange scores throughout all four quarters, resulting in a tightly contested battle that required overtime to decide a victor.\n\n| Quarter      | Vikings Score | Saints Score |\n|--------------|--------------|-------------|\n| 1            | 14           | 7           |\n| 2            | 0            | 7           |\n| 3            | 7            | 7           |\n| 4            | 7            | 7           |\n| Overtime     | 0            | 3           |\n| **Total**    | **28**       | **31**      |\n\nEarly in the contest, the Vikings established momentum with a 19-yard touchdown run by Adrian Peterson and a subsequent five-yard touchdown pass from Brett Favre to Sidney Rice, each followed by successful extra point kicks from Ryan Longwell. The Saints responded with a 38-yard touchdown pass from Drew Brees to Pierre Thomas, closing the first quarter trailing 14-7.\n\nIn the second quarter, Brees connected with Devery Henderson for a nine-yard touchdown to tie the game at 14-14 heading into halftime. Both teams continued to trade opportunities in the third quarter: Pierre Thomas scored on a nine-yard run for the Saints, while Peterson answered for the Vikings with a one-yard touchdown run, keeping the score level again at 21-21.\n\nThe fourth quarter saw Reggie Bush score on a five-yard run for the Saints, albeit after a challenge overturned an initial ruling, giving New Orleans a brief lead. Peterson then responded with a two-yard touchdown run to force regulation time to end at 28-28. Multiple turnovers and close plays characterized the latter stages, including interceptions and fumbles by both teams.\n\nOvertime proved decisive. After winning the coin toss, the Saints drove downfield and secured victory when kicker Garrett Hartley made a 40-yard field goal, clinching a 31-28 win for the franchise's first trip to the Super Bowl.\n\nSeveral key moments defined the game:\n- Adrian Peterson's three rushing touchdowns (19-yard, 1-yard, and 2-yard runs) provided relentless offensive pressure for the Vikings.\n- The Saints' resilience in overcoming adversity included critical challenges for reviews and conversions, notably the review upheld Reggie Bush's touchdown in the fourth quarter.\n- Defensive players such as Jonathan Vilma and Tracy Porter intercepted Brett Favre late in regulation, directly contributing to the need for extra time.\n- The Saints' ability to withstand numerous Viking possessions and repeatedly answer scoring drives was crucial in maintaining competitiveness throughout the game.\n- Overtime possession and the successful 40-yard field goal by Hartley sealed the Saints' victory after the Vikings failed to score following their own possession.\n\nBoth teams displayed contrasting styles-Vikings relying heavily on ground attack and Brees' balanced passing attack-but turnovers ultimately cost Minnesota more than they could afford.\n\n| Statistic        | Vikings         | Saints           |\n|------------------|----------------|-----------------|\n| Total Yards      | 475            | 257             |\n| Passing Yards    | 310            | 197             |\n| Rushing Yards    | 165            | 68              |\n| Fumbles Lost     | 3              | 1               |\n| Interceptions    | 0              | 2               |\n| Field Goals Made | 4              | 4               |\n\nWinning the NFC Championship sent the New Orleans Saints to Super Bowl XLIV, where they defeated the Indianapolis Colts 31-17, capturing their first-ever Super Bowl title. The victory was particularly significant for the city and franchise, providing inspiration and unity in the wake of Hurricane Katrina's devastation only five years prior.\n\nFor the Vikings, this game concluded Brett Favre's storied NFL career in the postseason and marked their fifth consecutive NFC Championship Game loss, reinforcing the struggles they faced in reaching the ultimate stage.\n\nThe 2010 NFC Championship Game is remembered for its dramatic turns and high-level execution under pressure. It highlighted the impact that individual performances can have on the overall outcome, from Favre's final playoff efforts and Peterson's versatility to Brees' leadership and timely challenges. The Saints' triumph symbolized hope and renewal for a city still recovering from tragedy, and set a new benchmark for their future in the league. The overtime sequence and the coin toss further highlighted debates over the NFL's playoff format, though it ensured one of the most thrilling games of the decade.\n\n---\n\n**References**\n\n1. ESPN Play-by-Play: Detailed scoring and events for the 2010 NFC Championship Game.  \n2. ESPN Boxscore: Team and player statistics for the game.  \n3. MPR News Article: Narrative analysis and description of the game's highlights and significance for the Saints.  \n4. NFL.com \"100 Greatest Games\" Page: Describes Brett Favre's final playoff game context.  \n5. Pro-Football-Reference Boxscore: Confirmation of regular season records and team details.  \n6. ESPN Game Page: Information about date, venue, attendance, and officiating crew.  \n7. Houma Today Article: Verification of Saints' subsequent Super Bowl XLIV victory.",
+        "extract_with_citations": "The 2010 National Football Conference (NFC) Championship Game was played on January 24, 2010 at the Caesars Superdome in New Orleans, Louisiana, marking a pivotal matchup between the defending NFC South champion New Orleans Saints and the NFC North champion Minnesota Vikings. This contest determined which team would advance to the Super Bowl and ultimately win the league's championship for the 2009 season.\n\nEntering the game, the New Orleans Saints held a 13-3 regular season record and were seeking their first Super Bowl appearance in franchise history. The Minnesota Vikings, with a 12-4 record, featured veteran quarterback Brett Favre in what turned out to be his final playoff game. Both teams had advanced through earlier rounds of the playoffs to reach this high-stakes confrontation.\n\nThe game saw both teams exchange scores throughout all four quarters, resulting in a tightly contested battle that required overtime to decide a victor.\n\n| Quarter      | Vikings Score | Saints Score |\n|--------------|--------------|-------------|\n| 1            | 14           | 7           |\n| 2            | 0            | 7           |\n| 3            | 7            | 7           |\n| 4            | 7            | 7           |\n| Overtime     | 0            | 3           |\n| **Total**    | **28**       | **31**      |\n\nEarly in the contest, the Vikings established momentum with a 19-yard touchdown run by Adrian Peterson and a subsequent five-yard touchdown pass from Brett Favre to Sidney Rice, each followed by successful extra point kicks from Ryan Longwell. The Saints responded with a 38-yard touchdown pass from Drew Brees to Pierre Thomas, closing the first quarter trailing 14-7.\n\nIn the second quarter, Brees connected with Devery Henderson for a nine-yard touchdown to tie the game at 14-14 heading into halftime. Both teams continued to trade opportunities in the third quarter: Pierre Thomas scored on a nine-yard run for the Saints, while Peterson answered for the Vikings with a one-yard touchdown run, keeping the score level again at 21-21.\n\nThe fourth quarter saw Reggie Bush score on a five-yard run for the Saints, albeit after a challenge overturned an initial ruling, giving New Orleans a brief lead. Peterson then responded with a two-yard touchdown run to force regulation time to end at 28-28. Multiple turnovers and close plays characterized the latter stages, including interceptions and fumbles by both teams.\n\nOvertime proved decisive. After winning the coin toss, the Saints drove downfield and secured victory when kicker Garrett Hartley made a 40-yard field goal, clinching a 31-28 win for the franchise's first trip to the Super Bowl.\n\nSeveral key moments defined the game:\n- Adrian Peterson's three rushing touchdowns (19-yard, 1-yard, and 2-yard runs) provided relentless offensive pressure for the Vikings.\n- The Saints' resilience in overcoming adversity included critical challenges for reviews and conversions, notably the review upheld Reggie Bush's touchdown in the fourth quarter.\n- Defensive players such as Jonathan Vilma and Tracy Porter intercepted Brett Favre late in regulation, directly contributing to the need for extra time.\n- The Saints' ability to withstand numerous Viking possessions and repeatedly answer scoring drives was crucial in maintaining competitiveness throughout the game.\n- Overtime possession and the successful 40-yard field goal by Hartley sealed the Saints' victory after the Vikings failed to score following their own possession.\n\nBoth teams displayed contrasting styles-Vikings relying heavily on ground attack and Brees' balanced passing attack-but turnovers ultimately cost Minnesota more than they could afford.\n\n| Statistic        | Vikings         | Saints           |\n|------------------|----------------|-----------------|\n| Total Yards      | 475            | 257             |\n| Passing Yards    | 310            | 197             |\n| Rushing Yards    | 165            | 68              |\n| Fumbles Lost     | 3              | 1               |\n| Interceptions    | 0              | 2               |\n| Field Goals Made | 4              | 4               |\n\nWinning the NFC Championship sent the New Orleans Saints to Super Bowl XLIV, where they defeated the Indianapolis Colts 31-17, capturing their first-ever Super Bowl title. The victory was particularly significant for the city and franchise, providing inspiration and unity in the wake of Hurricane Katrina's devastation only five years prior.\n\nFor the Vikings, this game concluded Brett Favre's storied NFL career in the postseason and marked their fifth consecutive NFC Championship Game loss, reinforcing the struggles they faced in reaching the ultimate stage.\n\nThe 2010 NFC Championship Game is remembered for its dramatic turns and high-level execution under pressure. It highlighted the impact that individual performances can have on the overall outcome, from Favre's final playoff efforts and Peterson's versatility to Brees' leadership and timely challenges. The Saints' triumph symbolized hope and renewal for a city still recovering from tragedy, and set a new benchmark for their future in the league. The overtime sequence and the coin toss further highlighted debates over the NFL's playoff format, though it ensured one of the most thrilling games of the decade.\n\n---\n\n**References**\n\n1. ESPN Play-by-Play: Detailed scoring and events for the 2010 NFC Championship Game.  \n2. ESPN Boxscore: Team and player statistics for the game.  \n3. MPR News Article: Narrative analysis and description of the game's highlights and significance for the Saints.  \n4. NFL.com \"100 Greatest Games\" Page: Describes Brett Favre's final playoff game context.  \n5. Pro-Football-Reference Boxscore: Confirmation of regular season records and team details.  \n6. ESPN Game Page: Information about date, venue, attendance, and officiating crew.  \n7. Houma Today Article: Verification of Saints' subsequent Super Bowl XLIV victory.",
+        "citation_urls": {},
+        "lead_content": "The 2010 National Football Conference (NFC) Championship Game was played on January 24, 2010 at the Caesars Superdome in New Orleans, Louisiana, marking a pivotal matchup between the defending NFC South champion New Orleans Saints and the NFC North champion Minnesota Vikings. This contest determined which team would advance to the Super Bowl and ultimately win the league's championship for the 2009 season.",
+        "statements": [
+          {
+            "statement": "The 2010 National Football Conference (NFC) Championship Game was played on January 24, 2010 at the Caesars Superdome in New Orleans, Louisiana."
+          },
+          {
+            "statement": "The 2010 National Football Conference (NFC) Championship Game was a pivotal matchup between the defending NFC South champion New Orleans Saints and the NFC North champion Minnesota Vikings."
+          },
+          {
+            "statement": "The New Orleans Saints were the defending NFC South champion."
+          },
+          {
+            "statement": "The Minnesota Vikings were the NFC North champion."
+          },
+          {
+            "statement": "This contest determined which team would advance to the Super Bowl."
+          },
+          {
+            "statement": "This contest determined which team would ultimately win the league's championship for the 2009 season."
+          },
+          {
+            "statement": "Entering the game, the New Orleans Saints held a 13–3 regular season record."
+          },
+          {
+            "statement": "The New Orleans Saints were seeking their first Super Bowl appearance in franchise history."
+          },
+          {
+            "statement": "The Minnesota Vikings had a 12–4 record."
+          },
+          {
+            "statement": "The Minnesota Vikings featured veteran quarterback Brett Favre."
+          },
+          {
+            "statement": "The 2010 NFC Championship Game turned out to be Brett Favre's final playoff game."
+          },
+          {
+            "statement": "Both teams had advanced through earlier rounds of the playoffs to reach this high-stakes confrontation."
+          },
+          {
+            "statement": "The game saw both teams exchange scores throughout all four quarters."
+          },
+          {
+            "statement": "The game resulted in a tightly contested battle."
+          },
+          {
+            "statement": "The game required overtime to decide a victor."
+          },
+          {
+            "statement": "The Vikings scored 14 points in the 1st quarter."
+          },
+          {
+            "statement": "The Saints scored 7 points in the 1st quarter."
+          },
+          {
+            "statement": "The Vikings scored 0 points in the 2nd quarter."
+          },
+          {
+            "statement": "The Saints scored 7 points in the 2nd quarter."
+          },
+          {
+            "statement": "The Vikings scored 7 points in the 3rd quarter."
+          },
+          {
+            "statement": "The Saints scored 7 points in the 3rd quarter."
+          },
+          {
+            "statement": "The Vikings scored 7 points in the 4th quarter."
+          },
+          {
+            "statement": "The Saints scored 7 points in the 4th quarter."
+          },
+          {
+            "statement": "The Vikings scored 0 points in Overtime."
+          },
+          {
+            "statement": "The Saints scored 3 points in Overtime."
+          },
+          {
+            "statement": "The Vikings' total score was 28 points."
+          },
+          {
+            "statement": "The Saints' total score was 31 points."
+          },
+          {
+            "statement": "Early in the contest, the Vikings established momentum."
+          },
+          {
+            "statement": "Adrian Peterson had a 19-yard touchdown run for the Vikings."
+          },
+          {
+            "statement": "Brett Favre threw a five-yard touchdown pass to Sidney Rice for the Vikings."
+          },
+          {
+            "statement": "Successful extra point kicks were made by Ryan Longwell after the Vikings' early touchdowns."
+          },
+          {
+            "statement": "The Saints responded with a 38-yard touchdown pass from Drew Brees to Pierre Thomas."
+          },
+          {
+            "statement": "The Saints closed the first quarter trailing 14–7."
+          },
+          {
+            "statement": "In the second quarter, Brees connected with Devery Henderson for a nine-yard touchdown."
+          },
+          {
+            "statement": "The touchdown by Brees to Henderson tied the game at 14–14 heading into halftime."
+          },
+          {
+            "statement": "Both teams continued to trade opportunities in the third quarter."
+          },
+          {
+            "statement": "Pierre Thomas scored on a nine-yard run for the Saints."
+          },
+          {
+            "statement": "Peterson answered for the Vikings with a one-yard touchdown run."
+          },
+          {
+            "statement": "The score was level again at 21–21 after Peterson's touchdown."
+          },
+          {
+            "statement": "The fourth quarter saw Reggie Bush score on a five-yard run for the Saints."
+          },
+          {
+            "statement": "A challenge overturned an initial ruling regarding Reggie Bush's score."
+          },
+          {
+            "statement": "Reggie Bush's score gave New Orleans a brief lead."
+          },
+          {
+            "statement": "Peterson responded with a two-yard touchdown run."
+          },
+          {
+            "statement": "Peterson's touchdown run forced regulation time to end at 28–28."
+          },
+          {
+            "statement": "Multiple turnovers characterized the latter stages of the game."
+          },
+          {
+            "statement": "Close plays characterized the latter stages of the game."
+          },
+          {
+            "statement": "The latter stages included interceptions by both teams."
+          },
+          {
+            "statement": "The latter stages included fumbles by both teams."
+          },
+          {
+            "statement": "Overtime proved decisive."
+          },
+          {
+            "statement": "The Saints won the coin toss in overtime."
+          },
+          {
+            "statement": "The Saints drove downfield in overtime."
+          },
+          {
+            "statement": "Kicker Garrett Hartley made a 40-yard field goal."
+          },
+          {
+            "statement": "Garrett Hartley's field goal clinched a 31–28 win for the Saints."
+          },
+          {
+            "statement": "The win marked the franchise’s first trip to the Super Bowl."
+          },
+          {
+            "statement": "Adrian Peterson scored three rushing touchdowns for the Vikings."
+          },
+          {
+            "statement": "Adrian Peterson's rushing touchdowns were 19-yard, 1-yard, and 2-yard runs."
+          },
+          {
+            "statement": "Adrian Peterson’s three rushing touchdowns provided relentless offensive pressure for the Vikings."
+          },
+          {
+            "statement": "The Saints displayed resilience in overcoming adversity."
+          },
+          {
+            "statement": "The Saints' resilience included critical challenges for reviews and conversions."
+          },
+          {
+            "statement": "A review upheld Reggie Bush’s touchdown in the fourth quarter."
+          },
+          {
+            "statement": "Defensive players Jonathan Vilma and Tracy Porter intercepted Brett Favre late in regulation."
+          },
+          {
+            "statement": "The interceptions by Vilma and Porter directly contributed to the need for extra time."
+          },
+          {
+            "statement": "The Saints withstood numerous Viking possessions."
+          },
+          {
+            "statement": "The Saints repeatedly answered scoring drives."
+          },
+          {
+            "statement": "The Saints' ability to withstand numerous Viking possessions and repeatedly answer scoring drives was crucial in maintaining competitiveness throughout the game."
+          },
+          {
+            "statement": "Overtime possession and the successful 40-yard field goal by Hartley sealed the Saints’ victory."
+          },
+          {
+            "statement": "The Vikings failed to score following their own possession in overtime."
+          },
+          {
+            "statement": "The Vikings displayed a style relying heavily on ground attack."
+          },
+          {
+            "statement": "Drew Brees led a balanced passing attack for the Saints."
+          },
+          {
+            "statement": "Turnovers ultimately cost Minnesota more than they could afford."
+          },
+          {
+            "statement": "The Vikings had 475 total yards."
+          },
+          {
+            "statement": "The Saints had 257 total yards."
+          },
+          {
+            "statement": "The Vikings had 310 passing yards."
+          },
+          {
+            "statement": "The Saints had 197 passing yards."
+          },
+          {
+            "statement": "The Vikings had 165 rushing yards."
+          },
+          {
+            "statement": "The Saints had 68 rushing yards."
+          },
+          {
+            "statement": "The Vikings had 3 fumbles lost."
+          },
+          {
+            "statement": "The Saints had 1 fumble lost."
+          },
+          {
+            "statement": "The Vikings had 0 interceptions."
+          },
+          {
+            "statement": "The Saints had 2 interceptions."
+          },
+          {
+            "statement": "The Vikings made 4 field goals."
+          },
+          {
+            "statement": "The Saints made 4 field goals."
+          },
+          {
+            "statement": "Winning the NFC Championship sent the New Orleans Saints to Super Bowl XLIV."
+          },
+          {
+            "statement": "The New Orleans Saints defeated the Indianapolis Colts 31–17 in Super Bowl XLIV."
+          },
+          {
+            "statement": "The New Orleans Saints captured their first-ever Super Bowl title."
+          },
+          {
+            "statement": "The victory was particularly significant for the city and franchise."
+          },
+          {
+            "statement": "The victory provided inspiration and unity in the wake of Hurricane Katrina's devastation."
+          },
+          {
+            "statement": "Hurricane Katrina's devastation occurred five years prior to the Saints' Super Bowl victory."
+          },
+          {
+            "statement": "This game concluded Brett Favre’s storied NFL career in the postseason."
+          },
+          {
+            "statement": "The game marked the Vikings' fifth consecutive NFC Championship Game loss."
+          },
+          {
+            "statement": "The loss reinforced the struggles the Vikings faced in reaching the ultimate stage."
+          },
+          {
+            "statement": "The 2010 NFC Championship Game is remembered for its dramatic turns."
+          },
+          {
+            "statement": "The 2010 NFC Championship Game is remembered for its high-level execution under pressure."
+          },
+          {
+            "statement": "The game highlighted the impact that individual performances can have on the overall outcome."
+          },
+          {
+            "statement": "Individual performances included Favre’s final playoff efforts."
+          },
+          {
+            "statement": "Individual performances included Peterson’s versatility."
+          },
+          {
+            "statement": "Individual performances included Brees’ leadership."
+          },
+          {
+            "statement": "Individual performances included timely challenges."
+          },
+          {
+            "statement": "The Saints’ triumph symbolized hope and renewal for a city still recovering from tragedy."
+          },
+          {
+            "statement": "The Saints’ triumph set a new benchmark for their future in the league."
+          },
+          {
+            "statement": "The overtime sequence highlighted debates over the NFL’s playoff format."
+          },
+          {
+            "statement": "The coin toss highlighted debates over the NFL’s playoff format."
+          },
+          {
+            "statement": "The game ensured one of the most thrilling games of the decade."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "2010_NFC_Championship_Game",
+    "sections": [
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Background",
+        "number": "1",
+        "index": "1",
+        "anchor": "Background"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Game Summary",
+        "number": "2",
+        "index": "2",
+        "anchor": "Game_Summary"
+      },
+      {
+        "toclevel": 3,
+        "level": "4",
+        "line": "Quarter-by-Quarter Scoring",
+        "number": "3",
+        "index": "3",
+        "anchor": "Quarter-by-Quarter_Scoring"
+      },
+      {
+        "toclevel": 3,
+        "level": "4",
+        "line": "Key Plays and Turning Points",
+        "number": "4",
+        "index": "4",
+        "anchor": "Key_Plays_and_Turning_Points"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Statistical Overview",
+        "number": "5",
+        "index": "5",
+        "anchor": "Statistical_Overview"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Aftermath",
+        "number": "6",
+        "index": "6",
+        "anchor": "Aftermath"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Significance and Legacy",
+        "number": "7",
+        "index": "7",
+        "anchor": "Significance_and_Legacy"
+      }
+    ]
+  },
+  "fetched_at": 1766321825,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/tongyi/md_data/2010_NFC_Championship_Game.md",
+  "source_org": "tongyi"
+}

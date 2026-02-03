@@ -1,0 +1,81 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "452934": {
+        "pageid": 452934,
+        "ns": 0,
+        "title": "2025_World_Seniors_Championship",
+        "extract": "The 2025 World Seniors Championship was a snooker tournament held from May 7 to May 11, 2025, at the Crucible Theatre in Sheffield, England. The event was open to amateur players over 40 and professional players over 45, provided they were not ranked in the top 100 in the world. Well-known snooker players such as Tony Drago, Jimmy White, and Ken Doherty participated in the tournament. The event was part of the World Seniors Snooker Tour and held significant importance in the snooker community.\n\nThe tournament featured a list of notable snooker players, including Tony Drago, Jimmy White, and Ken Doherty. These players, along with other talented senior players, competed for the title and recognition in the world of snooker. The participants were carefully selected from a wide range of countries, ensuring a diverse and competitive field.\n\nThe 2025 World Seniors Championship was a key event in the World Seniors Snooker Tour, providing a platform for senior players to showcase their skills and compete against one another. This event not only highlighted the talent of older players but also contributed to the rich history and tradition of the sport.\n\nThe 2025 World Seniors Championship was an important tournament in the snooker world, showcasing the skills and dedication of senior players. Its significance lies in providing a unique opportunity for older players to compete and be recognized for their achievements in the sport.",
+        "extract_with_citations": "The 2025 World Seniors Championship was a snooker tournament held from May 7 to May 11, 2025, at the Crucible Theatre in Sheffield, England. The event was open to amateur players over 40 and professional players over 45, provided they were not ranked in the top 100 in the world. Well-known snooker players such as Tony Drago, Jimmy White, and Ken Doherty participated in the tournament. The event was part of the World Seniors Snooker Tour and held significant importance in the snooker community.\n\nThe tournament featured a list of notable snooker players, including Tony Drago, Jimmy White, and Ken Doherty. These players, along with other talented senior players, competed for the title and recognition in the world of snooker. The participants were carefully selected from a wide range of countries, ensuring a diverse and competitive field.\n\nThe 2025 World Seniors Championship was a key event in the World Seniors Snooker Tour, providing a platform for senior players to showcase their skills and compete against one another. This event not only highlighted the talent of older players but also contributed to the rich history and tradition of the sport.\n\nThe 2025 World Seniors Championship was an important tournament in the snooker world, showcasing the skills and dedication of senior players. Its significance lies in providing a unique opportunity for older players to compete and be recognized for their achievements in the sport.",
+        "citation_urls": {},
+        "lead_content": "The 2025 World Seniors Championship was a snooker tournament held from May 7 to May 11, 2025, at the Crucible Theatre in Sheffield, England. The event was open to amateur players over 40 and professional players over 45, provided they were not ranked in the top 100 in the world. Well-known snooker players such as Tony Drago, Jimmy White, and Ken Doherty participated in the tournament. The event was part of the World Seniors Snooker Tour and held significant importance in the snooker community.",
+        "statements": [
+          {
+            "statement": "The 2025 World Seniors Championship was a snooker tournament held from May 7 to May 11, 2025, at the Crucible Theatre in Sheffield, England."
+          },
+          {
+            "statement": "The event was open to amateur players over 40 and professional players over 45, provided they were not ranked in the top 100 in the world."
+          },
+          {
+            "statement": "Well-known snooker players such as Tony Drago, Jimmy White, and Ken Doherty participated in the tournament."
+          },
+          {
+            "statement": "The event was part of the World Seniors Snooker Tour."
+          },
+          {
+            "statement": "The tournament featured a list of snooker players, including Tony Drago, Jimmy White, and Ken Doherty."
+          },
+          {
+            "statement": "These players, along with other senior players, competed for the title and recognition in the world of snooker."
+          },
+          {
+            "statement": "The participants were selected from a wide range of countries."
+          },
+          {
+            "statement": "The 2025 World Seniors Championship provided a platform for senior players to showcase their skills and compete against one another."
+          },
+          {
+            "statement": "The 2025 World Seniors Championship showcased the skills and dedication of senior players."
+          },
+          {
+            "statement": "The 2025 World Seniors Championship provided a unique opportunity for older players to compete and be recognized for their achievements in the sport."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "2025_World_Seniors_Championship",
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Participants",
+        "number": "1",
+        "index": "1",
+        "anchor": "Participants"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Significance",
+        "number": "2",
+        "index": "2",
+        "anchor": "Significance"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Conclusion",
+        "number": "3",
+        "index": "3",
+        "anchor": "Conclusion"
+      }
+    ]
+  },
+  "fetched_at": 1766315442,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/2025_World_Seniors_Championship.md",
+  "source_org": "deep_researcher"
+}

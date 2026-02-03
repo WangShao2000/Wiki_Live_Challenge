@@ -1,0 +1,93 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "30299885": {
+        "pageid": 30299885,
+        "ns": 0,
+        "title": "Diego_García_Miravete",
+        "extract": "Diego García Miravete is a renowned Mexican former gridiron football coach and player, widely recognized for his exceptional contributions to the sport in Mexico. Born in the 1940s, he played college football for the Pumas UNAM and Cóndores UNAM during the late 1960s and early 1970s. After his playing career, Miravete transitioned into coaching, becoming one of the most successful coaches in Mexican college football history. He is best known for his tenure as the head coach of the Cóndores UNAM, where he led the team to several national championships. His achievements have earned him the title of one of the greatest Mexican college football coaches of all time.\n\nDiego García Miravete was born in the 1940s in Mexico. He began his gridiron football career as a player, representing both Pumas UNAM and Cóndores UNAM during the late 1960s and early 1970s. His playing career was during a golden age of football in Mexico, where the Pumas Doradas enjoyed significant success under the coaching of Neri.\n\nAfter retiring as a player, Miravete turned to coaching. He became the head coach of several prominent Mexican college football teams, including the Cóndores UNAM, where he achieved remarkable success. During his tenure, he led the team to multiple national championships, solidifying his status as one of the greatest coaches in Mexican college football history.\n\nDiego García Miravete's coaching career is marked by numerous achievements. He is best known for his time as the head coach of the Cóndores UNAM, where he led the team to several national championships. His contributions to the sport have earned him the title of one of the greatest Mexican college football coaches of all time.",
+        "extract_with_citations": "Diego García Miravete is a renowned Mexican former gridiron football coach and player, widely recognized for his exceptional contributions to the sport in Mexico. Born in the 1940s, he played college football for the Pumas UNAM and Cóndores UNAM during the late 1960s and early 1970s. After his playing career, Miravete transitioned into coaching, becoming one of the most successful coaches in Mexican college football history. He is best known for his tenure as the head coach of the Cóndores UNAM, where he led the team to several national championships. His achievements have earned him the title of one of the greatest Mexican college football coaches of all time.\n\nDiego García Miravete was born in the 1940s in Mexico. He began his gridiron football career as a player, representing both Pumas UNAM and Cóndores UNAM during the late 1960s and early 1970s. His playing career was during a golden age of football in Mexico, where the Pumas Doradas enjoyed significant success under the coaching of Neri.\n\nAfter retiring as a player, Miravete turned to coaching. He became the head coach of several prominent Mexican college football teams, including the Cóndores UNAM, where he achieved remarkable success. During his tenure, he led the team to multiple national championships, solidifying his status as one of the greatest coaches in Mexican college football history.\n\nDiego García Miravete's coaching career is marked by numerous achievements. He is best known for his time as the head coach of the Cóndores UNAM, where he led the team to several national championships. His contributions to the sport have earned him the title of one of the greatest Mexican college football coaches of all time.",
+        "citation_urls": {},
+        "lead_content": "Diego García Miravete is a renowned Mexican former gridiron football coach and player, widely recognized for his exceptional contributions to the sport in Mexico. Born in the 1940s, he played college football for the Pumas UNAM and Cóndores UNAM during the late 1960s and early 1970s. After his playing career, Miravete transitioned into coaching, becoming one of the most successful coaches in Mexican college football history. He is best known for his tenure as the head coach of the Cóndores UNAM, where he led the team to several national championships. His achievements have earned him the title of one of the greatest Mexican college football coaches of all time.",
+        "statements": [
+          {
+            "statement": "Diego García Miravete is a renowned Mexican former gridiron football coach and player, widely recognized for his exceptional contributions to the sport in Mexico."
+          },
+          {
+            "statement": "Born in the 1940s, he played college football for the Pumas UNAM and Cóndores UNAM during the late 1960s and early 1970s."
+          },
+          {
+            "statement": "After his playing career, Miravete transitioned into coaching, becoming one of the most successful coaches in Mexican college football history."
+          },
+          {
+            "statement": "He is best known for his tenure as the head coach of the Cóndores UNAM, where he led the team to several national championships."
+          },
+          {
+            "statement": "His achievements have earned him the title of one of the greatest Mexican college football coaches of all time."
+          },
+          {
+            "statement": "Diego García Miravete was born in the 1940s in Mexico."
+          },
+          {
+            "statement": "He began his gridiron football career as a player, representing both Pumas UNAM and Cóndores UNAM during the late 1960s and early 1970s."
+          },
+          {
+            "statement": "His playing career was during a golden age of football in Mexico, where the Pumas Doradas enjoyed significant success under the coaching of Neri."
+          },
+          {
+            "statement": "After retiring as a player, Miravete turned to coaching."
+          },
+          {
+            "statement": "He became the head coach of several prominent Mexican college football teams, including the Cóndores UNAM, where he achieved remarkable success."
+          },
+          {
+            "statement": "During his tenure, he led the team to multiple national championships, solidifying his status as one of the greatest coaches in Mexican college football history."
+          },
+          {
+            "statement": "Diego García Miravete's coaching career is marked by numerous achievements."
+          },
+          {
+            "statement": "He is best known for his time as the head coach of the Cóndores UNAM, where he led the team to several national championships."
+          },
+          {
+            "statement": "His contributions to the sport have earned him the title of one of the greatest Mexican college football coaches of all time."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Diego_García_Miravete",
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Biography",
+        "number": "1",
+        "index": "1",
+        "anchor": "Biography"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Career",
+        "number": "2",
+        "index": "2",
+        "anchor": "Career"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Achievements",
+        "number": "3",
+        "index": "3",
+        "anchor": "Achievements"
+      }
+    ]
+  },
+  "fetched_at": 1766315450,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Diego_García_Miravete.md",
+  "source_org": "deep_researcher"
+}

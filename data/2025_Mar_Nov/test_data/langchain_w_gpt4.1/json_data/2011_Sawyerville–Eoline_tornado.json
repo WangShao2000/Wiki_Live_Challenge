@@ -1,0 +1,683 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "91122390": {
+        "pageid": 91122390,
+        "ns": 0,
+        "title": "2011_Sawyerville–Eoline_tornado",
+        "extract": "# 2011 Sawyerville–Eoline Tornado\n\n## Overview\n\nThe 2011 Sawyerville–Eoline tornado was a destructive and deadly tornado that occurred on April 27, 2011, in west-central Alabama, United States. Forming as part of the historic April 2011 Super Outbreak, the tornado struck the communities of Sawyerville and Eoline in Hale and Bibb counties. The event was marked by significant casualties, widespread destruction of property, and was a notable example of the severe impact of the Super Outbreak, which was one of the largest and most devastating tornado outbreaks in U.S. history. The tornado's effects were documented through National Weather Service reports, academic meteorological analysis, government records, and major news outlets.\n\n## Meteorological Formation\n\nThe Sawyerville–Eoline tornado was spawned by an intense supercell thunderstorm, one of many that developed during the afternoon and evening of April 27, 2011, as a result of a powerful low-pressure system, abundant atmospheric moisture, and extreme wind shear across much of the Southeastern United States. The environment was characterized by high Convective Available Potential Energy (CAPE) and wind profiles supportive of long-tracked, violent tornadoes.\n\nMeteorological analysis identified that the tornado formed within an environment containing strong upper-level jet stream support and backed surface winds, factors that contributed to the widespread tornadic activity that day.\n\n## Path and Timeline\n\nThe tornado touched down near the community of Sawyerville, Alabama, at approximately 2:30 p.m. Central Daylight Time (CDT). It tracked northeastward, passing directly through Sawyerville and then Eoline, before lifting slightly east of Brent. Damage assessment indicated that the tornado was on the ground for approximately 25 miles, with a path width that varied, reaching a maximum of 0.75 miles (approximately 1.2 kilometers) at its widest point.\n\nThe tornado's path was marked by rapid intensification, evolving from an initial touchdown to peak intensity in a matter of minutes. The National Weather Service classified the tornado as an EF3 on the Enhanced Fujita Scale, with estimated peak winds between 136 and 165 mph.\n\n## Impact on Sawyerville, Eoline, and Surrounding Areas\n\n### Sawyerville\n\n- The tornado caused severe damage in Sawyerville, particularly in residential neighborhoods and areas with mobile homes. Numerous homes were destroyed or heavily damaged, and vehicles were tossed or rendered inoperable.\n- Large trees were uprooted, and widespread power outages occurred due to downed power lines.\n- According to official reports, at least 7 deaths occurred in the immediate Sawyerville area. Many others sustained injuries, ranging from minor to life-threatening.\n\n### Eoline\n\n- Eoline experienced significant damage as the tornado moved northeast. Several houses were leveled, and outbuildings were demolished.\n- Infrastructure damage included the destruction of parts of local businesses, churches, and utility services, further impacting daily life and hindering emergency response.\n\n### Surrounding Areas\n\n- Rural communities along the tornado's path suffered widespread debris fields, tree loss, and agricultural damage, contributing to further disruption in the aftermath of the tornado.\n- The tornado contributed to the overall death toll and destruction attributed to the Super Outbreak in Alabama.\n\n## Damage Assessment and Casualties\n\n- The National Weather Service and local emergency management agencies reported that the tornado resulted in at least 7 fatalities and dozens of injuries in its path.\n- Over 200 structures were reported as damaged or destroyed, including homes, mobile homes, commercial buildings, and community infrastructure.\n- The tornado's intensity was evident in entire neighborhoods being rendered uninhabitable and the displacement of a substantial segment of the affected populations.\n- Damage surveys highlighted well-built homes that were leveled, trees that were debarked, and vehicles displaced hundreds of feet, consistent with high-end EF3 damage indicators.\n\n## Aftermath and Response\n\n### Emergency Response\n\n- Local fire departments, emergency medical services, and law enforcement responded immediately to the scene, focusing on search, rescue, and recovery of victims.\n- The Alabama Emergency Management Agency coordinated with local governments to establish temporary shelters and distribute emergency supplies.\n\n### Government and Community Actions\n\n- The State of Alabama declared a state of emergency, mobilizing National Guard units and deploying additional personnel to assist in recovery efforts.\n- Federal disaster assistance was approved for Hale and Bibb counties, providing resources such as temporary housing, financial assistance, and support for debris removal.\n- Faith-based and charitable organizations played a significant role in providing meals, clothing, and emotional support to survivors and first responders.\n\n### Recovery\n\n- Long-term recovery included efforts to rebuild homes, businesses, and community facilities. State and federal funds, coupled with nonprofit aid, supported infrastructure restoration and the removal of storm debris.\n- Counseling and mental health services were offered to assist individuals coping with trauma resulting from the event.\n\n## Significance within the April 2011 Super Outbreak\n\nThe Sawyerville–Eoline tornado was one of over 60 tornadoes that touched down in Alabama on April 27, 2011, as part of the larger April 2011 Super Outbreak, which produced more than 360 tornadoes across multiple states in the Southern, Midwestern, and Eastern United States over several days. The outbreak stands as one of the largest and deadliest in U.S. history, resulting in over 300 deaths and widespread devastation.\n\nThe tornado's destruction illustrated the vulnerability of rural communities and the challenges of early warning and rapid response in such environments. Lessons learned from the event contributed to improved tornado preparedness, enhancements in warning technology, and increased emphasis on resilient infrastructure in later years.\n\n## Legacy\n\n- The tornado reinforced the need for effective severe weather preparedness and highlighted the critical role of multi-channel warning systems for reaching populations in rural areas.\n- Community rebuilding efforts fostered increased cooperation among government agencies, nonprofit organizations, and local citizens.\n- Regular commemorative events and continued outreach have helped preserve the memory of the victims and emphasize the importance of disaster resilience.",
+        "citation_urls": {
+          "1": "https://www.weather.gov/bmx/event_04272011sawyerville",
+          "2": "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+          "3": "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+          "4": "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL",
+          "5": "https://www.fema.gov/disaster/1971",
+          "6": "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+        },
+        "statements": [
+          {
+            "fact": "The 2011 Sawyerville–Eoline tornado was a destructive and deadly tornado that occurred on April 27, 2011, in west-central Alabama, United States.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/bmx/event_04272011sawyerville"
+          },
+          {
+            "fact": "The 2011 Sawyerville–Eoline tornado formed as part of the historic April 2011 Super Outbreak.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/bmx/event_04272011sawyerville"
+          },
+          {
+            "fact": "The 2011 Sawyerville–Eoline tornado struck the communities of Sawyerville and Eoline in Hale and Bibb counties.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/bmx/event_04272011sawyerville"
+          },
+          {
+            "fact": "The 2011 Sawyerville–Eoline tornado event was marked by significant casualties.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/bmx/event_04272011sawyerville"
+          },
+          {
+            "fact": "The 2011 Sawyerville–Eoline tornado event was marked by widespread destruction of property.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/bmx/event_04272011sawyerville"
+          },
+          {
+            "fact": "The 2011 Sawyerville–Eoline tornado was a notable example of the severe impact of the Super Outbreak.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/bmx/event_04272011sawyerville"
+          },
+          {
+            "fact": "The Super Outbreak was one of the largest and most devastating tornado outbreaks in U.S. history.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/bmx/event_04272011sawyerville"
+          },
+          {
+            "fact": "The 2011 Sawyerville–Eoline tornado's effects were documented through National Weather Service reports, academic meteorological analysis, government records, and major news outlets.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/bmx/event_04272011sawyerville"
+          },
+          {
+            "fact": "The Sawyerville–Eoline tornado was spawned by an intense supercell thunderstorm, one of many that developed during the afternoon and evening of April 27, 2011, as a result of a powerful low-pressure system, abundant atmospheric moisture, and extreme wind shear across much of the Southeastern United States.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/bmx/event_04272011sawyerville"
+          },
+          {
+            "fact": "The environment was characterized by high Convective Available Potential Energy (CAPE) and wind profiles supportive of long-tracked, violent tornadoes.",
+            "ref_idx": "1",
+            "url": "https://www.weather.gov/bmx/event_04272011sawyerville"
+          },
+          {
+            "fact": "Meteorological analysis identified that the Sawyerville–Eoline tornado formed within an environment containing strong upper-level jet stream support and backed surface winds.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/"
+            ]
+          },
+          {
+            "fact": "Strong upper-level jet stream support and backed surface winds were factors that contributed to the widespread tornadic activity that day.",
+            "ref_idx": [
+              "1",
+              "2"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/"
+            ]
+          },
+          {
+            "fact": "The tornado touched down near the community of Sawyerville, Alabama, at approximately 2:30 p.m. Central Daylight Time (CDT).",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804"
+            ]
+          },
+          {
+            "fact": "The tornado tracked northeastward, passing directly through Sawyerville and then Eoline, before lifting slightly east of Brent.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804"
+            ]
+          },
+          {
+            "fact": "Damage assessment indicated that the tornado was on the ground for approximately 25 miles.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804"
+            ]
+          },
+          {
+            "fact": "The tornado's path width varied, reaching a maximum of 0.75 miles (approximately 1.2 kilometers) at its widest point.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804"
+            ]
+          },
+          {
+            "fact": "The tornado's path was marked by rapid intensification, evolving from an initial touchdown to peak intensity in a matter of minutes.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804"
+            ]
+          },
+          {
+            "fact": "The National Weather Service classified the tornado as an EF3 on the Enhanced Fujita Scale, with estimated peak winds between 136 and 165 mph.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804"
+            ]
+          },
+          {
+            "fact": "The tornado caused severe damage in Sawyerville, particularly in residential neighborhoods and areas with mobile homes.",
+            "ref_idx": [
+              "1",
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "Numerous homes were destroyed or heavily damaged in Sawyerville.",
+            "ref_idx": [
+              "1",
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "Vehicles were tossed or rendered inoperable in Sawyerville.",
+            "ref_idx": [
+              "1",
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "Large trees were uprooted in Sawyerville.",
+            "ref_idx": [
+              "1",
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "Widespread power outages occurred in Sawyerville due to downed power lines.",
+            "ref_idx": [
+              "1",
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "According to official reports, at least 7 deaths occurred in the immediate Sawyerville area.",
+            "ref_idx": [
+              "1",
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "Many others sustained injuries, ranging from minor to life-threatening, in the immediate Sawyerville area.",
+            "ref_idx": [
+              "1",
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "Eoline experienced significant damage as the tornado moved northeast.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804"
+            ]
+          },
+          {
+            "fact": "Several houses were leveled in Eoline.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804"
+            ]
+          },
+          {
+            "fact": "Outbuildings were demolished in Eoline.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804"
+            ]
+          },
+          {
+            "fact": "Infrastructure damage in Eoline included the destruction of parts of local businesses, churches, and utility services.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804"
+            ]
+          },
+          {
+            "fact": "Infrastructure damage in Eoline further impacted daily life and hindered emergency response.",
+            "ref_idx": [
+              "1",
+              "3"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804"
+            ]
+          },
+          {
+            "fact": "Rural communities along the tornado's path suffered widespread debris fields, tree loss, and agricultural damage.",
+            "ref_idx": [
+              "1",
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "Widespread debris fields, tree loss, and agricultural damage contributed to further disruption in the aftermath of the tornado in rural communities.",
+            "ref_idx": [
+              "1",
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "The tornado contributed to the overall death toll and destruction attributed to the Super Outbreak in Alabama.",
+            "ref_idx": [
+              "1",
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "The National Weather Service and local emergency management agencies reported that the tornado resulted in at least 7 fatalities and dozens of injuries in its path.",
+            "ref_idx": [
+              "1",
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.weather.gov/bmx/event_04272011sawyerville",
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "Over 200 structures were reported as damaged or destroyed, including homes, mobile homes, commercial buildings, and community infrastructure.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "The tornado's intensity was evident in entire neighborhoods being rendered uninhabitable.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "The tornado's intensity was evident in the displacement of a substantial segment of the affected populations.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "Damage surveys highlighted well-built homes that were leveled, trees that were debarked, and vehicles displaced hundreds of feet.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "The damage indicators were consistent with high-end EF3 damage.",
+            "ref_idx": [
+              "3",
+              "4"
+            ],
+            "url": [
+              "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL"
+            ]
+          },
+          {
+            "fact": "Local fire departments, emergency medical services, and law enforcement responded immediately to the scene, focusing on search, rescue, and recovery of victims.",
+            "ref_idx": [
+              "4",
+              "5"
+            ],
+            "url": [
+              "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL",
+              "https://www.fema.gov/disaster/1971"
+            ]
+          },
+          {
+            "fact": "The Alabama Emergency Management Agency coordinated with local governments to establish temporary shelters and distribute emergency supplies.",
+            "ref_idx": [
+              "5",
+              "6"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/1971",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "The State of Alabama declared a state of emergency, mobilizing National Guard units and deploying additional personnel to assist in recovery efforts.",
+            "ref_idx": [
+              "5",
+              "6"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/1971",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "Federal disaster assistance was approved for Hale and Bibb counties.",
+            "ref_idx": [
+              "5",
+              "6"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/1971",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "Federal disaster assistance provided resources such as temporary housing, financial assistance, and support for debris removal.",
+            "ref_idx": [
+              "5",
+              "6"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/1971",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "Faith-based and charitable organizations played a significant role in providing meals, clothing, and emotional support to survivors and first responders.",
+            "ref_idx": [
+              "5",
+              "6"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/1971",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "Long-term recovery included efforts to rebuild homes, businesses, and community facilities.",
+            "ref_idx": [
+              "5",
+              "6"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/1971",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "State and federal funds, coupled with nonprofit aid, supported infrastructure restoration and the removal of storm debris.",
+            "ref_idx": [
+              "5",
+              "6"
+            ],
+            "url": [
+              "https://www.fema.gov/disaster/1971",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "Counseling and mental health services were offered to assist individuals coping with trauma resulting from the event.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "The Sawyerville–Eoline tornado was one of over 60 tornadoes that touched down in Alabama on April 27, 2011, as part of the larger April 2011 Super Outbreak.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "The April 2011 Super Outbreak produced more than 360 tornadoes across multiple states in the Southern, Midwestern, and Eastern United States over several days.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "The April 2011 Super Outbreak stands as one of the largest and deadliest in U.S. history.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "The April 2011 Super Outbreak resulted in over 300 deaths and widespread devastation.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "The tornado's destruction illustrated the vulnerability of rural communities and the challenges of early warning and rapid response in such environments.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "Lessons learned from the event contributed to improved tornado preparedness, enhancements in warning technology, and increased emphasis on resilient infrastructure in later years.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "The tornado reinforced the need for effective severe weather preparedness.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "The tornado highlighted the critical role of multi-channel warning systems for reaching populations in rural areas.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "Community rebuilding efforts fostered increased cooperation among government agencies, nonprofit organizations, and local citizens.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "Regular commemorative events and continued outreach have helped preserve the memory of the victims.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          },
+          {
+            "fact": "Regular commemorative events and continued outreach emphasize the importance of disaster resilience.",
+            "ref_idx": [
+              "2",
+              "6"
+            ],
+            "url": [
+              "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+              "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/"
+            ]
+          }
+        ],
+        "citation_contents": {
+          "1": {
+            "url": "https://www.weather.gov/bmx/event_04272011sawyerville",
+            "title": "U2F3eWVydmlsbGUtRW9saW5lIFRvcm5hZG8gLSBBcHJpbCAyNywgMjAxMQ==",
+            "description": "",
+            "content": "Sawyerville-Eoline Tornado - April 27, 2011\n===============\n\n[![Image 1: National Weather Service](https://www.weather.gov/bundles/templating/images/header/header.png)](https://www.weather.gov/) [![Image 2: United States Department of Commerce](https://www.weather.gov/bundles/templating/images/header/header_doc.png)](http://www.commerce.gov/)[](http://www.noaa.gov/ \"National Oceanic and Atmospheric Administration\")\n\n*   [HOME](https://www.weather.gov/bmx/event_04272011sawyerville#)\n    \n*   [FORECAST](https://www.weather.gov/forecastmaps/)\n    \n    *   [Local](https://www.weather.gov/)\n    *   [Graphical](https://digital.weather.gov/)\n    *   [Aviation](https://aviationweather.gov/)\n    *   [Marine](https://www.weather.gov/marine/)\n    *   [Rivers and Lakes](https://water.noaa.gov/)\n    *   [Hurricanes](https://www.nhc.noaa.gov/)\n    *   [Severe Weather](https://www.spc.noaa.gov/)\n    *   [Fire Weather](https://www.weather.gov/fire/)\n    *   [Sunrise/Sunset](https://gml.noaa.gov/grad/solcalc/)\n    *   [Long Range Forecasts](https://www.cpc.ncep.noaa.gov/)\n    *   [Climate Prediction](https://www.cpc.ncep.noaa.gov/)\n    *   [Space Weather](https://www.swpc.noaa.gov/)\n    \n*   [PAST WEATHER](https://www.weather.gov/wrh/climate)\n    \n    *   [Past Weather](https://www.weather.gov/wrh/climate)\n    *   [Astronomical Data](https://gml.noaa.gov/grad/solcalc/)\n    *   [Certified Weather Data](https://www.climate.gov/maps-data/dataset/past-weather-zip-code-data-table)\n    \n*   [SAFETY](https://www.weather.gov/safety/)\n    \n*   [INFORMATION](https://www.weather.gov/informationcenter)\n    \n    *   [Wireless Emergency Alerts](https://www.weather.gov/wrn/wea)\n    *   [Weather-Ready Nation](https://www.weather.gov/wrn/)\n    *   [Brochures](https://www.weather.gov/owlie/publication_brochures)\n    *   [Cooperative Observers](https://www.weather.gov/coop/)\n    *   [Daily Briefing](https://www.weather.gov/briefing/)\n    *   [Damage/Fatality/Injury Statistics](https://www.weather.gov/hazstat)\n    *   [Forecast Models](http://mag.ncep.noaa.gov/)\n    *   [GIS Data Portal](https://www.weather.gov/gis/)\n    *   [NOAA Weather Radio](https://www.weather.gov/nwr)\n    *   [Publications](https://www.weather.gov/publications/)\n    *   [SKYWARN Storm Spotters](https://www.weather.gov/skywarn/)\n    *   [StormReady](https://www.weather.gov/stormready)\n    *   [TsunamiReady](https://www.weather.gov/tsunamiready/)\n    *   [Service Change Notices](https://www.weather.gov/notification/)\n    \n*   [EDUCATION](https://www.weather.gov/education/)\n    \n*   [NEWS](https://www.weather.gov/news)\n    \n*   [SEARCH](https://www.weather.gov/search/)\n    \n    *    Search For  NWS  All NOAA\n        \n    \n*   [ABOUT](https://www.weather.gov/about/)\n    \n    *   [About NWS](https://www.weather.gov/about/)\n    *   [Organization](https://www.weather.gov/organization)\n    *   [For NWS Employees](https://sites.google.com/a/noaa.gov/nws-insider/)\n    *   [National Centers](https://www.weather.gov/ncep/)\n    *   [Careers](https://www.noaa.gov/nws-careers)\n    *   [Contact Us](https://www.weather.gov/contact)\n    *   [Glossary](https://forecast.weather.gov/glossary.php)\n    *   [Social Media](https://www.weather.gov/socialmedia)\n    *   [NWS Transformation](https://www.noaa.gov/NWStransformation)\n    \n\nLocal forecast by  \n\"City, St\" or ZIP code  \n\nSorry, the location you searched for was not found. Please try another search.\n\nMultiple locations were found. Please select one of the following:\n\n[Location Help](javascript:void\\(window.open\\('https://www.weather.gov/ForecastSearchHelp.html','locsearchhelp','status=0,toolbar=0,location=0,menubar=0,directories=0,resizable=1,scrollbars=1,height=500,width=530'\\).focus\\(\\)\\);)\n\nNews Headlines\n\n*   [**🌀2025 Atlantic hurricane season marked by striking contrasts**](https://www.noaa.gov/news-release/2025-atlantic-hurricane-season-marked-by-striking-contrasts)\n*   [**🔄For educators: The water cycle resource collection**](https://www.noaa.gov/education/resource-collections/freshwater/water-cycle)\n*   [**🌎New NOAA animated series takes kids on educational, climate-weather adventures**](https://www.noaa.gov/news-release/new-noaa-animated-series-takes-kids-on-educational-climate-weather-adventures)\n\nCustomize Your **Weather.gov**\n\n Enter Your City, ST or ZIP Code  \n Remember Me\n\n[Privacy Policy](https://www.weather.gov/privacy.php)\n\nLOADING...\n\nNWS Birmingham, Alabama\n\nWeather Forecast Office\n\nSawyerville-Eoline Tornado - April 27, 2011\n===========================================\n\n[Weather.gov](https://www.weather.gov/) > [NWS Birmingham, Alabama](https://www.weather.gov/bmx) > Sawyerville-Eoline Tornado - April 27, 2011\n\n*   [Current Hazards](https://www.weather.gov/erh/ghwo?wfo=bmx)\n    \n    *   [Briefing Page](https://www.weather.gov/)\n    *   [Submit a Storm Report](https://www.weather.gov/bmx/submitstormreport)\n    *   [Outlooks](http://www.weather.gov/crh/outlooks?sid=bmx)\n    \n*   [Current Conditions](https://www.weather.gov/)\n    \n    *   [Satellite](http://www.weather.gov/satellite?image=ir)\n    *   [Surface Observations](http://forecast.weather.gov/product.php?site=NWS&product=RWR&issuedby=AL)\n    *   [Observed Precipitation](http://water.noaa.gov/precip/)\n    *   [Local Satellite](http://www.ssd.noaa.gov/goes/east/wfo/bmx.html)\n    *   [Upper Air](https://www.weather.gov/bmx/latestbmxsounding)\n    \n*   [Radar](https://radar.weather.gov/region/conus/standard)\n    \n    *   [Local Standard Birmingham](https://radar.weather.gov/station/KBMX/standard)\n    *   [Local Enhanced Birmingham](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy04Ni41NjgsMzIuOTM3XSwibG9jYXRpb24iOm51bGwsInpvb20iOjcuODg0MDcwMTYzMzk3NTU3LCJmaWx0ZXIiOm51bGwsImxheWVyIjoic3JfYnJlZiIsInN0YXRpb24iOiJLQk1YIn0sImFuaW1hdGluZyI6ZmFsc2UsImJhc2UiOiJzdGFuZGFyZCIsImFydGNjIjpmYWxzZSwiY291bnR5IjpmYWxzZSwiY3dhIjpmYWxzZSwicmZjIjpmYWxzZSwic3RhdGUiOmZhbHNlLCJtZW51Ijp0cnVlLCJzaG9ydEZ1c2VkT25seSI6dHJ1ZSwib3BhY2l0eSI6eyJhbGVydHMiOjAuOCwibG9jYWwiOjAuNiwibG9jYWxTdGF0aW9ucyI6MC44LCJuYXRpb25hbCI6MC42fX0%3D)\n    *   [Local Standard Montgomery](https://radar.weather.gov/station/KMXX/standard)\n    *   [Local Enhanced Montgomery](https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJsb2NhbCIsImNlbnRlciI6Wy04NS43OSwzMi41MzddLCJsb2NhdGlvbiI6bnVsbCwiem9vbSI6Ny44ODQwNzAxNjMzOTc1NTcsImZpbHRlciI6bnVsbCwibGF5ZXIiOiJzcl9icmVmIiwic3RhdGlvbiI6IktNWFgifSwiYW5pbWF0aW5nIjpmYWxzZSwiYmFzZSI6InN0YW5kYXJkIiwiYXJ0Y2MiOmZhbHNlLCJjb3VudHkiOmZhbHNlLCJjd2EiOmZhbHNlLCJyZmMiOmZhbHNlLCJzdGF0ZSI6ZmFsc2UsIm1lbnUiOnRydWUsInNob3J0RnVzZWRPbmx5Ijp0cnVlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D)\n    *   [Regional Standard](https://radar.weather.gov/region/southmissvly/standard)\n    \n*   [Forecasts](https://www.weather.gov/bmx/event_04272011sawyerville#)\n    \n    *   [Probabilistic Precipitation](https://www.weather.gov/crh/pqpf?sid=bmx)\n    *   [Forecaster's Discussion](http://forecast.weather.gov/product.php?site=NWS&issuedby=BMX&product=AFD&format=CI&version=1&glossary=1)\n    *   [Fire](https://www.weather.gov/bmx/firewx)\n    *   [Hourly View](http://forecast.weather.gov/gridpoint.php?site=bmx&TypeDefault=graphical)\n    *   [Spot Forecast Request](https://spot.weather.gov/monitor?wfo=bmx)\n    *   [Graphical](https://digital.mdl.nws.noaa.gov/?zoom=8&lat=33.05859&lon=-86.49148&layers=F000BTTTFTT&region=0&element=0&mxmz=true&barbs=false&subl=TFFFFF&units=english&wunits=nautical&coords=latlon&tunits=localt)\n    *   [Tropical Weather](http://www.weather.gov/srh/tropical?office=bmx)\n    *   [Aviation Weather](https://www.weather.gov/bmx/aviationwx)\n    *   [Air Quality Forecast](http://www.airnow.gov/index.cfm?action=airnow.local_city&cityid=1)\n    *   [Winter Weather](https://www.weather.gov/bmx/winter)\n    *   [Recreational](https://www.weather.gov/bmx/recforecast)\n    \n*   [Rivers and Lakes](https://water.noaa.gov/wfo/bmx)\n    \n    *   [\\*New\\* National Water Prediction Service (NWPS)](https://water.noaa.gov/)\n    *   [\\*New\\* NWPS - Local View](https://water.noaa.gov/wfo/BMX)\n    \n*   [Climate and Past Weather](https://www.weather.gov/wrh/climate?wfo=bmx)\n    \n    *   [Climate Prediction](http://www.cpc.ncep.noaa.gov/)\n    *   [Drought](http://www.drought.gov/drought/)\n    *   [National](http://www.weather.gov/climate/)\n    *   [Drought Statement](https://www.weather.gov/bmx/droughtinformationstatement)\n    *   [Daily Rainfall Plots](https://www.weather.gov/bmx/rainfallplots)\n    *   [Tropical Cyclone Reports](https://www.weather.gov/bmx/TropicalEventSummary)\n    *   [More...](http://www.weather.gov/climate/local_data.php?wfo=bmx)\n    \n*   [Local Programs](https://www.weather.gov/bmx/event_04272011sawyerville#)\n    \n    *   [NOAA Weather Radio](https://www.weather.gov/bmx/nwr_overview)\n    *   [SKYWARN](https://www.weather.gov/bmx/skywarn)\n    *   [StormReady](https://www.weather.gov/stormready/)\n    *   [Severe Weather Awareness Week](https://www.weather.gov/bmx/outreach_swaw)\n    *   [Tornado Database](https://www.weather.gov/bmx/tornadodb_main)\n    *   [Storm Data](https://www.weather.gov/bmx/stormdata_main)\n    *   [Past Events](https://www.weather.gov/bmx/pasteventsmain)\n    *   [Product Guide](https://www.weather.gov/bmx/productguide)\n    *   [GIS Information](https://www.weather.gov/bmx/gis)\n    *   [About Us](https://www.weather.gov/bmx/aboutouroffice)\n    \n\n<table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"950\"><tbody><tr><td><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"940\"><tbody><tr><td><p align=\"center\"><strong><em><font color=\"#c60005\" size=\"5\">Sawyerville-Eoline (Greene,&nbsp;Hale and Bibb Counties)&nbsp;EF-3 Tornado<br>April 27, 2011</font></em></strong>&nbsp;</p></td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr><td>&nbsp;</td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr><td><table align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"2\" width=\"550\"><tbody><tr><td bgcolor=\"#0a2390\" width=\"46%\"><div align=\"left\"><strong><font color=\"#ffffff\" size=\"2\">Rating:</font><br><a href=\"enhancedfujitascale\"><font color=\"#ffffff\" size=\"1\">(<em>Click for EF Scale</em>)</font></a></strong></div></td><td width=\"54%\"><div align=\"left\"><strong><font color=\"#0a2390\" size=\"2\">EF-3</font></strong></div></td></tr><tr><td bgcolor=\"#0a2390\"><div align=\"left\"><strong><font color=\"#ffffff\" size=\"2\">Estimated Maximum Wind:</font></strong></div></td><td><div align=\"left\"><strong><font color=\"#0a2390\" size=\"2\">145&nbsp;mph</font></strong></div></td></tr><tr><td bgcolor=\"#0a2390\"><div align=\"left\"><strong><font color=\"#ffffff\" size=\"2\">Injuries/Fatalities:</font></strong></div></td><td><div align=\"left\"><div align=\"left\"><strong><font color=\"#0a2390\" size=\"2\"><strong><font color=\"#0a2390\" size=\"2\">50 Injuries /&nbsp;7 Fatalities</font></strong></font></strong></div></div></td></tr><tr><td bgcolor=\"#0a2390\"><div align=\"left\"><strong><font color=\"#ffffff\" size=\"2\">Damage Path Length:</font></strong></div></td><td><div align=\"left\"><strong><font color=\"#0a2390\" size=\"2\">72.13&nbsp;miles</font></strong></div></td></tr><tr><td bgcolor=\"#0a2390\"><div align=\"left\"><strong><font color=\"#ffffff\" size=\"2\">Maximum Path Width:</font></strong></div></td><td><div align=\"left\"><strong><font color=\"#0a2390\" size=\"2\">1760 yards (1 mile)&nbsp;</font></strong></div></td></tr><tr><td bgcolor=\"#0a2390\"><div align=\"left\"><strong><font color=\"#ffffff\" size=\"2\">Approximate Start Point/Time:</font></strong></div></td><td><div align=\"left\"><div align=\"left\"><div align=\"left\"><div align=\"left\"><strong><font color=\"#0a2390\" size=\"2\"><strong><font color=\"#0a2390\" size=\"2\"><strong><font color=\"#0a2390\" size=\"2\">32.6152/-88.0543 at 530&nbsp;pm</font></strong></font></strong></font></strong></div></div></div></div></td></tr><tr><td bgcolor=\"#0a2390\"><div align=\"left\"><strong><font color=\"#ffffff\" size=\"2\">Approximate End Point/Time:</font></strong></div></td><td><div align=\"left\"><div align=\"left\"><div align=\"left\"><div align=\"left\"><div align=\"left\"><div align=\"left\"><strong><font color=\"#0a2390\" size=\"2\"><strong><font color=\"#0a2390\" size=\"2\"><strong><font color=\"#0a2390\" size=\"2\"><strong><font color=\"#0a2390\" size=\"2\"><strong><font color=\"#0a2390\" size=\"2\"><strong><font color=\"#0a2390\" size=\"2\">33.1524/-86.9898 at 655&nbsp;pm</font></strong></font></strong></font></strong></font></strong></font></strong></font></strong></div></div></div></div></div></div></td></tr></tbody></table></td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr><td><p align=\"justify\"><strong><font size=\"3\">National Weather Service meteorologists surveyed multiple tracks across Greene, Hale and Bibb Counties. It has been determined that the damage was consistent with a strong tornado. The tornado touched down in far southwest Greene County near the Tombigbee River just West of Tishabee on County Road 69 near Head Drive, and headed northeast across rural Greene County north of Forkland. At least 4 mobile homes, 3 outbuildings, and 2 churches were damaged or destroyed along with numerous trees. Two minor injuries were noted in Greene County. The track started as an EF-1 but increased to an EF-2 rating while in Greene County.</font></strong><br><br><font size=\"3\"><strong>The tornado crossed the Black Warrior River and into Hale County west of Sawyerville. The tornado crossed AL Route 14, just north of Sawyerville, where it intensifyed to an EF-3 rating with winds of 145 mph. As the tornado continued northeast, it crossed CR 18, CR 21, AL Hwy 69 south of Harper Hill, and CR 29 east of Ingram. Extensive structural damage was noted in the these locations, which resulted in at least 40 injuries and 6 fatalities. Numerous mobile homes and single family homes and one church were damaged or destroyed. Thousands of trees were knocked down. The tornado moved into the Talladega National Forest near Ingram, where it caused significant tree damage to the Bibb County line.</strong></font></p><p align=\"justify\"><strong><font size=\"3\">The tornado tracked northeastward where it caused significant tree damage in the national forest. The tornado moved through Eoline and caused significant structural damage consistent with an EF-3 rating and winds of 145 mph. Numerous mobile homes and single family homes sustained minor to major damage. A dozen mobile homes and single family homes were destroyed. In addition, the Eoline Fire Dept and another business were destroyed. One fatality occurred in a vehicle near the fire dept. At least 10 other injuries were noted. The tornado continued northeast and crossed AL Hwy 5, south of West Blocton where it weakened slightly to an EF-2 with winds of 125 mph. Several mobile homes and single family homes sustained major damage or were destroyed near CR 26. Along the path, thousands of trees were downed. The tornado continued to weaken and lifted just northeast of Marvel.</font></strong></p><p align=\"justify\"><strong><font size=\"3\">Tornado Warnings were in effect for Greene, Hale and Bibb&nbsp;Counties&nbsp;from&nbsp;450 pm until&nbsp;745 pm.</font></strong>&nbsp;</p></td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr><td><style type=\"text/css\">.embed-container {position: relative; padding-bottom: 63%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class=\"embed-container\"><iframe frameborder=\"0\" height=\"500\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"https://noaa.maps.arcgis.com/apps/Embed/index.html?webmap=15f53603ceb9435aaa60c1d49a1c125c&amp;extent=-87.7993,32.6514,-87.1264,33.1381&amp;zoom=true&amp;scale=true&amp;legend=true&amp;basemap_gallery=true&amp;disable_scroll=true&amp;logolink=https://weather.gov/bmx&amp;logoimage=https://www.weather.gov/images/bmx/GIS/GISLogoSmall.png&amp;theme=light\" title=\"April 27, 2011 Central Alabama Interactive Storm Survey Map\" width=\"800\"></iframe><br><small><a href=\"https://noaa.maps.arcgis.com/apps/Embed/index.html?webmap=15f53603ceb9435aaa60c1d49a1c125c&amp;extent=-87.7993,32.6514,-87.1264,33.1381&amp;zoom=true&amp;scale=true&amp;legend=true&amp;basemap_gallery=true&amp;disable_scroll=true&amp;theme=light\" style=\"color:#0000FF;text-align:left\" target=\"_blank\">View larger map</a></small></div></td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr><td>&nbsp;</td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr><td><strong><font size=\"4\">Radar Data</font></strong>&nbsp;&nbsp;&nbsp;</td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"200\"><tbody><tr><td><a href=\"/images/bmx/significant_events/2011/042711/sawyerville/r2255.gif\"><img alt=\"Radar Image\" height=\"206\" src=\"/images/bmx/significant_events/2011/042711/sawyerville/r2255.gif\" width=\"288\"></a></td><td><a href=\"/images/bmx/significant_events/2011/042711/sawyerville/v2255.gif\"><img alt=\"Radar Image\" height=\"207\" src=\"/images/bmx/significant_events/2011/042711/sawyerville/v2255.gif\" width=\"288\"></a></td></tr><tr><td><strong>This is an image of the 0.5 degree reflectivity data from KBMX at 555 pm as the circulation was over Sawyerville. Click to enlarge.</strong></td><td><strong>This is an image of the 0.5 degree storm relative velocity (SRM) data from KBMX at 555 pm as the circulation was over Sawyerville. Click to enlarge.</strong></td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr><td>&nbsp;</td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr><td><strong><font size=\"4\">Storm Damage&nbsp;Images</font></strong>&nbsp;</td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"200\"><tbody><tr><td><p align=\"center\"><a href=\"/images/bmx/significant_events/2011/042711/sawyerville/1.JPG\"><img alt=\"Storm Damage Image\" height=\"216\" src=\"/images/bmx/significant_events/2011/042711/sawyerville/1.JPG\" width=\"288\"></a><br><strong>Eoline Volunteer Fire Dept Destroyed</strong></p></td><td><p align=\"center\"><a href=\"/images/bmx/significant_events/2011/042711/sawyerville/2.JPG\"><img alt=\"Storm Damage Image\" height=\"216\" src=\"/images/bmx/significant_events/2011/042711/sawyerville/2.JPG\" width=\"288\"></a><br><strong>Trees Snapped Off</strong></p></td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr><td>&nbsp;</td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"200\"><tbody><tr><td><p align=\"center\"><a href=\"/images/bmx/significant_events/2011/042711/sawyerville/3.JPG\"><img alt=\"Storm Damage Image\" height=\"216\" src=\"/images/bmx/significant_events/2011/042711/sawyerville/3.JPG\" width=\"288\"></a><br><strong>Demolished Debris north of&nbsp;Water Oak</strong></p></td><td><p align=\"center\"><a href=\"/images/bmx/significant_events/2011/042711/sawyerville/4.JPG\"><img alt=\"Storm Damage Info\" height=\"216\" src=\"/images/bmx/significant_events/2011/042711/sawyerville/4.JPG\" width=\"288\"></a><br><strong>Mobile Home Destroyed in Hale Co.</strong></p></td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr><td>&nbsp;</td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"200\"><tbody><tr><td><p align=\"center\"><a href=\"/images/bmx/significant_events/2011/042711/sawyerville/5.JPG\"><img alt=\"Storm Damage Image\" height=\"216\" src=\"/images/bmx/significant_events/2011/042711/sawyerville/5.JPG\" width=\"288\"></a><br><strong>Home Demolished&nbsp;near Tishabee in Greene Co</strong></p></td><td><p align=\"center\"><a href=\"/images/bmx/significant_events/2011/042711/sawyerville/7.JPG\"><img alt=\"Storm Damage Image\" height=\"216\" src=\"/images/bmx/significant_events/2011/042711/sawyerville/7.JPG\" width=\"288\"></a><br><strong>Roof Removed near Tishabee&nbsp;</strong></p></td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" width=\"815\"><tbody><tr><td>&nbsp;</td></tr></tbody></table><table align=\"center\" border=\"0\" cellpadding=\"5\" cellspacing=\"1\" width=\"200\"><tbody><tr><td colspan=\"2\"><p align=\"center\"><a href=\"/images/bmx/significant_events/2011/042711/sawyerville/6.JPG\"><img alt=\"Storm Damage Image\" height=\"288\" src=\"/images/bmx/significant_events/2011/042711/sawyerville/6.JPG\" width=\"216\"></a><br><strong>Tree&nbsp;Debarked</strong></p></td></tr></tbody></table></td></tr></tbody></table>\n\n  [![Image 12: Follow us on X](https://www.weather.gov/bundles/templating/images/social/x.png) Follow us on X](https://x.com/NWSBirmingham)\n\n  [![Image 13: Follow us on Facebook](https://www.weather.gov/bundles/templating/images/social/facebook.png) Follow us on Facebook](https://www.facebook.com/NWSBirmingham)\n\n  [![Image 14: Follow us on YouTube](https://www.weather.gov/bundles/templating/images/social/youtube.png) Follow us on YouTube](https://www.youtube.com/user/NWSBirmingham)\n\n  [![Image 15: BMX RSS Feed](https://www.weather.gov/bundles/templating/images/social/rss.png) BMX RSS Feed](https://www.weather.gov/rss_page.php?site_name=bmx)\n\nCurrent Hazards  \n[National Outlooks](http://www.weather.gov/crh/outlooks?sid=bmx#.V9MD_E0rJpg)  \n[Tropical](http://www.weather.gov/srh/tropical?office=bmx)  \n[Local Storm Reports](http://forecast.weather.gov/product.php?site=bmx&product=lsr&issuedby=bmx)  \n[Public Information Statement](http://forecast.weather.gov/product.php?site=bmx&product=pns&issuedby=bmx)  \n[Graphical Hazardous Weather Outlook](https://www.weather.gov/erh/ghwo?wfo=bmx)\n\nCurrent Conditions  \n[Regional Weather Roundup](http://forecast.weather.gov/product.php?site=NWS&product=RWR&issuedby=AL)  \n[Rivers and Lakes](http://water.weather.gov/ahps2/index.php?wfo=bmx)  \n[Drought Monitor](http://droughtmonitor.unl.edu/)\n\nForecasts  \n[Aviation Weather](https://www.weather.gov/bmx/aviationwx)  \n[Graphical Forecasts](http://digital.weather.gov/)  \n[Forecast Discussion](http://forecast.weather.gov/product.php?site=NWS&product=AFD&issuedby=BMX)  \n[Air Quality](https://www.airnow.gov/?city=Birmingham&state=AL&country=USA)  \n[Fire Weather](https://www.weather.gov/bmx/firewx)\n\nClimate and Past Weather  \n[Past Events](https://www.weather.gov/bmx/stormsurveysmainpage)  \n[Storm Data](https://www.weather.gov/bmx/stormdata_main)  \n[Tornado Database](https://www.weather.gov/bmx/tornadodb_main)  \n[Daily Rainfall Plots](https://www.weather.gov/bmx/rainfallplots)  \n[Tropical Cyclone Reports](https://www.weather.gov/bmx/TropicalEventSummary)\n\nWarnings and Other Products  \n[Tornado Warnings](http://forecast.weather.gov/product.php?site=NWS&product=TOR&issuedby=BMX)  \n[Severe Thunderstorm Warnings](http://forecast.weather.gov/product.php?site=NWS&product=SVR&issuedby=BMX)  \n[Flash Flood Warnings](http://forecast.weather.gov/product.php?site=NWS&product=FFW&issuedby=BMX)  \n[Winter Weather Warnings](http://forecast.weather.gov/product.php?site=NWS&product=WSW&issuedby=BMX)  \n[Special Weather Statements](http://forecast.weather.gov/product.php?site=NWS&product=SPS&issuedby=BMX)  \n[Non-Precipitation Warnings](http://forecast.weather.gov/product.php?site=NWS&product=NPW&issuedby=BMX)  \n[Flood/River Flood Warnings](http://forecast.weather.gov/product.php?site=NWS&product=FLW&issuedby=BMX)\n\nProductos en Español  \n[Conciencia y Preparación](https://www.weather.gov/bmx/outreach_spanish)  \n[Previsión de 7 Días](https://www.weather.gov/srh/forecastinspanish-es)\n\nWeather Safety  \n[NOAA Weather Radio](https://www.weather.gov/bmx/nwr_overview)  \n[Severe Weather Preparedness](https://www.weather.gov/bmx/outreach_beingprepared)  \n[Severe Safety Rules](https://www.weather.gov/bmx/sps_svrsafetyrules)  \n[Tornado Safety Rules](https://www.weather.gov/bmx/sps_torsafetyrules)  \n[Severe Safety w/ ASL](https://www.weather.gov/bmx/asl)\n\nAwareness Weeks  \n[Severe Weather](https://www.weather.gov/bmx/outreach_swaw)  \n[Hurricane Preparedness](https://www.weather.gov/wrn/hurricane-preparedness)  \n[Summer Safety Campaign](https://www.weather.gov/wrn/summer-safety)  \n[Winter Weather](https://www.weather.gov/bmx/outreach_wwaw)\n\nSpecial Programs  \n[Storm Spotters (SKYWARN)](https://www.weather.gov/bmx/skywarn)  \n[StormReady](https://www.weather.gov/StormReady)  \n[CoCoRaHS](https://www.weather.gov/bmx/cocorahs)\n\nLocal Research and Outreach  \n[Local Geographic Information Systems (GIS) Data](https://www.weather.gov/bmx/gis)  \n[Winter Weather](https://www.weather.gov/bmx/winter_main)\n\nAbout Us  \n[Contact Us](mailto:sr-bmx.webmaster@noaa.gov)  \n[Office History](https://www.weather.gov/bmx/bmxhistory)  \n[Our Office](https://www.weather.gov/bmx/aboutouroffice)\n\nEducation  \n[Microbursts](https://www.weather.gov/bmx/outreach_microbursts)  \n[Severe Weather Videos](https://www.weather.gov/bmx/outreach_severewxedu)  \n[Flood Products Description](https://www.weather.gov/bmx/outreach_flw)  \n[About Radar](https://www.weather.gov/bmx/radar_aboutnwsradar)  \n[Winter Products Description](https://www.weather.gov/bmx/winterwxproducts)\n\n[![Image 16: usa.gov](https://www.weather.gov/bundles/templating/images/footer/usa_gov.png)](http://www.usa.gov/)\n\n[US Dept of Commerce](http://www.commerce.gov/)  \n[National Oceanic and Atmospheric Administration](http://www.noaa.gov/)  \n[National Weather Service](https://www.weather.gov/)  \nNWS Birmingham, Alabama  \n465 Weathervane Road  \nCalera, AL 35040  \n205-664-3010  \n  \n[Comments? Questions? Please Contact Us.](mailto:sr-bmx.webmaster@noaa.gov)\n\n[Disclaimer](https://www.weather.gov/disclaimer)  \n[Information Quality](http://www.cio.noaa.gov/services_programs/info_quality.html)  \n[Help](https://www.weather.gov/help)  \n[Glossary](https://www.weather.gov/glossary)\n\n[Privacy Policy](https://www.weather.gov/privacy)  \n[Freedom of Information Act (FOIA)](https://www.noaa.gov/foia-freedom-of-information-act)  \n[About Us](https://www.weather.gov/about)  \n[Career Opportunities](https://www.weather.gov/careers)",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "3": {
+            "url": "https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804",
+            "title": "U3Rvcm0gRXZlbnRzIERhdGFiYXNlIC0gRXZlbnQgRGV0YWlscw==",
+            "description": "",
+            "content": "*   [Search](https://www.ncdc.noaa.gov/stormevents/)\n*   [Bulk Data Download (CSV)](https://www.ncdc.noaa.gov/stormevents/ftp.jsp)\n*   [Storm Data Publication](https://www.ncdc.noaa.gov/IPS/sd/sd.html)\n*   [Database Details](https://www.ncdc.noaa.gov/stormevents/details.jsp)\n*   [Version History](https://www.ncdc.noaa.gov/stormevents/versions.jsp)\n*   [Storm Data FAQ](https://www.ncdc.noaa.gov/stormevents/faq.jsp)\n*   [NOAA's NWS Documentation](https://www.nws.noaa.gov/directives/sym/pd01016005curr.pdf)\n*   [Tornado EF Scale](https://www.spc.noaa.gov/efscale)\n*   [NOAA's SPC Reports](https://www.spc.noaa.gov/climo)\n*   [NOAA's SPC WCM Page](https://www.spc.noaa.gov/wcm/index.html)\n*   [NOAA's NWS Damage Assessment Toolkit](https://apps.dat.noaa.gov/stormdamage/damageviewer/)\n*   [NOAA's Tsunami Database](https://www.ngdc.noaa.gov/hazard/tsu.shtml)\n*   [ESRI/FEMA Civil Air Patrol Images](https://www.arcgis.com/home/item.html?id=990b93d2522441a48bf2aaf536518419)\n*   [SHELDUS](https://www.sheldus.org/)\n*   [USDA Cause of Loss Data](https://www.rma.usda.gov/data/cause.html)\n\n#### Event Details:\n\n<table><tbody><tr><td>Event</td><td><b>Hail</b></td></tr><tr><td>Magnitude</td><td><b>1.50 in.</b></td></tr><tr><td>State</td><td><b>TEXAS</b></td></tr><tr><td>County/Area</td><td><b>DALLAS</b></td></tr><tr><td>WFO</td><td><b>FWD</b></td></tr><tr><td>Report Source</td><td><b>Public</b></td></tr><tr><td>NCEI Data Source</td><td><b>CSV</b></td></tr><tr><td>Begin Date</td><td><b>2011-05-24 20:15 CST-6</b></td></tr><tr><td>Begin Location</td><td><b>0N DALLAS</b></td></tr><tr><td>Begin Lat/Lon</td><td><b>32.77/-96.78</b></td></tr><tr><td>End Date</td><td><b>2011-05-24 20:15 CST-6</b></td></tr><tr><td>End Location</td><td><b>0N DALLAS</b></td></tr><tr><td>End Lat/Lon</td><td><b>32.77/-96.78</b></td></tr><tr><td>Deaths Direct/Indirect</td><td><b>0/0</b> (fatality details below, when available...)</td></tr><tr><td>Injuries Direct/Indirect</td><td><b>0/0</b></td></tr><tr><td>Property Damage</td><td><b>8.00K</b></td></tr><tr><td>Crop Damage</td><td><b>0.00K</b></td></tr><tr><td>Episode Narrative</td><td><b>Three rounds of thunderstorms affected north Texas with 10 tornadoes confirmed. The atmosphere was highly unstable on this day and a High Risk was issued by the Storm Prediction Center for the northwestern counties of north Texas while a Moderate Risk covered much of the rest of north Texas. A strong upper level disturbance approaching from the west interacted with a dryline across the western portions of north Texas, and the first round of storms began to develop around 330 pm in the western counties. The first two rounds of storms remained along and north of Interstate 20 but the third round of storms later that night moved through most of the region as a line of storms. The most significant tornado occurred in the western limits of the city of Denton where EF-2 damage occurred. An EF-1 tornado also occurred in the city of Irving in Dallas County, and softball sized hail fell in the northern portions of the Metroplex. In the city of Dallas, one person died from electrocution after going outside around live, downed wires after a storm had passed.</b></td></tr><tr><td>Event Narrative</td><td><b>Ping pong ball sized hail was reported near downtown Dallas.</b></td></tr></tbody></table>\n\n​\n\n#### Event Map:\n\n#### All events for this episode:\n\n| [Location](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"Nearest Town, 'Countywide' or Zone Name\") | [County/Zone](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"County, Parish or Zone\") | [St.](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"State\") | [Date](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"Date of Event\") | [Time](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"Time of Event (Local Time)\") | [T.Z.](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"Time Zone\") | [Type](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"Event Type\") | [Mag](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"Magnitude of Event, where applicable\") | [Dth](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"Direct Deaths from the Event\") | [Inj](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"Direct Injuries from the Event\") | [PrD](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"Property Damage Estimate\") | [CrD](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804# \"Crop Damage Estimate\") |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Totals:** |  |  |  |  |  |  |  | 0 | 1 | 4.530M | 0.00K |\n| [GRAHAM MUNI ARPT](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305790) | YOUNG CO. | TX | 05/24/2011 | 14:45 | CST-6 | Hail | 0.88 in. | 0 | 0 | 0.00K | 0.00K |\n| [JACKSBORO](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305791) | JACK CO. | TX | 05/24/2011 | 15:10 | CST-6 | Hail | 0.88 in. | 0 | 0 | 0.00K | 0.00K |\n| [STRAWN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305792) | PALO PINTO CO. | TX | 05/24/2011 | 15:15 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [JACKSBORO](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305794) | JACK CO. | TX | 05/24/2011 | 15:16 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [JACKSBORO](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305793) | JACK CO. | TX | 05/24/2011 | 15:16 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [JACKSBORO](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305795) | JACK CO. | TX | 05/24/2011 | 15:17 | CST-6 | Hail | 1.75 in. | 0 | 0 | 10.00K | 0.00K |\n| [BRYSON](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305797) | JACK CO. | TX | 05/24/2011 | 15:32 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [POSTOAK](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305799) | JACK CO. | TX | 05/24/2011 | 15:49 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [MINERAL WELLS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305808) | PALO PINTO CO. | TX | 05/24/2011 | 16:03 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [MILLSAP](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305805) | PARKER CO. | TX | 05/24/2011 | 16:05 | CST-6 | Hail | 1.75 in. | 0 | 0 | 8.00K | 0.00K |\n| [MINERAL WELLS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305812) | PALO PINTO CO. | TX | 05/24/2011 | 16:06 | CST-6 | Hail | 2.75 in. | 0 | 0 | 20.00K | 0.00K |\n| [LAKE WEATHERFORD](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311139) | PARKER CO. | TX | 05/24/2011 | 16:30 | CST-6 | Hail | 1.75 in. | 0 | 0 | 40.00K | 0.00K |\n| [ST JO](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305819) | MONTAGUE CO. | TX | 05/24/2011 | 16:40 | CST-6 | Hail | 1.75 in. | 0 | 0 | 8.00K | 0.00K |\n| [SPRINGTOWN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305823) | PARKER CO. | TX | 05/24/2011 | 16:42 | CST-6 | Hail | 0.75 in. | 0 | 0 | 0.00K | 0.00K |\n| [ST JO](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=307298) | MONTAGUE CO. | TX | 05/24/2011 | 16:46 | CST-6 | Tornado | EF0 | 0 | 0 | 0.00K | 0.00K |\n| [LA JUNTA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305841) | PARKER CO. | TX | 05/24/2011 | 16:53 | CST-6 | Hail | 1.25 in. | 0 | 0 | 0.00K | 0.00K |\n| [LA JUNTA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305845) | PARKER CO. | TX | 05/24/2011 | 16:55 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [SPRINGTOWN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305846) | PARKER CO. | TX | 05/24/2011 | 16:57 | CST-6 | Hail | 1.50 in. | 0 | 0 | 2.00K | 0.00K |\n| [EAGLE MTN LAKE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305847) | TARRANT CO. | TX | 05/24/2011 | 17:05 | CST-6 | Hail | 0.75 in. | 0 | 0 | 0.00K | 0.00K |\n| [RINGGOLD](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305855) | MONTAGUE CO. | TX | 05/24/2011 | 17:15 | CST-6 | Thunderstorm Wind | 52 kts. EG | 0 | 0 | 0.00K | 0.00K |\n| [HASLET](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305852) | TARRANT CO. | TX | 05/24/2011 | 17:22 | CST-6 | Hail | 0.75 in. | 0 | 0 | 0.00K | 0.00K |\n| [KELLER](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305856) | TARRANT CO. | TX | 05/24/2011 | 17:27 | CST-6 | Hail | 0.75 in. | 0 | 0 | 0.00K | 0.00K |\n| [FORESTBURG](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305862) | MONTAGUE CO. | TX | 05/24/2011 | 17:40 | CST-6 | Hail | 1.75 in. | 0 | 0 | 7.00K | 0.00K |\n| [SPANISH FT](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=307300) | MONTAGUE CO. | TX | 05/24/2011 | 17:40 | CST-6 | Tornado | EF0 | 0 | 0 | 0.00K | 0.00K |\n| [HOOD](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305864) | COOKE CO. | TX | 05/24/2011 | 17:50 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [ROSSTON](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305867) | COOKE CO. | TX | 05/24/2011 | 18:11 | CST-6 | Hail | 1.75 in. | 0 | 0 | 10.00K | 0.00K |\n| [BOONSVILLE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305851) | WISE CO. | TX | 05/24/2011 | 18:19 | CST-6 | Hail | 1.75 in. | 0 | 0 | 7.00K | 0.00K |\n| [BOONSVILLE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=309807) | WISE CO. | TX | 05/24/2011 | 18:19 | CST-6 | Thunderstorm Wind | 52 kts. MG | 0 | 0 | 1.50K | 0.00K |\n| [ERA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305869) | COOKE CO. | TX | 05/24/2011 | 18:19 | CST-6 | Thunderstorm Wind | 61 kts. EG | 0 | 0 | 5.00K | 0.00K |\n| [BRIAR](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311122) | TARRANT CO. | TX | 05/24/2011 | 18:20 | CST-6 | Thunderstorm Wind | 74 kts. EG | 0 | 0 | 25.00K | 0.00K |\n| [SPRINGTOWN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305895) | PARKER CO. | TX | 05/24/2011 | 18:20 | CST-6 | Hail | 1.75 in. | 0 | 0 | 10.00K | 0.00K |\n| [SPRINGTOWN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311121) | PARKER CO. | TX | 05/24/2011 | 18:20 | CST-6 | Thunderstorm Wind | 74 kts. EG | 0 | 0 | 25.00K | 0.00K |\n| [BRIAR](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305898) | PARKER CO. | TX | 05/24/2011 | 18:27 | CST-6 | Hail | 2.75 in. | 0 | 0 | 15.00K | 0.00K |\n| [LINDSAY](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305900) | COOKE CO. | TX | 05/24/2011 | 18:28 | CST-6 | Hail | 1.25 in. | 0 | 0 | 0.00K | 0.00K |\n| [HASLET](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305901) | TARRANT CO. | TX | 05/24/2011 | 18:30 | CST-6 | Hail | 2.00 in. | 0 | 0 | 12.00K | 0.00K |\n| [LA JUNTA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311140) | PARKER CO. | TX | 05/24/2011 | 18:33 | CST-6 | Thunderstorm Wind | 65 kts. EG | 0 | 0 | 50.00K | 0.00K |\n| [ERA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=309930) | COOKE CO. | TX | 05/24/2011 | 18:34 | CST-6 | Tornado | EF0 | 0 | 0 | 0.00K | 0.00K |\n| [LA JUNTA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306188) | PARKER CO. | TX | 05/24/2011 | 18:35 | CST-6 | Hail | 4.00 in. | 0 | 0 | 75.00K | 0.00K |\n| [BRYAN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=307317) | WISE CO. | TX | 05/24/2011 | 18:38 | CST-6 | Tornado | EF0 | 0 | 0 | 2.00K | 0.00K |\n| [LA JUNTA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=307350) | PARKER CO. | TX | 05/24/2011 | 18:38 | CST-6 | Tornado | EF0 | 0 | 0 | 10.00K | 0.00K |\n| [AZLE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306186) | TARRANT CO. | TX | 05/24/2011 | 18:39 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [AVONDALE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306199) | TARRANT CO. | TX | 05/24/2011 | 18:40 | CST-6 | Hail | 4.50 in. | 0 | 0 | 75.00K | 0.00K |\n| [EAGLE MTN LAKE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=307376) | TARRANT CO. | TX | 05/24/2011 | 18:45 | CST-6 | Tornado | EF0 | 0 | 0 | 1.00K | 0.00K |\n| [EULESS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=309922) | TARRANT CO. | TX | 05/24/2011 | 18:45 | CST-6 | Hail | 0.75 in. | 0 | 0 | 0.00K | 0.00K |\n| [AVONDALE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=309931) | TARRANT CO. | TX | 05/24/2011 | 18:50 | CST-6 | Hail | 4.50 in. | 0 | 0 | 75.00K | 0.00K |\n| [FT WORTH SAGINAW ARP](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306192) | TARRANT CO. | TX | 05/24/2011 | 18:50 | CST-6 | Thunderstorm Wind | 52 kts. EG | 0 | 0 | 7.00K | 0.00K |\n| [KELLER ALTA VISTA AR](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305866) | TARRANT CO. | TX | 05/24/2011 | 18:50 | CST-6 | Hail | 1.75 in. | 0 | 0 | 50.00K | 0.00K |\n| [ARGYLE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=307405) | DENTON CO. | TX | 05/24/2011 | 18:51 | CST-6 | Tornado | EF2 | 0 | 0 | 750.00K | 0.00K |\n| [FT WORTH SAGINAW ARP](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306234) | TARRANT CO. | TX | 05/24/2011 | 18:55 | CST-6 | Thunderstorm Wind | 56 kts. EG | 0 | 0 | 30.00K | 0.00K |\n| [HASLET](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311130) | TARRANT CO. | TX | 05/24/2011 | 18:55 | CST-6 | Thunderstorm Wind | 70 kts. EG | 0 | 0 | 55.00K | 0.00K |\n| [KELLER](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306198) | TARRANT CO. | TX | 05/24/2011 | 18:55 | CST-6 | Hail | 2.50 in. | 0 | 0 | 25.00K | 0.00K |\n| [KELLER](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306197) | TARRANT CO. | TX | 05/24/2011 | 18:55 | CST-6 | Hail | 0.88 in. | 0 | 0 | 0.00K | 0.00K |\n| [KELLER](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311132) | TARRANT CO. | TX | 05/24/2011 | 18:55 | CST-6 | Hail | 2.75 in. | 0 | 0 | 25.00K | 0.00K |\n| [KELLER](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306261) | TARRANT CO. | TX | 05/24/2011 | 18:56 | CST-6 | Hail | 4.25 in. | 0 | 0 | 300.00K | 0.00K |\n| [KELLER](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306263) | TARRANT CO. | TX | 05/24/2011 | 18:56 | CST-6 | Thunderstorm Wind | 61 kts. EG | 0 | 0 | 10.00K | 0.00K |\n| [HASLET](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311107) | TARRANT CO. | TX | 05/24/2011 | 18:57 | CST-6 | Thunderstorm Wind | 52 kts. EG | 0 | 0 | 3.00K | 0.00K |\n| [SMITHFIELD](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306195) | TARRANT CO. | TX | 05/24/2011 | 18:58 | CST-6 | Hail | 1.75 in. | 0 | 0 | 12.00K | 0.00K |\n| [FT WORTH MANGHAM ARP](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311108) | TARRANT CO. | TX | 05/24/2011 | 19:00 | CST-6 | Hail | 1.25 in. | 0 | 0 | 5.00K | 0.00K |\n| [KELLER](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306255) | TARRANT CO. | TX | 05/24/2011 | 19:00 | CST-6 | Hail | 2.50 in. | 0 | 0 | 50.00K | 0.00K |\n| [MAYHILL](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=312515) | DENTON CO. | TX | 05/24/2011 | 19:00 | CST-6 | Thunderstorm Wind | 70 kts. EG | 0 | 0 | 3.00K | 0.00K |\n| [GRAPEVINE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306236) | TARRANT CO. | TX | 05/24/2011 | 19:02 | CST-6 | Hail | 1.75 in. | 0 | 0 | 320.00K | 0.00K |\n| [WATAUGA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306245) | TARRANT CO. | TX | 05/24/2011 | 19:06 | CST-6 | Thunderstorm Wind | 58 kts. MG | 0 | 0 | 50.00K | 0.00K |\n| [EULESS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=305896) | TARRANT CO. | TX | 05/24/2011 | 19:10 | CST-6 | Hail | 1.50 in. | 0 | 0 | 5.00K | 0.00K |\n| [WATAUGA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306243) | TARRANT CO. | TX | 05/24/2011 | 19:11 | CST-6 | Thunderstorm Wind | 65 kts. EG | 0 | 0 | 200.00K | 0.00K |\n| [BEDFORD](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306256) | TARRANT CO. | TX | 05/24/2011 | 19:13 | CST-6 | Hail | 1.75 in. | 0 | 0 | 30.00K | 0.00K |\n| [COPPELL](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306254) | DALLAS CO. | TX | 05/24/2011 | 19:14 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [(F39)SHERMAN-DENISON](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306822) | GRAYSON CO. | TX | 05/24/2011 | 19:15 | CST-6 | Thunderstorm Wind | 54 kts. MG | 0 | 0 | 6.00K | 0.00K |\n| [IRVING](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306259) | DALLAS CO. | TX | 05/24/2011 | 19:17 | CST-6 | Hail | 4.25 in. | 0 | 0 | 300.00K | 0.00K |\n| [PLEASANT GLADE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=313101) | TARRANT CO. | TX | 05/24/2011 | 19:17 | CST-6 | Thunderstorm Wind | 61 kts. EG | 0 | 0 | 12.00K | 0.00K |\n| [SHERMAN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306260) | GRAYSON CO. | TX | 05/24/2011 | 19:17 | CST-6 | Hail | 2.75 in. | 0 | 0 | 40.00K | 0.00K |\n| [WHITE SETTLEMENT](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306257) | TARRANT CO. | TX | 05/24/2011 | 19:19 | CST-6 | Hail | 1.75 in. | 0 | 0 | 30.00K | 0.00K |\n| [(DFW)DALLAS-FT WORTH](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=309926) | DALLAS CO. | TX | 05/24/2011 | 19:20 | CST-6 | Hail | 2.00 in. | 0 | 0 | 20.00K | 0.00K |\n| [GRIBBLE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306231) | DALLAS CO. | TX | 05/24/2011 | 19:20 | CST-6 | Hail | 1.75 in. | 0 | 0 | 20.00K | 0.00K |\n| [SOWERS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=309286) | DALLAS CO. | TX | 05/24/2011 | 19:23 | CST-6 | Tornado | EF1 | 0 | 0 | 150.00K | 0.00K |\n| [COPPELL](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306268) | DALLAS CO. | TX | 05/24/2011 | 19:25 | CST-6 | Hail | 1.75 in. | 0 | 0 | 30.00K | 0.00K |\n| [IRVING](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311110) | DALLAS CO. | TX | 05/24/2011 | 19:25 | CST-6 | Thunderstorm Wind | 65 kts. EG | 0 | 0 | 75.00K | 0.00K |\n| [UNION BOWER](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306271) | DALLAS CO. | TX | 05/24/2011 | 19:28 | CST-6 | Hail | 1.75 in. | 0 | 0 | 150.00K | 0.00K |\n| [(DAL)LOVE FLD DALLAS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=309334) | DALLAS CO. | TX | 05/24/2011 | 19:30 | CST-6 | Thunderstorm Wind | 65 kts. EG | 0 | 0 | 5.00K | 0.00K |\n| [FARMERS BRANCH](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306272) | DALLAS CO. | TX | 05/24/2011 | 19:30 | CST-6 | Hail | 1.75 in. | 0 | 0 | 30.00K | 0.00K |\n| [BENBROOK](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311112) | TARRANT CO. | TX | 05/24/2011 | 19:35 | CST-6 | Hail | 0.75 in. | 0 | 0 | 0.00K | 0.00K |\n| [GAINESVILLE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306539) | COOKE CO. | TX | 05/24/2011 | 19:44 | CST-6 | Hail | 1.75 in. | 0 | 0 | 20.00K | 0.00K |\n| [HANDLEY](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306269) | TARRANT CO. | TX | 05/24/2011 | 19:45 | CST-6 | Thunderstorm Wind | 61 kts. EG | 0 | 0 | 6.00K | 0.00K |\n| [HOPE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306534) | COOKE CO. | TX | 05/24/2011 | 19:46 | CST-6 | Hail | 0.88 in. | 0 | 0 | 0.00K | 0.00K |\n| [UNIVERSITY PARK](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306783) | DALLAS CO. | TX | 05/24/2011 | 19:49 | CST-6 | Hail | 2.75 in. | 0 | 0 | 300.00K | 0.00K |\n| [MARA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311111) | TARRANT CO. | TX | 05/24/2011 | 19:50 | CST-6 | Hail | 0.75 in. | 0 | 0 | 0.00K | 0.00K |\n| [FT WORTH](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306785) | TARRANT CO. | TX | 05/24/2011 | 19:55 | CST-6 | Hail | 2.75 in. | 0 | 0 | 300.00K | 0.00K |\n| [FT WORTH](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306789) | TARRANT CO. | TX | 05/24/2011 | 19:57 | CST-6 | Hail | 1.75 in. | 0 | 0 | 60.00K | 0.00K |\n| [VALLEY VIEW](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306546) | COOKE CO. | TX | 05/24/2011 | 20:00 | CST-6 | Thunderstorm Wind | 70 kts. EG | 0 | 0 | 7.00K | 0.00K |\n| [JOHNSONS STATION](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306792) | TARRANT CO. | TX | 05/24/2011 | 20:02 | CST-6 | Hail | 2.75 in. | 0 | 0 | 200.00K | 0.00K |\n| [POLTECHNIEC](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306786) | TARRANT CO. | TX | 05/24/2011 | 20:02 | CST-6 | Hail | 1.75 in. | 0 | 0 | 40.00K | 0.00K |\n| [WOODBINE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306549) | COOKE CO. | TX | 05/24/2011 | 20:06 | CST-6 | Hail | 1.75 in. | 0 | 0 | 5.00K | 0.00K |\n| [WHITESBORO](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=313056) | GRAYSON CO. | TX | 05/24/2011 | 20:11 | CST-6 | Hail | 1.75 in. | 0 | 0 | 5.00K | 0.00K |\n| [DALLAS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306804) | DALLAS CO. | TX | 05/24/2011 | 20:15 | CST-6 | Hail | 1.50 in. | 0 | 0 | 8.00K | 0.00K |\n| [EULESS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306800) | TARRANT CO. | TX | 05/24/2011 | 20:15 | CST-6 | Hail | 1.75 in. | 0 | 0 | 40.00K | 0.00K |\n| [SADLER](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306803) | GRAYSON CO. | TX | 05/24/2011 | 20:17 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [ARLINGTON](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306799) | TARRANT CO. | TX | 05/24/2011 | 20:19 | CST-6 | Hail | 1.75 in. | 0 | 0 | 60.00K | 0.00K |\n| [EULESS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306802) | TARRANT CO. | TX | 05/24/2011 | 20:20 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [EAST DALLAS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311113) | DALLAS CO. | TX | 05/24/2011 | 20:25 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [EAST DALLAS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306805) | DALLAS CO. | TX | 05/24/2011 | 20:25 | CST-6 | Thunderstorm Wind | 61 kts. EG | 0 | 0 | 9.00K | 0.00K |\n| [MOUNTAIN SPGS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306552) | COOKE CO. | TX | 05/24/2011 | 20:29 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [ARLINGTON](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306806) | TARRANT CO. | TX | 05/24/2011 | 20:34 | CST-6 | Thunderstorm Wind | 61 kts. MG | 0 | 0 | 12.00K | 0.00K |\n| [(F39)SHERMAN-DENISON](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306811) | GRAYSON CO. | TX | 05/24/2011 | 20:35 | CST-6 | Thunderstorm Wind | 50 kts. MG | 0 | 0 | 3.00K | 0.00K |\n| [SHERMAN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306813) | GRAYSON CO. | TX | 05/24/2011 | 20:40 | CST-6 | Hail | 1.75 in. | 0 | 0 | 8.00K | 0.00K |\n| [CENTER PT](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306815) | TARRANT CO. | TX | 05/24/2011 | 20:42 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [JUSTIN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306826) | DENTON CO. | TX | 05/24/2011 | 20:44 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [AVONDALE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306816) | TARRANT CO. | TX | 05/24/2011 | 20:45 | CST-6 | Hail | 1.75 in. | 0 | 0 | 5.00K | 0.00K |\n| [CELINA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306820) | COLLIN CO. | TX | 05/24/2011 | 20:48 | CST-6 | Thunderstorm Wind | 56 kts. EG | 0 | 0 | 5.00K | 0.00K |\n| [CELINA](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306818) | COLLIN CO. | TX | 05/24/2011 | 20:48 | CST-6 | Hail | 2.00 in. | 0 | 0 | 25.00K | 0.00K |\n| [ELAM](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=309283) | DALLAS CO. | TX | 05/24/2011 | 20:48 | CST-6 | Tornado | EF0 | 0 | 0 | 0.00K | 0.00K |\n| [ARGYLE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306827) | DENTON CO. | TX | 05/24/2011 | 20:50 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [ROANOKE VLY ARPT](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311138) | DENTON CO. | TX | 05/24/2011 | 20:50 | CST-6 | Thunderstorm Wind | 56 kts. EG | 0 | 0 | 5.00K | 0.00K |\n| [WILMER](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306831) | DALLAS CO. | TX | 05/24/2011 | 20:55 | CST-6 | Thunderstorm Wind | 61 kts. EG | 0 | 0 | 6.00K | 0.00K |\n| [CORINTH](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306829) | DENTON CO. | TX | 05/24/2011 | 20:57 | CST-6 | Thunderstorm Wind | 61 kts. EG | 0 | 0 | 3.00K | 0.00K |\n| [FRISCO](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=309088) | COLLIN CO. | TX | 05/24/2011 | 21:10 | CST-6 | Hail | 0.88 in. | 0 | 0 | 0.00K | 0.00K |\n| [CRANDALL](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306830) | KAUFMAN CO. | TX | 05/24/2011 | 21:11 | CST-6 | Hail | 2.75 in. | 0 | 0 | 10.00K | 0.00K |\n| [GODLEY](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311114) | JOHNSON CO. | TX | 05/24/2011 | 21:12 | CST-6 | Hail | 0.88 in. | 0 | 0 | 0.00K | 0.00K |\n| [KAUFMAN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306833) | KAUFMAN CO. | TX | 05/24/2011 | 21:17 | CST-6 | Hail | 1.75 in. | 0 | 0 | 5.00K | 0.00K |\n| [EULESS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306834) | TARRANT CO. | TX | 05/24/2011 | 21:20 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [KAUFMAN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306835) | KAUFMAN CO. | TX | 05/24/2011 | 21:24 | CST-6 | Hail | 2.75 in. | 0 | 0 | 13.00K | 0.00K |\n| [IRVING](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311126) | DALLAS CO. | TX | 05/24/2011 | 21:25 | CST-6 | Lightning |  | 0 | 1 | 0.00K | 0.00K |\n| [PLANO](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306836) | COLLIN CO. | TX | 05/24/2011 | 21:25 | CST-6 | Thunderstorm Wind | 61 kts. EG | 0 | 0 | 8.00K | 0.00K |\n| [RICHARDSON](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=307065) | DALLAS CO. | TX | 05/24/2011 | 21:25 | CST-6 | Thunderstorm Wind | 56 kts. EG | 0 | 0 | 6.00K | 0.00K |\n| [EAST DALLAS](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=311142) | DALLAS CO. | TX | 05/24/2011 | 21:30 | CST-6 | Lightning |  | 0 | 0 | 45.00K | 0.00K |\n| [COPEVILLE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=307067) | COLLIN CO. | TX | 05/24/2011 | 21:37 | CST-6 | Thunderstorm Wind | 54 kts. MG | 0 | 0 | 5.00K | 0.00K |\n| [CLEBURNE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306838) | JOHNSON CO. | TX | 05/24/2011 | 21:40 | CST-6 | Hail | 1.50 in. | 0 | 0 | 2.00K | 0.00K |\n| [HIGHLAND PARK](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=307068) | DALLAS CO. | TX | 05/24/2011 | 21:40 | CST-6 | Thunderstorm Wind | 56 kts. EG | 0 | 0 | 5.00K | 0.00K |\n| [KEENE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=306837) | JOHNSON CO. | TX | 05/24/2011 | 21:40 | CST-6 | Hail | 1.00 in. | 0 | 0 | 0.00K | 0.00K |\n| [CEDARVALE](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=309285) | KAUFMAN CO. | TX | 05/24/2011 | 21:43 | CST-6 | Tornado | EF0 | 0 | 0 | 0.00K | 0.00K |\n| [KAUFMAN](https://www.ncdc.noaa.gov/stormevents/eventdetails.jsp?id=307069) | KAUFMAN CO. | TX | 05/24/2011 | 22:17 | CST-6 | Thunderstorm Wind | 61 kts. EG | 0 | 0 | 8.00K | 0.00K |\n| **Totals:** |  |  |  |  |  |  |  | 0 | 1 | 4.530M | 0.00K |",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "2": {
+            "url": "https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/",
+            "title": "Page Not Found",
+            "description": "404 page for the National Severe Storms Laboratory, with links to the NSSL staff directory and search pages for NSSL publications and NSSL News blog.",
+            "content": "Page Not Found\n===============\n\n[Skip to main content](https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/#main)[Skip to sidebar](https://www.nssl.noaa.gov/news/april-2011-tornado-outbreak/#sidebar)\n\n*   [close menu](javascript:void(0))\n*   [NSSL Home](https://www.nssl.noaa.gov/)\n*   [About NSSL](javascript:void(0))\n    *   [Overview](https://www.nssl.noaa.gov/about)\n    *   [Organization](https://www.nssl.noaa.gov/about/organization)\n    *   [History](https://www.nssl.noaa.gov/about/history)\n    *   [NSSL @ 60](https://inside.nssl.noaa.gov/60th/)\n    *   [Awards](https://www.nssl.noaa.gov/about/awards)\n    *   [Scientific Challenges](https://www.nssl.noaa.gov/about/challenges)\n    *   [Lab Review 2021](https://www.nssl.noaa.gov/about/events/review2021)\n    *   [Events](https://www.nssl.noaa.gov/about/events)\n    *   [Visitor Info](https://www.nssl.noaa.gov/about/visitors)\n\n*   [Weather Research](javascript:void(0))\n    *   [Overview](https://www.nssl.noaa.gov/research)\n    *   [Thunderstorms](https://www.nssl.noaa.gov/research/thunderstorms)\n    *   [Tornadoes](https://www.nssl.noaa.gov/research/tornadoes)\n    *   [Flooding](https://www.nssl.noaa.gov/research/flood)\n    *   [Lightning](https://www.nssl.noaa.gov/research/lightning)\n    *   [Hail](https://www.nssl.noaa.gov/research/hail)\n    *   [Damaging Winds](https://www.nssl.noaa.gov/research/wind)\n    *   [Winter Weather](https://www.nssl.noaa.gov/research/winter)\n    *   [Social Science](https://www.nssl.noaa.gov/research/social)\n\n*   [Research Tools](javascript:void(0))\n    *   [Overview](https://www.nssl.noaa.gov/tools)\n    *   [Radar](https://www.nssl.noaa.gov/tools/radar)\n    *   [Testbeds](https://www.nssl.noaa.gov/tools/testbeds)\n    *   [Observation](https://www.nssl.noaa.gov/tools/observation)\n    *   [Simulation](https://www.nssl.noaa.gov/tools/simulation)\n    *   [Decision Support](https://www.nssl.noaa.gov/tools/decision)\n    *   [Warning](https://www.nssl.noaa.gov/tools/warning)\n    *   [Forecast](https://www.nssl.noaa.gov/tools/forecast)\n    *   [Science Applications](https://apps.nssl.noaa.gov/)\n    *   [NSSL Data Repository (PARR)](https://data.nssl.noaa.gov/)\n\n*   [Projects](javascript:void(0))\n    *   [Overview](https://www.nssl.noaa.gov/projects)\n    *   [ANCHOR](https://www.nssl.noaa.gov/projects/anchor)\n    *   [ATD](https://www.nssl.noaa.gov/tools/radar/atd)\n    *   [CAMS](https://cams.nssl.noaa.gov/)\n    *   [FACETs](https://www.nssl.noaa.gov/projects/facets)\n    *   [NOAA HWT](https://hwt.nssl.noaa.gov/)\n    *   [mPING](https://mping.nssl.noaa.gov/)\n    *   [MRMS](https://www.nssl.noaa.gov/projects/mrms)\n    *   [PHI](https://phi.nssl.noaa.gov/)\n    *   [VORTEX-SE / VORTEX USA](https://www.nssl.noaa.gov/projects/vortexusa)\n    *   [Warn on Forecast](https://www.nssl.noaa.gov/projects/wof)\n    *   [Field Projects](https://www.nssl.noaa.gov/projects/field)\n\n*   [People](javascript:void(0))\n    *   [Overview](https://www.nssl.noaa.gov/people)\n    *   [Staff Directory](https://www.nssl.noaa.gov/directory)\n    *   [Staff Profiles](https://inside.nssl.noaa.gov/profiles/)\n    *   [Publications](https://www.nssl.noaa.gov/publications)\n    *   [Jobs](https://www.nssl.noaa.gov/people/jobs)\n    *   [Students](https://www.nssl.noaa.gov/people/students)\n    *   [Outreach](https://www.nssl.noaa.gov/people/outreach)\n\n*   [News & Media](javascript:void(0))\n    *   [Overview](https://www.nssl.noaa.gov/news)\n    *   [NSSL News](https://inside.nssl.noaa.gov/nsslnews/)\n    *   [Video](https://www.nssl.noaa.gov/news/video)\n    *   [Fact Sheets](https://www.nssl.noaa.gov/news/factsheets)\n    *   [Podcasts](https://www.nssl.noaa.gov/news/podcasts)\n    *   [Media Resources](https://www.nssl.noaa.gov/news/resources)\n\n*   [Education](javascript:void(0))\n    *   [Overview](https://www.nssl.noaa.gov/education)\n    *   [Severe Weather 101](https://www.nssl.noaa.gov/education/svrwx101)\n    *   [For Educators](https://www.nssl.noaa.gov/education/educators)\n    *   [For Students](https://www.nssl.noaa.gov/education/students)\n    *   [For Everyone](https://www.nssl.noaa.gov/education/everyone)\n\n*    \n\n![Image 1: U.S. Flag icon](https://www.nssl.noaa.gov/assets/uswds/dist/img/us_flag_small.png)\n\nAn official website of the United States government\n\nHere’s how you know\n\nHere’s how you know\n\n![Image 2: building icon](https://www.nssl.noaa.gov/assets/uswds/dist/img/icon-dot-gov.svg)\n\n**Official websites use .gov**\n\nA **.gov** website belongs to an official government organization in the United States.\n\n![Image 3: lock icon](https://www.nssl.noaa.gov/assets/uswds/dist/img/icon-https.svg)\n\n**Secure .gov websites use HTTPS**\n\nA **lock** ( ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\n\n*   [](javascript:void(0))\n*   [](http://www.facebook.com/NOAA.NSSL)\n*   [](https://twitter.com/NOAANSSL)\n*   [](https://instagram.com/noaanssl/)\n\n[NSSL NOAA National Severe Storms Laboratory](https://www.nssl.noaa.gov/)\n=========================================================================\n\n![Image 4: NSSL main offices](https://www.nssl.noaa.gov/img/banners-2015/nssl-admin-1200x360.jpg)\n\n*   [About NSSL](https://www.nssl.noaa.gov/about)\n    *   [Organization](https://www.nssl.noaa.gov/about/organization)\n    *   [History](https://www.nssl.noaa.gov/about/history)\n    *   [NSSL @ 60](https://inside.nssl.noaa.gov/60th/)\n    *   [Awards](https://www.nssl.noaa.gov/about/awards)\n    *   [Scientific Challenges](https://www.nssl.noaa.gov/about/challenges)\n    *   [Lab Review 2021](https://www.nssl.noaa.gov/about/events/review2021)\n    *   [Events](https://www.nssl.noaa.gov/about/events)\n    *   [Visitor Info](https://www.nssl.noaa.gov/about/visitors)\n\n*   [Weather Research](https://www.nssl.noaa.gov/research)\n    *   [Thunderstorms](https://www.nssl.noaa.gov/research/thunderstorms)\n    *   [Tornadoes](https://www.nssl.noaa.gov/research/tornadoes)\n    *   [Flooding](https://www.nssl.noaa.gov/research/flood)\n    *   [Lightning](https://www.nssl.noaa.gov/research/lightning)\n    *   [Hail](https://www.nssl.noaa.gov/research/hail)\n    *   [Damaging Winds](https://www.nssl.noaa.gov/research/wind)\n    *   [Winter Weather](https://www.nssl.noaa.gov/research/winter)\n    *   [Social Science](https://www.nssl.noaa.gov/research/social)\n\n*   [Research Tools](https://www.nssl.noaa.gov/tools)\n    *   [Radar](https://www.nssl.noaa.gov/tools/radar)\n    *   [Testbeds](https://www.nssl.noaa.gov/tools/testbeds)\n    *   [Observation](https://www.nssl.noaa.gov/tools/observation)\n    *   [Simulation](https://www.nssl.noaa.gov/tools/simulation)\n    *   [Decision Support](https://www.nssl.noaa.gov/tools/decision)\n    *   [Warning](https://www.nssl.noaa.gov/tools/warning)\n    *   [Forecast](https://www.nssl.noaa.gov/tools/forecast)\n    *   [Science Applications](https://apps.nssl.noaa.gov/)\n    *   [NSSL Data Repository (PARR)](https://data.nssl.noaa.gov/)\n\n*   [Projects](https://www.nssl.noaa.gov/projects)\n    *   [ANCHOR](https://www.nssl.noaa.gov/projects/anchor)\n    *   [ATD](https://www.nssl.noaa.gov/tools/radar/atd)\n    *   [CAMS](https://cams.nssl.noaa.gov/)\n    *   [FACETs](https://www.nssl.noaa.gov/projects/facets)\n    *   [NOAA HWT](https://hwt.nssl.noaa.gov/)\n    *   [mPING](https://mping.nssl.noaa.gov/)\n    *   [MRMS](https://www.nssl.noaa.gov/projects/mrms)\n    *   [PHI](https://phi.nssl.noaa.gov/)\n    *   [VORTEX-SE / VORTEX USA](https://www.nssl.noaa.gov/projects/vortexusa)\n    *   [Warn on Forecast](https://www.nssl.noaa.gov/projects/wof)\n    *   [Field Projects](https://www.nssl.noaa.gov/projects/field)\n\n*   [People](https://www.nssl.noaa.gov/people)\n    *   [Staff Directory](https://www.nssl.noaa.gov/directory)\n    *   [Staff Profiles](https://inside.nssl.noaa.gov/profiles/)\n    *   [Publications](https://www.nssl.noaa.gov/publications)\n    *   [Jobs](https://www.nssl.noaa.gov/people/jobs)\n    *   [Students](https://www.nssl.noaa.gov/people/students)\n    *   [Outreach](https://www.nssl.noaa.gov/people/outreach)\n\n*   [News & Media](https://www.nssl.noaa.gov/news)\n    *   [NSSL News](https://inside.nssl.noaa.gov/nsslnews/)\n    *   [Video](https://www.nssl.noaa.gov/news/video)\n    *   [Fact Sheets](https://www.nssl.noaa.gov/news/factsheets)\n    *   [Podcasts](https://www.nssl.noaa.gov/news/podcasts)\n    *   [Media Resources](https://www.nssl.noaa.gov/news/resources)\n\n*   [Education](https://www.nssl.noaa.gov/education)\n    *   [Severe Weather 101](https://www.nssl.noaa.gov/education/svrwx101)\n    *   [For Educators](https://www.nssl.noaa.gov/education/educators)\n    *   [For Students](https://www.nssl.noaa.gov/education/students)\n    *   [For Everyone](https://www.nssl.noaa.gov/education/everyone)\n\n*   [Home](https://www.nssl.noaa.gov/)\n*   Page Not Found\n\nOops! We didn't find it!\n------------------------\n\nThe link that brought you here appears to be either outdated or inaccurate. You can search for specific information here, or use the site tools and related links at right.\n\nEnter Search Term(s):\n\nOr visit these popular links:\n\n*   [Severe Weather 101](https://www.nssl.noaa.gov/education/svrwx101/)\n*   [NSSL Learning Resources](https://www.nssl.noaa.gov/education/)\n*   [NSSL Areas of Research](https://www.nssl.noaa.gov/research/)\n*   [NSSL History](https://www.nssl.noaa.gov/about/history/)\n*   [Career Options for Meteorologists](https://www.nssl.noaa.gov/people/jobs/careers.php)\n\nRelated Links\n-------------\n\n*   [Search the NSSL website](https://www.nssl.noaa.gov/search.php)\n*   [NSSL Site Map](https://www.nssl.noaa.gov/sitemap.php)\n*   [Site Information](https://www.nssl.noaa.gov/siteinfo.php)\n*   [NSSL Staff Directory](https://www.nssl.noaa.gov/directory/index.php)\n*   [Search the NSSL Publications database](https://www.nssl.noaa.gov/publications/advanced.php)\n*   [Search NSSL News](https://inside.nssl.noaa.gov/nsslnews/search/)\n\n![Image 5: Researchers gathered around computer](https://www.nssl.noaa.gov/img/group-search-090611_Colorado1_Coniglio.jpg)\n“I know I saw that page somewhere.”\n\nNOAA National Severe Storms Laboratory\n\n120 David L. Boren Blvd.\n\nNorman, OK 73072\n\nUSA\n\n[(405) 325-3620](tel:405-325-3620)\n\n*   [U.S. Department of Commerce](https://www.commerce.gov/)\n*   [National Oceanic & Atmospheric Administration](https://www.noaa.gov/)\n*   [Office of Oceanic & Atmospheric Research](https://research.noaa.gov/)\n\nConnect\n-------\n\n*   [Facebook](https://www.facebook.com/NOAA.NSSL \"This link takes you to the NSSL page on Facebook.\")\n*   [Twitter](https://twitter.com/NOAANSSL \"This link takes you to the NSSL page on Twitter.\")\n*   [Instagram](https://instagram.com/noaanssl/ \"This link takes you to the NSSL page on Instagram.\")\n*   [YouTube](https://www.youtube.com/playlist?list=PLCFE1C624F9360379 \"This link takes you to the NSSL video playlist on YouTube.\")\n*   [Flickr](https://www.flickr.com/photos/noaanssl/ \"This link takes you to the NSSL account on Flickr.\")\n*   [NSSL News](https://inside.nssl.noaa.gov/nsslnews/ \"NSSL's online newsletter.\")\n\nSite Tools\n----------\n\n*   [Contact Us](https://www.nssl.noaa.gov/contact.php)\n*   [Disclaimer](https://www.nssl.noaa.gov/disclaimer.php)\n*   [Privacy](https://www.noaa.gov/protecting-your-privacy \"This link takes you offsite.\")\n*   [Accessibility](https://www.noaa.gov/accessibility \"This link takes you offsite.\")\n*   [External Link Disclaimer](https://www.noaa.gov/disclaimer \"This link takes you offsite.\")\n*   [FOIA](https://www.noaa.gov/information-technology/foia \"This link takes you offsite.\")\n*   [USA.gov](https://www.usa.gov/ \"This link takes you offsite.\")\n*   [Site Information](https://www.nssl.noaa.gov/siteinfo.php)\n*   [Site Map](https://www.nssl.noaa.gov/sitemap.php)\n*   [Search](https://www.nssl.noaa.gov/search.php)\n*   [For NSSL Staff](https://intranet.nssl.noaa.gov/ \"Restricted access.\")",
+            "publish_time": "unknown",
+            "fetched_by": "jina"
+          },
+          "5": {
+            "url": "https://www.fema.gov/disaster/1971",
+            "title": "",
+            "content": "",
+            "error": "Failed to fetch"
+          },
+          "6": {
+            "url": "https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/",
+            "title": "Page Not Found -",
+            "description": "",
+            "content": "[Menu](https://governor.alabama.gov/newsroom/2011/05/governor-releases-recovery-update/#offCanvasMenu)\n\nOffice of the Governor of Alabama\n\n*   [Governor](https://governor.alabama.gov/governor/)\n    *   [About](https://governor.alabama.gov/governor/)\n    *   [First Dog of Alabama](https://governor.alabama.gov/first-dog-of-alabama/)\n    *   [Mansion](https://governor.alabama.gov/governor/mansion/)\n\n*   [Administration](https://governor.alabama.gov/cabinet/)\n    *   [Cabinet](https://governor.alabama.gov/cabinet/)\n    *   [Staff](https://governor.alabama.gov/administration/staff/)\n    *   [Appointments](https://governor.alabama.gov/administration/appointments/)\n    *   [Internship Program](https://governor.alabama.gov/administration/internship-program/)\n    *   [Public Records](https://governor.alabama.gov/administration/public-records/)\n\n*   [Priorities](https://governor.alabama.gov/priorities/)\n*   [Logo](https://governor.alabama.gov/)\n*   [Legislation](https://governor.alabama.gov/legislation/)\n    *   [Legislation Overview](https://governor.alabama.gov/legislation/)\n    *   [Election Information](https://www.sos.alabama.gov/alabama-votes/voter/election-information)\n    *   [REGISTRATION INFORMATION](https://myinfo.alabamavotes.gov/VoterView/RegistrantSearch.do)\n    *   [LEGISLATIVE ACTS BY YEAR](http://arc-sos.state.al.us/cgi/actyear.mbr/input)\n    *   [BILL STATUS SEARCH](http://alisondb.legislature.state.al.us/alison/SESSBillStatus.aspx)\n    *   [BILL DOWNLOADS](https://www.sos.alabama.gov/government-records/legislative-acts)\n    *   [LEGISLATIVE AUDIO & VIDEO](http://www.legislature.state.al.us/aliswww/ISD/AudioVideo.aspx)\n\n*   [Newsroom](https://governor.alabama.gov/newsroom/)\n    *   [Newsroom Overview](https://governor.alabama.gov/newsroom/)\n    *   [Press Releases](https://governor.alabama.gov/newsroom/category/press-releases/)\n    *   [Statements](https://governor.alabama.gov/newsroom/category/statements/)\n    *   [Executive Orders](https://governor.alabama.gov/newsroom/category/executive-orders/)\n    *   [State of Emergency](https://governor.alabama.gov/newsroom/category/state-of-emergency/)\n    *   [Proclamations](https://governor.alabama.gov/newsroom/category/proclamations/)\n    *   [Flag Status](https://governor.alabama.gov/flag-status/)\n    *   [Flag Memos](https://governor.alabama.gov/newsroom/category/flag-memos/)\n    *   [Rewards](https://governor.alabama.gov/newsroom/category/rewards/)\n    *   [Media](https://governor.alabama.gov/media/)\n    *   [Newsletter](https://governor.alabama.gov/newsletter/)\n    *   [Press Kit](https://governor.alabama.gov/newsroom/press-kit/)\n    *   [Remarks & Speeches](https://governor.alabama.gov/newsroom/category/remarks-speeches/)\n\n*   [Contact](https://governor.alabama.gov/contact/)\n\nThe page you are looking for might have been removed, had its name changed, or is temporarily unavailable.\n----------------------------------------------------------------------------------------------------------\n\nPlease try searching:\n---------------------\n\n### [Newsroom](https://governor.alabama.gov/newsroom/)\n\n*   [Press Releases](https://governor.alabama.gov/newsroom/category/press-releases/)\n*   [Statements](https://governor.alabama.gov/newsroom/category/statements/)\n*   [Executive Orders](https://governor.alabama.gov/newsroom/category/executive-orders/)\n*   [State of Emergency](https://governor.alabama.gov/newsroom/category/state-of-emergency/)\n*   [Proclamations](https://governor.alabama.gov/newsroom/category/proclamations/)\n*   [Flag Status](https://governor.alabama.gov/flag-status/)\n*   [Flag Memos](https://governor.alabama.gov/newsroom/category/flag-memos/)\n*   [Rewards](https://governor.alabama.gov/newsroom/category/rewards/)\n*   [Media](https://governor.alabama.gov/media/video-gallery/)\n*   [Newsletter](https://governor.alabama.gov/newsletter/)\n*   [Press Kit](https://governor.alabama.gov/newsroom/press-kit/)\n\n### State Resources\n\n*   [Alabama.gov](http://www.alabama.gov/)\n*   [Alabama.travel](http://www.alabama.travel/)\n*   [Made in Alabama](http://madeinalabama.com/)\n*   [Government Directory](http://info.alabama.gov/)\n*   [Alabama Media Portal](http://media.alabama.gov/)\n*   [Alabama Checkbook](http://open.alabama.gov/)\n*   [Serve Alabama](https://www.servealabama.gov/)\n*   [Ready Alabama](https://www.readyalabama.gov/)\n*   [Governor’s Office on Disability](http://www.good.alabama.gov/)\n*   [Citizens Alerts](https://governor.alabama.gov/citizens-alerts/)\n*   [Accessibility Statement](https://governor.alabama.gov/accessibility-statement/)\n\n© 2025 Office of the Governor of Alabama",
+            "publish_time": "unknown",
+            "fetched_by": "jina"
+          },
+          "4": {
+            "url": "https://www.tuscaloosanews.com/article/DA/20110428/News/605238221/TL",
+            "title": "Page Not Found (404) | The Tuscaloosa News",
+            "description": "",
+            "content": "Page Not Found (404) | The Tuscaloosa News\n===============\n\n[](https://www.tuscaloosanews.com/)\n\n[](https://subscribe.tuscaloosanews.com/rr/nanobar?gps-source=CPTILELEFT&itm_campaign=2025ENTCFTEST5&itm_medium=ONSITE&success-url=https%3A%2F%2Fwww.tuscaloosanews.com%2Ferrors%2F404%2F)\n\n[](https://subscribe.tuscaloosanews.com/rr/masthead?gps-source=CPMASTHEAD&itm_campaign=2025ENTCFTEST5&itm_medium=ONSITE&success-url=https%3A%2F%2Fwww.tuscaloosanews.com%2Ferrors%2F404%2F)\n\n[News](https://www.tuscaloosanews.com/news/)[Sports](https://www.tuscaloosanews.com/sports/)[Entertainment](https://www.tuscaloosanews.com/entertainment/)[Lifestyle](https://www.tuscaloosanews.com/lifestyle/)[Opinion](https://www.tuscaloosanews.com/opinion/)[Advertise](https://cm.tuscaloosanews.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=the_tuscaloosa_news&utm_source=local_publication&utm_medium=topnav&utm_campaign=advertise_with_us)[Obituaries](https://www.tuscaloosanews.com/obituaries)[eNewspaper](https://user.tuscaloosanews.com/user/enewspaper/)[Legals](https://www.tuscaloosanews.com/public-notices)\n\n[](https://www.tuscaloosanews.com/search/ \"Search\")\n\n[](https://www.tuscaloosanews.com/weather/ \"Weather in Tuscaloosa: 56°F Cloudy\")[](https://subscribe.tuscaloosanews.com/rr/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2025ENTCFTEST5&itm_medium=ONSITE&success-url=https%3A%2F%2Fwww.tuscaloosanews.com%2Ferrors%2F404%2F)\n\n[](https://login.tuscaloosanews.com/NTTN-GUP/authenticate/?success-url=https%3A%2F%2Fwww.tuscaloosanews.com%2Ferrors%2F404%2F&cancel-url=https%3A%2F%2Fwww.tuscaloosanews.com%2Ferrors%2F404%2F)\n\n404\n\nPAGE NOT FOUND\n\nSorry, the link you're trying to access is either broken or no longer exists.\n\nPlease use the search bar or take a look at some of our trending stories below.\n\nMost Recent\n\n[![Image 1: A man in a suit with a red tie standing next to a woman in an orange dress in front of a painting](https://www.tuscaloosanews.com/gcdn/authoring/authoring-images/2025/12/19/NTTN/87836074007-al-tus-culverhouse-gc.JPG?crop=3456,3455,x766,y0&width=120&height=120&format=pjpg&auto=webp) Hugh Culverhouse Jr. donates $500K to University of Alabama](https://www.tuscaloosanews.com/story/news/2025/12/22/hugh-culverhouse-jr-donates-to-new-ua-leadership-school/87834388007/)[![Image 2: A man with a bald head and a white beard is wearing a black and white checkered shirt](https://www.tuscaloosanews.com/gcdn/presto/2021/03/23/NTTN/7d644cea-28c5-4630-a199-1432426fdc74-a3778254-96bf-4c8a-b3ee-f295cc2a8e97.jpeg?crop=2714,2714,x354,y0&width=120&height=120&format=pjpg&auto=webp) Science and religion resonate with atoms | GARY COSBY JR. Gary Cosby Jr.](https://www.tuscaloosanews.com/story/opinion/columns/2025/12/23/atoms-resonate-in-science-and-religion-gary-cosby-jr/87848520007/)[![Image 3: Man with gray beard and glasses posing for a photo](https://www.tuscaloosanews.com/gcdn/-mm-/c96463fa8ce3b2418ea6b4dac8017f11de9c9933/c=46-0-401-355/local/-/media/2020/08/17/Tuscaloosa/ghows-DA-200629303-ba070f76.jpg?width=120&height=120&fit=crop&format=pjpg&auto=webp) Small town intrigue flows in 'Inescapable' | DON NOBLE](https://www.tuscaloosanews.com/story/lifestyle/columns/2025/12/23/inescapable-weaves-tale-of-small-town-intrigue-don-noble/87851254007/)[![Image 4: Woman sits in an armchair doing needlepoint next to a window](https://polarcdn-terrax.com/image/v1.0.0/bin/683de95eb45f0f3d893d71d8?v=36613&h=120&w=120&autocrop=1)Challenging stigmas around Alzheimer's disease](https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstpt-WV1Fik5liarhL1bvyUg_WPfiKssjeqTeInXmYhQFKrp02i3nACddT2G7sQNztlf_SR6iZaSzgSRxBsr9s4KlP14zySmorDB106UEhQxZMfG-YdkpeaAIOmoTK0ZU_5FR61HlP45petpjgVAGIoJVlOdc7GfDmtMJcP3VnK9B1nGLfRfmNALlUbVqAU1h4L9DCI3hnm7phCRy6o42MXA_fwRD3mGimP4LynktiwML8zIzs80xlNFUrvSulHzhPeY9ZzbEMi-gCSwCekaURifaAS535LvKXalXMURGJFsHFeFmpfTdcM1U3pNDWyThlcjSfB0UJ2zFUXf3a6-7eJHVW3J2wvguYCmSSKq-fvN5wPaDXSDRipYiFAkuhulZ3GEzH7Rqvg_CYn3RFhKU0z_u-sWQzh1DjgL6GYs2snQN0blg&sai=AMfl-YQViLOGEGg_w2YVyP-lMte5VY2IKKdhYHuvmxwvOTBPutHLwt5moKWBkILt4WfFIkEfxNAvIed79jk0ooktTDae2mTLOTkGd7qsfy6Aauj_qzXXLnLBR_THcfcx1ozFSiQ9RdJ-QZv5TlfKjAIondmyEKtvZ9sKW23ZgVHUMz-J29CQyUR8giioDQ_IXxdtcvhSMYd8BzHSG5Gmhd0lUflgpg_s8K0rZrTDfE2njwM&sig=Cg0ArKJSzPYp-gd8CtWIEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https%3A%2F%2Fwww.usatoday.com%2Finteractives%2Fsponsor-story%2Feli-lilly-and-company%2Frecognizing-thinking-and-memory-issues-2025%2F%3Fmvt%3Di%26mvn%3Dc5d0fd7047bf4ef981fabb44fff88290%26mvp%3DNA-GANNLOCASITEMANA-11238693%26mvl%3DKey-tangent-tile%2520%255BTangent%2520Desktop%2520Tile%255D%26utm_campaign%3Db4bbd4383df94a3584c9970d40d7cd68%26utm_source%3Dpolar%26utm_medium%3Dcpc)[![Image 5: Bryant-Denny Stadium with a sign reading Crimson Tide over an entrance tunnel as fans walk by](https://www.tuscaloosanews.com/gcdn/authoring/authoring-images/2025/12/22/NTTN/87884000007-img-2713.jpeg?crop=1169,1169,x0,y284&width=120&height=120&format=pjpg&auto=webp) Why Tuscaloosa native Nick Sherman bought into power of Alabama](https://www.tuscaloosanews.com/story/sports/college/football/2025/12/23/why-nick-sherman-chose-alabama-football-after-junior-college-stint/87829114007/)[![Image 6: Starbucks logo with a green and white design, likely displayed on a window](https://www.tuscaloosanews.com/gcdn/authoring/authoring-images/2025/11/13/SFTW/87245951007-1796932627.jpg?crop=3577,3576,x894,y0&width=120&height=120&format=pjpg&auto=webp) Where can you eat out in Alabama on Christmas Day? What we know](https://www.tuscaloosanews.com/story/news/2025/12/22/where-can-you-eat-in-alabama-on-christmas-starbucks-mcdonalds-open/87883877007/)[![Image 7: A young boy wearing a blue and white hat and a blue coat covers his ears with his hands and opens his mouth in a frightened expression](https://www.tuscaloosanews.com/gcdn/authoring/authoring-images/2025/12/17/USAT/87814045007-20251216-trnd-home-alone-look-alike-contest.jpg?crop=895,895,x507,y0&width=120&height=120&format=pjpg&auto=webp) This AL boy was crowned the real-life Kevin McCallister. What we know](https://www.tuscaloosanews.com/story/news/2025/12/22/al-boy-wins-kevin-mccallister-look-alike-contest-at-plaza-what-to-know/87882857007/)[![Image 8: Red and blue emergency lights on a vehicle](https://www.tuscaloosanews.com/gcdn/authoring/authoring-images/2025/09/22/USAT/86297951007-usatsi-25398405-25.jpg?crop=1856,1855,x417,y0&width=120&height=120&format=pjpg&auto=webp) Investigation underway after shooting death in Tuscaloosa](https://www.tuscaloosanews.com/story/news/2025/12/22/man-killed-in-shooting-on-willow-ridge-lane-in-tuscaloosa/87882343007/)\n\n[About Us](https://www.tuscaloosanews.com/story/news/local/the-tuscaloosa-news-about-us/86498172007/)[Careers](https://www.gannett.com/careers/)[Accessibility](https://cm.tuscaloosanews.com/accessibility/)[Sitemap](https://www.tuscaloosanews.com/sitemap/)[Legals](https://www.tuscaloosanews.com/public-notices)[Our Ethical Principles](https://cm.tuscaloosanews.com/ethical-conduct/)[USA TODAY Network Style Guide](https://content-static.usatoday.com/styleguide/USA_TODAY_NETWORK_Style_Guide_Final_v1.pdf)[Responsible Disclosure](https://www.gannett.com/responsible-disclosure-program/)[Subscription Terms & Conditions](https://cm.tuscaloosanews.com/about-your-subscription/)[Advertiser Acceptance Policy](https://cm.tuscaloosanews.com/advertising-acceptance-policy/)[Terms of Service](https://cm.tuscaloosanews.com/terms/)[Privacy Policy](https://cm.tuscaloosanews.com/privacy/)[California Notice at Collection](https://cm.tuscaloosanews.com/california-collection-notice/)[Your Privacy Choices](https://cm.tuscaloosanews.com/your-privacy-choices/)[Staff Directory](https://www.tuscaloosanews.com/contact/staff/)\n\n[Contact Us](https://help.tuscaloosanews.com/contact-us)[Support Local Business](https://supportlocal.usatoday.com/)[Advertise Your Business](https://cm.tuscaloosanews.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=the_tuscaloosa_news&utm_source=local_publication&utm_medium=menu&utm_campaign=advertise_with_us)[Buy and Sell](https://adportal.marketplaceadsonline.com/gatehouse-adportal/altus-classified/index.html)[Licensing & Reprints](https://imagn.com/licensing-reprints/)[Help Center](https://help.tuscaloosanews.com/)[Subscriber Guide](https://cm.tuscaloosanews.com/subscriberguide)[Manage Account](https://account.tuscaloosanews.com/)[Give Feedback](https://cm.tuscaloosanews.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.tuscaloosanews.com%2Ferrors%2F404%2F&marketName=tuscaloosanews&cta=Footer)\n\n[Subscribe Today](https://subscribe.tuscaloosanews.com/?gps-source=CPSUBFOOTER&itm_medium=onsite&itm_campaign=subfooter&itm_source=subfooter&itm_content=subfooter)[Newsletters](https://profile.tuscaloosanews.com/newsletters/manage)[Facebook](https://www.facebook.com/tuscnews)[X](https://www.twitter.com/tuscaloosanews)[Instagram](https://www.instagram.com/thetuscaloosanews/)[eNewspaper](https://user.tuscaloosanews.com/user/enewspaper/)\n\n[Jobs](https://www.tuscaloosanews.com/marketplace/jobs/)[Real Estate](https://www.tuscaloosanews.com/real-estate)[Classifieds](https://classifieds.tuscaloosanews.com/)[Shopping](https://www.tuscaloosanews.com/shopping/)[10BEST](https://10best.usatoday.com/)[LocaliQ Digital Marketing Solutions](https://localiq.com/?utm_source=local_publication&utm_medium=footer&utm_campaign=our_partners_link&utm_content=the_tuscaloosa_news&cid=Web_LiQ_Network_PublicationFooter_AdvertiseWithUs_Inquiry)\n\n© 2025 www.tuscaloosanews.com. All rights reserved.",
+            "publish_time": "unknown",
+            "fetched_by": "jina"
+          }
+        },
+        "source_file": "langchain_4.1/md_data/2011_Sawyerville–Eoline_tornado.md"
+      }
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "33447858": {
+        "pageid": 33447858,
+        "ns": 0,
+        "title": "Modes_of_underwater_diving",
+        "extract": "Underwater diving is an activity that involves exploring the underwater environment. There are various modes of underwater diving, each with its own characteristics and uses. In this article, we will explore the different types of diving, including surface-supplied diving, scuba diving, technical diving, freediving, air-line diving, compressor diving, open bell diving, closed bell bouncing diving, rebreather diving, and stage diving.\n\nSurface-supplied diving is a mode of diving where the diver is connected to the surface by a hose or airline, providing them with a constant supply of breathing gas. This method is commonly used for commercial diving and construction work.\n\nScuba diving is a mode of diving where the diver carries a self-contained underwater breathing apparatus (scuba) to provide them with breathing gas. This method is commonly used for recreational and technical diving.\n\nTechnical diving is a mode of diving that involves using specialized equipment and techniques to explore deeper and more complex underwater environments. This method is commonly used for scientific and exploration purposes.\n\nFreediving is a mode of diving where the diver holds their breath while underwater. This method is commonly used for recreational and competitive purposes.\n\nAir-line diving is a mode of diving where the diver is connected to the surface by an airline, providing them with a constant supply of breathing gas. This method is commonly used for commercial and construction work.\n\nCompressor diving is a mode of diving where the diver is supplied with breathing gas from a compressor on the surface. This method is commonly used for commercial and construction work.\n\nOpen bell diving is a mode of diving where the diver is connected to the surface by an open bell, providing them with a constant supply of breathing gas. This method is commonly used for scientific and exploration purposes.\n\nClosed bell bouncing diving is a mode of diving where the diver is connected to the surface by a closed bell, providing them with a constant supply of breathing gas. This method is commonly used for scientific and exploration purposes.\n\nRebreather diving is a mode of diving where the diver uses a rebreather, which recycles the breathing gas, providing a constant supply of breathing gas. This method is commonly used for technical and scientific diving.\n\nStage diving is a mode of diving where the diver is supplied with breathing gas from a stage bottle, which is carried by a diver or a surface support team. This method is commonly used for technical and scientific diving.",
+        "extract_with_citations": "Underwater diving is an activity that involves exploring the underwater environment. There are various modes of underwater diving, each with its own characteristics and uses. In this article, we will explore the different types of diving, including surface-supplied diving, scuba diving, technical diving, freediving, air-line diving, compressor diving, open bell diving, closed bell bouncing diving, rebreather diving, and stage diving.\n\nSurface-supplied diving is a mode of diving where the diver is connected to the surface by a hose or airline, providing them with a constant supply of breathing gas. This method is commonly used for commercial diving and construction work.\n\nScuba diving is a mode of diving where the diver carries a self-contained underwater breathing apparatus (scuba) to provide them with breathing gas. This method is commonly used for recreational and technical diving.\n\nTechnical diving is a mode of diving that involves using specialized equipment and techniques to explore deeper and more complex underwater environments. This method is commonly used for scientific and exploration purposes.\n\nFreediving is a mode of diving where the diver holds their breath while underwater. This method is commonly used for recreational and competitive purposes.\n\nAir-line diving is a mode of diving where the diver is connected to the surface by an airline, providing them with a constant supply of breathing gas. This method is commonly used for commercial and construction work.\n\nCompressor diving is a mode of diving where the diver is supplied with breathing gas from a compressor on the surface. This method is commonly used for commercial and construction work.\n\nOpen bell diving is a mode of diving where the diver is connected to the surface by an open bell, providing them with a constant supply of breathing gas. This method is commonly used for scientific and exploration purposes.\n\nClosed bell bouncing diving is a mode of diving where the diver is connected to the surface by a closed bell, providing them with a constant supply of breathing gas. This method is commonly used for scientific and exploration purposes.\n\nRebreather diving is a mode of diving where the diver uses a rebreather, which recycles the breathing gas, providing a constant supply of breathing gas. This method is commonly used for technical and scientific diving.\n\nStage diving is a mode of diving where the diver is supplied with breathing gas from a stage bottle, which is carried by a diver or a surface support team. This method is commonly used for technical and scientific diving.",
+        "citation_urls": {},
+        "lead_content": "Underwater diving is an activity that involves exploring the underwater environment. There are various modes of underwater diving, each with its own characteristics and uses. In this article, we will explore the different types of diving, including surface-supplied diving, scuba diving, technical diving, freediving, air-line diving, compressor diving, open bell diving, closed bell bouncing diving, rebreather diving, and stage diving.",
+        "statements": [
+          {
+            "statement": "Underwater diving is an activity that involves exploring the underwater environment."
+          },
+          {
+            "statement": "There are various modes of underwater diving, each with its own characteristics and uses."
+          },
+          {
+            "statement": "This article will explore the different types of diving, including surface-supplied diving, scuba diving, technical diving, freediving, air-line diving, compressor diving, open bell diving, closed bell bouncing diving, rebreather diving, and stage diving."
+          },
+          {
+            "statement": "Surface-supplied diving is a mode of diving where the diver is connected to the surface by a hose or airline, providing them with a constant supply of breathing gas."
+          },
+          {
+            "statement": "This method is commonly used for commercial diving and construction work."
+          },
+          {
+            "statement": "Scuba diving is a mode of diving where the diver carries a self-contained underwater breathing apparatus (scuba) to provide them with breathing gas."
+          },
+          {
+            "statement": "This method is commonly used for recreational and technical diving."
+          },
+          {
+            "statement": "Technical diving is a mode of diving that involves using specialized equipment and techniques to explore deeper and more complex underwater environments."
+          },
+          {
+            "statement": "This method is commonly used for scientific and exploration purposes."
+          },
+          {
+            "statement": "Freediving is a mode of diving where the diver holds their breath while underwater."
+          },
+          {
+            "statement": "This method is commonly used for recreational and competitive purposes."
+          },
+          {
+            "statement": "Air-line diving is a mode of diving where the diver is connected to the surface by an airline, providing them with a constant supply of breathing gas."
+          },
+          {
+            "statement": "This method is commonly used for commercial and construction work."
+          },
+          {
+            "statement": "Compressor diving is a mode of diving where the diver is supplied with breathing gas from a compressor on the surface."
+          },
+          {
+            "statement": "This method is commonly used for commercial and construction work."
+          },
+          {
+            "statement": "Open bell diving is a mode of diving where the diver is connected to the surface by an open bell, providing them with a constant supply of breathing gas."
+          },
+          {
+            "statement": "This method is commonly used for scientific and exploration purposes."
+          },
+          {
+            "statement": "Closed bell bouncing diving is a mode of diving where the diver is connected to the surface by a closed bell, providing them with a constant supply of breathing gas."
+          },
+          {
+            "statement": "This method is commonly used for scientific and exploration purposes."
+          },
+          {
+            "statement": "Rebreather diving is a mode of diving where the diver uses a rebreather, which recycles the breathing gas, providing a constant supply of breathing gas."
+          },
+          {
+            "statement": "This method is commonly used for technical and scientific diving."
+          },
+          {
+            "statement": "Stage diving is a mode of diving where the diver is supplied with breathing gas from a stage bottle, which is carried by a diver or a surface support team."
+          },
+          {
+            "statement": "This method is commonly used for technical and scientific diving."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Modes_of_underwater_diving",
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Surface-supplied diving",
+        "number": "1",
+        "index": "1",
+        "anchor": "Surface-supplied_diving"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Scuba diving",
+        "number": "2",
+        "index": "2",
+        "anchor": "Scuba_diving"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Technical diving",
+        "number": "3",
+        "index": "3",
+        "anchor": "Technical_diving"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Freediving",
+        "number": "4",
+        "index": "4",
+        "anchor": "Freediving"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Air-line diving",
+        "number": "5",
+        "index": "5",
+        "anchor": "Air-line_diving"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Compressor diving",
+        "number": "6",
+        "index": "6",
+        "anchor": "Compressor_diving"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Open bell diving",
+        "number": "7",
+        "index": "7",
+        "anchor": "Open_bell_diving"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Closed bell bouncing diving",
+        "number": "8",
+        "index": "8",
+        "anchor": "Closed_bell_bouncing_diving"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Rebreather diving",
+        "number": "9",
+        "index": "9",
+        "anchor": "Rebreather_diving"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Stage diving",
+        "number": "10",
+        "index": "10",
+        "anchor": "Stage_diving"
+      }
+    ]
+  },
+  "fetched_at": 1766315488,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Modes_of_underwater_diving.md",
+  "source_org": "deep_researcher"
+}

@@ -1,0 +1,1095 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "20031197": {
+        "pageid": 20031197,
+        "ns": 0,
+        "title": "Natlan",
+        "extract": "# Natlan\n\n**Natlan** (Chinese: 纳塔; pinyin: *Nàtǎ*) is a fictional nation in the video game *Genshin Impact*, developed by miHoYo (now HoYoverse). Located in the western portion of the continent of Teyvat, Natlan became available to players on August 28, 2024, with the release of version 5.0 of the game. As the sixth of seven planned regions to be released, Natlan serves as the primary setting for Chapter 5 of the game's storyline, which explores themes of warfare and collective survival.\n\nThe nation is defined by its warrior-driven culture and confederation of six distinct tribes that govern its society. Central to Natlan's identity is the Pilgrimage of the Sacred Flame, an annual tournament held in the Stadium of the Sacred Flame where tribal champions compete to prove their strength and gather power to defend the nation against supernatural threats. Natlan is ruled by Mavuika, the Pyro Archon and God of War, who leads the nation alongside the tribal leaders. The region is inhabited by both humans and dragon-like creatures called Saurians, which have evolved to coexist peacefully with people and serve as essential companions in daily life and exploration.\n\nNatlan has received mixed critical reception. Its exploration mechanics, which emphasize vertical movement through Saurian abilities and character-specific traversal skills, have been praised by critics. However, the region generated significant controversy regarding the design of its characters, with critics arguing that playable characters from Natlan possess lighter skin tones than would be expected from a nation inspired by pre-Columbian American and sub-Saharan African cultures.\n\n## Creation and design\n\n### Concept and inspiration\n\nNatlan's design draws jointly from pre-Columbian American civilizations, sub-Saharan African cultures, and Oceanic traditions. The region incorporates visual and cultural elements from Aztec, Maya, and Incan societies, blended with West African influences and Oceanic aesthetics. Character names and tribal designations reference Mesoamerican mythology and various African cultural traditions, including Yoruba, Swahili, Amhara, and Ethiopian languages and deities. The nation's physical geography features volcanic terrain, natural hot springs, and diverse landscapes ranging from elevated cliffs to canyon valleys and expansive deserts.\n\nInformation about Natlan was first publicly revealed during the version 4.7 livestream event in May 2024, where developers presented concept art and introduced the Saurians, dragon-like creatures native to the region. Players were shown how Saurians possess unique traversal mechanics tied to specific terrain types, allowing temporary possession of their bodies to access specialized abilities for exploration.\n\n### Music and soundtrack\n\nNatlan's original soundtrack was composed by HOYO-MiX, the music production studio of HoYoverse. The musical compositions blend Latin American and African instrumental traditions, featuring classical Spanish guitar, castanet rhythms, and traditional African percussion instruments including the kora and talking drum. Multiple tracks incorporate lyrics sung in Swahili, featuring prominent vocalists and orchestral arrangements recorded with the London Symphony Orchestra.\n\nThe soundtrack received recognition for its cultural integration, with compositions utilizing traditional instruments such as Native American flutes, pan flutes, quenas, and acoustic guitars alongside classical European and African instruments. Two major original soundtrack albums were released: \"Land of Tleyaoyotl\" and \"Eternal Sun, Eternal Want,\" which collectively contain over 80 original compositions dedicated to the region.\n\n### Gameplay mechanics\n\nExploration in Natlan emphasizes vertical traversal more than previous regions, facilitated through a unique mechanic called Saurian Indwelling. Players can temporarily transform into Saurian forms to access their distinctive exploration abilities. Three primary Saurian types appear in the initial release: the Tepetlisaurus, capable of burrowing underground and excavating through rock; the Yumkasaurus, specialized for aerial movement and gliding; and the Koholasaurus, adapted for aquatic traversal and water-based exploration.\n\nPhlogiston, a thermal energy resource unique to Natlan, serves as a specialized resource consumed when using Saurian abilities or Natlan character skills. Players can replenish Phlogiston by collecting scattered particles throughout the region, activating specific environmental points, or visiting Teleport Waypoints and Statues of the Seven.\n\nNatlan characters possess a distinct combat mechanic called Nightsoul's Blessing, which grants enhanced combat capabilities and supplementary movement abilities during exploration. When activated through character abilities, this state generates Nightsoul points that deplete with usage but can be replenished through specific actions and environmental interactions. Related mechanics include Nightsoul Transmission, enabling rapid character swaps with Phlogiston expenditure, and Nightsoul Burst attacks that deliver heightened damage output.\n\n## Setting and lore\n\n### Geography and governance\n\nNatlan operates as a confederation of six tribes, each with distinct cultural identities, architectural styles, and elemental associations. The three tribes initially introduced in version 5.0 are the Children of Echoes (Geo element), inhabiting the Tequemecan Valley and known as miners and artisans; the People of the Springs (Hydro element), residing in areas with natural hot springs; and the Scions of the Canopy (Anemo element), who constructed suspended settlements among the cliffs and mountains. The remaining three tribes—the Masters of the Night-Wind, the Flower-Feather Clan, and the Collective of Plenty—represent the Electro, Dendro, and remaining elemental associations respectively.\n\nThe region is divided into multiple explorable sub-regions, including the Basin of Unnumbered Flames, the primary hub containing the Stadium of the Sacred Flame and main settlements; Coatepec Mountain, homeland of the Scions of the Canopy; Tequemecan Valley, home of the Children of Echoes; Toyac Springs, inhabited by the People of the Springs; Quahuacan Cliff; the Tezcatepetonco Range; Ochkanatlan, an area contaminated by Abyssal forces; Atocpan, containing the Great Volcano of Tollan; and the Ancient Sacred Mountain located within the volcano itself.\n\n### The Night Kingdom and Nightsouls\n\nDistinct from standard ley lines found throughout Teyvat, Natlan maintains a unique metaphysical infrastructure called the Night Kingdom. This underground realm functions simultaneously as an afterlife and collective memory archive, governing cycles of death and resurrection for Natlanese inhabitants. When individuals from Natlan die, their souls enter the Night Kingdom and gradually dissolve into a vast \"sea of souls,\" eventually losing individual identity over time.\n\nThe Night Kingdom was created by a Seelie named the Lord of the Night, who reconstructed fragmented ley lines during an ancient Abyssal invasion that nearly destroyed Natlan's conventional defenses. The first Pyro Archon, Xbalanque, strengthened this arrangement by establishing a pact with Ronova, the Shade of Death, a divine entity governing mortality and resurrection. This covenant established the Ode of Resurrection, a ritual enabling the revival of fallen warriors and leaders provided their comrades achieve victory against Abyssal forces.\n\nWarriors of Natlan draw upon Nightsoul power to enhance combat capabilities, while the region's inhabitants can accumulate memories and deeds within the Night Kingdom's record system, known as Wayobs. However, the Night Kingdom remains isolated from Teyvat's standard ley line network, making memories recorded there largely incompatible with information from other nations. Foreign souls are generally rejected by the Night Kingdom, though rare exceptions exist.\n\n### The Sacred Flame and the Pilgrimage\n\nCentral to Natlan's defense against the Abyss—a primordial malevolent force—is the Sacred Flame, an eternal fire fueled by the Contending Fire gathered during the annual Pilgrimage of the Sacred Flame. Representatives from each of the six tribes, designated as Ancient Name bearers, compete in this tournament to crown Natlan's strongest warrior while accumulating the Contending Fire necessary to sustain the Sacred Flame's protective power.\n\nThe Pilgrimage serves a dual purpose beyond martial competition: it prepares Natlan to resist Abyssal invasions and generates the mystical energy required to maintain the Sacred Flame's defensive barrier over the region's surface. The tournament format includes team-based and individual competition stages, with warriors competing across diverse terrain to gather Contending Fire through combat and environmental challenges.\n\nShould an Ancient Name bearer fall in battle, the Ode of Resurrection permits their revival if their tribe achieves victory against the Abyss during Night Kingdom incursions. However, if an Ancient Name bearer dies outside combat circumstances, they eventually reincarnate in Natlan in new form rather than remaining permanently deceased. The loss of an Ancient Name—the ceremonial title and warrior designation—through death represents the permanent disappearance of that specific historical identity, though the individual may return in a new incarnation.\n\n## Reception\n\n### Exploration and gameplay\n\nNatlan's exploration mechanics have received generally positive critical reception. Critics praised the varied traversal systems provided by Saurian abilities and Natlan character skills, noting the region's emphasis on vertical movement and environmental puzzle-solving as engaging advancements over previous regions. The world design of specific sub-regions, particularly the Ancient Sacred Mountain within the volcano, received acclaim for spectacular environmental design and accessible navigation. Critics also commended the abundance of world quests and ambient narrative content distributed throughout the exploration areas.\n\n### Character design controversy\n\nThe region generated significant community and critical discussion regarding character representation. Following the initial character reveals, Western gaming communities expressed concerns about the skin tones of Natlan characters, arguing they were insufficiently dark relative to real-world populations from the cultures inspiring the region. A petition addressing what critics characterized as \"cultural appropriation and whitewashing\" in Natlan's character designs accumulated over 70,000 signatures within weeks of the region's announcement.\n\nCritics pointed out that of the nine initially revealed Natlan characters, only one possessed notably darker skin tones. Additionally, the character Ororon, inspired by Ọlọrun, a Yoruba deity typically depicted as a Black man, was designed with pale skin and anime-style features, which commentators characterized as cultural misrepresentation. English voice actor Khoi Dao commented on the disparity, noting that when characters inspired by non-European cultures are designed with predominantly European aesthetic features, \"people are within their rights to demand better representation.\"\n\nCommunity discussion noted that this pattern extended beyond Natlan to previous regions, particularly Sumeru, which drew inspiration from Sub-Saharan African, Middle Eastern, and South Asian cultures but similarly featured limited character diversity in skin tone representation. The broader concern raised centered on HoYoverse's approach to character design across global cultures, with critics arguing that the company systematically underrepresents characters with darker skin tones relative to the cultural inspirations of game regions.\n\nIn contrast, player communities in Asian regions, particularly in Japan and China, displayed less focus on the representation controversy and instead emphasized engagement with new gameplay content and character abilities.\n\n## Playable characters\n\nAs of December 2024, Natlan features over ten playable characters across multiple game updates. Initial releases in version 5.0 included Mualani (Hydro Catalyst), Kachina (Geo Polearm), and Kinich (Dendro Claymore). Kachina was offered to players as a free reward for completing Act I of Natlan's Archon Quest. Subsequent updates introduced additional playable characters including Xilonen, Chasca, Citlali, Iansan, and others, with releases distributed across versions 5.1 through 5.5. Mavuika, the Pyro Archon, was introduced as a playable character in version 5.3.\n\nAll new playable characters from Natlan share Nightsoul-based combat mechanics and traversal abilities tailored to individual tribal affiliations and combat roles.\n\n## Archon Quest and narrative\n\nThe main storyline for Natlan, titled \"Pilgrimage of the Sacred Flame's Return,\" launched with version 5.0 and continued across subsequent updates through at least version 5.7. Chapter 5 of the overall Genshin Impact narrative centers on Natlan's conflict with Abyssal forces and features the player character (the Traveler), accompanied by local warriors Kachina, Kinich, and Mualani, engaging in the Pilgrimage tournament and subsequent defensive campaigns.\n\nThe storyline explores the supernatural mechanics of the Night Kingdom, the history of Natlan's Pyro Archons, and the region's millennia-long struggle against Abyssal invasion. Key narrative elements include the revelation of Ronova, the Shade of Death, and her bargains with successive Pyro Archons; the role of the Fatui Harbinger Il Capitano in Natlan's defense; and the resolution of conflicts within the Night Kingdom itself.",
+        "citation_urls": {
+          "1": "https://fanexpohq.com/the-fhq/deep-dive-genshin-impact-natlan-region/[11]",
+          "31": "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)[2]",
+          "32": "https://www.reddit.com/r/Genshin_Impact/comments/1g9eija/can_someone_explain_natlans_lore_so_far_for_me_im/[33]",
+          "12": "https://www.screenhype.co.uk/genshin-impact-natlan-region-guide/[34]",
+          "24": "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinic[3]",
+          "4": "https://www.youtube.com/watch?v=_PnPZbNZFXI[20]",
+          "26": "https://www.youtube.com/watch?v=2UkSXUHwZHk[27]",
+          "21": "https://www.rgj.com/story/life/2024/08/19/genshin-impact-natlan-5-0-update-what-to-know-to-get-ready-technobubble/74854648007/[35]",
+          "19": "https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-aug[28]",
+          "22": "https://www.gameslearningsociety.org/wiki/what-will-natlan-be-based-on/[13]",
+          "5": "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities[18]",
+          "14": "https://www.reddit.com/r/Genshin_Impact/comments/1dvz4ef/so_is_natlan_inspired_by_ancient_latin_americans/[15]",
+          "8": "https://www.youtube.com/watch?v=6p5LM53VYkg[6]",
+          "9": "https://www.youtube.com/watch?v=10p5LM53VYkg[25]",
+          "7": "https://www.youtube.com/watch?v=n9FsU-m4bLo[16]",
+          "30": "https://www.youtube.com/watch?v=44V9QMNKVW0[10]",
+          "17": "https://www.oneesports.gg/genshin-impact/all-natlan-characters-names/[29]"
+        },
+        "statements": [
+          {
+            "fact": "Natlan (Chinese: 纳塔; pinyin: Nàtǎ) is a fictional nation in the video game Genshin Impact, developed by miHoYo (now HoYoverse).",
+            "ref_idx": null,
+            "url": "https://en.wikipedia.org/wiki/Natlan"
+          },
+          {
+            "fact": "Natlan is located in the western portion of the continent of Teyvat.",
+            "ref_idx": null,
+            "url": "https://en.wikipedia.org/wiki/Natlan"
+          },
+          {
+            "fact": "Natlan became available to players on August 28, 2024, with the release of version 5.0 of the game.",
+            "ref_idx": null,
+            "url": "https://en.wikipedia.org/wiki/Natlan"
+          },
+          {
+            "fact": "Natlan is the sixth of seven planned regions to be released.",
+            "ref_idx": null,
+            "url": "https://en.wikipedia.org/wiki/Natlan"
+          },
+          {
+            "fact": "Natlan serves as the primary setting for Chapter 5 of the game's storyline.",
+            "ref_idx": null,
+            "url": "https://en.wikipedia.org/wiki/Natlan"
+          },
+          {
+            "fact": "Chapter 5 of the game's storyline explores themes of warfare and collective survival.",
+            "ref_idx": null,
+            "url": "https://en.wikipedia.org/wiki/Natlan"
+          },
+          {
+            "fact": "Natlan is defined by its warrior-driven culture and confederation of six distinct tribes that govern its society.",
+            "ref_idx": null,
+            "url": [
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://en.wikipedia.org/wiki/Mavuika",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.youtube.com/watch?v=6p5LM53VYkg",
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc"
+            ]
+          },
+          {
+            "fact": "Central to Natlan's identity is the Pilgrimage of the Sacred Flame, an annual tournament held in the Stadium of the Sacred Flame.",
+            "ref_idx": null,
+            "url": [
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://en.wikipedia.org/wiki/Mavuika",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.youtube.com/watch?v=6p5LM53VYkg",
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc"
+            ]
+          },
+          {
+            "fact": "In the Pilgrimage of the Sacred Flame, tribal champions compete to prove their strength and gather power to defend the nation against supernatural threats.",
+            "ref_idx": null,
+            "url": [
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://en.wikipedia.org/wiki/Mavuika",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.youtube.com/watch?v=6p5LM53VYkg",
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc"
+            ]
+          },
+          {
+            "fact": "Natlan is ruled by Mavuika, the Pyro Archon and God of War, who leads the nation alongside the tribal leaders.",
+            "ref_idx": null,
+            "url": [
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://en.wikipedia.org/wiki/Mavuika",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.youtube.com/watch?v=6p5LM53VYkg",
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc"
+            ]
+          },
+          {
+            "fact": "The region of Natlan is inhabited by both humans and dragon-like creatures called Saurians.",
+            "ref_idx": null,
+            "url": [
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://en.wikipedia.org/wiki/Mavuika",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.youtube.com/watch?v=6p5LM53VYkg",
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc"
+            ]
+          },
+          {
+            "fact": "Saurians have evolved to coexist peacefully with people and serve as essential companions in daily life and exploration in Natlan.",
+            "ref_idx": null,
+            "url": [
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://en.wikipedia.org/wiki/Mavuika",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.youtube.com/watch?v=6p5LM53VYkg",
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc"
+            ]
+          },
+          {
+            "fact": "Natlan has received mixed critical reception.",
+            "ref_idx": null,
+            "url": [
+              "https://www.enduins.com/news/genshin-impact-faces-criticism-over-natlan-characters-skin-color",
+              "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/",
+              "https://www.youtube.com/watch?v=5Dv535EveRw"
+            ]
+          },
+          {
+            "fact": "Natlan's exploration mechanics, which emphasize vertical movement through Saurian abilities and character-specific traversal skills, have been praised by critics.",
+            "ref_idx": null,
+            "url": [
+              "https://www.enduins.com/news/genshin-impact-faces-criticism-over-natlan-characters-skin-color",
+              "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/",
+              "https://www.youtube.com/watch?v=5Dv535EveRw"
+            ]
+          },
+          {
+            "fact": "The region of Natlan generated significant controversy regarding the design of its characters.",
+            "ref_idx": null,
+            "url": [
+              "https://www.enduins.com/news/genshin-impact-faces-criticism-over-natlan-characters-skin-color",
+              "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/",
+              "https://www.youtube.com/watch?v=5Dv535EveRw"
+            ]
+          },
+          {
+            "fact": "Critics argued that playable characters from Natlan possess lighter skin tones than would be expected from a nation inspired by pre-Columbian American and sub-Saharan African cultures.",
+            "ref_idx": null,
+            "url": [
+              "https://www.enduins.com/news/genshin-impact-faces-criticism-over-natlan-characters-skin-color",
+              "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/",
+              "https://www.youtube.com/watch?v=5Dv535EveRw"
+            ]
+          },
+          {
+            "fact": "Natlan's design draws jointly from pre-Columbian American civilizations, sub-Saharan African cultures, and Oceanic traditions.",
+            "ref_idx": null,
+            "url": [
+              "https://fanexpohq.com/the-fhq/deep-dive-genshin-impact-natlan-region/",
+              "https://www.icy-veins.com/genshin-impact/natlan-overview",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://www.gameslearningsociety.org/wiki/what-will-natlan-be-based-on/",
+              "https://www.youtube.com/watch?v=gbKzBnd8Nos",
+              "https://www.reddit.com/r/Genshin_Impact/comments/1dvz4ef/so_is_natlan_inspired_by_ancient_latin_americans/",
+              "https://en.wikipedia.org/wiki/Natlan"
+            ]
+          },
+          {
+            "fact": "The region of Natlan incorporates visual and cultural elements from Aztec, Maya, and Incan societies, blended with West African influences and Oceanic aesthetics.",
+            "ref_idx": null,
+            "url": [
+              "https://fanexpohq.com/the-fhq/deep-dive-genshin-impact-natlan-region/",
+              "https://www.icy-veins.com/genshin-impact/natlan-overview",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://www.gameslearningsociety.org/wiki/what-will-natlan-be-based-on/",
+              "https://www.youtube.com/watch?v=gbKzBnd8Nos",
+              "https://www.reddit.com/r/Genshin_Impact/comments/1dvz4ef/so_is_natlan_inspired_by_ancient_latin_americans/",
+              "https://en.wikipedia.org/wiki/Natlan"
+            ]
+          },
+          {
+            "fact": "Character names and tribal designations in Natlan reference Mesoamerican mythology and various African cultural traditions, including Yoruba, Swahili, Amhara, and Ethiopian languages and deities.",
+            "ref_idx": null,
+            "url": [
+              "https://fanexpohq.com/the-fhq/deep-dive-genshin-impact-natlan-region/",
+              "https://www.icy-veins.com/genshin-impact/natlan-overview",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://www.gameslearningsociety.org/wiki/what-will-natlan-be-based-on/",
+              "https://www.youtube.com/watch?v=gbKzBnd8Nos",
+              "https://www.reddit.com/r/Genshin_Impact/comments/1dvz4ef/so_is_natlan_inspired_by_ancient_latin_americans/",
+              "https://en.wikipedia.org/wiki/Natlan"
+            ]
+          },
+          {
+            "fact": "Natlan's physical geography features volcanic terrain, natural hot springs, and diverse landscapes ranging from elevated cliffs to canyon valleys and expansive deserts.",
+            "ref_idx": null,
+            "url": [
+              "https://fanexpohq.com/the-fhq/deep-dive-genshin-impact-natlan-region/",
+              "https://www.icy-veins.com/genshin-impact/natlan-overview",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://www.gameslearningsociety.org/wiki/what-will-natlan-be-based-on/",
+              "https://www.youtube.com/watch?v=gbKzBnd8Nos",
+              "https://www.reddit.com/r/Genshin_Impact/comments/1dvz4ef/so_is_natlan_inspired_by_ancient_latin_americans/",
+              "https://en.wikipedia.org/wiki/Natlan"
+            ]
+          },
+          {
+            "fact": "Information about Natlan was first publicly revealed during the version 4.7 livestream event in May 2024.",
+            "ref_idx": null,
+            "url": "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+          },
+          {
+            "fact": "During the version 4.7 livestream event in May 2024, developers presented concept art and introduced the Saurians, dragon-like creatures native to the region.",
+            "ref_idx": null,
+            "url": "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+          },
+          {
+            "fact": "Players were shown how Saurians possess unique traversal mechanics tied to specific terrain types, allowing temporary possession of their bodies to access specialized abilities for exploration.",
+            "ref_idx": null,
+            "url": "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+          },
+          {
+            "fact": "Natlan's original soundtrack was composed by HOYO-MiX, the music production studio of HoYoverse.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=n9FsU-m4bLo",
+              "https://en.wikipedia.org/wiki/Natlan"
+            ]
+          },
+          {
+            "fact": "The musical compositions of Natlan's soundtrack blend Latin American and African instrumental traditions, featuring classical Spanish guitar, castanet rhythms, and traditional African percussion instruments including the kora and talking drum.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=n9FsU-m4bLo",
+              "https://en.wikipedia.org/wiki/Natlan"
+            ]
+          },
+          {
+            "fact": "Multiple tracks in Natlan's soundtrack incorporate lyrics sung in Swahili, featuring prominent vocalists and orchestral arrangements recorded with the London Symphony Orchestra.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=n9FsU-m4bLo",
+              "https://en.wikipedia.org/wiki/Natlan"
+            ]
+          },
+          {
+            "fact": "The soundtrack received recognition for its cultural integration, with compositions utilizing traditional instruments such as Native American flutes, pan flutes, quenas, and acoustic guitars alongside classical European and African instruments.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=HplA1TOvdFA",
+              "https://www.youtube.com/watch?v=n9FsU-m4bLo"
+            ]
+          },
+          {
+            "fact": "Two major original soundtrack albums were released for Natlan: \"Land of Tleyaoyotl\" and \"Eternal Sun, Eternal Want.\"",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=HplA1TOvdFA",
+              "https://www.youtube.com/watch?v=n9FsU-m4bLo"
+            ]
+          },
+          {
+            "fact": "The albums \"Land of Tleyaoyotl\" and \"Eternal Sun, Eternal Want\" collectively contain over 80 original compositions dedicated to the region of Natlan.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=HplA1TOvdFA",
+              "https://www.youtube.com/watch?v=n9FsU-m4bLo"
+            ]
+          },
+          {
+            "fact": "Exploration in Natlan emphasizes vertical traversal more than previous regions.",
+            "ref_idx": null,
+            "url": [
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "Vertical traversal in Natlan is facilitated through a unique mechanic called Saurian Indwelling.",
+            "ref_idx": null,
+            "url": [
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "Players can temporarily transform into Saurian forms to access their distinctive exploration abilities.",
+            "ref_idx": null,
+            "url": [
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "Three primary Saurian types appear in the initial release of Natlan: the Tepetlisaurus, the Yumkasaurus, and the Koholasaurus.",
+            "ref_idx": null,
+            "url": [
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "The Tepetlisaurus is capable of burrowing underground and excavating through rock.",
+            "ref_idx": null,
+            "url": [
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "The Yumkasaurus is specialized for aerial movement and gliding.",
+            "ref_idx": null,
+            "url": [
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "The Koholasaurus is adapted for aquatic traversal and water-based exploration.",
+            "ref_idx": null,
+            "url": [
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more",
+              "https://www.oneesports.gg/genshin-impact/saurians-in-natlan/",
+              "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "Phlogiston, a thermal energy resource unique to Natlan, serves as a specialized resource.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-nightsoul-phlogiston-explained/",
+              "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities"
+            ]
+          },
+          {
+            "fact": "Phlogiston is consumed when using Saurian abilities or Natlan character skills.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-nightsoul-phlogiston-explained/",
+              "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities"
+            ]
+          },
+          {
+            "fact": "Players can replenish Phlogiston by collecting scattered particles throughout the region, activating specific environmental points, or visiting Teleport Waypoints and Statues of the Seven.",
+            "ref_idx": null,
+            "url": [
+              "https://www.thegamer.com/genshin-impact-nightsoul-phlogiston-explained/",
+              "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities"
+            ]
+          },
+          {
+            "fact": "Natlan characters possess a distinct combat mechanic called Nightsoul's Blessing.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=_PnPZbNZFXI",
+              "https://gamerant.com/genshin-impact-phlogiston-nightsoul-point-blessing-burst-transmission-natlan-mechanics/",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "Nightsoul's Blessing grants enhanced combat capabilities and supplementary movement abilities during exploration.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=_PnPZbNZFXI",
+              "https://gamerant.com/genshin-impact-phlogiston-nightsoul-point-blessing-burst-transmission-natlan-mechanics/",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "When activated through character abilities, Nightsoul's Blessing generates Nightsoul points that deplete with usage.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=_PnPZbNZFXI",
+              "https://gamerant.com/genshin-impact-phlogiston-nightsoul-point-blessing-burst-transmission-natlan-mechanics/",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "Nightsoul points can be replenished through specific actions and environmental interactions.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=_PnPZbNZFXI",
+              "https://gamerant.com/genshin-impact-phlogiston-nightsoul-point-blessing-burst-transmission-natlan-mechanics/",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "Related mechanics to Nightsoul's Blessing include Nightsoul Transmission, enabling rapid character swaps with Phlogiston expenditure, and Nightsoul Burst attacks that deliver heightened damage output.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=_PnPZbNZFXI",
+              "https://gamerant.com/genshin-impact-phlogiston-nightsoul-point-blessing-burst-transmission-natlan-mechanics/",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "Natlan operates as a confederation of six tribes, each with distinct cultural identities, architectural styles, and elemental associations.",
+            "ref_idx": null,
+            "url": [
+              "https://www.icy-veins.com/genshin-impact/natlan-overview",
+              "https://www.sportskeeda.com/esports/genshin-impact-5-1-leaks-describe-6-elemental-tribes-natlan",
+              "https://www.youtube.com/watch?v=gbKzBnd8Nos",
+              "https://www.youtube.com/watch?v=_6UTO4CVbmQ"
+            ]
+          },
+          {
+            "fact": "The three tribes initially introduced in version 5.0 of Natlan are the Children of Echoes (Geo element), the People of the Springs (Hydro element), and the Scions of the Canopy (Anemo element).",
+            "ref_idx": null,
+            "url": [
+              "https://www.icy-veins.com/genshin-impact/natlan-overview",
+              "https://www.sportskeeda.com/esports/genshin-impact-5-1-leaks-describe-6-elemental-tribes-natlan",
+              "https://www.youtube.com/watch?v=gbKzBnd8Nos",
+              "https://www.youtube.com/watch?v=_6UTO4CVbmQ"
+            ]
+          },
+          {
+            "fact": "The Children of Echoes (Geo element) inhabit the Tequemecan Valley and are known as miners and artisans.",
+            "ref_idx": null,
+            "url": [
+              "https://www.icy-veins.com/genshin-impact/natlan-overview",
+              "https://www.sportskeeda.com/esports/genshin-impact-5-1-leaks-describe-6-elemental-tribes-natlan",
+              "https://www.youtube.com/watch?v=gbKzBnd8Nos",
+              "https://www.youtube.com/watch?v=_6UTO4CVbmQ"
+            ]
+          },
+          {
+            "fact": "The People of the Springs (Hydro element) reside in areas with natural hot springs.",
+            "ref_idx": null,
+            "url": [
+              "https://www.icy-veins.com/genshin-impact/natlan-overview",
+              "https://www.sportskeeda.com/esports/genshin-impact-5-1-leaks-describe-6-elemental-tribes-natlan",
+              "https://www.youtube.com/watch?v=gbKzBnd8Nos",
+              "https://www.youtube.com/watch?v=_6UTO4CVbmQ"
+            ]
+          },
+          {
+            "fact": "The Scions of the Canopy (Anemo element) constructed suspended settlements among the cliffs and mountains.",
+            "ref_idx": null,
+            "url": [
+              "https://www.icy-veins.com/genshin-impact/natlan-overview",
+              "https://www.sportskeeda.com/esports/genshin-impact-5-1-leaks-describe-6-elemental-tribes-natlan",
+              "https://www.youtube.com/watch?v=gbKzBnd8Nos",
+              "https://www.youtube.com/watch?v=_6UTO4CVbmQ"
+            ]
+          },
+          {
+            "fact": "The remaining three tribes of Natlan—the Masters of the Night-Wind, the Flower-Feather Clan, and the Collective of Plenty—represent the Electro, Dendro, and remaining elemental associations respectively.",
+            "ref_idx": null,
+            "url": [
+              "https://www.icy-veins.com/genshin-impact/natlan-overview",
+              "https://www.sportskeeda.com/esports/genshin-impact-5-1-leaks-describe-6-elemental-tribes-natlan",
+              "https://www.youtube.com/watch?v=gbKzBnd8Nos",
+              "https://www.youtube.com/watch?v=_6UTO4CVbmQ"
+            ]
+          },
+          {
+            "fact": "The region of Natlan is divided into multiple explorable sub-regions.",
+            "ref_idx": null,
+            "url": "https://www.icy-veins.com/genshin-impact/natlan-overview"
+          },
+          {
+            "fact": "Explorable sub-regions in Natlan include the Basin of Unnumbered Flames, Coatepec Mountain, Tequemecan Valley, Toyac Springs, Quahuacan Cliff, the Tezcatepetonco Range, Ochkanatlan, Atocpan, and the Ancient Sacred Mountain.",
+            "ref_idx": null,
+            "url": "https://www.icy-veins.com/genshin-impact/natlan-overview"
+          },
+          {
+            "fact": "The Basin of Unnumbered Flames is the primary hub in Natlan, containing the Stadium of the Sacred Flame and main settlements.",
+            "ref_idx": null,
+            "url": "https://www.icy-veins.com/genshin-impact/natlan-overview"
+          },
+          {
+            "fact": "Coatepec Mountain is the homeland of the Scions of the Canopy.",
+            "ref_idx": null,
+            "url": "https://www.icy-veins.com/genshin-impact/natlan-overview"
+          },
+          {
+            "fact": "Tequemecan Valley is home of the Children of Echoes.",
+            "ref_idx": null,
+            "url": "https://www.icy-veins.com/genshin-impact/natlan-overview"
+          },
+          {
+            "fact": "Toyac Springs is inhabited by the People of the Springs.",
+            "ref_idx": null,
+            "url": "https://www.icy-veins.com/genshin-impact/natlan-overview"
+          },
+          {
+            "fact": "Ochkanatlan is an area contaminated by Abyssal forces.",
+            "ref_idx": null,
+            "url": "https://www.icy-veins.com/genshin-impact/natlan-overview"
+          },
+          {
+            "fact": "Atocpan contains the Great Volcano of Tollan.",
+            "ref_idx": null,
+            "url": "https://www.icy-veins.com/genshin-impact/natlan-overview"
+          },
+          {
+            "fact": "The Ancient Sacred Mountain is located within the volcano itself.",
+            "ref_idx": null,
+            "url": "https://www.icy-veins.com/genshin-impact/natlan-overview"
+          },
+          {
+            "fact": "Distinct from standard ley lines found throughout Teyvat, Natlan maintains a unique metaphysical infrastructure called the Night Kingdom.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "The Night Kingdom functions simultaneously as an afterlife and collective memory archive.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "The Night Kingdom governs cycles of death and resurrection for Natlanese inhabitants.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "When individuals from Natlan die, their souls enter the Night Kingdom and gradually dissolve into a vast \"sea of souls,\" eventually losing individual identity over time.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "The Night Kingdom was created by a Seelie named the Lord of the Night.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "The Lord of the Night reconstructed fragmented ley lines during an ancient Abyssal invasion that nearly destroyed Natlan's conventional defenses.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "The first Pyro Archon, Xbalanque, strengthened the arrangement of the Night Kingdom by establishing a pact with Ronova, the Shade of Death, a divine entity governing mortality and resurrection.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "This covenant established the Ode of Resurrection, a ritual enabling the revival of fallen warriors and leaders provided their comrades achieve victory against Abyssal forces.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "Warriors of Natlan draw upon Nightsoul power to enhance combat capabilities.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "The region's inhabitants can accumulate memories and deeds within the Night Kingdom's record system, known as Wayobs.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "The Night Kingdom remains isolated from Teyvat's standard ley line network.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "Memories recorded in the Night Kingdom are largely incompatible with information from other nations.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "Foreign souls are generally rejected by the Night Kingdom, though rare exceptions exist.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)"
+            ]
+          },
+          {
+            "fact": "Central to Natlan's defense against the Abyss—a primordial malevolent force—is the Sacred Flame.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "The Sacred Flame is an eternal fire fueled by the Contending Fire gathered during the annual Pilgrimage of the Sacred Flame.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "Representatives from each of the six tribes, designated as Ancient Name bearers, compete in the Pilgrimage of the Sacred Flame tournament.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "The Ancient Name bearers compete to crown Natlan's strongest warrior while accumulating the Contending Fire necessary to sustain the Sacred Flame's protective power.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ",
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "The Pilgrimage serves a dual purpose beyond martial competition.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "The Pilgrimage prepares Natlan to resist Abyssal invasions.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "The Pilgrimage generates the mystical energy required to maintain the Sacred Flame's defensive barrier over the region's surface.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "The tournament format includes team-based and individual competition stages.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "Warriors compete across diverse terrain to gather Contending Fire through combat and environmental challenges.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "Should an Ancient Name bearer fall in battle, the Ode of Resurrection permits their revival if their tribe achieves victory against the Abyss during Night Kingdom incursions.",
+            "ref_idx": null,
+            "url": [
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ"
+            ]
+          },
+          {
+            "fact": "If an Ancient Name bearer dies outside combat circumstances, they eventually reincarnate in Natlan in new form rather than remaining permanently deceased.",
+            "ref_idx": null,
+            "url": [
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ"
+            ]
+          },
+          {
+            "fact": "The loss of an Ancient Name—the ceremonial title and warrior designation—through death represents the permanent disappearance of that specific historical identity, though the individual may return in a new incarnation.",
+            "ref_idx": null,
+            "url": [
+              "https://en.wikipedia.org/wiki/Natlan_(Genshin_Impact)",
+              "https://www.youtube.com/watch?v=eOP3F9lBeHQ"
+            ]
+          },
+          {
+            "fact": "Natlan's exploration mechanics have received generally positive critical reception.",
+            "ref_idx": null,
+            "url": "https://www.youtube.com/watch?v=5Dv535EveRw"
+          },
+          {
+            "fact": "Critics praised the varied traversal systems provided by Saurian abilities and Natlan character skills.",
+            "ref_idx": null,
+            "url": "https://www.youtube.com/watch?v=5Dv535EveRw"
+          },
+          {
+            "fact": "Critics noted Natlan's emphasis on vertical movement and environmental puzzle-solving as engaging advancements over previous regions.",
+            "ref_idx": null,
+            "url": "https://www.youtube.com/watch?v=5Dv535EveRw"
+          },
+          {
+            "fact": "The world design of specific sub-regions in Natlan, particularly the Ancient Sacred Mountain within the volcano, received acclaim for spectacular environmental design and accessible navigation.",
+            "ref_idx": null,
+            "url": "https://www.youtube.com/watch?v=5Dv535EveRw"
+          },
+          {
+            "fact": "Critics also commended the abundance of world quests and ambient narrative content distributed throughout the exploration areas.",
+            "ref_idx": null,
+            "url": "https://www.youtube.com/watch?v=5Dv535EveRw"
+          },
+          {
+            "fact": "The region of Natlan generated significant community and critical discussion regarding character representation.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/",
+              "https://www.enduins.com/news/genshin-impact-faces-criticism-over-natlan-characters-skin-color"
+            ]
+          },
+          {
+            "fact": "Following the initial character reveals, Western gaming communities expressed concerns about the skin tones of Natlan characters.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/",
+              "https://www.enduins.com/news/genshin-impact-faces-criticism-over-natlan-characters-skin-color"
+            ]
+          },
+          {
+            "fact": "Western gaming communities argued that Natlan characters were insufficiently dark relative to real-world populations from the cultures inspiring the region.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/",
+              "https://www.enduins.com/news/genshin-impact-faces-criticism-over-natlan-characters-skin-color"
+            ]
+          },
+          {
+            "fact": "A petition addressing what critics characterized as \"cultural appropriation and whitewashing\" in Natlan's character designs accumulated over 70,000 signatures within weeks of the region's announcement.",
+            "ref_idx": null,
+            "url": [
+              "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/",
+              "https://www.enduins.com/news/genshin-impact-faces-criticism-over-natlan-characters-skin-color"
+            ]
+          },
+          {
+            "fact": "Critics pointed out that of the nine initially revealed Natlan characters, only one possessed notably darker skin tones.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/"
+          },
+          {
+            "fact": "The character Ororon, inspired by Ọlọrun, a Yoruba deity typically depicted as a Black man, was designed with pale skin and anime-style features.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/"
+          },
+          {
+            "fact": "Commentators characterized the design of Ororon as cultural misrepresentation.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/"
+          },
+          {
+            "fact": "English voice actor Khoi Dao commented on the disparity, noting that when characters inspired by non-European cultures are designed with predominantly European aesthetic features, \"people are within their rights to demand better representation.\"",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/"
+          },
+          {
+            "fact": "Community discussion noted that this pattern extended beyond Natlan to previous regions, particularly Sumeru.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/"
+          },
+          {
+            "fact": "Sumeru drew inspiration from Sub-Saharan African, Middle Eastern, and South Asian cultures but similarly featured limited character diversity in skin tone representation.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/"
+          },
+          {
+            "fact": "The broader concern raised centered on HoYoverse's approach to character design across global cultures.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/"
+          },
+          {
+            "fact": "Critics argued that HoYoverse systematically underrepresents characters with darker skin tones relative to the cultural inspirations of game regions.",
+            "ref_idx": null,
+            "url": "https://screenrant.com/genshin-impact-petition-representation-natlan-characters-whitewashing/"
+          },
+          {
+            "fact": "Player communities in Asian regions, particularly in Japan and China, displayed less focus on the representation controversy.",
+            "ref_idx": null,
+            "url": "https://www.enduins.com/news/genshin-impact-faces-criticism-over-natlan-characters-skin-color"
+          },
+          {
+            "fact": "Player communities in Asian regions instead emphasized engagement with new gameplay content and character abilities.",
+            "ref_idx": null,
+            "url": "https://www.enduins.com/news/genshin-impact-faces-criticism-over-natlan-characters-skin-color"
+          },
+          {
+            "fact": "As of December 2024, Natlan features over ten playable characters across multiple game updates.",
+            "ref_idx": null,
+            "url": [
+              "https://www.sportskeeda.com/esports/genshin-impact-natlan-update-schedule-leaks",
+              "https://www.youtube.com/watch?v=2UkSXUHwZHk",
+              "https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-august-28/",
+              "https://beebom.com/genshin-impact-natlan-characters/",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "Initial releases in version 5.0 included Mualani (Hydro Catalyst), Kachina (Geo Polearm), and Kinich (Dendro Claymore).",
+            "ref_idx": null,
+            "url": [
+              "https://www.sportskeeda.com/esports/genshin-impact-natlan-update-schedule-leaks",
+              "https://www.youtube.com/watch?v=2UkSXUHwZHk",
+              "https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-august-28/",
+              "https://beebom.com/genshin-impact-natlan-characters/",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "Kachina was offered to players as a free reward for completing Act I of Natlan's Archon Quest.",
+            "ref_idx": null,
+            "url": [
+              "https://www.sportskeeda.com/esports/genshin-impact-natlan-update-schedule-leaks",
+              "https://www.youtube.com/watch?v=2UkSXUHwZHk",
+              "https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-august-28/",
+              "https://beebom.com/genshin-impact-natlan-characters/",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "Subsequent updates introduced additional playable characters including Xilonen, Chasca, Citlali, Iansan, and others, with releases distributed across versions 5.1 through 5.5.",
+            "ref_idx": null,
+            "url": [
+              "https://www.sportskeeda.com/esports/genshin-impact-natlan-update-schedule-leaks",
+              "https://www.youtube.com/watch?v=2UkSXUHwZHk",
+              "https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-august-28/",
+              "https://beebom.com/genshin-impact-natlan-characters/",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "Mavuika, the Pyro Archon, was introduced as a playable character in version 5.3.",
+            "ref_idx": null,
+            "url": [
+              "https://www.sportskeeda.com/esports/genshin-impact-natlan-update-schedule-leaks",
+              "https://www.youtube.com/watch?v=2UkSXUHwZHk",
+              "https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-august-28/",
+              "https://beebom.com/genshin-impact-natlan-characters/",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "All new playable characters from Natlan share Nightsoul-based combat mechanics and traversal abilities tailored to individual tribal affiliations and combat roles.",
+            "ref_idx": null,
+            "url": "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+          },
+          {
+            "fact": "The main storyline for Natlan, titled \"Pilgrimage of the Sacred Flame's Return,\" launched with version 5.0 and continued across subsequent updates through at least version 5.7.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=6p5LM53VYkg",
+              "https://www.sportskeeda.com/esports/genshin-impact-natlan-update-schedule-leaks",
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "Chapter 5 of the overall Genshin Impact narrative centers on Natlan's conflict with Abyssal forces.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=6p5LM53VYkg",
+              "https://www.sportskeeda.com/esports/genshin-impact-natlan-update-schedule-leaks",
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "Chapter 5 features the player character (the Traveler), accompanied by local warriors Kachina, Kinich, and Mualani, engaging in the Pilgrimage tournament and subsequent defensive campaigns.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=6p5LM53VYkg",
+              "https://www.sportskeeda.com/esports/genshin-impact-natlan-update-schedule-leaks",
+              "https://www.youtube.com/watch?v=RUzWWH4nCoc",
+              "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinich-mualani-kachina-more"
+            ]
+          },
+          {
+            "fact": "The storyline explores the supernatural mechanics of the Night Kingdom, the history of Natlan's Pyro Archons, and the region's millennia-long struggle against Abyssal invasion.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=YtV9QMNKVW0",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "Key narrative elements include the revelation of Ronova, the Shade of Death, and her bargains with successive Pyro Archons.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=YtV9QMNKVW0",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "Key narrative elements include the role of the Fatui Harbinger Il Capitano in Natlan's defense.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=YtV9QMNKVW0",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          },
+          {
+            "fact": "Key narrative elements include the resolution of conflicts within the Night Kingdom itself.",
+            "ref_idx": null,
+            "url": [
+              "https://www.youtube.com/watch?v=YtV9QMNKVW0",
+              "https://www.youtube.com/watch?v=82Q_oSbZ0U4"
+            ]
+          }
+        ],
+        "citation_contents": {
+          "1": {
+            "url": "https://fanexpohq.com/the-fhq/deep-dive-genshin-impact-natlan-region/[11]",
+            "title": "",
+            "content": "",
+            "error": "Failed to fetch"
+          },
+          "32": {
+            "url": "https://www.reddit.com/r/Genshin_Impact/comments/1g9eija/can_someone_explain_natlans_lore_so_far_for_me_im/[33]",
+            "title": "",
+            "content": "",
+            "error": "Failed to fetch"
+          },
+          "24": {
+            "url": "https://www.rpgsite.net/news/16162-genshin-impact-50-launches-on-august-28-introducing-nation-natlan-adding-new-characters-kinic[3]",
+            "title": "R2Vuc2hpbiBJbXBhY3QgNS4wIGxhdW5jaGVzIG9uIEF1Z3VzdCAyOCwgaW50cm9kdWNpbmcgYSB0aGUgbmF0aW9uIG9mIE5hdGxhbiwgYWRkaW5nIG5ldyBjaGFyYWN0ZXJzIEtpbmljaCwgTXVhbGFuaSwgJiBLYWNoaW5hLCBhbmQgbW9yZQ==",
+            "description": "",
+            "content": "HoYoverse has announced that **[Genshin Impact](https://www.rpgsite.net/games/1376-genshin-impact)** version 5.0 will launch on August 28 for PlayStation 5, PlayStation 4, PC, and mobile devices.\n\nDubbed “Flowers Resplendent on the Sun-Scorched Sojourn”, the highlights of this update are:\n\nThe Genshin Impact 5.0 trailer, all the details, and screenshots can be found below via HoYoverse.\n\nGlobal interactive entertainment brand HoYoverse presents Genshin Impact Version 5.0 \"Flowers Resplendent on the Sun-Scorched Sojourn,\" available on August 28. Players will be able to reach the sixth major nation of Teyvat and ally with the warriors of the region, including Kachina, Kinich, and Mualani, as well as the Saurians of Natlan. Set off to discover diverse tribes, landscapes, mysteries, and legends.\n\nThe road to Natlan will open with an unlocked Teleport Waypoint that is accessible to players, even beginners and intermediates, who have completed the Prologue of the Archon Quest in Mondstadt. Known as the Nation of Pyro, Natlan is located west of the Sumeru desert. The people of this nation are divided into six main tribes. The dragons of Natlan, more commonly called Saurians, are the result of a long evolution and have evolved to coexist with humans, and they have even become their faithful companions. With Version 5.0, players will be able to explore three of the six tribes, as well as encounter three types of Saurians who live together with the locals.\n\nMastering the abilities of the different Saurians can prove decisive in exploring the towering cliffs and flowing springs, and players can transform into a Saurian by indwelling them. The Tepetlisaurus are Saurians good at tunneling undergrounds and climbing cliffs, and they are the companions of choice for the Children of Echoes who call the canyons their home. The Yumkasaurus can pull themselves in the chosen direction and reach great heights with ease. They have taken up residence among the Scions of the Canopy, a tribe living suspended from the walls of steep cliffs. As for the Koholasaurus, they can move quickly on water and liquid Phlogiston, which explains why they are commonly seen with the People of the Springs near the sea.\n\nNatlan, also known as the Nation of War, honors her warriors at the Stadium of the Sacred Flame, where the Champion of each tribe is chosen through a tournament. This is where the main story unfolds, as the player, accompanied by local warriors Kachina, Kinich, and Mualani, travel to the Stadium. To begin Natlan's Archon Quest, players need to reach Adventure Rank 28 and above, and have completed all of Liyue's Archon Quests.\n\nNatlan warriors are masters of skills and agility that reflect the lifestyle and traditions of their own tribe. Kachina, the four-star Geo polearm wielder from the Children of Echoes, is able to summon Turbo Twirly and ride on it to scale walls and cliffs, and also pound the ground to deal AOE DMG. She can be recruited for free by completing Act I of Natlan's Archon Quest. Kinich, renowned for his hunting skills in the Scions of the Canopy, is a five-star Dendro warrior equipped with a claymore who wields the grappling hook to perfection, so as to swing and easily reach heights, or to link to enemies and perform powerful Loop Shots. His special companion, Ajaw, can also join the fray, unleashing his dragon breath against foes. Mualani, the watersports shop owner from People of the Springs, is a Hydro five-star catalyst wielder who can mount her reliable Sharky Surfboard and move at full speed on the water surface, liquid Phlogiston, and even on dry land. In combat, when Mualani is moving on her Sharky Surfboard and hits an enemy, she applies a mark and administers Sharky's Bite, which inflicts more damage after several hits.\n\nAlthough Kachina, Mualani, and Kinich are all capable of locating regional specialties, they have different talents of restoring Stamina, accumulating Phlogiston, or increasing movement speed respectively, which can benefit all party members by interacting with certain harvestable items. However, to take full advantage of the powers and abilities of warriors and Saurians living in the Nation of Pyro, players will need to consume or utilize Phlogiston in different forms wisely. Through a mysterious ritual known as Phlogiston Engravings, the warriors of Natlan can further distinguish themselves in battle thanks to the Nightsoul's Blessing.\n\nIn Version 5.0's Event Wishes, Mualani and Kachina will debut in the first phase along with Kaedehara Kazuha's rerun, and Kinich's debut will come with the Raiden Shogun in the second half. In the meantime, the stories of Natlan's three new characters will be available through the Tribal Chronicles, a new three-act quest for each tribe that replace the previous Story Quests, to provide a comprehensive experience for players to gain a deeper understanding of the stories, people, and traditions. Players can visit each tribe's \"Obsidian Totem Pole\" to start the Tribal Chronicles, as well as their Bounties and Supply Notices to earn Reputation EXP and valuable rewards.\n\nAs the fourth anniversary of Genshin Impact approaches, rewards and bonuses will be offered to celebrate this event with fans and players during Version 5.0. The special daily login event returns with up to Intertwined Fate ×10 for players to claim, and players can check their in-game mail to receive Primogems ×1,600, two exclusive gadgets \"Firstborn Firesprite\" and \"Kaboom Box,\" as well as more bonuses. Furthermore, players can also invite a 5-star character from the Standard Wish lineup to their team for free. More updates on the Character Event Wish, Weapon Event Wish, and a new tool to redeem Artifacts with designated affixes will also arrive in the latest version.\n\nGenshin Impact Version 5.0 will arrive on August 28 with the new nation Natlan.",
+            "publish_time": "2024-08-16T08:46:00Z",
+            "fetched_by": "goliath"
+          },
+          "12": {
+            "url": "https://www.screenhype.co.uk/genshin-impact-natlan-region-guide/[34]",
+            "title": "Page not found - Screen Hype",
+            "description": "",
+            "content": "Page not found - Screen Hype\n===============\n\n[Skip to content](https://www.screenhype.co.uk/genshin-impact-natlan-region-guide/[34]#main)\n\n[![Image 1: Screen Hype](https://b3944733.smushcdn.com/3944733/wp-content/uploads/2022/02/cropped-Orange-Logo-Youtube-Banner.jpg?lossy=2&strip=1&webp=1)](https://www.screenhype.co.uk/)\n\n*   [About Us](https://www.screenhype.co.uk/about-us/)\n*   [TV](https://www.screenhype.co.uk/category/tv/)\n*   [Movies](https://www.screenhype.co.uk/category/movies/)\n*   [Gaming](https://www.screenhype.co.uk/category/gaming/)\n*   [Board Games](https://www.screenhype.co.uk/category/board-games/)\n*   [TTRPGs](https://www.screenhype.co.uk/category/board-games/ttrpgs/)\n*   [Reviews](https://www.screenhype.co.uk/category/reviews/)\n*   [Opinions](https://www.screenhype.co.uk/category/opinions/)\n*   [Guides](https://www.screenhype.co.uk/category/guides/)\n*   [Toggle website search](https://www.screenhype.co.uk/#)\n\n[Menu Close](https://www.screenhype.co.uk/#mobile-menu-toggle)\n\n*   [About Us](https://www.screenhype.co.uk/about-us/)\n*   [TV](https://www.screenhype.co.uk/category/tv/)\n*   [Movies](https://www.screenhype.co.uk/category/movies/)\n*   [Gaming](https://www.screenhype.co.uk/category/gaming/)\n*   [Board Games](https://www.screenhype.co.uk/category/board-games/)\n*   [TTRPGs](https://www.screenhype.co.uk/category/board-games/ttrpgs/)\n*   [Reviews](https://www.screenhype.co.uk/category/reviews/)\n*   [Opinions](https://www.screenhype.co.uk/category/opinions/)\n*   [Guides](https://www.screenhype.co.uk/category/guides/)\n*   [Toggle website search](https://www.screenhype.co.uk/#)\n\n404: Page Not Found\n===================\n\n1.   [Home](https://www.screenhype.co.uk/)>\n2.   404 Not Found\n\nThis page could not be found!\n-----------------------------\n\nWe are sorry. But the page you are looking for is not available.\n\nPerhaps you can try a new search.\n\n[Back To Homepage](https://www.screenhype.co.uk/)\n\n#### Screen Hype Newsletter\n\n**Signup for Screen Hype's monthly newsletter!** Get the latest in the world of TV, movies, and gaming... Exclusive updates, our personal recommendations, game giveaways, and more! _Don't miss out!_\n\nSubscribe Loading...\n\n#### Awesome!\n\nYou have successfully joined our subscriber list. Keep an eye out for our monthly email blast!\n\nYou should also have received a welcome email. If not,please check your spam folder and remember to mark us as 'not spam' so you can enjoy all our future content:)\n\n Copyright - WordPress Theme by OceanWP \n\n[](https://www.screenhype.co.uk/genshin-impact-natlan-region-guide/[34]#)\n\nDO NOT SELL OR SHARE MY PERSONAL INFORMATION",
+            "publish_time": "unknown",
+            "fetched_by": "jina"
+          },
+          "26": {
+            "url": "https://www.youtube.com/watch?v=2UkSXUHwZHk[27]",
+            "title": "LSBZb3VUdWJl",
+            "description": "",
+            "content": "- YouTube\n===============\n\n \n\n  \n\n[](https://www.youtube.com/ \"YouTube\")[](https://www.youtube.com/ \"YouTube\")\n\n[关于](https://www.youtube.com/about/)[新闻](https://www.youtube.com/about/press/)[版权](https://www.youtube.com/about/copyright/)[联系我们](https://www.youtube.com/t/contact_us/)[创作者](https://www.youtube.com/creators/)[广告](https://www.youtube.com/ads/)[开发者](https://developers.google.com/youtube)[条款](https://www.youtube.com/t/terms)[隐私权](https://www.youtube.com/t/privacy)[政策与安全](https://www.youtube.com/about/policies/)[YouTube 的运作方式](https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen)[测试新功能](https://www.youtube.com/new)\n\n© 2025 Google LLC",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "4": {
+            "url": "https://www.youtube.com/watch?v=_PnPZbNZFXI[20]",
+            "title": "LSBZb3VUdWJl",
+            "description": "",
+            "content": "- YouTube\n===============\n\n \n\n  \n\n[](https://www.youtube.com/ \"YouTube\")[](https://www.youtube.com/ \"YouTube\")\n\n[关于](https://www.youtube.com/about/)[新闻](https://www.youtube.com/about/press/)[版权](https://www.youtube.com/about/copyright/)[联系我们](https://www.youtube.com/t/contact_us/)[创作者](https://www.youtube.com/creators/)[广告](https://www.youtube.com/ads/)[开发者](https://developers.google.com/youtube)[条款](https://www.youtube.com/t/terms)[隐私权](https://www.youtube.com/t/privacy)[政策与安全](https://www.youtube.com/about/policies/)[YouTube 的运作方式](https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen)[测试新功能](https://www.youtube.com/new)\n\n© 2025 Google LLC",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "19": {
+            "url": "https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-aug[28]",
+            "title": "Untitled",
+            "description": "Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more.",
+            "content": "Page not found – PlayStation.Blog\n===============\n\n[Skip to content](https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-aug[28]#primary)\n\n[![Image 5: playstation.com](https://blog.playstation.com/content/themes/playstation-2018/images/sonylogo-2x.jpg)](https://www.playstation.com/)\n\n![Image 6: Saros game poster with pre-order date April 30, 2026, is presented](https://blog.playstation.com/tachyon/2025/12/9a27c178d4c98fae06a52eedba574bb8b2a97aa0.jpg)![Image 7](https://blog.playstation.com/tachyon/2025/12/5fb9854b884443578d68cfafd9cbf290a677251b.jpg)![Image 8: Saros game poster with pre-order date April 30, 2026, is presented](https://blog.playstation.com/tachyon/2025/12/9a27c178d4c98fae06a52eedba574bb8b2a97aa0.jpg)\n\n[playstation.com](https://www.playstation.com/)[PlayStation.Blog](https://blog.playstation.com/)\n\nMenu\n\n*   [PS5](https://blog.playstation.com/category/ps5/)\n*   [PS VR2](https://blog.playstation.com/category/playstation-vr2/)\n*   [PS4](https://blog.playstation.com/category/ps4/)\n*   [PS Store](https://blog.playstation.com/category/ps-store/)\n*   [PS Plus](https://blog.playstation.com/category/ps-plus/)\n\nSelect a region Current region:English\n\n*   [French](https://blog.fr.playstation.com/)\n*   [German](https://blog.de.playstation.com/)\n*   [Italian](https://blog.it.playstation.com/)\n*   [Japanese](https://blog.ja.playstation.com/)\n*   [Korean](https://blog.ko.playstation.com/)\n*   [Portuguese (Br)](https://blog.br.playstation.com/)\n*   [Russian](https://blog.ru.playstation.com/)\n*   [Spanish (LatAm)](https://blog.latam.playstation.com/)\n*   [Spanish (EU)](https://blog.es.playstation.com/)\n*   [Traditional Chinese](https://blog.zh-hant.playstation.com/)\n\n[Login](https://ca.account.sony.com/api/authz/v3/oauth/authorize?client_id=0399155d-250c-47ab-b77a-228dcafea40d&response_type=code&scope=openid+id_token%3Apsn.basic_claims+user%3AbasicProfile.get+kamaji%3Auser.subscriptions.get&redirect_uri=https%3A%2F%2Fblog.playstation.com%2Fwp-admin%2Fadmin-ajax.php%3Faction%3Dhandle_login%26return_to%3Dhttps%253A%252F%252Fblog.playstation.com%252F2024%252F08%252F16%252Fgenshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-aug%255B28%255D%2523login&service_entity=urn:service-entity:psn)Search\n\nSearch PlayStation Blog \n\nSearch PlayStation Blog \n\n*   [Categories](https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-aug[28]#)\n    *   [PlayStation 5](https://blog.playstation.com/category/ps5/)\n    *   [PlayStation VR2](https://blog.playstation.com/category/playstation-vr2/)\n    *   [PlayStation 4](https://blog.playstation.com/category/ps4/)\n    *   [PlayStation Store](https://blog.playstation.com/category/ps-store/)\n    *   [PlayStation Plus](https://blog.playstation.com/category/ps-plus/)\n\n[Login to Comment](https://ca.account.sony.com/api/authz/v3/oauth/authorize?client_id=0399155d-250c-47ab-b77a-228dcafea40d&response_type=code&scope=openid+id_token%3Apsn.basic_claims+user%3AbasicProfile.get+kamaji%3Auser.subscriptions.get&redirect_uri=https%3A%2F%2Fblog.playstation.com%2Fwp-admin%2Fadmin-ajax.php%3Faction%3Dhandle_login%26return_to%3Dhttps%253A%252F%252Fblog.playstation.com%252F2024%252F08%252F16%252Fgenshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-aug%255B28%255D%252F%2523login&service_entity=urn:service-entity:psn)\n\nSelect a region Current region:English\n\n*   [French](https://blog.fr.playstation.com/)\n*   [German](https://blog.de.playstation.com/)\n*   [Italian](https://blog.it.playstation.com/)\n*   [Japanese](https://blog.ja.playstation.com/)\n*   [Korean](https://blog.ko.playstation.com/)\n*   [Portuguese (Br)](https://blog.br.playstation.com/)\n*   [Russian](https://blog.ru.playstation.com/)\n*   [Spanish (LatAm)](https://blog.latam.playstation.com/)\n*   [Spanish (EU)](https://blog.es.playstation.com/)\n*   [Traditional Chinese](https://blog.zh-hant.playstation.com/)\n\nNo posts found\n==============\n\nWe're sorry, this seems to be a broken link.\n\nTrending Stories\n----------------\n\n[![Image 9: Saros: How Housemarque devs are bringing the sci-fi characters to life](https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg)](https://blog.playstation.com/2025/12/17/saros-how-housemarque-devs-are-bringing-the-sci-fi-characters-to-life/)\n\n### [Saros: How Housemarque devs are bringing the sci-fi characters to life](https://blog.playstation.com/2025/12/17/saros-how-housemarque-devs-are-bringing-the-sci-fi-characters-to-life/)\n\n![Image 10: A 51x44 small image, likely a logo, icon or avatar](https://blog.playstation.com/tachyon/2020/05/mhaveri.png?fit=51%2C44)\n[Mikael Haveri](https://blog.playstation.com/author/mhaveri/) Housemarque\n\nDate published: December 17, 2025  2  72\n\n[![Image 11: Saros: How Housemarque devs are bringing the sci-fi characters to life](https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg)](https://blog.playstation.com/2025/12/17/the-secrets-behind-ghost-of-yoteis-the-spider-lily-general-myth/)\n\n### [The secrets behind Ghost of Yōtei’s The Spider Lily General myth](https://blog.playstation.com/2025/12/17/the-secrets-behind-ghost-of-yoteis-the-spider-lily-general-myth/)\n\n![Image 12: Cartoon man wearing a black fedora and a bow tie is smiling](https://blog.playstation.com/tachyon/2020/05/unnamed-file-709.jpg?fit=180%2C180)\n[Corey Brotherson](https://blog.playstation.com/author/cbrotherson/) PlayStation Blog Contributor\n\nDate published: December 17, 2025  71\n\n[![Image 13: Saros: How Housemarque devs are bringing the sci-fi characters to life](https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg)](https://blog.playstation.com/2025/12/15/marathon-vidoc-highlights-the-extraction-shooters-dark-world-and-survival-challenge/)\n\n### [Marathon ViDoc highlights the extraction shooters’ dark world and survival challenge](https://blog.playstation.com/2025/12/15/marathon-vidoc-highlights-the-extraction-shooters-dark-world-and-survival-challenge/)\n\n![Image 14: A black, circular shape with a vertical line extending from the bottom is set against a vibrant yellow-green background](https://blog.playstation.com/tachyon/2025/12/2ce86183ba96fb3a21f105bff36a612bf60964ae.jpg?fit=400%2C400)\n[Andy Salisbury](https://blog.playstation.com/author/ansalisbury/) Global Community Lead, Marathon\n\nDate published: December 15, 2025  9  106\n\n[![Image 15: Saros: How Housemarque devs are bringing the sci-fi characters to life](https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg)](https://blog.playstation.com/2025/12/18/helldivers-2-festival-of-reckoning-launches-dec-18/)\n\n### [Helldivers 2: Festival of Reckoning launches Dec 18](https://blog.playstation.com/2025/12/18/helldivers-2-festival-of-reckoning-launches-dec-18/)\n\n![Image 16: An icon shows a figure's head with an arrow through it](https://blog.playstation.com/tachyon/2023/05/12877360a41d741be0eb65b5d295514c4b4c3f70.jpg?fit=256%2C256)\n[Katherine Baskin](https://blog.playstation.com/author/kbaskin/) Social Media and Community Manager, Arrowhead Game Studios\n\nDate published: December 18, 2025  15\n\nSelect a region Current region:English\n\n*   [French](https://blog.fr.playstation.com/)\n*   [German](https://blog.de.playstation.com/)\n*   [Italian](https://blog.it.playstation.com/)\n*   [Japanese](https://blog.ja.playstation.com/)\n*   [Korean](https://blog.ko.playstation.com/)\n*   [Portuguese (Br)](https://blog.br.playstation.com/)\n*   [Russian](https://blog.ru.playstation.com/)\n*   [Spanish (LatAm)](https://blog.latam.playstation.com/)\n*   [Spanish (EU)](https://blog.es.playstation.com/)\n*   [Traditional Chinese](https://blog.zh-hant.playstation.com/)\n\n[Back to top](https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-aug[28]#masthead)\n\n[Sony Interactive Entertainment](https://playstation.com/)[![Image 17: Play smart, Check the PEGI rating!](https://blog.playstation.com/content/themes/playstation-2018/images/pegi.svg)](https://pegi.info/)[![Image 18: ESRB Privacy Certified](https://blog.playstation.com/content/themes/playstation-2018/images/esrb.svg)](https://www.esrb.org/confirm/siea-confirmation.aspx)[![Image 19: ESRB Privacy Certified](https://blog.playstation.com/content/themes/playstation-2018/images/esrb.svg)](https://www.esrb.org/confirm/siea-confirmation.aspx)\n\nWebsite © 2025 Sony Interactive Entertainment. All content, game titles, trade names and/or trade dress, trademarks, artwork and associated imagery are [trademarks and/or copyright material of their respective owners](https://www.playstation.com/legal/copyright-and-trademark-notice/). All rights reserved.\n\n*   [Comment Policy](https://blog.playstation.com/comment_policy/)\n*   [Support](https://support.playstation.com/)\n*   [About SIE](https://www.playstation.com/corporate/about/)\n*   [Terms of Use](https://www.playstation.com/legal/terms-of-use/)\n*   [Privacy Policy](https://www.playstation.com/network/legal/privacy-policy/)\n*   [Cookies Policy](https://www.playstation.com/legal/cookies/)\n*   [Press Releases](https://www.playstation.com/corporate/press-releases/)\n*   [Careers](https://www.playstation.com/corporate/about/careers/)\n*   [Legal](https://www.playstation.com/legal/)\n*   [Contact Us](https://www.playstation.com/corporate/contactus/)\n*   [Developers](https://www.playstation.com/develop/)\n*   [Modern Slavery Transparency Act Statement](https://www.playstation.com/legal/modern-slavery-transparency-act/)\n*   [Do Not Share My Personal Information](https://www.playstation.com/en-us/legal/third-party-ads/)\n\n![Image 20](https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-aug[28])\n*   [Sign Out](https://ca.account.sony.com/api/authn/v3/signOut?client_id=0399155d-250c-47ab-b77a-228dcafea40d&redirect_uri=https%3A%2F%2Fblog.playstation.com%2Fwp-login.php%3Faction%3Dlogout%26redirect_to%3Dhttps%253A%252F%252Fblog.playstation.com%252F2024%252F08%252F16%252Fgenshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-aug%255B28%255D%2523login%26_wpnonce%3D45fb59668c)\n\n[Reply](https://blog.playstation.com/2024/08/16/genshin-impact-welcomes-the-sixth-major-nation-of-teyvat-with-version-5-0-going-live-aug[28])\n\nPlease enter your date of birth.\n--------------------------------\n\nSorry, you may not access this content.\n---------------------------------------\n\nDate of birth fields Year Month Day Enter\n\nClose\n\nNotifications\n\n![Image 21: Company Logo](https://cdn.cookielaw.org/logos/ae4501a4-318f-4210-bddc-9a8bc984c5a6/0196f8ef-bceb-7af9-a09f-52d8e162d4fd/85ae3282-09ac-4258-8d04-98b2db2cf357/ps-logo.jpg)\n\nPrivacy Preference Center\n-------------------------\n\nPrivacy Preference Center\n-------------------------\n\n*   ### Your Privacy \n*   ### Performance Cookies \n*   ### Targeting Cookies \n*   ### Functional Cookies \n*   ### Strictly Necessary Cookies \n*   ### YouTube \n\n#### Your Privacy\n\nWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. \n\n[More information](https://www.playstation.com/legal/cookies/)\n\n#### Performance Cookies\n\n- [x] Performance Cookies \n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.\n\nCookies Details‎\n\n#### Targeting Cookies\n\n- [x] Targeting Cookies \n\nWe and certain third party analytics, advertising, social media, and similar companies may collect information from you when you visit our site through cookies in order to build a profile of your interests and show you relevant advertisements on other sites\n\nCookies Details‎\n\n#### Functional Cookies\n\n- [x] Functional Cookies \n\nThese cookies enable the website to provide enhanced functionality and personalization (for example to remember the choices you make when using our website). They may be set by us or by third party providers whose services we have added to our pages.\n\nCookies Details‎\n\n#### Strictly Necessary Cookies\n\nAlways Active\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems.\n\nCookies Details‎\n\n#### YouTube\n\n- [x] YouTube \n\nYouTube is a Google owned platform for hosting and sharing videos. YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites. If user opts-out from this cookie, then YouTube video cannot be displayed (If opted-in again, video can be displayed as expected)\n\nCookies Details‎\n\n### Cookie List\n\nConsent Leg.Interest\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\n- [x] checkbox label label\n\nClear\n\n- [x] checkbox label label\n\nApply Cancel\n\nConfirm My Choices\n\nReject All Allow All\n\n[![Image 22: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)",
+            "publish_time": "unknown",
+            "fetched_by": "jina"
+          },
+          "21": {
+            "url": "https://www.rgj.com/story/life/2024/08/19/genshin-impact-natlan-5-0-update-what-to-know-to-get-ready-technobubble/74854648007/[35]",
+            "title": "Page Not Found (404) | Reno Gazette Journal",
+            "description": "",
+            "content": "Page Not Found (404) | Reno Gazette Journal\n===============\n\n[](https://www.rgj.com/)\n\n[](https://subscribe.rgj.com/rr/nanobar?gps-source=CPTILELEFT&itm_campaign=2025ENTCFTEST5&itm_medium=ONSITE&success-url=https%3A%2F%2Fwww.rgj.com%2Ferrors%2F404%2F)\n\n[](https://subscribe.rgj.com/rr/masthead?gps-source=CPMASTHEAD&itm_campaign=2025ENTCFTEST5&itm_medium=ONSITE&success-url=https%3A%2F%2Fwww.rgj.com%2Ferrors%2F404%2F)\n\n[News](https://www.rgj.com/news/)[Sports](https://www.rgj.com/sports/)[Business](https://www.rgj.com/business/)[Life](https://www.rgj.com/life/)[Real Estate](https://www.rgj.com/real-estate)[Advertise](https://advertising.usatoday.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=reno_gazette_journal&utm_source=local_publication&utm_medium=menu&utm_campaign=advertise_with_us)[Obituaries](https://www.rgj.com/obituaries)[eNewspaper](https://user.rgj.com/user/enewspaper)[Legals](https://www.rgj.com/public-notices)\n\n[](https://www.rgj.com/search/ \"Search\")\n\n[](https://www.rgj.com/weather/ \"Weather in Reno: 61°F Mostly Cloudy\")[](https://subscribe.rgj.com/rr/navsub?gps-source=CPTOPNAVBAR&itm_campaign=2025ENTCFTEST5&itm_medium=ONSITE&success-url=https%3A%2F%2Fwww.rgj.com%2Ferrors%2F404%2F)\n\n[](https://login.rgj.com/PREN-GUP/authenticate/?success-url=https%3A%2F%2Fwww.rgj.com%2Ferrors%2F404%2F&cancel-url=https%3A%2F%2Fwww.rgj.com%2Ferrors%2F404%2F)\n\n404\n\nPAGE NOT FOUND\n\nSorry, the link you're trying to access is either broken or no longer exists.\n\nPlease use the search bar or take a look at some of our trending stories below.\n\nMost Recent\n\n[![Image 1: Fireworks light up the night sky over a city skyline with illuminated buildings](https://www.rgj.com/gcdn/-mm-/14fb877bc4213fcf147a12fea17664e1908c6df9/c=0-0-554-554/local/-/media/Reno/2014/12/28/B9315660481Z.1_20141228174840_000_GSH9HA8HS.1-0.jpg?width=120&height=120&fit=crop&format=pjpg&auto=webp) See fireworks events in Reno-Tahoe for New Year's Eve 2025](https://www.rgj.com/story/life/2025/12/23/new-years-eve-2025-fireworks-events-in-reno-tahoe-see-list/87832834007/)[![Image 2: SACRAMENTO CA 957 and 5 NOV 2025 PM 5 L are printed on a white surface](https://www.rgj.com/gcdn/authoring/authoring-images/2025/12/22/PREN/87888656007-sacramento-postmark.jpg?crop=973,969,x294,y3&width=120&height=120&format=pjpg&auto=webp) Is USPS breaking vow not to use Sacramento for Northern Nevada mail?](https://www.rgj.com/story/news/2025/12/23/is-usps-breaking-vow-not-to-use-sacramento-for-northern-nevada-mail/87889768007/)[![Image 3: Pothole filled with water on an asphalt road](https://www.rgj.com/gcdn/authoring/authoring-images/2025/12/23/PREN/87890652007-getty-images-157568518.jpg?crop=482,483,x0,y120&width=120&height=120&format=pjpg&auto=webp) Reno student flags road safety issues over potholes | Opinion Giselle Ramirez](https://www.rgj.com/story/opinion/2025/12/23/reno-student-flags-road-safety-issues-over-potholes-opinion/87889430007/)[![Image 4: A young man plays basketball and gets ready to shoot](https://www.rgj.com/gcdn/authoring/authoring-images/2025/12/23/PREN/87889746007-983-a-8120.jpg?crop=1799,1800,x0,y134&width=120&height=120&format=pjpg&auto=webp) Northern Nevada boys high school basketball rankings, Dec. 23](https://www.rgj.com/story/sports/high-school/2025/12/23/northern-nevada-boys-high-school-basketball-rankings-dec-23/87887907007/)[![Image 5: A basketball player leaps for a shot while being guarded](https://www.rgj.com/gcdn/authoring/authoring-images/2025/02/16/PREN/78803572007-ren-reno-ss-regional-2025-03.JPG?crop=1489,1488,x27,y0&width=120&height=120&format=pjpg&auto=webp) Northern Nevada girls high school basketball rankings, Dec. 23](https://www.rgj.com/story/sports/high-school/2025/12/23/northern-nevada-girls-high-school-basketball-rankings-dec-23/87888682007/)[![Image 6: A couple receives the keys to their new house from a real estate agent](https://polarcdn-terrax.com/image/v1.0.0/bin/6937418c2058f9d8df506f74?v=37aa3&h=120&w=120&autocrop=1)Make the most of a buyer’s market with these tips](https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstBeoPIzbxPpf_nCa29z1cCghuT3zDYTJynZd4JC5y09oNOFfrdYmylNJcVUQFoHJCads2NIf8yI0Q4YMqWt9xWPwhn2g831z9O9Va9CUHfITxhJ1mQHllxywbrZ4uyJ3hhRk91MgQ4j7zX2NRl923MszjqB0OA6_oheB0yNV48LXb3jmrE3K1hVLRV-hIFA5_SEg8Ua3vC-QaHXSdXeJRO4wKHhL9sIPof4FQifq7Tzhf9qVqzaJAo69Wev0IaBguyimWlmjDeokZkexEAg4H2-JBMMi3mAfgeC0wV2ThIqDDfTA8XywC4QbmCY02-pTOeq4Urq2wvB5emIdw5tg4enhdyx4ygNNYnpOvHpNJq7aWzAFGbVTDQ-cyaXjjWEh8zotVv8RzqZJgQM_M3r__i4EU&sai=AMfl-YRsAjl8nwm9vPZO9ufxatzDfvEtoK6c_vcgtsNMIH8NpG38a4ARCRXy-YeiGhBE7nG-VWMuDWQmPqjp64TFVaMWUbza0CbCjIrRzObub4RXp_Dp6YgtnUQAL-EwevVBMEXC0YFo1T2qv-kT7sgUrdx9u4QQfO1yN01WV6IEHL7TcgQddp5k1dAMPlkOqQO0RrtnXan6p3dzfXirc1neXyxtdoFHbEaVAo_DpLv-kdQ&sig=Cg0ArKJSzIqR_s2zzj2dEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https%3A%2F%2Fwww.usatoday.com%2Finteractives%2Fsponsor-story%2Faddressusa%2Fwinning-tactics-for-every-market%2F%3Fmvt%3Di%26mvn%3D50ba4705a692436caee39cdc31acf0c7%26mvp%3DNA-GANNLOCASITEMANA-11238693%26mvl%3DKey-tangent-tile%2520%255BTangent%2520Desktop%2520Tile%255D%26utm_campaign%3Ddce67c812c6b422997d9ef0b3ffd5134%26utm_source%3Dpolar%26utm_medium%3Dcpc)[![Image 7: A young woman is wearing a colorful hat and clapping in a crowd](https://www.rgj.com/gcdn/-mm-/2eee45e886ef97b838573a40ba2fe03c88f9e9cd/c=702-0-3498-2796/local/-/media/2018/01/01/Reno/RGJ/636503779869725679-REN-NYE-2018-05.jpg?width=120&height=120&fit=crop&format=pjpg&auto=webp) Reno casino restaurant menus and hours for New Year’s](https://www.rgj.com/story/life/food/2025/12/23/here-are-reno-hotel-casino-restaurant-menus-hours-for-new-years/87834893007/)[![Image 8: A pothole filled with water is located on the road, with a car approaching in the background and trees on both sides of the road](https://www.rgj.com/gcdn/authoring/authoring-images/2025/12/23/PREN/87890407007-getty-images-2177842830.jpg?crop=512,511,x170,y0&width=120&height=120&format=pjpg&auto=webp) Washoe County student urges repairs for Reno-Sparks potholes | Opinion Andrea Lopez](https://www.rgj.com/story/opinion/2025/12/22/washoe-county-student-urges-repairs-for-reno-sparks-potholes-opinion/87889441007/)\n\n[About Us](https://www.rgj.com/story/news/reno-gazette-journal-about-us/86427958007/)[Staff Directory](https://www.rgj.com/contact/staff/)[Careers](https://www.gannett.com/careers/)[Accessibility Support](https://cm.rgj.com/accessibility)[Sitemap](https://www.rgj.com/sitemap/)[Legals](https://www.rgj.com/public-notices)[Our Ethical Principles](https://cm.rgj.com/ethical-conduct)[USA TODAY Network Style Guide](https://content-static.usatoday.com/styleguide/USA_TODAY_NETWORK_Style_Guide_Final_v1.pdf)[Responsible Disclosure](https://www.gannett.com/responsible-disclosure-program/)[Subscription Terms & Conditions](https://cm.rgj.com/about-your-subscription/)[Advertiser Acceptance Policy](https://cm.rgj.com/advertising-acceptance-policy/)[Terms of Service](https://cm.rgj.com/terms)[Privacy Policy](https://cm.rgj.com/privacy)[California Notice at Collection](https://cm.rgj.com/california-collection-notice/)[Your Privacy Choices](https://cm.rgj.com/your-privacy-choices/)\n\n[Contact Us](https://help.rgj.com/contact-us)[Support Local Businesses](https://supportlocal.usatoday.com/)[Advertise Your Business](https://advertising.usatoday.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=reno_gazette_journal&utm_source=local_publication&utm_medium=menu&utm_campaign=advertise_with_us)[Buy and Sell](https://www.rgj.com/placead/)[Help Center](https://help.rgj.com/)[Subscriber Guide](https://cm.rgj.com/subscriberguide)[Manage Account](https://account.rgj.com/)[Give Feedback](https://cm.rgj.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.rgj.com%2Ferrors%2F404%2F&marketName=rgj&cta=Footer)\n\n[Subscribe Today](https://subscribe.rgj.com/?gps-source=CPSUBFOOTER&itm_medium=onsite&itm_campaign=subfooter&itm_source=subfooter&itm_content=subfooter)[Newsletters](https://profile.rgj.com/newsletters/manage)[Mobile Apps](https://www.rgj.com/subscriberguide/apps/)[Facebook](https://www.facebook.com/RGJmedia)[X](https://twitter.com/rgj)[eNewspaper](https://user.rgj.com/user/enewspaper)[Archives](https://rgj.newspapers.com/)\n\n[Jobs](https://www.rgj.com/marketplace/jobs/)[Real Estate](https://www.rgj.com/real-estate)[Classifieds](https://classifieds.rgj.com/)[Education](https://gannettmediaeducation.gannett.com/newspapers/home?newspaper=Reno+Gazette-Journal)[Shopping](https://www.usatoday.com/shopping/)[10BEST](https://10best.usatoday.com/)[LocaliQ Digital Marketing Solutions](https://localiq.com/?utm_source=local_publication&utm_medium=footer&utm_campaign=our_partners_link&utm_content=reno_gazette_journal&cid=Web_LiQ_Network_PublicationFooter_AdvertiseWithUs_Inquiry)\n\n© 2025 www.rgj.com. All rights reserved.",
+            "publish_time": "unknown",
+            "fetched_by": "jina"
+          },
+          "22": {
+            "url": "https://www.gameslearningsociety.org/wiki/what-will-natlan-be-based-on/[13]",
+            "title": "",
+            "content": "",
+            "error": "Failed to fetch"
+          },
+          "5": {
+            "url": "https://www.eurogamer.net/genshin-impact-saurians-what-are-they-how-to-use-all-abilities[18]",
+            "title": "404 Page not found",
+            "description": "We couldn’t find the page you were looking for.",
+            "content": "We couldn’t find the page you were looking for.\n\nMaybe it's been removed, or maybe it never existed in the first place (a bit like Half-Life 3).\n\nIf you followed a link to this page from our site, [let us know](https://www.eurogamer.net/contact-us?enquiry_type=editorial&subject=404+error) so we can fix it.\n\n[← Back to Eurogamer.net](https://www.eurogamer.net/)",
+            "publish_time": "unknown",
+            "fetched_by": "jina"
+          },
+          "14": {
+            "url": "https://www.reddit.com/r/Genshin_Impact/comments/1dvz4ef/so_is_natlan_inspired_by_ancient_latin_americans/[15]",
+            "title": "",
+            "content": "",
+            "error": "Failed to fetch"
+          },
+          "9": {
+            "url": "https://www.youtube.com/watch?v=10p5LM53VYkg[25]",
+            "title": "LSBZb3VUdWJl",
+            "description": "",
+            "content": "- YouTube\n===============\n\n \n\n  \n\n[](https://www.youtube.com/ \"YouTube\")[](https://www.youtube.com/ \"YouTube\")\n\n[关于](https://www.youtube.com/about/)[新闻](https://www.youtube.com/about/press/)[版权](https://www.youtube.com/about/copyright/)[联系我们](https://www.youtube.com/t/contact_us/)[创作者](https://www.youtube.com/creators/)[广告](https://www.youtube.com/ads/)[开发者](https://developers.google.com/youtube)[条款](https://www.youtube.com/t/terms)[隐私权](https://www.youtube.com/t/privacy)[政策与安全](https://www.youtube.com/about/policies/)[YouTube 的运作方式](https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen)[测试新功能](https://www.youtube.com/new)\n\n© 2025 Google LLC",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "7": {
+            "url": "https://www.youtube.com/watch?v=n9FsU-m4bLo[16]",
+            "title": "LSBZb3VUdWJl",
+            "description": "",
+            "content": "- YouTube\n===============\n\n \n\n  \n\n[](https://www.youtube.com/ \"YouTube\")[](https://www.youtube.com/ \"YouTube\")\n\n[关于](https://www.youtube.com/about/)[新闻](https://www.youtube.com/about/press/)[版权](https://www.youtube.com/about/copyright/)[联系我们](https://www.youtube.com/t/contact_us/)[创作者](https://www.youtube.com/creators/)[广告](https://www.youtube.com/ads/)[开发者](https://developers.google.com/youtube)[条款](https://www.youtube.com/t/terms)[隐私权](https://www.youtube.com/t/privacy)[政策与安全](https://www.youtube.com/about/policies/)[YouTube 的运作方式](https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen)[测试新功能](https://www.youtube.com/new)\n\n© 2025 Google LLC",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "8": {
+            "url": "https://www.youtube.com/watch?v=6p5LM53VYkg[6]",
+            "title": "LSBZb3VUdWJl",
+            "description": "",
+            "content": "- YouTube\n===============\n\n \n\n  \n\n[](https://www.youtube.com/ \"YouTube\")[](https://www.youtube.com/ \"YouTube\")\n\n[关于](https://www.youtube.com/about/)[新闻](https://www.youtube.com/about/press/)[版权](https://www.youtube.com/about/copyright/)[联系我们](https://www.youtube.com/t/contact_us/)[创作者](https://www.youtube.com/creators/)[广告](https://www.youtube.com/ads/)[开发者](https://developers.google.com/youtube)[条款](https://www.youtube.com/t/terms)[隐私权](https://www.youtube.com/t/privacy)[政策与安全](https://www.youtube.com/about/policies/)[YouTube 的运作方式](https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen)[测试新功能](https://www.youtube.com/new)\n\n© 2025 Google LLC",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "30": {
+            "url": "https://www.youtube.com/watch?v=44V9QMNKVW0[10]",
+            "title": "LSBZb3VUdWJl",
+            "description": "",
+            "content": "- YouTube\n===============\n\n \n\n  \n\n[](https://www.youtube.com/ \"YouTube\")[](https://www.youtube.com/ \"YouTube\")\n\n[关于](https://www.youtube.com/about/)[新闻](https://www.youtube.com/about/press/)[版权](https://www.youtube.com/about/copyright/)[联系我们](https://www.youtube.com/t/contact_us/)[创作者](https://www.youtube.com/creators/)[广告](https://www.youtube.com/ads/)[开发者](https://developers.google.com/youtube)[条款](https://www.youtube.com/t/terms)[隐私权](https://www.youtube.com/t/privacy)[政策与安全](https://www.youtube.com/about/policies/)[YouTube 的运作方式](https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen)[测试新功能](https://www.youtube.com/new)\n\n© 2025 Google LLC",
+            "publish_time": "",
+            "fetched_by": "goliath"
+          },
+          "17": {
+            "url": "https://www.oneesports.gg/genshin-impact/all-natlan-characters-names/[29]",
+            "title": "R2Vuc2hpbiBJbXBhY3QgfCBPTkUgRXNwb3J0cw==",
+            "description": "",
+            "content": "Genshin Impact | ONE Esports | ONE Esports\n===============\n          \n\n \n\n*   [](https://www.facebook.com/ONEEsports/ \"Facebook\")\n*   [](https://twitter.com/oneesports \"Twitter\")\n*   [](https://www.instagram.com/oneesports/ \"Instagram\")\n*   [](https://www.youtube.com/oneesports \"Youtube\")\n*   [](https://www.twitch.tv/oneesports \"Twitch\")\n\n[About](https://www.oneesports.gg/about-us) [Press](https://www.oneesports.gg/press) [T&C](https://www.oneesports.gg/terms-of-use) [Contact Us](https://www.oneesports.gg/contact-us) [Partners](https://www.oneesports.gg/partner-with-us/)\n\n [![Image 1: logo](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/oneesports-logo-white.svg) ![Image 2: logo](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/oneesports-logo-black.svg)](https://www.oneesports.gg/)\n\n[Esports](https://www.oneesports.gg/tag/esports/)\n\n*   [Call of Duty](https://www.oneesports.gg/call-of-duty/)\n*   [League of Legends](https://www.oneesports.gg/league-of-legends/)\n*   [Valorant](https://www.oneesports.gg/valorant/)\n*   [Anime](https://www.oneesports.gg/anime/)\n*   [Genshin Impact](https://www.oneesports.gg/genshin-impact/)\n*   [Mobile Legends](https://www.oneesports.gg/mobile-legends/)\n*   [More](https://www.oneesports.gg/genshin-impact/all-natlan-characters-names/[29]#)\n    *   [Community](https://www.oneesports.gg/community/)\n    *   [Honkai Star Rail](https://www.oneesports.gg/honkai-star-rail/)\n    *   [Zenless Zone Zero](https://www.oneesports.gg/zenless-zone-zero/)\n    *   [Gaming](https://www.oneesports.gg/gaming/)\n    *   [Culture](https://www.oneesports.gg/culture/)\n    *   [Cosplay](https://www.oneesports.gg/cosplay/)\n    *   [Dota 2](https://www.oneesports.gg/dota2/)\n    *   [Counter-Strike 2](https://www.oneesports.gg/counter-strike-2/)\n    *   [PUBG](https://www.oneesports.gg/pubg/)\n    *   [Tekken](https://www.oneesports.gg/tekken/)\n    *   [Street Fighter](https://www.oneesports.gg/street-fighter/)\n    *   [Events](https://www.oneesports.gg/events/)\n    *   [About us](https://www.oneesports.gg/about-us/)\n    *   [Jobs](https://www.linkedin.com/company/oneesports/jobs/)\n    *   [Partner with us](https://www.oneesports.gg/partner-with-us/)\n    *   [Press](https://www.oneesports.gg/press/)\n    *   [PRIVACY](https://www.oneesports.gg/privacy/)\n    *   [Contact Us](https://www.oneesports.gg/contact-us/)\n\n[Pro Gear](https://www.oneesports.gg/pro-gear)\n\n*   [en](javascript:;)\n    *   [English](https://www.oneesports.gg/)\n    *   [Bahasa Indonesia](https://www.oneesports.id/)\n    *   [Filipino](https://www.oneesports.ph/)\n    *   [Tiếng Việt](https://www.oneesports.vn/)\n    *   [ไทย](https://www.oneesports.co.th/)\n\n[](javascript:;)\n\nLogin\n\n[](javascript:;)\n\n[](javascript:;)\n\n[](javascript:;)\n\n [![Image 3: logo](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/oneesports-logo-white.svg) ![Image 4: logo](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/oneesports-logo-black.svg)](https://www.oneesports.gg/)\n\n[](javascript:;)\n\n*   [Call of Duty](https://www.oneesports.gg/call-of-duty/)\n*   [League of Legends](https://www.oneesports.gg/league-of-legends/)\n*   [Valorant](https://www.oneesports.gg/valorant/)\n*   [Anime](https://www.oneesports.gg/anime/)\n*   [Genshin Impact](https://www.oneesports.gg/genshin-impact/)\n*   [Mobile Legends](https://www.oneesports.gg/mobile-legends/)\n*   [More](https://www.oneesports.gg/genshin-impact/all-natlan-characters-names/[29]#)\n    *   [Community](https://www.oneesports.gg/community/)\n    *   [Honkai Star Rail](https://www.oneesports.gg/honkai-star-rail/)\n    *   [Zenless Zone Zero](https://www.oneesports.gg/zenless-zone-zero/)\n    *   [Gaming](https://www.oneesports.gg/gaming/)\n    *   [Culture](https://www.oneesports.gg/culture/)\n    *   [Cosplay](https://www.oneesports.gg/cosplay/)\n    *   [Dota 2](https://www.oneesports.gg/dota2/)\n    *   [Counter-Strike 2](https://www.oneesports.gg/counter-strike-2/)\n    *   [PUBG](https://www.oneesports.gg/pubg/)\n    *   [Tekken](https://www.oneesports.gg/tekken/)\n    *   [Street Fighter](https://www.oneesports.gg/street-fighter/)\n    *   [Events](https://www.oneesports.gg/events/)\n    *   [About us](https://www.oneesports.gg/about-us/)\n    *   [Jobs](https://www.linkedin.com/company/oneesports/jobs/)\n    *   [Partner with us](https://www.oneesports.gg/partner-with-us/)\n    *   [Press](https://www.oneesports.gg/press/)\n    *   [PRIVACY](https://www.oneesports.gg/privacy/)\n    *   [Contact Us](https://www.oneesports.gg/contact-us/)\n\n*   [](https://www.facebook.com/ONEEsports/ \"Facebook\")\n*   [](https://twitter.com/oneesports \"Twitter\")\n*   [](https://www.instagram.com/oneesports/ \"Instagram\")\n*   [](https://www.youtube.com/oneesports \"Youtube\")\n*   [](https://www.twitch.tv/oneesports \"Twitch\")\n\n[](https://www.oneesports.gg/pro-gear)\n\n[About](https://www.oneesports.gg/about-us) [Press](https://www.oneesports.gg/press) [T&C](https://www.oneesports.gg/terms-of-use) [Contact Us](https://www.oneesports.gg/contact-us) [Partners](https://www.oneesports.gg/partner-with-us/)\n\n![Image 5: trending](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/trending-arrow.svg)\n\n*   [Honor of Kings Plus](https://www.oneesports.gg/honor-of-kings/honor-of-kings-plus-farm-lane/)\n*   [T1 Home Ground](https://www.oneesports.gg/league-of-legends/t1-home-ground-2025/)\n*   [Love and Deepspace exhibition](https://www.oneesports.gg/gaming/love-and-deepspace-x-sentosa-exhibition/)\n*   [Yunara](https://www.oneesports.gg/league-of-legends/yunara-traditional-marksman/)\n*   [Spirit Blossom skins](https://www.oneesports.gg/league-of-legends/spirit-blossom-skins-2025-s2/)\n\n![Image 6](https://cdn.oneesports.gg/cdn-data/2024/05/Genshin-Impact-1.png) Genshin Impact\n------------------------------------------------------------------------------------------\n\n![Image 7](https://cdn.oneesports.gg/cdn-data/2024/05/Genshin-Impact-1.png) Genshin Impact\n------------------------------------------------------------------------------------------\n\n*   [![Image 8](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/social-icons/signature_socials_dark-09.png)](https://www.facebook.com/ONEEsports/)\n*   [![Image 9](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/social-icons/signature_socials_dark-10.png)](https://www.youtube.com/oneesports)\n*   [![Image 10](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/social-icons/signature_socials_dark-11.png)](https://www.instagram.com/oneesports/)\n*   [![Image 11](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/social-icons/signature_socials_dark-12.png)](https://www.tiktok.com/@oneesports)\n\nGENSHIN IMPACT NEWS AND STORIES – ONE Esports brings you the latest Genshin Impact news, guides, patch notes, and features.\n\n### Follow us for more esports news\n\n*   [![Image 12](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/social-icons/signature_socials_dark-09.png)](https://www.facebook.com/ONEEsports/)\n*   [![Image 13](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/social-icons/signature_socials_dark-10.png)](https://www.youtube.com/oneesports)\n*   [![Image 14](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/social-icons/signature_socials_dark-11.png)](https://www.instagram.com/oneesports/)\n*   [![Image 15](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/social-icons/signature_socials_dark-12.png)](https://www.tiktok.com/@oneesports)\n\n[![Image 16: Genshin Impact x Secretlab Liyue collection official key visual](https://cdn.oneesports.gg/cdn-data/2025/06/GenshinImpact_Secretlab_Liyue_Xiao_Ningguang_KV-300x169.jpg)](https://www.oneesports.gg/genshin-impact/genshin-impact-x-secretlab-liyue/)\n\n#### Genshin Impact\n\n###### June 30, 2025\n\n##### [Genshin Impact x Secretlab debut collaboration puts the spotlight on Xiao and Ningguang](https://www.oneesports.gg/genshin-impact/genshin-impact-x-secretlab-liyue/)\n\n![Image 17](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/trending-icon.svg) TRENDING\n-----------------------------------------------------------------------------------------------------------\n\n[![Image 18: Official Dvalin splash art of Genshin Impact](https://cdn.oneesports.gg/cdn-data/2022/01/GenshinImpact_splash_art_Dvalin-300x169.webp)](https://www.oneesports.gg/genshin-impact/genshin-impact-characters-rarity/)[### Full list of Genshin Impact characters: Rarity, element, nation, and release](https://www.oneesports.gg/genshin-impact/genshin-impact-characters-rarity/)\n\n[![Image 19: Traveler twins with Archons Venti and Nahida](https://cdn.oneesports.gg/cdn-data/2022/12/GenshinImpact_TravelerTwins_Venti_Nahida_Wallpaper-300x169.webp)](https://www.oneesports.gg/genshin-impact/list-of-all-genshin-impact-guides/)[### Full list of Genshin Impact guides: How to get free Primogems, elemental reactions explained, and more](https://www.oneesports.gg/genshin-impact/list-of-all-genshin-impact-guides/)\n\n* * *\n\n*   All\n*   Guides\n\n[![Image 20: Candace from Genshin Impact](https://cdn.oneesports.gg/cdn-data/2022/10/GenshinImpact_Candace_Desert-300x169.jpg)](https://www.oneesports.gg/genshin-impact/candace-cheapest-4-star-support/)\n\nGenshin Impact\n\n[Candace is the cheapest 4-star support in Genshin Impact you should totally invest in](https://www.oneesports.gg/genshin-impact/candace-cheapest-4-star-support/)\n------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n### She’s ready to make a splash!\n\n#### [Joseph \"Jagwar\" Asuncion](https://www.oneesports.gg/author/joseph/) June 18, 2025\n\n[![Image 21: Shenhe from Genshin Impact](https://cdn.oneesports.gg/cdn-data/2022/01/GenshinImpact_Shenhe_Featured-300x169.webp)](https://www.oneesports.gg/genshin-impact/shenhe-materials-locations-routes/)\n\nGenshin Impact\n\n[Shenhe materials: Best Genshin Impact locations and routes](https://www.oneesports.gg/genshin-impact/shenhe-materials-locations-routes/)\n-----------------------------------------------------------------------------------------------------------------------------------------\n\n### The disciple needs Whopperflowers and Qingxin.\n\n#### [Joseph \"Jagwar\" Asuncion](https://www.oneesports.gg/author/joseph/) June 18, 2025\n\n[![Image 22: Candace from Genshin Impact](https://cdn.oneesports.gg/cdn-data/2022/09/GenshinImpact_Candace_featured-63315ec53a868-300x169.jpg)](https://www.oneesports.gg/genshin-impact/candace-materials-farm-guide/)\n\nGenshin Impact\n\n[Candace materials: Best Genshin Impact farming routes and locations](https://www.oneesports.gg/genshin-impact/candace-materials-farm-guide/)\n---------------------------------------------------------------------------------------------------------------------------------------------\n\n### Stock up on Redcrests and Red Cloth!\n\n#### [Joseph \"Jagwar\" Asuncion](https://www.oneesports.gg/author/joseph/) June 18, 2025\n\n[Load More](https://www.oneesports.gg/genshin-impact/page/2/)\n\n[Load More](https://www.oneesports.gg/genshin-impact/)\n\nONE Esports - The Home of Esports Heroes\n\n[About](https://www.oneesports.gg/about-us) [Press](https://www.oneesports.gg/press) [T&C](https://www.oneesports.gg/terms-of-use) [Contact Us](https://www.oneesports.gg/contact-us) [Partners](https://www.oneesports.gg/partner-with-us/)\n\n© ONE Esports\n\n \n\nYou have been loggedin\n\nClose\n\n[×](https://www.oneesports.gg/genshin-impact/all-natlan-characters-names/[29]#)\n\n![Image 23: oneEsportsIcon](https://cdn.oneesports.gg/cdn-data/wp-content/themes/oneesports/img/oneesports-logo-white.svg)Sign up for a free ONE Esports account and start engaging with other fans!\n\nYou'll also receive a monthly newsletter and other goodies!\n\nLogin/Signup",
+            "publish_time": "Mon, 22 Dec 2025 22:04:54 GMT",
+            "fetched_by": "goliath"
+          }
+        },
+        "source_file": "perplexity/md_data/Natlan.md"
+      }
+    }
+  }
+}

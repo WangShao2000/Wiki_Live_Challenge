@@ -1,0 +1,3 @@
+# Vault_112
+
+Vault 112 is a Vault-Tec Vault located in the Capital Wasteland in the game Fallout 3. It is situated underneath Smith Casey's garage and is designed to be unaffected by radiation and hostile mutated creatures. The vault contains an entrance similar to all other Vaults, which serves as the airlock/decontamination area and the only connection to the outside world. Vault 112 is known for its virtual reality simulator, Tranquility Lane, which has received positive attention for its dark and unsettling but sometimes humorous storyline.

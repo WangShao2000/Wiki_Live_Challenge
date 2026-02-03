@@ -1,0 +1,38 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "51501191": {
+        "pageid": 51501191,
+        "ns": 0,
+        "title": "Dorfromantik_(board_game)",
+        "extract": "Dorfromantik is a cooperative board game in which players work together to lay hexagonal tiles and complete tasks. The game, developed by four German and Swiss students in a game design master's program at HTW Berlin, was published by the German company Pegasus Spiele. Players aim to create a rural landscape and unlock more content by completing tasks. The game features simple yet elegant tile placing puzzles and peaceful gameplay.",
+        "extract_with_citations": "Dorfromantik is a cooperative board game in which players work together to lay hexagonal tiles and complete tasks. The game, developed by four German and Swiss students in a game design master's program at HTW Berlin, was published by the German company Pegasus Spiele. Players aim to create a rural landscape and unlock more content by completing tasks. The game features simple yet elegant tile placing puzzles and peaceful gameplay.",
+        "citation_urls": {},
+        "lead_content": "Dorfromantik is a cooperative board game in which players work together to lay hexagonal tiles and complete tasks. The game, developed by four German and Swiss students in a game design master's program at HTW Berlin, was published by the German company Pegasus Spiele. Players aim to create a rural landscape and unlock more content by completing tasks. The game features simple yet elegant tile placing puzzles and peaceful gameplay.",
+        "statements": [
+          {
+            "statement": "Dorfromantik is a cooperative board game in which players work together to lay hexagonal tiles and complete tasks."
+          },
+          {
+            "statement": "The game, developed by four German and Swiss students in a game design master's program at HTW Berlin, was published by the German company Pegasus Spiele."
+          },
+          {
+            "statement": "Players aim to create a rural landscape and unlock more content by completing tasks."
+          },
+          {
+            "statement": "The game features simple yet elegant tile placing puzzles and peaceful gameplay."
+          }
+        ]
+      }
+    }
+  },
+  "parse": {
+    "title": "Dorfromantik_(board_game)",
+    "sections": []
+  },
+  "fetched_at": 1766315455,
+  "source": "generated_markdown",
+  "source_file": "data/final_data/deep_researcher/md_data/Dorfromantik_(board_game).md",
+  "source_org": "deep_researcher"
+}
