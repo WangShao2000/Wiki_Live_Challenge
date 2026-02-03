@@ -4,8 +4,8 @@
 <a href="https://github.com/WangShao2000/Wiki_Live_Challenge/blob/main/LICENSE"><img src="https://img.shields.io/badge/Code_License-MIT-blue" alt="license"></a>
 <a href="http://agentresearchlab.org/benchmarks/wiki-live-challenge/index.html#home"><img src="https://img.shields.io/badge/Website-Wiki Live Challenge-green" alt="website"></a>
 <a href="https://huggingface.co/datasets/muset-ai/Wiki_Live_Challenge"><img alt="Dataset" src="https://img.shields.io/badge/🤗%20Dataset-orange?color=FF6F00"></a>
-<a href="https://huggingface.co/spaces/muset-ai/Wiki-Live-Challenge-Leaderboard"><img alt="Leaderboard" src="https://img.shields.io/badge/🏆%20Leaderboard-yellow?color=FFD700"></a>
-<!-- <a href="https://arxiv.org/abs/2506.11763" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a> -->
+<a href="http://agentresearchlab.org/benchmarks/wiki-live-challenge/index.html#leaderboard"><img alt="Leaderboard" src="https://img.shields.io/badge/🏆%20Leaderboard-yellow?color=FFD700"></a>
+<a href="https://arxiv.org/abs/2602.01590" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
@@ -473,10 +473,13 @@ Their contributions were essential to the comprehensive evaluation presented in 
 If you use Wiki Live Challenge in your research, please cite our paper:
 
 ```bibtex
-@article{wang2026wikilive,
-  author    = {Shaohan Wang and Benfeng Xu and Licheng Zhang and Mingxuan Du and Chiwei Zhu and Xiaorui Wang and Zhendong Mao and Yongdong Zhang},
-  title     = {Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles},
-  journal   = {arXiv preprint},
-  year      = {2026},
+@misc{wang2026wikilivechallengechallenging,
+      title={Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles}, 
+      author={Shaohan Wang and Benfeng Xu and Licheng Zhang and Mingxuan Du and Chiwei Zhu and Xiaorui Wang and Zhendong Mao and Yongdong Zhang},
+      year={2026},
+      eprint={2602.01590},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.01590}, 
 }
 ``` 
