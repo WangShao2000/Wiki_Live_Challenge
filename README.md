@@ -12,6 +12,8 @@
 </div>
 
 ## ✨ News
++ [03 Feb 2026] **Homepage Released**: Welcome to our homepage [Agent Research Lab](http://agentresearchlab.org/) for more information about our research!
++ [02 Feb 2026] **Paper Released**: [Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles](https://arxiv.org/abs/2602.01590)
 + [30 Jan 2026] **Initial Release**: Wiki Live Challenge v1.0 with the first live benchmark dataset `2025_Mar_Nov` (100 Wikipedia articles). Evaluation framework supports Wiki Writing and Wiki Fact (Verifiability + Citation) dimensions.
 
 ## 📖 Overview
